@@ -239,6 +239,44 @@ def printJsonData():
 
 
 itemList = getItemList()
-print(itemList)
+from collections import defaultdict
+
+def consolidate_ingredients(ingredients_list):
+    # Dictionary to store the consolidated ingredients
+    consolidated = defaultdict(list)
+
+    # Keywords to identify similar ingredients
+    keywords = ['cucumber', 'tomato', 'onion', 'chili', 'carrot', 'bell pepper', 'radish',
+                'coriander', 'mint', 'lemon', 'masala', 'salt', 'oil', 'potato', 'cauliflower',
+                'ginger', 'garlic', 'turmeric', 'chili powder', 'peas', 'spinach', 'flour',
+                'chicken', 'coconut', 'sugar', 'yeast', 'water', 'nuts', 'eggplant', 'ghee',
+                'butter', 'mustard', 'beef', 'vinegar', 'tamarind', 'jaggery', 'yogurt', 'okra',
+                'dal', 'asafoetida', 'cheese', 'fenugreek', 'cabbage', 'chana', 'cardamom',
+                'saffron', 'baking soda', 'cream', 'cumin', 'fish', 'paneer', 'lentils',
+                'mutton', 'lamb', 'tea', 'milk', 'poppy', 'papad', 'sev', 'lime', 'semolina',
+                'prawn', 'ragi', 'idli', 'sambar', 'methi', 'sabudana', 'sattu', 'sevai',
+                'sugarcane', 'rose', 'watermelon', 'pomegranate', 'capsicum', 'pepper',
+                'biryani', 'pav', 'pistachio', 'masoor', 'moong', 'rajma', 'puliyogare',
+                'dosa', 'poha', 'fennel', 'vathal', 'kolhapuri', 'kadai']
+
+    # Loop through each ingredient
+    for ingredient in ingredients_list:
+        # Check if the ingredient contains any of the keywords
+        for keyword in keywords:
+            if keyword in ingredient:
+                consolidated[keyword].append(ingredient)
+                break
+        else:
+            # If no keyword is found, add it to a 'miscellaneous' group
+            consolidated["miscellaneous"].append(ingredient)
+
+    return consolidated
+
+# Example usage
+consolidated_ingredients = consolidate_ingredients(itemList)
+for key, value in consolidated_ingredients.items():
+    print(f"{key}: {value}")
+    print('-' * 50)
+
 
 
