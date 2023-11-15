@@ -35,7 +35,7 @@
     ],
     "ingredients": [
         {
-            "item": "paneer (indian cottage cheese), cubed",
+            "item": "paneer",
             "quantity": "250 grams",
             "weight": {
                 "value": "250",
@@ -83,7 +83,7 @@
             }
         },
         {
-            "item": "kasuri methi (dried fenugreek leaves)",
+            "item": "kasuri methi",
             "quantity": "1 teaspoon",
             "weight": {
                 "value": "1",
@@ -205,7 +205,9 @@
         "shelfLife": "Can be refrigerated for up to 2 days.",
         "instructions": "Store in an airtight container in the refrigerator."
     },
-    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until hot."
+    ],
     "presentationTips": [
         "Serve in a decorative bowl with a dollop of cream on top.",
         "Pair with a cooling cucumber raita or salad."

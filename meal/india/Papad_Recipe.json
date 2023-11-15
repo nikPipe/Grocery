@@ -46,7 +46,7 @@
     ],
     "ingredients": [
         {
-            "item": "urad dal flour (split black gram flour)",
+            "item": "urad dal flour",
             "quantity": "1 cup",
             "weight": {
                 "value": "120",
@@ -144,7 +144,9 @@
         "shelfLife": "Can be stored for several weeks in an airtight container.",
         "instructions": "Store in a cool, dry place away from moisture."
     },
-    "reheatingInstructions": "Reheat on a hot griddle or in a microwave for a few seconds.",
+    "reheatingInstructions": [
+        "Reheat on a hot griddle or in a microwave for a few seconds."
+    ],
     "presentationTips": [
         "Serve in a basket or on a decorative plate.",
         "Accompany with dips like chutney or yogurt for added flavor."

@@ -40,7 +40,7 @@
     ],
     "ingredients": [
         {
-            "item": "fresh water",
+            "item": "water",
             "quantity": "1 cup",
             "weight": {
                 "value": "240",
@@ -56,7 +56,7 @@
             }
         },
         {
-            "item": "honey or sugar",
+            "item": "sugar",
             "quantity": "to taste",
             "weight": {
                 "value": "Variable",

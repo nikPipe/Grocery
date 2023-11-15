@@ -79,7 +79,7 @@
             }
         },
         {
-            "item": "warm water",
+            "item": "water",
             "quantity": "as needed",
             "weight": {
                 "value": "Variable",
@@ -87,7 +87,7 @@
             }
         },
         {
-            "item": "potatoes",
+            "item": "potato",
             "quantity": "1 cup",
             "weight": {
                 "value": "200",
@@ -185,7 +185,9 @@
         "shelfLife": "Best consumed fresh but can be stored in an airtight container for up to 24 hours.",
         "instructions": "Reheat on a skillet before serving if stored."
     },
-    "reheatingInstructions": "Reheat on a hot skillet or tawa until warm and soft.",
+    "reheatingInstructions": [
+        "Reheat on a hot skillet or tawa until warm and soft."
+    ],
     "presentationTips": [
         "Serve on a decorative platter with a side of fresh salad or raita.",
         "Garnish with additional butter or ghee for a rich flavor."

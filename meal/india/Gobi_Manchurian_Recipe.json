@@ -40,7 +40,7 @@
     ],
     "ingredients": [
         {
-            "item": "cauliflower, cut into florets",
+            "item": "cauliflower",
             "quantity": "1 medium head",
             "weight": {
                 "value": "500",
@@ -96,7 +96,7 @@
             }
         },
         {
-            "item": "spring onions, chopped",
+            "item": "spring onions",
             "quantity": "1/4 cup",
             "weight": {
                 "value": "25",
@@ -205,7 +205,9 @@
         "shelfLife": "Best consumed immediately. Can be refrigerated for up to 1 day.",
         "instructions": "Store in an airtight container in the refrigerator. Reheat in an oven or air fryer for best results."
     },
-    "reheatingInstructions": "Reheat in an oven or air fryer until crispy.",
+    "reheatingInstructions": [
+        "Reheat in an oven or air fryer until crispy."
+    ],
     "presentationTips": [
         "Serve on a platter garnished with sesame seeds or chopped cilantro.",
         "Accompany with additional sauce or a side of fried rice."

@@ -40,7 +40,7 @@
     ],
     "ingredients": [
         {
-            "item": "spinach (palak)",
+            "item": "spinach",
             "quantity": "500 grams",
             "weight": {
                 "value": "500",
@@ -48,7 +48,7 @@
             }
         },
         {
-            "item": "paneer (indian cottage cheese)",
+            "item": "paneer",
             "quantity": "200 grams",
             "weight": {
                 "value": "200",
@@ -88,7 +88,7 @@
             }
         },
         {
-            "item": "garam masala powder",
+            "item": "garam masala",
             "quantity": "1 teaspoon",
             "weight": {
                 "value": "5",
@@ -194,7 +194,9 @@
         "shelfLife": "Can be refrigerated for up to 2 days.",
         "instructions": "Store in an airtight container in the refrigerator."
     },
-    "reheatingInstructions": "Reheat gently on the stove or in a microwave.",
+    "reheatingInstructions": [
+        "Reheat gently on the stove or in a microwave."
+    ],
     "presentationTips": [
         "Garnish with a swirl of cream and fresh coriander leaves.",
         "Serve in a traditional clay pot for an authentic presentation."

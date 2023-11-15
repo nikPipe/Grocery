@@ -1,0 +1,150 @@
+{
+    "id": "Paratha_Recipe",
+    "name": "Paratha",
+    "origin": "India",
+    "history": "Paratha, a North Indian staple, is a flatbread that's part of everyday meals. It's known for its flaky texture and is often stuffed with various fillings.",
+    "description": "Paratha is a versatile Indian flatbread, made by baking whole wheat dough on a tawa and then shallow frying. It can be plain or stuffed with fillings like potato, paneer, or cauliflower.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "Used for preparing the dough."
+        },
+        {
+            "name": "tawa or flat pan",
+            "imageURL": "",
+            "description": "Used for cooking the paratha."
+        },
+        {
+            "name": "rolling pin",
+            "imageURL": "",
+            "description": "Used for rolling the dough."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "whole wheat flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed for dough",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "optional fillings",
+            "quantity": "as required",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, combine the whole wheat flour and salt. Gradually add water and knead to form a soft, pliable dough. Let it rest for at least 15 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Roll the Parathas",
+            "description": "Divide the dough into equal-sized balls. Roll each ball into a circle using a rolling pin. If making stuffed parathas, place the filling in the center, seal, and then roll."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Parathas",
+            "description": "Heat a tawa or flat pan. Place the rolled paratha on the tawa and cook until small bubbles appear. Flip and cook the other side, applying ghee or oil as needed, until both sides are golden brown."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the parathas hot with yogurt, pickle, or any curry of your choice."
+        }
+    ],
+    "nutrition": {
+        "calories": 250,
+        "carbohydrates": "35g",
+        "protein": "6g",
+        "fat": "10g",
+        "saturatedFat": "3g",
+        "cholesterol": "10mg",
+        "sodium": "200mg",
+        "potassium": "150mg",
+        "fiber": "5g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "The dough should be soft and smooth for the best texture.",
+        "Cook on a medium flame to ensure even cooking and prevent burning."
+    ],
+    "variations": [
+        "Try different fillings like spiced mashed potatoes (Aloo Paratha), grated mixed vegetables, or minced meat for non-vegetarians.",
+        "Add herbs and spices to the dough for additional flavors."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Parathas can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat on a tawa before serving."
+    },
+    "reheatingInstructions": "Reheat on a tawa or in a microwave until warm.",
+    "presentationTips": [
+        "Cut the parathas into triangles and serve on a plate garnished with butter or fresh coriander."
+    ],
+    "keywords": [
+        "paratha",
+        "Indian flatbread",
+        "stuffed bread"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

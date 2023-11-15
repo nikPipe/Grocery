@@ -167,8 +167,18 @@ class mealClass():
                     list_item.append(value)
         return list_item
 
+    def setJsonItemLowerCase(self):
+        for each in self.json['ingredients']:
+            for key, value in each.items():
+                if key == 'item':
+                    value = value.lower()
+                    each[key] = value
+        return self.json
+
+
 
     def prinCommand(self):
+
         print(f"this is id: {self.id}")
         print('-' * 50)
         print(f"THIS IS NAME: {self.name}")
@@ -207,8 +217,6 @@ class mealClass():
         print(f"{self.allergens}")
 
 
-
-
 def getItemList():
     list_item = []
     for each in list_dir:
@@ -220,63 +228,75 @@ def getItemList():
                 if eachItem not in list_item:
                     list_item.append(eachItem)
     return list_item
-
-
-
-
-
-
-
-
 def printJsonData():
     list_item = []
     for each in list_dir:
         if '.json' in each:
             data = read_json_file(path + '/' + each)
             mealClass_ = mealClass(data)
+            jsonFile = mealClass_.setJsonItemLowerCase()
+            with open(path + '/' + each, 'w') as file:
+                json.dump(jsonFile, file, indent=4)
+
             mealClass_.prinCommand()
+
             print('\n\n\n')
 
 
+def replace_ingredients(json_obj, grocery_map):
+    try:
+        # Iterate through ingredients in the JSON object
+        for ingredient in json_obj['ingredients']:
+            item = ingredient['item']
+            # Iterate through the grocery_map to find a matching key
+            for key, value in grocery_map.items():
+                if item in value:
+                    ingredient['item'] = key
+                    break  # Stop searching once a match is found
+
+        return json_obj
+    except Exception as e:
+        return None
+
+grocery_map = {
+    'all-purpose flour': ['all-purpose flour', 'whole wheat flour', 'gram flour'],
+    'dry yeast': ['dry yeast'],
+    'sugar': ['sugar'],
+    'salt': ['salt'],
+    'yogurt': ['yogurt'],
+    'water': ['water'],
+    'butter': ['butter', 'ghee'],
+    'coriander leaves': ['coriander leaves', 'cilantro'],
+    'milk': ['milk'],
+    'garlic': ['garlic'],
+    'baking powder': ['baking powder'],
+    'baking soda': ['baking soda'],
+    'oil': ['oil', 'sesame seeds'],
+    'sesame seeds': ['sesame seeds'],
+    'carom seeds': ['carom seeds'],
+    'turmeric powder': ['turmeric powder'],
+    'chili powder': ['chili powder'],
+    'onion': ['onion'],
+    'mint leaves': ['mint leaves'],
+    'green chili': ['green chili'],
+    'cumin seeds': ['cumin seeds'],
+    'potato': ['potato'],
+    'garam masala': ['garam masala']
+}
+
+
+
+
+
 itemList = getItemList()
-from collections import defaultdict
+printJsonData()
 
-def consolidate_ingredients(ingredients_list):
-    # Dictionary to store the consolidated ingredients
-    consolidated = defaultdict(list)
 
-    # Keywords to identify similar ingredients
-    keywords = ['cucumber', 'tomato', 'onion', 'chili', 'carrot', 'bell pepper', 'radish',
-                'coriander', 'mint', 'lemon', 'masala', 'salt', 'oil', 'potato', 'cauliflower',
-                'ginger', 'garlic', 'turmeric', 'chili powder', 'peas', 'spinach', 'flour',
-                'chicken', 'coconut', 'sugar', 'yeast', 'water', 'nuts', 'eggplant', 'ghee',
-                'butter', 'mustard', 'beef', 'vinegar', 'tamarind', 'jaggery', 'yogurt', 'okra',
-                'dal', 'asafoetida', 'cheese', 'fenugreek', 'cabbage', 'chana', 'cardamom',
-                'saffron', 'baking soda', 'cream', 'cumin', 'fish', 'paneer', 'lentils',
-                'mutton', 'lamb', 'tea', 'milk', 'poppy', 'papad', 'sev', 'lime', 'semolina',
-                'prawn', 'ragi', 'idli', 'sambar', 'methi', 'sabudana', 'sattu', 'sevai',
-                'sugarcane', 'rose', 'watermelon', 'pomegranate', 'capsicum', 'pepper',
-                'biryani', 'pav', 'pistachio', 'masoor', 'moong', 'rajma', 'puliyogare',
-                'dosa', 'poha', 'fennel', 'vathal', 'kolhapuri', 'kadai']
 
-    # Loop through each ingredient
-    for ingredient in ingredients_list:
-        # Check if the ingredient contains any of the keywords
-        for keyword in keywords:
-            if keyword in ingredient:
-                consolidated[keyword].append(ingredient)
-                break
-        else:
-            # If no keyword is found, add it to a 'miscellaneous' group
-            consolidated["miscellaneous"].append(ingredient)
 
-    return consolidated
-
-# Example usage
-consolidated_ingredients = consolidate_ingredients(itemList)
-for key, value in consolidated_ingredients.items():
-    print(f"{key}: {value}")
-    print('-' * 50)
-
+#print(itemList)
+for each in itemList:
+    #print(each)
+    pass
 
 

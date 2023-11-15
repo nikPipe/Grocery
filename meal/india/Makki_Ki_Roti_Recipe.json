@@ -49,7 +49,7 @@
             }
         },
         {
-            "item": "warm water",
+            "item": "water",
             "quantity": "as needed",
             "weight": {
                 "value": "Variable",
@@ -65,7 +65,7 @@
             }
         },
         {
-            "item": "ghee or butter",
+            "item": "ghee",
             "quantity": "for cooking",
             "weight": {
                 "value": "Variable",

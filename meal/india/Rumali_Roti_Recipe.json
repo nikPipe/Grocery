@@ -77,7 +77,7 @@
             }
         },
         {
-            "item": "milk or water",
+            "item": "milk",
             "quantity": "as needed",
             "weight": {
                 "value": "Variable",

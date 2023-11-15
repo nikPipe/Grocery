@@ -35,7 +35,7 @@
     ],
     "ingredients": [
         {
-            "item": "paneer (indian cottage cheese), cubed",
+            "item": "paneer",
             "quantity": "250 grams",
             "weight": {
                 "value": "250",
@@ -139,7 +139,7 @@
             }
         },
         {
-            "item": "fresh coriander leaves, chopped",
+            "item": "coriander leaves",
             "quantity": "for garnish",
             "weight": {
                 "value": "10",
@@ -197,7 +197,9 @@
         "shelfLife": "Can be refrigerated for up to 2 days.",
         "instructions": "Store in an airtight container in the refrigerator."
     },
-    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until hot."
+    ],
     "presentationTips": [
         "Serve in a traditional Indian serving bowl, garnished with a lemon wedge.",
         "Accompany with a side of cucumber raita."

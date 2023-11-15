@@ -76,14 +76,6 @@
                 "value": "Variable",
                 "unit": "ml"
             }
-        },
-        {
-            "item": "optional fillings",
-            "quantity": "as required",
-            "weight": {
-                "value": "Variable",
-                "unit": "g"
-            }
         }
     ],
     "instructions": [

@@ -136,7 +136,7 @@
             }
         },
         {
-            "item": "fresh coriander leaves, chopped",
+            "item": "coriander leaves",
             "quantity": "for garnish",
             "weight": {
                 "value": "10",
@@ -189,7 +189,9 @@
         "shelfLife": "Can be refrigerated for up to 1 day.",
         "instructions": "Store in an airtight container in the refrigerator."
     },
-    "reheatingInstructions": "Reheat in a microwave or on a stove until warm.",
+    "reheatingInstructions": [
+        "Reheat in a microwave or on a stove until warm."
+    ],
     "presentationTips": [
         "Serve in a colorful bowl with a side of raita or plain yogurt.",
         "Garnish with additional lemon wedges for a fresh look."

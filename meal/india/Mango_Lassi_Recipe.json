@@ -34,7 +34,7 @@
     ],
     "ingredients": [
         {
-            "item": "ripe mangoes, peeled and chopped",
+            "item": "mangoes",
             "quantity": "1 cup",
             "weight": {
                 "value": "150",
@@ -50,7 +50,7 @@
             }
         },
         {
-            "item": "milk or water",
+            "item": "milk",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "120",
@@ -58,7 +58,7 @@
             }
         },
         {
-            "item": "sugar or honey",
+            "item": "sugar",
             "quantity": "to taste",
             "weight": {
                 "value": "Variable",
@@ -66,7 +66,7 @@
             }
         },
         {
-            "item": "cardamom powder (optional)",
+            "item": "cardamom powder",
             "quantity": "a pinch",
             "weight": {
                 "value": "1",

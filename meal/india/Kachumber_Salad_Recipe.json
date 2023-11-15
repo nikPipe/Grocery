@@ -35,7 +35,7 @@
     ],
     "ingredients": [
         {
-            "item": "cucumbers, finely chopped",
+            "item": "cucumbers",
             "quantity": "1 cup",
             "weight": {
                 "value": "100",
@@ -67,7 +67,7 @@
             }
         },
         {
-            "item": "fresh coriander leaves, chopped",
+            "item": "coriander leaves",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "10",
@@ -91,7 +91,7 @@
             }
         },
         {
-            "item": "black pepper, freshly ground",
+            "item": "black pepper",
             "quantity": "1/2 teaspoon",
             "weight": {
                 "value": "2",
@@ -139,7 +139,9 @@
         "shelfLife": "Best consumed fresh. Can be refrigerated for up to 1 day.",
         "instructions": "Store in an airtight container in the refrigerator."
     },
-    "reheatingInstructions": "No reheating required.",
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
     "presentationTips": [
         "Serve in a decorative salad bowl, garnished with extra coriander leaves.",
         "Accompany with a slice of lemon or lime on the side."

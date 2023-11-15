@@ -40,7 +40,7 @@
     ],
     "ingredients": [
         {
-            "item": "carrots, diced",
+            "item": "carrot",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "75",
@@ -56,7 +56,7 @@
             }
         },
         {
-            "item": "green beans, chopped",
+            "item": "green bean",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "75",
@@ -64,7 +64,7 @@
             }
         },
         {
-            "item": "cauliflower florets",
+            "item": "cauliflower",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "75",
@@ -72,7 +72,7 @@
             }
         },
         {
-            "item": "potato, cubed",
+            "item": "potato",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "75",
@@ -112,7 +112,7 @@
             }
         },
         {
-            "item": "yogurt or coconut milk",
+            "item": "yogurt",
             "quantity": "1 cup",
             "weight": {
                 "value": "240",
@@ -152,7 +152,7 @@
             }
         },
         {
-            "item": "cashew nuts",
+            "item": "cashew",
             "quantity": "1/4 cup",
             "weight": {
                 "value": "30",
@@ -192,7 +192,7 @@
             }
         },
         {
-            "item": "fresh coriander leaves, chopped",
+            "item": "coriander leaves",
             "quantity": "for garnish",
             "weight": {
                 "value": "10",
@@ -245,7 +245,9 @@
         "shelfLife": "Can be refrigerated for up to 3 days.",
         "instructions": "Store in an airtight container in the refrigerator."
     },
-    "reheatingInstructions": "Reheat in a microwave or on a stove until hot.",
+    "reheatingInstructions": [
+        "Reheat in a microwave or on a stove until hot."
+    ],
     "presentationTips": [
         "Serve in a decorative bowl, topped with cream and nuts for garnish.",
         "Pair with a side of cooling cucumber raita for a balanced meal."

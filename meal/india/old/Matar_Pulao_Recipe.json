@@ -1,0 +1,170 @@
+{
+    "id": "Matar_Pulao_Recipe",
+    "name": "Matar Pulao",
+    "origin": "India",
+    "history": "Matar Pulao, also known as Peas Pulao, is a popular and simple rice dish in Indian cuisine. It combines the flavors of fragrant basmati rice with the sweetness of green peas, and is often seasoned with whole spices for a subtle yet aromatic taste.",
+    "description": "Matar Pulao is a light and flavorful dish made with basmati rice and green peas. This pulao is typically spiced with cumin, cloves, and other whole spices, and it's a versatile dish that pairs well with various curries and accompaniments.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pot with lid",
+            "description": "For cooking the pulao.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green peas",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "whole spices (bay leaf, cinnamon stick, cloves, green cardamoms)",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Rice",
+            "description": "Rinse the basmati rice until the water runs clear. Soak the rice for 20 minutes, then drain."
+        },
+        {
+            "step": "2",
+            "title": "Saut\u00c3\u00a9 Spices and Onions",
+            "description": "Heat ghee or oil in a pot. Add cumin seeds and whole spices. Once they sizzle, add the sliced onion and saut\u00c3\u00a9 until golden brown. Stir in the ginger-garlic paste."
+        },
+        {
+            "step": "3",
+            "title": "Cook Rice and Peas",
+            "description": "Add the drained rice and green peas to the pot. Saut\u00c3\u00a9 for a couple of minutes. Pour in water, add salt, and bring to a boil. Reduce the heat, cover, and simmer until the rice is cooked and the water is absorbed."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Fluff the rice gently with a fork before serving. Serve the Matar Pulao hot, garnished with additional fried onions or fresh herbs if desired."
+        }
+    ],
+    "nutrition": {
+        "calories": "220 per serving",
+        "carbohydrates": "45g",
+        "protein": "6g",
+        "fat": "4g",
+        "fiber": "3g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Soaking the rice beforehand helps in cooking it faster and makes it fluffier.",
+        "Adjust the amount of water depending on the type and age of the rice."
+    ],
+    "variations": [
+        "Add a pinch of saffron soaked in warm milk for a richer flavor.",
+        "Include other vegetables like carrots or beans for added nutrition and color."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat in a microwave or on a stovetop with a little added water."
+    ],
+    "presentationTips": [
+        "Serve in a decorative bowl, garnished with fresh cilantro or mint leaves.",
+        "Pair with raita or a simple yogurt-based salad for a complete meal."
+    ],
+    "keywords": [
+        "Matar Pulao",
+        "Peas Pulao",
+        "Indian Rice Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

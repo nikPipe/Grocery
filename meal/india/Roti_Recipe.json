@@ -2,10 +2,11 @@
     "id": "Roti_Recipe",
     "name": "Roti",
     "origin": "India",
-    "history": "Roti, also known as chapati, is a staple flatbread in Indian cuisine. Its roots can be traced back to the Indus Valley civilization. It's a simple, versatile bread made with just a few ingredients and cooked on a flat griddle.",
-    "description": "Roti is a soft, unleavened flatbread made primarily from whole wheat flour. It is a daily bread in many Indian households, served with a variety of dishes. Roti is known for its simplicity and health benefits, being low in fat and high in fiber.",
+    "history": "Roti, also known as Chapati, is a staple in Indian cuisine and is enjoyed in various forms across the country. This unleavened bread has its origins in the Indian subcontinent and is known for its simplicity and versatility.",
+    "description": "Roti is a flatbread made from whole wheat flour, known for its soft texture and smoky flavor. It's typically cooked on a flat griddle and is served with a variety of dishes, ranging from curries to dry vegetables.",
     "servings": "1",
     "dietTypes": [
+        "Vegan",
         "Vegetarian"
     ],
     "time": {
@@ -15,58 +16,62 @@
         },
         "cookingTime": {
             "unit": "Minute",
-            "value": "20"
+            "value": "15"
         },
         "totalTime": {
             "unit": "Minute",
-            "value": "35"
+            "value": "30"
         }
     },
     "mealtime": [
-        "Any"
+        "Breakfast",
+        "Lunch",
+        "Dinner"
     ],
     "equipment": [
         {
             "name": "rolling pin",
-            "description": "For rolling the dough.",
-            "imageURL": ""
+            "description": "For rolling out the dough."
         },
         {
-            "name": "flat griddle or tawa",
-            "description": "For cooking the roti.",
-            "imageURL": ""
+            "name": "tawa or flat griddle",
+            "description": "For cooking the rotis."
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough."
         }
     ],
     "ingredients": [
         {
-            "item": "whole wheat flour",
-            "quantity": "2 cups",
+            "item": "all-purpose flour",
+            "quantity": "1 cup",
             "weight": {
-                "value": "240",
+                "value": "120",
                 "unit": "g"
             }
         },
         {
             "item": "water",
-            "quantity": "as needed",
+            "quantity": "1/2 cup",
             "weight": {
-                "value": "Variable",
+                "value": "120",
                 "unit": "ml"
             }
         },
         {
             "item": "salt",
-            "quantity": "a pinch",
+            "quantity": "1/2 teaspoon",
             "weight": {
-                "value": "0.5",
+                "value": "2.5",
                 "unit": "g"
             }
         },
         {
-            "item": "oil or ghee (optional)",
-            "quantity": "for brushing",
+            "item": "butter",
+            "quantity": "1 tablespoon",
             "weight": {
-                "value": "Variable",
+                "value": "15",
                 "unit": "ml"
             }
         }
@@ -74,23 +79,23 @@
     "instructions": [
         {
             "step": "1",
-            "title": "Prepare the Dough",
-            "description": "Mix whole wheat flour and salt. Gradually add water and knead to form a soft, pliable dough. Cover and let it rest for 15 minutes."
+            "title": "Make the Dough",
+            "description": "In a mixing bowl, combine whole wheat flour and salt. Gradually add water and knead to form a smooth and soft dough. Cover and let it rest for 15 minutes."
         },
         {
             "step": "2",
             "title": "Roll the Rotis",
-            "description": "Divide the dough into small balls. Roll each ball into a thin, flat circle using a rolling pin."
+            "description": "Divide the dough into small balls. Using a rolling pin, roll each ball into a thin, flat circle."
         },
         {
             "step": "3",
             "title": "Cook the Rotis",
-            "description": "Heat a flat griddle or tawa. Place a rolled-out roti on it and cook until small bubbles appear. Flip and cook the other side until brown spots appear. Optionally, brush with oil or ghee."
+            "description": "Heat a tawa or griddle over medium heat. Place the rolled-out dough onto the tawa. Cook until small bubbles appear, then flip. Cook the other side until brown spots appear. Optionally, finish cooking over an open flame for a smoky flavor."
         },
         {
             "step": "4",
             "title": "Serve",
-            "description": "Serve the rotis hot with a curry, dal, or any other side dish."
+            "description": "Serve the rotis hot, optionally brushed with ghee or oil. Pair with your favorite curry, dal, or vegetable dish."
         }
     ],
     "nutrition": {
@@ -102,29 +107,33 @@
         "sugar": "0g"
     },
     "tips": [
-        "Ensure the dough is soft and well-rested for soft rotis.",
-        "Use a cast-iron griddle for even cooking and perfect browning."
+        "Ensure the dough is soft and pliable for soft rotis.",
+        "Do not overcook, as rotis can become hard and chewy."
     ],
     "variations": [
-        "Add herbs or spices like cumin seeds to the dough for added flavor.",
-        "Make stuffed rotis with fillings like spiced potatoes or paneer."
+        "Add carom seeds (ajwain) or cumin seeds for added flavor.",
+        "Mix in spinach puree or grated vegetables for a nutritional boost."
     ],
     "images": {
         "main": ""
     },
     "storage": {
-        "shelfLife": "Best consumed fresh but can be stored in an airtight container for up to 24 hours.",
-        "instructions": "Reheat on a griddle before serving if stored."
+        "shelfLife": "Best consumed fresh. Can be stored in an airtight container for up to 1 day.",
+        "instructions": "Reheat on the griddle before serving if stored."
     },
-    "reheatingInstructions": "Reheat on a hot griddle or tawa until warm and soft.",
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat on a tawa or griddle until warm and soft."
+        }
+    ],
     "presentationTips": [
-        "Serve in a traditional roti basket lined with a cloth.",
-        "Pair with a variety of dips and side dishes for a complete meal."
+        "Serve in a basket lined with a cloth to keep them warm.",
+        "Arrange in a stack for an appealing presentation."
     ],
     "keywords": [
         "Roti",
-        "Indian Flatbread",
-        "Whole Wheat Chapati"
+        "Chapati",
+        "Indian Flatbread"
     ],
     "allergens": [
         "Gluten"

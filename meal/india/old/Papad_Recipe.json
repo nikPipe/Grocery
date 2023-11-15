@@ -1,0 +1,160 @@
+{
+    "id": "Papad_Recipe",
+    "name": "Papad",
+    "origin": "India",
+    "history": "Papad, also known as 'Papadum' in some regions, is a thin, crisp, round flatbread from Indian cuisine. It's typically made from a dough of lentil, chickpea, black gram, or rice flour, and is a common accompaniment to Indian meals.",
+    "description": "Papad is a thin, crispy snack that's either fried or roasted. It can be flavored with spices like cumin or black pepper. Papad is often served as an appetizer or a side dish with meals and is popular for its crunchy texture and savory taste.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "5"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "rolling pin",
+            "description": "For rolling out the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "frying pan or griddle",
+            "description": "For frying or roasting the papad.",
+            "imageURL": ""
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "urad dal flour (split black gram flour)",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black pepper",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Make the Dough",
+            "description": "In a mixing bowl, combine urad dal flour, cumin seeds, crushed black pepper, and salt. Gradually add water and knead into a firm dough."
+        },
+        {
+            "step": "2",
+            "title": "Roll the Papad",
+            "description": "Divide the dough into small balls. Roll each ball into a very thin round disc using a rolling pin."
+        },
+        {
+            "step": "3",
+            "title": "Dry the Papad",
+            "description": "Place the rolled-out papads on a clean cloth or tray. Allow them to dry in the sun until completely dehydrated and crisp."
+        },
+        {
+            "step": "4",
+            "title": "Cook the Papad",
+            "description": "Heat a frying pan or griddle. Roast or fry the dried papad until it puffs up and turns golden brown. For frying, use enough oil to submerge the papad."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the papad as a snack or as an accompaniment to meals."
+        }
+    ],
+    "nutrition": {
+        "calories": "40 per papad",
+        "carbohydrates": "8g",
+        "protein": "2g",
+        "fat": "0.5g",
+        "fiber": "1g",
+        "sugar": "0g"
+    },
+    "tips": [
+        "Ensure the papads are rolled very thin for the best texture.",
+        "Drying time can vary depending on the climate and humidity."
+    ],
+    "variations": [
+        "Add different spices like garlic powder or asafoetida for varied flavors.",
+        "Experiment with different flours like chickpea flour or rice flour."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be stored for several weeks in an airtight container.",
+        "instructions": "Store in a cool, dry place away from moisture."
+    },
+    "reheatingInstructions": "Reheat on a hot griddle or in a microwave for a few seconds.",
+    "presentationTips": [
+        "Serve in a basket or on a decorative plate.",
+        "Accompany with dips like chutney or yogurt for added flavor."
+    ],
+    "keywords": [
+        "Papad",
+        "Indian Crispy Flatbread",
+        "Urad Dal Papadum"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

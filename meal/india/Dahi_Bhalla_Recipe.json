@@ -45,7 +45,7 @@
     ],
     "ingredients": [
         {
-            "item": "urad dal (split black gram), soaked for 4-6 hours",
+            "item": "urad dal",
             "quantity": "1 cup",
             "weight": {
                 "value": "200",
@@ -53,7 +53,7 @@
             }
         },
         {
-            "item": "plain yogurt, whisked",
+            "item": "yogurt",
             "quantity": "2 cups",
             "weight": {
                 "value": "500",
@@ -117,7 +117,7 @@
             }
         },
         {
-            "item": "sugar (optional)",
+            "item": "sugar",
             "quantity": "1 tablespoon",
             "weight": {
                 "value": "15",
@@ -188,7 +188,9 @@
         "shelfLife": "Best consumed immediately. Can be refrigerated for up to 1 day.",
         "instructions": "Store in an airtight container in the refrigerator."
     },
-    "reheatingInstructions": "No reheating required.",
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
     "presentationTips": [
         "Serve in individual bowls, garnished with extra chutney and spices.",
         "Accompany with a side of crispy papad or naan bread."

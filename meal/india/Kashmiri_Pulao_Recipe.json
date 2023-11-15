@@ -1,9 +1,9 @@
 {
     "id": "Kashmiri_Pulao_Recipe",
     "name": "Kashmiri Pulao",
-    "origin": "Kashmir, India",
-    "history": "Kashmiri Pulao is a delicacy from the Kashmir region of India, known for its unique combination of flavors. This dish is distinguished by its use of aromatic spices, dry fruits, and nuts, typical of Kashmiri cuisine, offering a sweet and savory experience.",
-    "description": "Kashmiri Pulao is a rich and aromatic rice dish made with basmati rice, saffron, and a mix of dry fruits like almonds, cashews, and raisins. It often includes spices such as cinnamon, cardamom, and cloves, and is garnished with fresh fruits like pomegranate or apple.",
+    "origin": "India",
+    "history": "Kashmiri Pulao is a famous North Indian dish originating from the Kashmir region. It is known for its unique combination of flavors and ingredients, including a variety of spices, dry fruits, and saffron, which give it a distinctive taste and aroma.",
+    "description": "Kashmiri Pulao is a rich and aromatic rice dish that combines basmati rice with a blend of spices, nuts, dry fruits, and often garnished with fresh fruits. It's a mildly sweet pulao, often served on special occasions or as part of a feast.",
     "servings": "1",
     "dietTypes": [
         "Vegetarian"
@@ -11,15 +11,15 @@
     "time": {
         "preparationTime": {
             "unit": "Minute",
-            "value": "15"
+            "value": "20"
         },
         "cookingTime": {
             "unit": "Minute",
-            "value": "25"
+            "value": "30"
         },
         "totalTime": {
             "unit": "Minute",
-            "value": "40"
+            "value": "50"
         }
     },
     "mealtime": [
@@ -28,14 +28,12 @@
     ],
     "equipment": [
         {
-            "name": "pot with lid",
-            "description": "For cooking the pulao.",
-            "imageURL": ""
+            "name": "pot",
+            "description": "For cooking the rice."
         },
         {
             "name": "pan",
-            "description": "For saut\u00c3\u00a9ing the nuts and fruits.",
-            "imageURL": ""
+            "description": "For saut\u00c3\u00a9ing the spices and nuts."
         }
     ],
     "ingredients": [
@@ -48,7 +46,7 @@
             }
         },
         {
-            "item": "oil",
+            "item": "ghee",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "30",
@@ -56,34 +54,74 @@
             }
         },
         {
-            "item": "whole spices (cinnamon stick, bay leaf, cardamom pods, cloves)",
-            "quantity": "1 tablespoon",
+            "item": "cinnamon stick",
+            "quantity": "1 small piece",
             "weight": {
-                "value": "5",
+                "value": "2",
                 "unit": "g"
             }
         },
         {
-            "item": "saffron strands, soaked in warm milk",
-            "quantity": "a pinch",
+            "item": "green cardamom",
+            "quantity": "4",
             "weight": {
                 "value": "1",
                 "unit": "g"
             }
         },
         {
-            "item": "mixed dry fruits (almonds, cashews, raisins)",
-            "quantity": "1/2 cup",
+            "item": "cloves",
+            "quantity": "4",
             "weight": {
-                "value": "60",
+                "value": "1",
                 "unit": "g"
             }
         },
         {
-            "item": "fresh fruits (apple cubes, pomegranate seeds)",
-            "quantity": "1 cup",
+            "item": "saffron",
+            "quantity": "a pinch",
             "weight": {
-                "value": "150",
+                "value": "0.2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "raisins",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "20",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cashews",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "20",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "almonds",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "20",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "apple",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "pomegranate",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "45",
                 "unit": "g"
             }
         },
@@ -104,7 +142,7 @@
             }
         },
         {
-            "item": "sugar (optional)",
+            "item": "sugar",
             "quantity": "1 teaspoon",
             "weight": {
                 "value": "4",
@@ -115,66 +153,69 @@
     "instructions": [
         {
             "step": "1",
-            "title": "Prepare the Rice",
-            "description": "Rinse the basmati rice until the water runs clear. Soak the rice for 20 minutes, then drain."
+            "title": "Prepare Rice",
+            "description": "Rinse the basmati rice until the water runs clear. Soak in water for 20 minutes, then drain."
         },
         {
             "step": "2",
-            "title": "Saut\u00c3\u00a9 Nuts and Whole Spices",
-            "description": "In a pan, heat ghee or oil. Add the whole spices and saut\u00c3\u00a9 for a minute. Add the mixed dry fruits and lightly saut\u00c3\u00a9 until they are golden."
+            "title": "Cook Rice with Spices",
+            "description": "In a pot, heat ghee and saut\u00c3\u00a9 the cinnamon stick, cardamom pods, and cloves. Add the rice, water, saffron, and salt. Cook until the rice is done."
         },
         {
             "step": "3",
-            "title": "Cook the Rice",
-            "description": "In a pot, add the rice, saut\u00c3\u00a9ed nuts, and spices. Pour in water, add salt, and the soaked saffron. Bring to a boil, then reduce heat to a simmer. Cover and cook until the rice is done and water is absorbed."
+            "title": "Saut\u00c3\u00a9 Dry Fruits",
+            "description": "In a pan, heat some ghee and lightly fry the raisins, cashews, and almonds until golden. Set aside."
         },
         {
             "step": "4",
-            "title": "Add Fresh Fruits",
-            "description": "Once the rice is cooked, gently fold in the fresh fruits (apple cubes and pomegranate seeds). Add sugar if desired."
+            "title": "Assemble the Pulao",
+            "description": "Mix the saut\u00c3\u00a9ed dry fruits and sugar into the cooked rice. Fluff gently with a fork."
         },
         {
             "step": "5",
-            "title": "Serve",
-            "description": "Serve the Kashmiri Pulao hot, garnished with additional nuts and fresh fruits."
+            "title": "Garnish and Serve",
+            "description": "Garnish the pulao with chopped apple and pomegranate seeds. Serve hot as a main dish."
         }
     ],
     "nutrition": {
-        "calories": "270 per serving",
-        "carbohydrates": "50g",
-        "protein": "5g",
-        "fat": "7g",
-        "fiber": "3g",
+        "calories": "400 per serving",
+        "carbohydrates": "70g",
+        "protein": "8g",
+        "fat": "10g",
+        "fiber": "4g",
         "sugar": "10g"
     },
     "tips": [
-        "Avoid over-stirring the rice to maintain its integrity.",
-        "Adjust the amount of sugar based on the sweetness of the fruits used."
+        "Use high-quality basmati rice for the best flavor and texture.",
+        "Adjust the amount of fruits and nuts according to your preference."
     ],
     "variations": [
-        "Experiment with different dry and fresh fruits like dried apricots or sliced bananas.",
-        "For a richer flavor, sprinkle rose water or kewra water before serving."
+        "Add a pinch of ground cardamom for extra flavor.",
+        "Include other dried fruits like apricots or figs for variety."
     ],
     "images": {
         "main": ""
     },
     "storage": {
         "shelfLife": "Can be refrigerated for up to 2 days.",
-        "instructions": "Store in an airtight container in the refrigerator."
+        "instructions": "Store in an airtight container and reheat before serving."
     },
     "reheatingInstructions": [
-        "Reheat in a microwave or on a stovetop with a little added water."
+        {
+            "instruction": "Reheat on the stove or in a microwave until warm."
+        }
     ],
     "presentationTips": [
-        "Serve in a decorative bowl, garnished with saffron strands and nuts.",
-        "Pair with a mild curry or yogurt for a complete meal."
+        "Serve in a decorative bowl with a garnish of nuts on top.",
+        "Pair with a side of yogurt or raita for a complete meal."
     ],
     "keywords": [
         "Kashmiri Pulao",
-        "Fruity Rice Dish",
-        "Indian Aromatic Rice"
+        "Indian Rice Dish",
+        "Fruity Rice Pilaf"
     ],
     "allergens": [
-        "Nuts"
+        "Nuts",
+        "Dairy"
     ]
 }

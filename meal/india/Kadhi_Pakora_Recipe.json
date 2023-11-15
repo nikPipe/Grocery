@@ -59,7 +59,7 @@
             }
         },
         {
-            "item": "spinach, chopped",
+            "item": "spinach",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "30",
@@ -67,7 +67,7 @@
             }
         },
         {
-            "item": "potato, finely chopped",
+            "item": "potato",
             "quantity": "1 small",
             "weight": {
                 "value": "100",
@@ -115,7 +115,7 @@
             }
         },
         {
-            "item": "coriander seeds, crushed",
+            "item": "coriander seeds",
             "quantity": "1 teaspoon",
             "weight": {
                 "value": "5",
@@ -200,7 +200,9 @@
         "shelfLife": "Can be refrigerated for up to 2 days.",
         "instructions": "Store in an airtight container in the refrigerator."
     },
-    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until hot."
+    ],
     "presentationTips": [
         "Serve in a traditional Indian bowl, with a side of lemon wedges.",
         "Pair with plain basmati rice or a simple jeera (cumin) rice."

@@ -1,0 +1,182 @@
+{
+    "id": "Akki_Roti_Recipe",
+    "name": "Akki Roti",
+    "origin": "India",
+    "history": "Akki Roti, a staple in Karnataka, is a rice-based flatbread. 'Akki' means rice in Kannada, and this dish is a popular breakfast item in the region.",
+    "description": "Akki Roti is a flatbread made from rice flour, mixed with vegetables, green chilies, and spices. It's typically served with chutney and makes for a nutritious and filling meal.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "Used for preparing the dough."
+        },
+        {
+            "name": "tawa or flat pan",
+            "imageURL": "",
+            "description": "Used for cooking the roti."
+        },
+        {
+            "name": "rolling pin",
+            "imageURL": "",
+            "description": "Optional, for rolling the roti."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 small",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carrot",
+            "quantity": "1/2",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, combine rice flour, chopped onions, grated carrot, green chilies, coriander leaves, cumin seeds, and salt. Gradually add water and knead to form a soft dough."
+        },
+        {
+            "step": "2",
+            "title": "Shape the Roti",
+            "description": "Divide the dough into small balls. Flatten each ball either by patting it with your hands on a greased plastic sheet or by using a rolling pin."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Roti",
+            "description": "Heat a tawa or flat pan. Place the flattened dough on it and cook until brown spots appear on both sides, applying oil as needed."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Akki Roti hot with coconut chutney or pickle."
+        }
+    ],
+    "nutrition": {
+        "calories": 200,
+        "carbohydrates": "40g",
+        "protein": "4g",
+        "fat": "4g",
+        "saturatedFat": "1g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "potassium": "150mg",
+        "fiber": "2g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "The dough should be soft and non-sticky for easy shaping.",
+        "Cooking on a medium flame ensures even cooking without burning."
+    ],
+    "variations": [
+        "Add grated coconut or spinach for a different flavor.",
+        "Mix in some yogurt to the dough for softer rotis."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Akki Roti is best enjoyed fresh but can be stored for up to 1 day.",
+        "instructions": "Store in an airtight container and reheat on a tawa before serving."
+    },
+    "reheatingInstructions": "Reheat on a tawa or in a microwave until warm.",
+    "presentationTips": [
+        "Garnish with a sprinkle of grated coconut or serve with a slice of lemon."
+    ],
+    "keywords": [
+        "akki roti",
+        "rice flour flatbread",
+        "Karnataka cuisine"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

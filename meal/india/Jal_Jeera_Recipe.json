@@ -40,7 +40,7 @@
     ],
     "ingredients": [
         {
-            "item": "cumin seeds (jeera)",
+            "item": "cumin seeds",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "10",
@@ -64,7 +64,7 @@
             }
         },
         {
-            "item": "black salt (kala namak)",
+            "item": "black salt",
             "quantity": "1 teaspoon",
             "weight": {
                 "value": "5",
@@ -112,7 +112,7 @@
             }
         },
         {
-            "item": "boondi (optional, for garnish)",
+            "item": "boondi",
             "quantity": "a few",
             "weight": {
                 "value": "Variable",

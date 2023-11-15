@@ -1,0 +1,262 @@
+{
+    "id": "Vegetable_Korma_Recipe",
+    "name": "Vegetable Korma",
+    "origin": "India",
+    "history": "Vegetable Korma is a popular Indian dish with roots in Mughlai cuisine. It's a vegetarian version of the classic korma and is known for its creamy, flavorful gravy made with a blend of spices, vegetables, and either cream, yogurt, or coconut milk.",
+    "description": "Vegetable Korma is a rich and creamy curry made with a variety of vegetables, simmered in a fragrant sauce of yogurt or coconut milk, enhanced with spices, nuts, and seeds. It's a versatile dish that pairs well with rice or Indian bread.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "large pot",
+            "description": "For cooking the korma.",
+            "imageURL": ""
+        },
+        {
+            "name": "blender",
+            "description": "For making the paste.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "carrots, diced",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "peas",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green beans, chopped",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cauliflower florets",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "potato, cubed",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt or coconut milk",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cashew nuts",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "poppy seeds",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "fresh coriander leaves, chopped",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Paste",
+            "description": "Blend cashew nuts and poppy seeds with a little water to make a smooth paste. Set aside."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Vegetables",
+            "description": "Heat oil in a pot. Saut\u00c3\u00a9 onions until golden. Add ginger-garlic paste and green chilies. Stir in the mixed vegetables and cook for a few minutes."
+        },
+        {
+            "step": "3",
+            "title": "Make the Korma",
+            "description": "Add tomato puree, coriander powder, cumin powder, turmeric powder, and salt to the pot. Cook until the tomatoes are well blended. Stir in the cashew-poppy seed paste and yogurt or coconut milk. Simmer until the vegetables are tender. Add garam masala towards the end."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Garnish the Vegetable Korma with chopped coriander leaves. Serve hot with rice or Indian bread like naan or roti."
+        }
+    ],
+    "nutrition": {
+        "calories": "350 per serving",
+        "carbohydrates": "40g",
+        "protein": "10g",
+        "fat": "18g",
+        "fiber": "6g",
+        "sugar": "8g"
+    },
+    "tips": [
+        "Adjust the consistency of the korma by adding water as needed.",
+        "For a richer flavor, use cream instead of yogurt or coconut milk."
+    ],
+    "variations": [
+        "Add paneer or tofu for additional protein.",
+        "Experiment with different nuts like almonds or walnuts for the paste."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on a stove until hot.",
+    "presentationTips": [
+        "Serve in a decorative bowl, topped with cream and nuts for garnish.",
+        "Pair with a side of cooling cucumber raita for a balanced meal."
+    ],
+    "keywords": [
+        "Vegetable Korma",
+        "Indian Curry",
+        "Creamy Vegetable Curry"
+    ],
+    "allergens": [
+        "Nuts",
+        "Dairy"
+    ]
+}

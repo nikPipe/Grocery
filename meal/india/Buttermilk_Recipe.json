@@ -42,7 +42,7 @@
             }
         },
         {
-            "item": "cold water",
+            "item": "water",
             "quantity": "2 cups",
             "weight": {
                 "value": "480",
@@ -66,7 +66,7 @@
             }
         },
         {
-            "item": "mint leaves (optional)",
+            "item": "mint leaves",
             "quantity": "a few",
             "weight": {
                 "value": "2",
@@ -74,7 +74,7 @@
             }
         },
         {
-            "item": "black salt (optional)",
+            "item": "black salt",
             "quantity": "a pinch",
             "weight": {
                 "value": "1",
@@ -82,7 +82,7 @@
             }
         },
         {
-            "item": "ice cubes (optional)",
+            "item": "ice cubes",
             "quantity": "as needed",
             "weight": {
                 "value": "Variable",

@@ -59,7 +59,7 @@
             }
         },
         {
-            "item": "green beans, chopped",
+            "item": "green beans",
             "quantity": "1/4 cup",
             "weight": {
                 "value": "50",
@@ -67,7 +67,7 @@
             }
         },
         {
-            "item": "cauliflower florets",
+            "item": "cauliflower",
             "quantity": "1/4 cup",
             "weight": {
                 "value": "50",
@@ -75,7 +75,7 @@
             }
         },
         {
-            "item": "onion, sliced",
+            "item": "onion",
             "quantity": "1 medium",
             "weight": {
                 "value": "100",
@@ -163,7 +163,7 @@
             }
         },
         {
-            "item": "vegetable oil or ghee",
+            "item": "oil",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "30",
@@ -179,7 +179,7 @@
             }
         },
         {
-            "item": "fresh coriander leaves, chopped",
+            "item": "coriander leaves",
             "quantity": "for garnish",
             "weight": {
                 "value": "10",
@@ -195,7 +195,7 @@
         },
         {
             "step": "2",
-            "title": "Saut\u00c3\u00a9 Spices and Vegetables",
+            "title": "Saut Spices and Vegetables",
             "description": "Heat oil or ghee in a pot. Add cumin seeds and whole spices. Once they sizzle, add onions and saut\u00c3\u00a9 until golden. Add ginger-garlic paste, green chilies, and the mixed vegetables. Cook for a few minutes."
         },
         {
@@ -232,7 +232,9 @@
         "shelfLife": "Can be refrigerated for up to 2 days.",
         "instructions": "Store in an airtight container in the refrigerator."
     },
-    "reheatingInstructions": "Reheat in a microwave or on a stovetop with a little added water.",
+    "reheatingInstructions": [
+        "Reheat in a microwave or on a stovetop with a little added water."
+    ],
     "presentationTips": [
         "Serve in a large serving dish, fluffed with a fork.",
         "Pair with raita, pickle, or a side salad for a complete meal."

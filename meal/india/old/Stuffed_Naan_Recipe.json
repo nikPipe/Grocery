@@ -1,0 +1,202 @@
+{
+    "id": "Stuffed_Naan_Recipe",
+    "name": "Stuffed Naan",
+    "origin": "India",
+    "history": "Stuffed Naan is a creative variation of the traditional Naan, an essential part of Indian cuisine. This version includes a delicious stuffing, adding a new dimension of flavor to the classic flatbread.",
+    "description": "Stuffed Naan is a leavened flatbread filled with a variety of ingredients like spiced potatoes, paneer, or minced meat. It's made from refined flour and cooked on a tandoor or skillet, offering a delightful combination of soft bread with a flavorful filling.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "tawa or skillet",
+            "description": "For cooking the naans.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "all-purpose flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dry yeast",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "warm water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "potatoes",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for brushing",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "Dissolve yeast and sugar in warm water. Let it sit for 10 minutes until frothy. In a mixing bowl, combine flour, salt, and yogurt. Add the yeast mixture and knead into a soft dough. Cover and let it rest for 2-3 hours."
+        },
+        {
+            "step": "2",
+            "title": "Make the Filling",
+            "description": "Mix mashed potatoes with garam masala, cumin seeds, green chilies, and chopped cilantro."
+        },
+        {
+            "step": "3",
+            "title": "Stuff and Roll the Naans",
+            "description": "Divide the dough into small balls. Flatten each ball, place a portion of the filling in the center, and seal it. Roll out each stuffed ball into a flat circular shape."
+        },
+        {
+            "step": "4",
+            "title": "Cook the Naans",
+            "description": "Heat a tawa or skillet. Cook each naan until golden brown on both sides. Brush with melted butter or ghee."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the hot stuffed naans with curries, dals, or chutneys."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per naan",
+        "carbohydrates": "45g",
+        "protein": "7g",
+        "fat": "6g",
+        "fiber": "4g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Ensure the water is warm, not hot, to activate the yeast properly.",
+        "The dough should be soft and pliable for the best texture."
+    ],
+    "variations": [
+        "Experiment with different fillings like spiced paneer, minced meat, or mixed vegetables.",
+        "Add spices like ajwain or dried fenugreek leaves to the dough for additional flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh but can be stored in an airtight container for up to 24 hours.",
+        "instructions": "Reheat on a skillet before serving if stored."
+    },
+    "reheatingInstructions": "Reheat on a hot skillet or tawa until warm and soft.",
+    "presentationTips": [
+        "Serve on a decorative platter with a side of fresh salad or raita.",
+        "Garnish with additional butter or ghee for a rich flavor."
+    ],
+    "keywords": [
+        "Stuffed Naan",
+        "Indian Flatbread",
+        "Potato Stuffed Bread"
+    ],
+    "allergens": [
+        "Gluten",
+        "Dairy"
+    ]
+}

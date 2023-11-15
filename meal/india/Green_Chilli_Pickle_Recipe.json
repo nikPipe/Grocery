@@ -39,7 +39,7 @@
     ],
     "ingredients": [
         {
-            "item": "green chilies, slit lengthwise",
+            "item": "green chili",
             "quantity": "1 cup",
             "weight": {
                 "value": "100",
@@ -47,7 +47,7 @@
             }
         },
         {
-            "item": "mustard seeds, powdered",
+            "item": "mustard seeds",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "30",
@@ -55,7 +55,7 @@
             }
         },
         {
-            "item": "fenugreek seeds, powdered",
+            "item": "fenugreek seeds",
             "quantity": "1 teaspoon",
             "weight": {
                 "value": "5",
@@ -153,7 +153,9 @@
         "shelfLife": "Can be stored for up to 6 months in a cool, dry place.",
         "instructions": "Use a dry, clean spoon for serving. Keep the jar tightly closed."
     },
-    "reheatingInstructions": "No reheating required.",
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
     "presentationTips": [
         "Serve in a small bowl or directly from the jar.",
         "Pair with a traditional Indian thali for an authentic experience."

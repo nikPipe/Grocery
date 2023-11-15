@@ -1,0 +1,134 @@
+{
+    "id": "Bajra_Roti_Recipe",
+    "name": "Bajra Roti",
+    "origin": "India",
+    "history": "Bajra Roti, also known as Pearl Millet Bread, is a traditional Indian flatbread. It's especially popular in the states of Rajasthan and Gujarat.",
+    "description": "Bajra Roti is a nutritious and gluten-free flatbread made from bajra (pearl millet) flour. It is known for its rich, nutty flavor and is typically served with vegetables or curries.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "25"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "tawa or flat griddle",
+            "description": "For cooking the roti.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "bajra flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "warm water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee or butter",
+            "quantity": "for greasing",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, combine bajra flour and salt. Gradually add warm water and knead into a soft dough."
+        },
+        {
+            "step": "2",
+            "title": "Roll the Roti",
+            "description": "Divide the dough into small balls. Flatten each ball and roll it into a thin circle, using bajra flour for dusting."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Roti",
+            "description": "Heat a tawa or griddle. Cook each roti until brown spots appear on both sides. Apply ghee or butter if desired."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the bajra roti hot with a side of vegetables, dal, or curry."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per roti",
+        "carbohydrates": "50g",
+        "protein": "6g",
+        "fat": "4g",
+        "fiber": "8g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "Keep the dough moist as bajra flour tends to dry out quickly.",
+        "Rolling bajra roti requires some skill, as the dough is gluten-free and delicate."
+    ],
+    "variations": [
+        "Add finely chopped herbs or spices to the dough for added flavor.",
+        "Mix bajra flour with wheat flour for a different texture."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh but can be stored for 1 day.",
+        "instructions": "Store in an airtight container and reheat on a tawa before serving."
+    },
+    "reheatingInstructions": "Reheat on a tawa or in a microwave until warm.",
+    "presentationTips": [
+        "Serve on a traditional thali with accompaniments like pickle, yogurt, and chutney."
+    ],
+    "keywords": [
+        "Bajra Roti",
+        "Indian bread",
+        "Gluten-free roti"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

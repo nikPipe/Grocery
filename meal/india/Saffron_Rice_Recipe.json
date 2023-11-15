@@ -45,7 +45,7 @@
             }
         },
         {
-            "item": "saffron threads",
+            "item": "saffron",
             "quantity": "a pinch",
             "weight": {
                 "value": "0.5",
@@ -53,7 +53,7 @@
             }
         },
         {
-            "item": "warm water",
+            "item": "water",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "30",
@@ -61,7 +61,7 @@
             }
         },
         {
-            "item": "vegetable oil or ghee",
+            "item": "oil",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "30",

@@ -39,7 +39,7 @@
     ],
     "ingredients": [
         {
-            "item": "chilled milk",
+            "item": "milk",
             "quantity": "1 cup",
             "weight": {
                 "value": "240",
@@ -63,7 +63,7 @@
             }
         },
         {
-            "item": "ice cubes (optional)",
+            "item": "ice cubes",
             "quantity": "as needed",
             "weight": {
                 "value": "Variable",

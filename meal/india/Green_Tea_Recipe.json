@@ -49,7 +49,7 @@
             }
         },
         {
-            "item": "green tea leaves or a green tea bag",
+            "item": "green tea leaves",
             "quantity": "1 teaspoon or 1 bag",
             "weight": {
                 "value": "2",
@@ -57,7 +57,7 @@
             }
         },
         {
-            "item": "honey or lemon (optional)",
+            "item": "honey",
             "quantity": "to taste",
             "weight": {
                 "value": "Variable",

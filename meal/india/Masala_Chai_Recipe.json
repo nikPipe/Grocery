@@ -66,7 +66,7 @@
             }
         },
         {
-            "item": "cardamom pods, crushed",
+            "item": "cardamom pods",
             "quantity": "2",
             "weight": {
                 "value": "1",
@@ -82,7 +82,7 @@
             }
         },
         {
-            "item": "fresh ginger, grated",
+            "item": "ginger",
             "quantity": "1/2 inch piece",
             "weight": {
                 "value": "5",
@@ -98,7 +98,7 @@
             }
         },
         {
-            "item": "black peppercorns, crushed",
+            "item": "black peppercorns",
             "quantity": "2",
             "weight": {
                 "value": "1",

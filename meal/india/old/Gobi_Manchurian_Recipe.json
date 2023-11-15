@@ -1,0 +1,221 @@
+{
+    "id": "Gobi_Manchurian_Recipe",
+    "name": "Gobi Manchurian",
+    "origin": "India",
+    "history": "Gobi Manchurian is an Indo-Chinese fusion dish that has gained immense popularity in India. It combines Indian cooking techniques with Chinese flavors. The dish consists of cauliflower florets coated in a spicy and tangy sauce.",
+    "description": "Gobi Manchurian is a flavorful dish made with deep-fried cauliflower florets coated in a thick, savory, and slightly sweet sauce. The sauce is typically made with soy sauce, garlic, ginger, and various seasonings, creating a unique blend of tastes.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "40"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "frying pan",
+            "description": "For frying the cauliflower.",
+            "imageURL": ""
+        },
+        {
+            "name": "saucepan",
+            "description": "For preparing the Manchurian sauce.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "cauliflower, cut into florets",
+            "quantity": "1 medium head",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "all-purpose flour",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cornstarch",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "soy sauce",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "ginger",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garlic",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "spring onions, chopped",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "25",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chili sauce",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "tomato ketchup",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "vinegar",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "pepper",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed for batter",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for deep frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Batter",
+            "description": "Mix all-purpose flour, cornstarch, salt, and pepper. Add water to make a thick batter. Dip cauliflower florets into the batter, ensuring they are well coated."
+        },
+        {
+            "step": "2",
+            "title": "Fry the Cauliflower",
+            "description": "Heat oil in a frying pan. Deep fry the coated florets until golden brown. Drain and set aside."
+        },
+        {
+            "step": "3",
+            "title": "Make the Sauce",
+            "description": "In a saucepan, heat a little oil. Saut\u00c3\u00a9 ginger, garlic, and green chilies. Add soy sauce, red chili sauce, tomato ketchup, and vinegar. Cook until the sauce thickens."
+        },
+        {
+            "step": "4",
+            "title": "Combine and Serve",
+            "description": "Add the fried cauliflower to the sauce. Toss well to coat. Garnish with spring onions and serve hot."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per serving",
+        "carbohydrates": "25g",
+        "protein": "4g",
+        "fat": "10g",
+        "fiber": "3g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Ensure the batter is not too runny; it should stick to the cauliflower.",
+        "Fry the cauliflower on medium heat for even cooking."
+    ],
+    "variations": [
+        "Add bell peppers or onions to the sauce for extra texture and flavor.",
+        "Experiment with different sauces like hoisin or sriracha for a unique twist."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. Can be refrigerated for up to 1 day.",
+        "instructions": "Store in an airtight container in the refrigerator. Reheat in an oven or air fryer for best results."
+    },
+    "reheatingInstructions": "Reheat in an oven or air fryer until crispy.",
+    "presentationTips": [
+        "Serve on a platter garnished with sesame seeds or chopped cilantro.",
+        "Accompany with additional sauce or a side of fried rice."
+    ],
+    "keywords": [
+        "Gobi Manchurian",
+        "Cauliflower Manchurian",
+        "Indo-Chinese Dish"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

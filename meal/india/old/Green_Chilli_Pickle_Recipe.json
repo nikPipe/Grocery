@@ -1,0 +1,169 @@
+{
+    "id": "Green_Chilli_Pickle_Recipe",
+    "name": "Green Chilli Pickle",
+    "origin": "India",
+    "history": "Green Chilli Pickle, or 'Hari Mirch ka Achaar' in Hindi, is a popular condiment in Indian cuisine. It's known for its spicy and tangy taste, made by pickling fresh green chilies in a blend of mustard oil, spices, and lemon juice.",
+    "description": "Green Chilli Pickle is a fiery and tangy Indian pickle made with fresh green chilies. It's seasoned with a mix of mustard seeds, fenugreek seeds, and other spices, preserved in mustard oil, and often enhanced with lemon or vinegar for tartness.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "15"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "jar",
+            "description": "For storing the pickle.",
+            "imageURL": ""
+        },
+        {
+            "name": "bowl",
+            "description": "For mixing ingredients.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "green chilies, slit lengthwise",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds, powdered",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds, powdered",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard oil",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Chilies",
+            "description": "Wash and dry the green chilies thoroughly. Slit them lengthwise, keeping them intact at the stem."
+        },
+        {
+            "step": "2",
+            "title": "Mix Spices and Oil",
+            "description": "In a bowl, mix the powdered mustard seeds, fenugreek seeds, turmeric powder, asafoetida, and salt. Add mustard oil and lemon juice to the spice mixture."
+        },
+        {
+            "step": "3",
+            "title": "Coat the Chilies",
+            "description": "Add the green chilies to the spice and oil mixture. Toss well to ensure the chilies are coated evenly."
+        },
+        {
+            "step": "4",
+            "title": "Store the Pickle",
+            "description": "Transfer the coated chilies to a clean, dry jar. Ensure the jar is airtight. Let the pickle sit for a few days for the flavors to develop and mellow."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Once the pickle has matured, it can be served as an accompaniment to meals. The chilies will soften and absorb the flavors over time."
+        }
+    ],
+    "nutrition": {
+        "calories": "20 per tablespoon",
+        "carbohydrates": "2g",
+        "protein": "0g",
+        "fat": "1g",
+        "fiber": "1g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "Ensure the chilies and jar are completely dry to prevent mold.",
+        "Adjust the amount of lemon juice to balance the pickle's tanginess."
+    ],
+    "variations": [
+        "Add garlic or ginger for additional flavors.",
+        "Experiment with different types of green chilies for varying heat levels."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be stored for up to 6 months in a cool, dry place.",
+        "instructions": "Use a dry, clean spoon for serving. Keep the jar tightly closed."
+    },
+    "reheatingInstructions": "No reheating required.",
+    "presentationTips": [
+        "Serve in a small bowl or directly from the jar.",
+        "Pair with a traditional Indian thali for an authentic experience."
+    ],
+    "keywords": [
+        "Green Chilli Pickle",
+        "Hari Mirch ka Achaar",
+        "Spicy Indian Pickle"
+    ],
+    "allergens": [
+        "Mustard"
+    ]
+}

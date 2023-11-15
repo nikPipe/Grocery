@@ -34,7 +34,7 @@
         },
         {
             "name": "frying pan",
-            "description": "For saut\u00c3\u00a9ing the vegetables and spices.",
+            "description": "For sauting the vegetables and spices.",
             "imageURL": ""
         }
     ],
@@ -48,7 +48,7 @@
             }
         },
         {
-            "item": "carrots, diced",
+            "item": "carrots",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "75",
@@ -64,7 +64,7 @@
             }
         },
         {
-            "item": "green beans, chopped",
+            "item": "green beans",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "75",
@@ -72,7 +72,7 @@
             }
         },
         {
-            "item": "cauliflower florets",
+            "item": "cauliflower",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "75",
@@ -184,7 +184,7 @@
             }
         },
         {
-            "item": "saffron strands",
+            "item": "saffron",
             "quantity": "a pinch",
             "weight": {
                 "value": "0.2",
@@ -200,8 +200,8 @@
         },
         {
             "step": "2",
-            "title": "Saut\u00c3\u00a9 Spices and Vegetables",
-            "description": "In a pan, heat oil and saut\u00c3\u00a9 onions until golden brown. Add ginger-garlic paste, tomatoes, green chilies, and cook. Add turmeric, red chili powder, biryani masala, salt, mint, coriander leaves, and yogurt. Mix well."
+            "title": "Saut Spices and Vegetables",
+            "description": "In a pan, heat oil and saut onions until golden brown. Add ginger-garlic paste, tomatoes, green chilies, and cook. Add turmeric, red chili powder, biryani masala, salt, mint, coriander leaves, and yogurt. Mix well."
         },
         {
             "step": "3",

@@ -103,7 +103,7 @@
             }
         },
         {
-            "item": "sesame seeds",
+            "item": "oil",
             "quantity": "for garnish",
             "weight": {
                 "value": "Variable",
@@ -172,7 +172,9 @@
         "shelfLife": "Best consumed fresh but can be stored in an airtight container for up to 24 hours.",
         "instructions": "Reheat on a skillet before serving if stored."
     },
-    "reheatingInstructions": "Reheat on a hot skillet or tawa until warm and soft.",
+    "reheatingInstructions": [
+        "Reheat on a hot skillet or tawa until warm and soft."
+    ],
     "presentationTips": [
         "Serve in a basket lined with a cloth to keep them warm.",
         "Pair with a variety of chutneys and dips for a complete meal."

@@ -50,7 +50,7 @@
             }
         },
         {
-            "item": "water or milk",
+            "item": "milk",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "120",
@@ -74,7 +74,7 @@
             }
         },
         {
-            "item": "rose water (optional)",
+            "item": "rose water",
             "quantity": "1 teaspoon",
             "weight": {
                 "value": "5",

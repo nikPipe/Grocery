@@ -41,7 +41,7 @@
     ],
     "ingredients": [
         {
-            "item": "white chickpeas (chana)",
+            "item": "white chickpeas",
             "quantity": "1 cup",
             "weight": {
                 "value": "200",
@@ -105,7 +105,7 @@
             }
         },
         {
-            "item": "garam masala powder",
+            "item": "garam masala",
             "quantity": "1 teaspoon",
             "weight": {
                 "value": "5",
@@ -153,7 +153,7 @@
             }
         },
         {
-            "item": "fresh coriander leaves, chopped",
+            "item": "coriander leaves",
             "quantity": "for garnish",
             "weight": {
                 "value": "10",
@@ -211,7 +211,9 @@
         "shelfLife": "Can be refrigerated for up to 3 days.",
         "instructions": "Store in an airtight container in the refrigerator."
     },
-    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until hot."
+    ],
     "presentationTips": [
         "Serve in a traditional clay bowl for an authentic feel.",
         "Garnish with a lemon wedge and onion rings on the side."

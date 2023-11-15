@@ -43,7 +43,7 @@
             }
         },
         {
-            "item": "cucumber, grated",
+            "item": "cucumber",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "50",
@@ -99,7 +99,7 @@
             }
         },
         {
-            "item": "fresh coriander leaves, chopped",
+            "item": "coriander leaves",
             "quantity": "1 tablespoon",
             "weight": {
                 "value": "5",
@@ -107,7 +107,7 @@
             }
         },
         {
-            "item": "mint leaves, chopped (optional)",
+            "item": "mint leaves",
             "quantity": "1 tablespoon",
             "weight": {
                 "value": "5",
@@ -160,7 +160,9 @@
         "shelfLife": "Can be refrigerated for up to 2 days.",
         "instructions": "Store in an airtight container in the refrigerator."
     },
-    "reheatingInstructions": "No reheating required.",
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
     "presentationTips": [
         "Serve in a decorative bowl, garnished with extra herbs.",
         "Accompany with a variety of Indian dishes for a complete meal experience."

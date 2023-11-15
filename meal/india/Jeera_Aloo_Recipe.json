@@ -36,7 +36,7 @@
     ],
     "ingredients": [
         {
-            "item": "potatoes, boiled and cubed",
+            "item": "potato",
             "quantity": "2 medium",
             "weight": {
                 "value": "200",
@@ -44,7 +44,7 @@
             }
         },
         {
-            "item": "cumin seeds (jeera)",
+            "item": "cumin seeds",
             "quantity": "1 teaspoon",
             "weight": {
                 "value": "5",
@@ -92,7 +92,7 @@
             }
         },
         {
-            "item": "fresh coriander leaves, chopped",
+            "item": "coriander leaves",
             "quantity": "for garnish",
             "weight": {
                 "value": "10",
@@ -103,7 +103,7 @@
     "instructions": [
         {
             "step": "1",
-            "title": "Heat Oil and Saut\u00c3\u00a9 Cumin",
+            "title": "Heat Oil and Saut Cumin",
             "description": "Heat oil in a frying pan. Add cumin seeds and let them splutter."
         },
         {
@@ -145,7 +145,9 @@
         "shelfLife": "Can be refrigerated for up to 2 days.",
         "instructions": "Store in an airtight container in the refrigerator."
     },
-    "reheatingInstructions": "Reheat in a microwave or on a stovetop until warm.",
+    "reheatingInstructions": [
+        "Reheat in a microwave or on a stovetop until warm."
+    ],
     "presentationTips": [
         "Serve in a bowl, garnished with a lemon wedge or additional fresh herbs.",
         "Pair with a cooling side like raita or a simple salad."

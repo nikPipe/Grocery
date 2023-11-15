@@ -35,7 +35,7 @@
     ],
     "ingredients": [
         {
-            "item": "potatoes",
+            "item": "potato",
             "quantity": "2 medium",
             "weight": {
                 "value": "200",
@@ -43,7 +43,7 @@
             }
         },
         {
-            "item": "cauliflower, cut into florets",
+            "item": "cauliflower",
             "quantity": "1 medium",
             "weight": {
                 "value": "500",
@@ -139,7 +139,7 @@
             }
         },
         {
-            "item": "fresh coriander leaves, chopped",
+            "item": "coriander leaves",
             "quantity": "for garnish",
             "weight": {
                 "value": "10",
@@ -150,7 +150,7 @@
     "instructions": [
         {
             "step": "1",
-            "title": "Saut\u00c3\u00a9 Onions and Spices",
+            "title": "Saut Onions and Spices",
             "description": "Heat oil in a pan. Add cumin seeds and onions, saut\u00c3\u00a9 until onions turn golden. Stir in ginger-garlic paste."
         },
         {
@@ -197,7 +197,9 @@
         "shelfLife": "Can be refrigerated for up to 2 days.",
         "instructions": "Store in an airtight container in the refrigerator."
     },
-    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until hot."
+    ],
     "presentationTips": [
         "Serve in a traditional Indian serving bowl.",
         "Garnish with a lemon wedge for added zest."

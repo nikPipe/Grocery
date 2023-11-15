@@ -40,7 +40,7 @@
     ],
     "ingredients": [
         {
-            "item": "rajma (red kidney beans)",
+            "item": "red kidney beans",
             "quantity": "1 cup",
             "weight": {
                 "value": "200",
@@ -144,7 +144,7 @@
             }
         },
         {
-            "item": "fresh coriander leaves, chopped",
+            "item": "coriander leaves",
             "quantity": "for garnish",
             "weight": {
                 "value": "10",
@@ -207,7 +207,9 @@
         "shelfLife": "Can be refrigerated for up to 3 days.",
         "instructions": "Store in an airtight container in the refrigerator."
     },
-    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until hot."
+    ],
     "presentationTips": [
         "Serve in a clay bowl for a rustic presentation.",
         "Garnish with a wedge of lemon for added zest."

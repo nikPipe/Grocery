@@ -1,0 +1,132 @@
+{
+    "id": "Laccha_Paratha_Recipe",
+    "name": "Laccha Paratha",
+    "origin": "India",
+    "history": "Laccha Paratha is an Indian flatbread that gained popularity in North India. Its name 'Laccha' means 'layers', reflecting the unique layered texture of this bread, which is a result of its distinctive folding and rolling technique.",
+    "description": "Laccha Paratha is a flaky, layered flatbread made from whole wheat flour. It is known for its crispy, multi-layered texture, achieved through a series of pleats and rolls before cooking on a griddle. It's often served with rich curries and gravies.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "40"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "rolling pin",
+            "description": "For rolling the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "flat griddle or tawa",
+            "description": "For cooking the parathas.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "whole wheat flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "4 tablespoons",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "Mix whole wheat flour and salt. Gradually add water and knead into a soft dough. Let it rest for 15 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Roll and Layer the Parathas",
+            "description": "Divide the dough into equal portions. Roll each portion into a large circle, apply ghee or oil, and fold into pleats. Roll up the pleated dough into a spiral, then flatten and roll out into a circle again."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Parathas",
+            "description": "Heat a griddle and cook each paratha with ghee or oil until golden brown spots appear on both sides."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the hot laccha parathas with curry, dal, or yogurt."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per paratha",
+        "carbohydrates": "30g",
+        "protein": "4g",
+        "fat": "7g",
+        "fiber": "4g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "The key to perfect layers is in the rolling and pleating technique.",
+        "Cook on medium heat for even cooking and crispiness."
+    ],
+    "variations": [
+        "Add spices like cumin or carom seeds for a flavorful twist.",
+        "Stuff with vegetables or paneer for a stuffed version."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh but can be stored in an airtight container for up to 24 hours.",
+        "instructions": "Reheat on a griddle before serving if stored."
+    },
+    "reheatingInstructions": "Reheat on a hot griddle or tawa until warm and soft.",
+    "presentationTips": [
+        "Serve stacked on a platter, showcasing the layers.",
+        "Accompany with a variety of dips and side dishes for a complete meal."
+    ],
+    "keywords": [
+        "Laccha Paratha",
+        "Layered Indian Flatbread",
+        "Crispy Paratha"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

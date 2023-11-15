@@ -48,7 +48,7 @@
             }
         },
         {
-            "item": "cumin seeds (jeera)",
+            "item": "cumin seeds",
             "quantity": "2 teaspoons",
             "weight": {
                 "value": "10",
@@ -112,7 +112,7 @@
             }
         },
         {
-            "item": "fresh coriander leaves, chopped",
+            "item": "coriander leaves",
             "quantity": "for garnish",
             "weight": {
                 "value": "10",
@@ -165,7 +165,9 @@
         "shelfLife": "Can be refrigerated for up to 2 days.",
         "instructions": "Store in an airtight container in the refrigerator."
     },
-    "reheatingInstructions": "Reheat in a microwave or on a stove until warm.",
+    "reheatingInstructions": [
+        "Reheat in a microwave or on a stove until warm."
+    ],
     "presentationTips": [
         "Serve in a decorative bowl, garnished with extra spices or herbs.",
         "Pair with a raita or a side of your choice for a complete meal."

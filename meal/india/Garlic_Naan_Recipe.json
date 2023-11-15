@@ -2,8 +2,8 @@
     "id": "Garlic_Naan_Recipe",
     "name": "Garlic Naan",
     "origin": "India",
-    "history": "Garlic Naan is a variation of the traditional Naan, a popular Indian flatbread. Infused with the flavor of garlic, it has become a favorite in Indian cuisine and is often served in restaurants and households alike.",
-    "description": "Garlic Naan is a soft, leavened flatbread made from refined flour, enriched with garlic. It is typically cooked in a tandoor or on a skillet, resulting in a deliciously aromatic and slightly charred bread, perfect for pairing with curries and gravies.",
+    "history": "Garlic Naan is a variation of the classic Naan bread, popular in Indian cuisine. Infused with garlic, this flatbread has gained popularity for its aromatic flavor and is often served in restaurants and households alike.",
+    "description": "Garlic Naan is a soft, leavened flatbread made from all-purpose flour and flavored with garlic. It is cooked on a hot surface and typically brushed with butter or ghee, offering a delightful combination of soft texture and rich, garlicky taste.",
     "servings": "1",
     "dietTypes": [
         "Vegetarian"
@@ -11,7 +11,7 @@
     "time": {
         "preparationTime": {
             "unit": "Minute",
-            "value": "30"
+            "value": "20"
         },
         "cookingTime": {
             "unit": "Minute",
@@ -19,22 +19,29 @@
         },
         "totalTime": {
             "unit": "Minute",
-            "value": "45"
+            "value": "35"
         }
     },
     "mealtime": [
-        "Any"
+        "Lunch",
+        "Dinner"
     ],
     "equipment": [
         {
             "name": "mixing bowl",
-            "description": "For preparing the dough.",
-            "imageURL": ""
+            "description": "For preparing the dough."
         },
         {
-            "name": "tawa or skillet",
-            "description": "For cooking the naans.",
-            "imageURL": ""
+            "name": "rolling pin",
+            "description": "For rolling out the dough."
+        },
+        {
+            "name": "cast iron skillet or heavy pan",
+            "description": "For cooking the naan."
+        },
+        {
+            "name": "garlic press",
+            "description": "For crushing the garlic."
         }
     ],
     "ingredients": [
@@ -50,15 +57,39 @@
             "item": "dry yeast",
             "quantity": "1 teaspoon",
             "weight": {
-                "value": "5",
+                "value": "3.5",
                 "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "3/4 cup",
+            "weight": {
+                "value": "180",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "milk",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
             }
         },
         {
             "item": "sugar",
             "quantity": "1 teaspoon",
             "weight": {
-                "value": "5",
+                "value": "4",
                 "unit": "g"
             }
         },
@@ -71,42 +102,18 @@
             }
         },
         {
-            "item": "yogurt",
-            "quantity": "1/4 cup",
-            "weight": {
-                "value": "60",
-                "unit": "ml"
-            }
-        },
-        {
-            "item": "warm water",
-            "quantity": "as needed",
-            "weight": {
-                "value": "Variable",
-                "unit": "ml"
-            }
-        },
-        {
             "item": "garlic",
+            "quantity": "3 cloves",
+            "weight": {
+                "value": "9",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "butter",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "30",
-                "unit": "g"
-            }
-        },
-        {
-            "item": "oil",
-            "quantity": "for brushing",
-            "weight": {
-                "value": "Variable",
-                "unit": "g"
-            }
-        },
-        {
-            "item": "coriander leaves",
-            "quantity": "for garnish",
-            "weight": {
-                "value": "10",
                 "unit": "g"
             }
         }
@@ -115,56 +122,55 @@
         {
             "step": "1",
             "title": "Prepare the Dough",
-            "description": "Dissolve yeast and sugar in warm water. Let it sit for 10 minutes until frothy. In a mixing bowl, combine flour, salt, and yogurt. Add the yeast mixture and knead into a soft dough. Cover and let it rest for 2-3 hours."
+            "description": "Dissolve yeast and sugar in warm water. In a mixing bowl, combine all-purpose flour, salt, yeast mixture, yogurt, milk, and minced garlic. Knead into a soft dough. Cover and let it rise until doubled in size."
         },
         {
             "step": "2",
-            "title": "Roll the Naans",
-            "description": "Divide the dough into small balls. Roll each ball into an oval shape. Press minced garlic onto the surface of each naan."
+            "title": "Roll and Cook Naan",
+            "description": "Divide the dough into balls. Roll each ball into an oval shape. Heat a cast iron skillet or heavy pan. Cook each naan until it puffs up and brown spots appear, then flip and cook the other side. Brush with ghee or butter."
         },
         {
             "step": "3",
-            "title": "Cook the Naans",
-            "description": "Heat a tawa or skillet. Place the rolled naan on it and cook until bubbles appear. Flip and cook the other side until brown spots appear. Brush with butter or ghee."
-        },
-        {
-            "step": "4",
             "title": "Serve",
-            "description": "Garnish with chopped cilantro. Serve hot with curries, dal, or as a standalone snack."
+            "description": "Serve the garlic naan warm with your choice of curry, dal, or other Indian dishes."
         }
     ],
     "nutrition": {
         "calories": "220 per naan",
-        "carbohydrates": "40g",
+        "carbohydrates": "38g",
         "protein": "6g",
-        "fat": "4g",
+        "fat": "5g",
         "fiber": "2g",
         "sugar": "2g"
     },
     "tips": [
-        "Ensure the water is warm, not hot, to activate the yeast properly.",
-        "The dough should be soft and pliable for the best texture."
+        "The dough should be soft and pliable for the best texture.",
+        "Fresh garlic imparts a more intense flavor than garlic powder."
     ],
     "variations": [
-        "Add herbs like dried fenugreek leaves (kasuri methi) for additional flavor.",
-        "Stuff with cheese or spiced potato filling for a different twist."
+        "Top with chopped cilantro or sesame seeds before serving for added flavor and texture.",
+        "Experiment with stuffed garlic naan fillings like cheese or spiced potatoes."
     ],
     "images": {
         "main": ""
     },
     "storage": {
-        "shelfLife": "Best consumed fresh but can be stored in an airtight container for up to 24 hours.",
+        "shelfLife": "Best consumed fresh. Can be stored in an airtight container for up to 1 day.",
         "instructions": "Reheat on a skillet before serving if stored."
     },
-    "reheatingInstructions": "Reheat on a hot skillet or tawa until warm and soft.",
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat on a skillet or in a microwave until warm."
+        }
+    ],
     "presentationTips": [
-        "Serve in a basket lined with a cloth to keep the naan warm.",
-        "Pair with a variety of dips and side dishes for a complete meal."
+        "Serve on a platter with a side of mint chutney or yogurt.",
+        "Garnish with a sprinkle of fresh cilantro or a wedge of lemon."
     ],
     "keywords": [
         "Garlic Naan",
         "Indian Flatbread",
-        "Leavened Garlic Bread"
+        "Garlic Flavored Bread"
     ],
     "allergens": [
         "Gluten",

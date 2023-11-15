@@ -35,7 +35,7 @@
     ],
     "ingredients": [
         {
-            "item": "cooked rice, preferably chilled",
+            "item": "rice",
             "quantity": "2 cups",
             "weight": {
                 "value": "400",
@@ -43,7 +43,7 @@
             }
         },
         {
-            "item": "carrots, finely chopped",
+            "item": "carrots",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "50",
@@ -51,7 +51,7 @@
             }
         },
         {
-            "item": "bell pepper, finely chopped",
+            "item": "bell pepper",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "50",
@@ -59,7 +59,7 @@
             }
         },
         {
-            "item": "green peas, frozen or fresh",
+            "item": "green peas",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "50",
@@ -67,7 +67,7 @@
             }
         },
         {
-            "item": "green onions, chopped",
+            "item": "green onions",
             "quantity": "1/4 cup",
             "weight": {
                 "value": "25",
@@ -123,8 +123,8 @@
         },
         {
             "step": "2",
-            "title": "Saut\u00c3\u00a9 Vegetables",
-            "description": "Add the garlic and saut\u00c3\u00a9 for a minute. Then add the carrots, bell pepper, and peas, cooking until they are just tender."
+            "title": "Saut Vegetables",
+            "description": "Add the garlic and saut for a minute. Then add the carrots, bell pepper, and peas, cooking until they are just tender."
         },
         {
             "step": "3",

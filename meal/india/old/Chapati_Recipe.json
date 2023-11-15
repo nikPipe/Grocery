@@ -1,0 +1,127 @@
+{
+    "id": "Chapati_Recipe",
+    "name": "Chapati",
+    "origin": "India",
+    "history": "Chapati, also known as roti, is a traditional Indian flatbread. It's a staple in many parts of India and is known for its simplicity, made with just flour and water. Chapati has been a part of Indian cuisine for centuries.",
+    "description": "Chapati is a thin, unleavened flatbread made from whole wheat flour. It is cooked on a hot griddle and often served with various curries, dals, and vegetables. Chapati is appreciated for its light, soft texture and wholesome taste.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "rolling pin",
+            "description": "For rolling the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "flat griddle or tawa",
+            "description": "For cooking the chapati.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "whole wheat flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for brushing",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "Mix whole wheat flour and salt. Gradually add water and knead to form a soft, pliable dough. Let it rest for 15 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Roll and Cook the Chapatis",
+            "description": "Divide the dough into small balls. Roll each ball into a thin, flat circle. Cook each chapati on a hot griddle, flipping once one side is cooked and small bubbles appear on the other side. Optionally, brush with oil or ghee."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Serve the hot chapatis with curries, dals, or any other side dish."
+        }
+    ],
+    "nutrition": {
+        "calories": "80 per chapati",
+        "carbohydrates": "17g",
+        "protein": "3g",
+        "fat": "1g",
+        "fiber": "3g",
+        "sugar": "0g"
+    },
+    "tips": [
+        "The dough should be soft and non-sticky for the best results.",
+        "Press gently while cooking to ensure even browning."
+    ],
+    "variations": [
+        "Add herbs or spices like cumin seeds to the dough for added flavor.",
+        "Stuff with vegetables or lentils to make stuffed chapatis."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh but can be stored in an airtight container for up to 24 hours.",
+        "instructions": "Reheat on a griddle before serving if stored."
+    },
+    "reheatingInstructions": "Reheat on a hot griddle or tawa until warm and soft.",
+    "presentationTips": [
+        "Serve in a traditional roti basket lined with a cloth.",
+        "Pair with a variety of dips and side dishes for a complete meal."
+    ],
+    "keywords": [
+        "Chapati",
+        "Indian Flatbread",
+        "Whole Wheat Bread"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

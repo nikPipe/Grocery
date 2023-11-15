@@ -43,7 +43,7 @@
     ],
     "ingredients": [
         {
-            "item": "whole wheat flour (or millet/rice flour for gluten-free option)",
+            "item": "whole wheat flour",
             "quantity": "1 cup",
             "weight": {
                 "value": "120",

@@ -39,7 +39,7 @@
     ],
     "ingredients": [
         {
-            "item": "raw mango, diced",
+            "item": "raw mango",
             "quantity": "1 cup",
             "weight": {
                 "value": "150",
@@ -47,7 +47,7 @@
             }
         },
         {
-            "item": "carrots, diced",
+            "item": "carrots",
             "quantity": "1 cup",
             "weight": {
                 "value": "150",
@@ -55,7 +55,7 @@
             }
         },
         {
-            "item": "lemons, diced",
+            "item": "lemon",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "75",
@@ -71,7 +71,7 @@
             }
         },
         {
-            "item": "mustard seeds, powdered",
+            "item": "mustard seeds",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "30",
@@ -79,7 +79,7 @@
             }
         },
         {
-            "item": "fenugreek seeds, powdered",
+            "item": "fenugreek seeds",
             "quantity": "1 tablespoon",
             "weight": {
                 "value": "15",
@@ -180,7 +180,9 @@
         "shelfLife": "Can be stored for several months in a cool, dry place.",
         "instructions": "Keep the jar tightly closed. Use a dry spoon for serving."
     },
-    "reheatingInstructions": "No reheating required.",
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
     "presentationTips": [
         "Serve in a small bowl or directly from the jar.",
         "Accompany with a platter of Indian bread and curries."

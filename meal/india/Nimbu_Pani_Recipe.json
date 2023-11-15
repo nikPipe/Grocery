@@ -43,7 +43,7 @@
             }
         },
         {
-            "item": "cold water",
+            "item": "water",
             "quantity": "2 cups",
             "weight": {
                 "value": "480",
@@ -67,7 +67,7 @@
             }
         },
         {
-            "item": "mint leaves (optional)",
+            "item": "mint leaves",
             "quantity": "a few",
             "weight": {
                 "value": "2",
@@ -75,7 +75,7 @@
             }
         },
         {
-            "item": "roasted cumin powder (optional)",
+            "item": "cumin powder",
             "quantity": "1/4 teaspoon",
             "weight": {
                 "value": "1",

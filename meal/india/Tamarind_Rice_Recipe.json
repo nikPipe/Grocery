@@ -41,7 +41,7 @@
     ],
     "ingredients": [
         {
-            "item": "basmati rice or short-grain rice",
+            "item": "rice",
             "quantity": "1 cup",
             "weight": {
                 "value": "200",
@@ -129,7 +129,7 @@
             }
         },
         {
-            "item": "sesame oil",
+            "item": "oil",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "30",
@@ -145,7 +145,7 @@
             }
         },
         {
-            "item": "jaggery or sugar (optional)",
+            "item": "sugar",
             "quantity": "1 teaspoon",
             "weight": {
                 "value": "4",

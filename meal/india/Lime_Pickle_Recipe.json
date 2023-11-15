@@ -39,7 +39,7 @@
     ],
     "ingredients": [
         {
-            "item": "limes, quartered",
+            "item": "limes",
             "quantity": "10",
             "weight": {
                 "value": "500",
@@ -63,7 +63,7 @@
             }
         },
         {
-            "item": "mustard seeds, powdered",
+            "item": "mustard seeds",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "30",
@@ -71,7 +71,7 @@
             }
         },
         {
-            "item": "fenugreek seeds, powdered",
+            "item": "fenugreek seeds",
             "quantity": "1 teaspoon",
             "weight": {
                 "value": "5",
@@ -153,7 +153,9 @@
         "shelfLife": "Can be stored for up to a year in a cool, dry place.",
         "instructions": "Use a dry, clean spoon for serving. Keep the jar tightly closed."
     },
-    "reheatingInstructions": "No reheating required.",
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
     "presentationTips": [
         "Serve in a small bowl or directly from the jar.",
         "Pair with a platter of Indian bread and curries for a complete meal."

@@ -35,7 +35,7 @@
     ],
     "ingredients": [
         {
-            "item": "fresh cilantro (coriander leaves)",
+            "item": "cilantro",
             "quantity": "1 cup",
             "weight": {
                 "value": "40",
@@ -59,7 +59,7 @@
             }
         },
         {
-            "item": "ginger, chopped",
+            "item": "ginger",
             "quantity": "1 inch piece",
             "weight": {
                 "value": "10",
@@ -99,7 +99,7 @@
             }
         },
         {
-            "item": "sugar (optional)",
+            "item": "sugar",
             "quantity": "1 teaspoon",
             "weight": {
                 "value": "4",
@@ -107,7 +107,7 @@
             }
         },
         {
-            "item": "roasted cumin powder (optional)",
+            "item": "cumin powder",
             "quantity": "1/2 teaspoon",
             "weight": {
                 "value": "2",
@@ -160,7 +160,9 @@
         "shelfLife": "Can be refrigerated in an airtight container for up to 1 week.",
         "instructions": "Store in the refrigerator and use a clean, dry spoon for serving."
     },
-    "reheatingInstructions": "No reheating required.",
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
     "presentationTips": [
         "Serve in a small bowl or traditional chutney dish.",
         "Garnish with a sprig of mint or a slice of lemon for added appeal."

@@ -118,7 +118,9 @@
         "shelfLife": "Can be refrigerated for up to 3 days.",
         "instructions": "Store in an airtight container in the refrigerator."
     },
-    "reheatingInstructions": "Reheat in a microwave or on a stovetop with a little added water.",
+    "reheatingInstructions": [
+        "Reheat in a microwave or on a stovetop with a little added water."
+    ],
     "presentationTips": [
         "Serve in a decorative bowl, garnished with fresh herbs or fried onions.",
         "Pair with curries, dal, or grilled meats for a complete meal."
