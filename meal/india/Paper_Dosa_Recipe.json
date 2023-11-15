@@ -95,9 +95,9 @@
         "shelfLife": "Best consumed immediately. Dosa batter can be stored in the refrigerator for up to 2 days.",
         "instructions": "Store unused batter in an airtight container in the refrigerator."
     },
-    "reheatingInstructions": {
+    "reheatingInstructions": [
         "Reheat on a griddle or pan until crispy."
-    },
+    ],
     "presentationTips": [
         "Serve on a large plate to showcase the size of the dosa.",
         "Garnish with a side of coconut chutney and a bowl of sambar."

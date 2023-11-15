@@ -1,0 +1,194 @@
+{
+    "id": "Puliyogare_Recipe",
+    "name": "Puliyogare",
+    "origin": "India",
+    "history": "Puliyogare, also known as Tamarind Rice, is a traditional South Indian dish particularly popular in Karnataka and Tamil Nadu. It's known for its tangy and spicy flavor, and it's often served during festivals and as prasadam in temples.",
+    "description": "Puliyogare is a flavorful rice dish made with cooked rice, tamarind extract, and a specific Puliyogare masala comprising spices and peanuts. It's a balance of sour, sweet, and spicy flavors and is often enjoyed as a meal on its own.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For preparing the tamarind mixture."
+        },
+        {
+            "name": "pot",
+            "description": "For cooking rice."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tamarind paste",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "jaggery",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Puliyogare masala",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida (hing)",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dry red chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "peanuts",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sesame oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Cook Rice",
+            "description": "Cook the rice until it's fluffy and set it aside to cool."
+        },
+        {
+            "step": "2",
+            "title": "Prepare Tamarind Mixture",
+            "description": "In a pan, heat sesame oil. Add mustard seeds, asafoetida, dry red chilies, curry leaves, and peanuts. Sauté until the peanuts are roasted. Then add tamarind paste, Puliyogare masala, jaggery, and salt. Cook until the mixture thickens."
+        },
+        {
+            "step": "3",
+            "title": "Mix Rice with Tamarind Mixture",
+            "description": "Add the cooked rice to the tamarind mixture and mix well, ensuring the rice is evenly coated with the spices."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Puliyogare hot or at room temperature. It can be accompanied by papad or raita."
+        }
+    ],
+    "nutrition": {
+        "calories": "360 per serving",
+        "carbohydrates": "60g",
+        "protein": "8g",
+        "fat": "12g",
+        "fiber": "4g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Ensure that the rice grains are separate and not mushy for the best texture.",
+        "Adjust the amount of tamarind and jaggery to balance the tanginess and sweetness."
+    ],
+    "variations": [
+        "Add a handful of roasted cashews for crunch.",
+        "Incorporate some green peas or diced carrots for added nutrition and color."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat on the stove over low heat, adding a little water if the rice has dried out."
+        }
+    ],
+    "presentationTips": [
+        "Garnish with fresh coriander leaves and a wedge of lemon.",
+        "Serve in a traditional brass or copper bowl for an authentic look."
+    ],
+    "keywords": [
+        "Puliyogare",
+        "Tamarind Rice",
+        "South Indian Rice Dish"
+    ],
+    "allergens": [
+        "Peanuts"
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "id": "Nannari_Sarbath_Recipe",
+    "name": "Nannari Sarbath",
+    "origin": "India",
+    "history": "Nannari Sarbath is a traditional South Indian beverage, particularly popular in Tamil Nadu and Kerala. It's made from the roots of the Nannari plant (Sarsaparilla), known for its cooling properties and health benefits, especially in the summer.",
+    "description": "Nannari Sarbath is a refreshing drink prepared from Nannari syrup, which is made by boiling the roots of the Nannari plant with water and sugar. This drink is often served chilled with lemon juice and is known for its unique flavor and cooling effect.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "10"
+        }
+    },
+    "mealtime": ["Anytime"],
+    "equipment": [
+        {
+            "name": "mixing glass or jar",
+            "description": "For mixing the drink."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "Nannari syrup",
+            "quantity": "3 tablespoons",
+            "weight": {
+                "value": "45",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "lemon juice",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cold water",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "ice cubes",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar (optional)",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mint leaves (optional)",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Mix Ingredients",
+            "description": "In a glass or jar, mix the Nannari syrup and lemon juice. Add sugar if desired."
+        },
+        {
+            "step": "2",
+            "title": "Add Water and Ice",
+            "description": "Fill the glass with cold water and stir well. Add ice cubes."
+        },
+        {
+            "step": "3",
+            "title": "Garnish and Serve",
+            "description": "Garnish with mint leaves, if using. Serve the Nannari Sarbath chilled."
+        }
+    ],
+    "nutrition": {
+        "calories": "70 per serving",
+        "carbohydrates": "18g",
+        "protein": "0g",
+        "fat": "0g",
+        "fiber": "0g",
+        "sugar": "17g"
+    },
+    "tips": [
+        "Adjust the amount of Nannari syrup according to your taste preferences.",
+        "Squeeze fresh lemon juice for the best flavor."
+    ],
+    "variations": [
+        "Add a pinch of black salt for a different taste.",
+        "Combine with soda instead of water for a fizzy version."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh.",
+        "instructions": "Prepare fresh for each serving; not recommended for storage."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Nannari Sarbath is a cold beverage and does not require reheating."
+        }
+    ],
+    "presentationTips": [
+        "Serve in a tall glass with a straw.",
+        "Garnish with a slice of lemon on the rim for an appealing look."
+    ],
+    "keywords": [
+        "Nannari Sarbath",
+        "Traditional Indian Drink",
+        "Sarsaparilla Beverage"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

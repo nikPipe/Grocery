@@ -1,0 +1,175 @@
+{
+    "id": "Sesame_Rice_Recipe",
+    "name": "Sesame Rice",
+    "origin": "India",
+    "history": "Sesame Rice, known as Ellu Sadam in Tamil Nadu, is a traditional South Indian dish. It's particularly popular in Tamil Nadu and Karnataka. This dish is often prepared during festivals and auspicious occasions, with sesame seeds being the star ingredient.",
+    "description": "Sesame Rice is a flavorful and aromatic dish made with roasted sesame seeds, spices, and cooked rice. It's known for its nutty flavor and is often eaten as a main course or a side dish. Sesame seeds add a unique taste and are believed to have health benefits.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "25"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For roasting sesame seeds and spices."
+        },
+        {
+            "name": "pot",
+            "description": "For cooking rice."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "sesame seeds",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cooked rice",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "400",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dry red chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal (split black lentils)",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida (hing)",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Roast Sesame Seeds",
+            "description": "Dry roast the sesame seeds in a pan until they turn golden brown and aromatic. Set aside to cool."
+        },
+        {
+            "step": "2",
+            "title": "Grind Sesame Seeds",
+            "description": "Once cooled, grind the roasted sesame seeds to a coarse powder."
+        },
+        {
+            "step": "3",
+            "title": "Prepare Tempering",
+            "description": "Heat oil in the same pan. Add mustard seeds, urad dal, dry red chilies, asafoetida, and curry leaves. Sauté until the dal turns golden brown."
+        },
+        {
+            "step": "4",
+            "title": "Mix with Rice",
+            "description": "Add the ground sesame powder and salt to the tempered spices. Mix well. Add this mixture to the cooked rice and mix gently until well combined."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the Sesame Rice warm or at room temperature."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "45g",
+        "protein": "8g",
+        "fat": "12g",
+        "fiber": "4g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "Ensure the sesame seeds are not over-roasted as they can turn bitter.",
+        "Adjust the number of red chilies according to your spice preference."
+    ],
+    "variations": [
+        "Add a pinch of jaggery for a hint of sweetness.",
+        "Incorporate a handful of roasted peanuts for a crunchy texture."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat gently in a microwave or on the stove, adding a little water if the rice has dried out."
+        }
+    ],
+    "presentationTips": [
+        "Garnish with additional sesame seeds and a sprig of curry leaves.",
+        "Serve in a traditional bowl with a side of yogurt or raita."
+    ],
+    "keywords": [
+        "Sesame Rice",
+        "Ellu Sadam",
+        "South Indian Rice Dish"
+    ],
+    "allergens": [
+        "Sesame"
+    ]
+}

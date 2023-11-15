@@ -43,8 +43,8 @@
         "Peanut Chutney": "Peanut_Chutney_Recipe",
         "Garlic Chutney": "Garlic_Chutney_Recipe",
         "Red Chilli Chutney": "Red_Chilli_Chutney_Recipe",
-        "Onion Chutney": 365,
-        "Yogurt Chutney": 366
+        "Onion Chutney": "Onion_Chutney_Recipe",
+        "Yogurt Chutney": "Yogurt_Chutney_Recipe"
       }
     },
     "rice": {
@@ -54,12 +54,12 @@
         "Coconut Rice": "Coconut_Rice_Recipe",
         "Curd Rice": "Curd_Rice_Recipe",
         "Tomato Rice": "Tomato_Rice_Recipe",
-        "Bisi Bele Bath": 461,
-        "Puliogare": 462,
-        "Mango Rice": 463,
-        "Sesame Rice": 464,
+        "Bisi Bele Bath": "Bisi_Bele_Bath_Recipe",
+        "Puliogare": "Puliyogare_Recipe",
+        "Mango Rice": "Mango_Rice_Recipe",
+        "Sesame Rice": "Sesame_Rice_Recipe",
         "Vegetable Biryani": "Vegetable_Biryani_Recipe",
-        "Karnataka Style Bisi Bele Bath": 466
+        "Karnataka Style Bisi Bele Bath": "Karnataka_Style_Bisi_Bele_Bath_Recipe"
       }
     },
     "drink": {
@@ -71,9 +71,9 @@
         "Mango Lassi": "Mango_Lassi_Recipe",
         "Rose Milk": "Rose_Milk_Recipe",
         "Sugarcane Juice": "Sugarcane_Juice_Recipe",
-        "Nannari Sarbath": 563,
+        "Nannari Sarbath": "Nannari_Sarbath_Recipe",
         "Lemonade": "Lemonade_Recipe",
-        "Jigarthanda": 565,
+        "Jigarthanda": "Jigarthanda_Recipe",
         "Elaneer": 566
       }
     }
