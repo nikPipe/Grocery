@@ -1,0 +1,199 @@
+{
+    "id": "Methi_Thepla_Recipe",
+    "name": "Methi Thepla",
+    "origin": "India",
+    "history": "Methi Thepla is a traditional Gujarati flatbread made with fresh fenugreek leaves (methi). It's a staple in Gujarati cuisine and is known for its delicious taste and health benefits.",
+    "description": "Methi Thepla is a soft, flavorful flatbread made from wheat flour mixed with fenugreek leaves and spices. It's a versatile dish, often enjoyed as a breakfast item, snack, or during travels.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner",
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "Used for preparing the dough."
+        },
+        {
+            "name": "rolling pin",
+            "imageURL": "",
+            "description": "Used for rolling out the theplas."
+        },
+        {
+            "name": "flat pan or tawa",
+            "imageURL": "",
+            "description": "Used for cooking the theplas."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "whole wheat flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek leaves",
+            "quantity": "1 cup, finely chopped",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sesame seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carom seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for cooking and kneading",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as required to make a soft dough",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, combine the wheat flour, chopped fenugreek leaves, yogurt, ginger-garlic paste, turmeric powder, red chili powder, sesame seeds, carom seeds, salt, and a little oil. Gradually add water and knead to form a soft dough."
+        },
+        {
+            "step": "2",
+            "title": "Roll the Theplas",
+            "description": "Divide the dough into small balls. Using a rolling pin, roll each ball into a thin, round thepla on a lightly floured surface."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Theplas",
+            "description": "Heat a flat pan or tawa. Place a thepla on it and cook until small bubbles appear. Flip it over, apply oil, and cook until both sides are golden brown."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Methi Theplas hot with yogurt, pickle, or any chutney of your choice."
+        }
+    ],
+    "nutrition": {
+        "calories": 250,
+        "carbohydrates": "40g",
+        "protein": "6g",
+        "fat": "7g",
+        "saturatedFat": "1g",
+        "cholesterol": "0mg",
+        "sodium": "300mg",
+        "potassium": "200mg",
+        "fiber": "5g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "The dough should be soft and pliable for the best results.",
+        "Using yogurt in the dough helps to make the theplas soft."
+    ],
+    "variations": [
+        "Add grated bottle gourd (lauki) or carrots for a nutritional boost.",
+        "Spice it up with additional green chilies or garam masala."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Methi Theplas can be stored in the refrigerator for up to 2 days.",
+        "instructions": "Store in an airtight container to retain freshness."
+    },
+    "reheatingInstructions": "Reheat on a tawa or in a microwave until warm.",
+    "presentationTips": [
+        "Garnish with fresh coriander leaves and serve on a traditional thali for an authentic experience."
+    ],
+    "keywords": [
+        "methi thepla",
+        "fenugreek flatbread",
+        "Gujarati cuisine"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

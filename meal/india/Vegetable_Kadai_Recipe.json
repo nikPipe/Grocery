@@ -1,0 +1,223 @@
+{
+    "id": "Vegetable_Kadai_Recipe",
+    "name": "Vegetable Kadai",
+    "origin": "India",
+    "history": "Vegetable Kadai, a popular dish in Indian cuisine, is known for its rich and aromatic gravy. Traditionally cooked in a Kadai (a type of Indian wok), this dish includes a variety of vegetables and is spiced with a special blend of masalas.",
+    "description": "Vegetable Kadai is a flavorful Indian curry made with mixed vegetables, cooked in a tomato-based sauce, and seasoned with a blend of spices. It's often garnished with fresh coriander and served with Indian bread or rice.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "kadai or wok",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "mixed vegetables (carrots, bell peppers, cauliflower, peas)",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "300",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "kasuri methi (dried fenugreek leaves)",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "fresh coriander leaves, chopped",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Saut\u00c3\u00a9 the Vegetables",
+            "description": "Heat oil in a kadai. Add cumin seeds, and once they splutter, add onions, ginger-garlic paste, and green chilies. Saut\u00c3\u00a9 until onions turn golden."
+        },
+        {
+            "step": "2",
+            "title": "Add Spices and Tomatoes",
+            "description": "Add coriander powder, red chili powder, turmeric powder, and garam masala. Mix well. Add chopped tomatoes and cook until they soften."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Vegetables",
+            "description": "Add the mixed vegetables to the kadai. Season with salt. Add water as needed, cover, and cook until the vegetables are tender."
+        },
+        {
+            "step": "4",
+            "title": "Add Finishing Touches",
+            "description": "Sprinkle kasuri methi over the curry. Cook for another 2-3 minutes."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with fresh coriander leaves. Serve hot with naan, roti, or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per serving",
+        "carbohydrates": "25g",
+        "protein": "5g",
+        "fat": "10g",
+        "fiber": "6g",
+        "sugar": "8g"
+    },
+    "tips": [
+        "Cut vegetables into even sizes for uniform cooking.",
+        "Adjust the amount of chili to control the spice level."
+    ],
+    "variations": [
+        "Add paneer or tofu for extra protein.",
+        "Experiment with different combinations of vegetables based on preference."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until hot."
+    ],
+    "presentationTips": [
+        "Serve in a traditional Indian serving dish for an authentic experience.",
+        "Garnish with a lemon wedge and onion rings for added flavor and appeal."
+    ],
+    "keywords": [
+        "Vegetable Kadai",
+        "Indian Curry",
+        "Mixed Vegetable Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "id": "Rava_Idli_Recipe",
+    "name": "Rava Idli",
+    "origin": "India",
+    "history": "Rava Idli, originating from Karnataka, is a variation of the traditional idli. It's made from semolina (rava) and is a popular breakfast dish, known for its quick preparation time.",
+    "description": "Rava Idli is a soft, spongy, and savory cake made from semolina, yogurt, and a leavening agent. It's often flavored with cashews, mustard seeds, and curry leaves, and served with chutney or sambar.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "idli steamer or cooker",
+            "imageURL": "",
+            "description": "Used for steaming the idlis."
+        },
+        {
+            "name": "pan",
+            "imageURL": "",
+            "description": "Used for tempering the spices."
+        },
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "Used for preparing the batter."
+        },
+        {
+            "name": "idli molds",
+            "imageURL": "",
+            "description": "Used for shaping the idlis."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "semolina",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "360",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "baking soda",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "a few",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cashew nuts",
+            "quantity": "10",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Batter",
+            "description": "Roast the semolina in a pan until slightly aromatic. Let it cool. Mix the semolina with yogurt, water, and salt to form a batter. Allow it to rest for 15-20 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Temper the Spices",
+            "description": "Heat oil in a pan, add mustard seeds, cumin seeds, green chilies, curry leaves, and cashews. Saut\u00c3\u00a9 and then add this tempering to the batter. Mix in the chopped coriander."
+        },
+        {
+            "step": "3",
+            "title": "Steam the Idlis",
+            "description": "Just before steaming, add baking soda to the batter and mix well. Pour the batter into greased idli molds and steam for 10-15 minutes until done."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Rava Idlis hot with coconut chutney or sambar."
+        }
+    ],
+    "nutrition": {
+        "calories": 200,
+        "carbohydrates": "35g",
+        "protein": "6g",
+        "fat": "6g",
+        "saturatedFat": "1g",
+        "cholesterol": "5mg",
+        "sodium": "300mg",
+        "potassium": "150mg",
+        "fiber": "2g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "The consistency of the batter should be similar to regular idli batter, not too thick or too thin.",
+        "Allow the batter to rest so that the semolina absorbs the yogurt, creating a fluffier idli."
+    ],
+    "variations": [
+        "Add grated vegetables like carrots or ginger for extra flavor and nutrition.",
+        "Experiment with different nuts or seeds for added crunch and taste."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Rava Idli batter can be refrigerated for up to 1 day. Cooked idlis should be consumed fresh.",
+        "instructions": "Store the batter in an airtight container in the refrigerator. Reheat idlis in a steamer or microwave."
+    },
+    "reheatingInstructions": "Reheat in a steamer or microwave until warm.",
+    "presentationTips": [
+        "Serve on a platter garnished with grated coconut and a sprig of curry leaf."
+    ],
+    "keywords": [
+        "rava idli",
+        "semolina idli",
+        "Indian breakfast"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

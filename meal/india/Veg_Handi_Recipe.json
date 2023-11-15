@@ -1,0 +1,231 @@
+{
+    "id": "Veg_Handi_Recipe",
+    "name": "Veg Handi",
+    "origin": "India",
+    "history": "Veg Handi is a popular Indian dish known for its rich and creamy texture. Traditionally cooked in a 'Handi' (a deep and wide-mouthed cooking vessel), this dish incorporates various vegetables and a blend of spices, embodying the essence of Indian cuisine.",
+    "description": "Veg Handi is a delicious Indian curry made with an assortment of vegetables, cooked in a creamy sauce with herbs and spices. This dish is often garnished with cream or coriander and served with Indian bread or rice.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "handi or heavy-bottomed pan",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "mixed vegetables (carrots, peas, bell peppers, cauliflower)",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "300",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cream or coconut milk",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "kasuri methi (dried fenugreek leaves)",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "fresh coriander leaves, chopped",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Saut\u00c3\u00a9 Onions and Spices",
+            "description": "Heat oil in a handi. Add cumin seeds and when they crackle, add onions, ginger-garlic paste, and green chilies. Saut\u00c3\u00a9 until onions are golden."
+        },
+        {
+            "step": "2",
+            "title": "Add Tomato Puree and Spices",
+            "description": "Stir in the tomato puree, coriander powder, turmeric powder, red chili powder, and garam masala. Cook until oil separates."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Vegetables",
+            "description": "Add the mixed vegetables, salt, and enough water to cook the vegetables. Cover and cook until they are tender."
+        },
+        {
+            "step": "4",
+            "title": "Add Cream and Kasuri Methi",
+            "description": "Lower the heat and add cream or coconut milk and kasuri methi. Simmer for a few minutes."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped coriander leaves. Serve hot with naan or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per serving",
+        "carbohydrates": "30g",
+        "protein": "6g",
+        "fat": "12g",
+        "fiber": "6g",
+        "sugar": "8g"
+    },
+    "tips": [
+        "Ensure vegetables are cut into uniform pieces for even cooking.",
+        "Adjust the spice levels according to your preference."
+    ],
+    "variations": [
+        "Substitute cream with yogurt for a tangy flavor.",
+        "Add paneer or tofu cubes for added protein."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2-3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until hot."
+    ],
+    "presentationTips": [
+        "Serve in a traditional clay pot or handi for an authentic presentation.",
+        "Garnish with ginger juliennes or a cream swirl for added appeal."
+    ],
+    "keywords": [
+        "Vegetable Kadai",
+        "Indian Curry",
+        "Mixed Vegetable Dish"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "id": "Ghee_Roast_Dosa_Recipe",
+    "name": "Ghee Roast Dosa",
+    "origin": "India",
+    "history": "Ghee Roast Dosa is a variation of the traditional South Indian dosa. It is particularly popular in Karnataka and is known for its rich flavor, thanks to the ghee (clarified butter) used in its preparation, making it a favorite among dosa enthusiasts.",
+    "description": "Ghee Roast Dosa is a thin, crispy, and flavorful crepe made from a fermented batter of rice and lentils, roasted in ghee. It's known for its golden brown texture and rich aroma, often served with chutney or sambar.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15 (excluding batter fermentation)"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "griddle or non-stick pan",
+            "description": "For cooking the dosa.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "dosa batter",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee (clarified butter)",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Batter",
+            "description": "Ensure that the dosa batter is at room temperature and well fermented."
+        },
+        {
+            "step": "2",
+            "title": "Heat the Griddle",
+            "description": "Heat a griddle or non-stick pan on medium heat. Sprinkle a few drops of water to check if it's hot enough (the water should sizzle)."
+        },
+        {
+            "step": "3",
+            "title": "Pour and Spread the Batter",
+            "description": "Pour a ladleful of batter in the center of the griddle. Quickly spread it in a circular motion to make a thin crepe."
+        },
+        {
+            "step": "4",
+            "title": "Add Ghee",
+            "description": "Drizzle ghee around the edges of the dosa and a little on top. Cook until the dosa turns golden brown and crispy."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Fold the dosa and remove it from the griddle. Serve hot with chutney or sambar."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per serving",
+        "carbohydrates": "35g",
+        "protein": "6g",
+        "fat": "10g",
+        "fiber": "2g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "The griddle should be hot enough to make a thin and crispy dosa.",
+        "Use a non-stick pan if you are not experienced with making dosas on an iron griddle."
+    ],
+    "variations": [
+        "Add finely chopped onions or masala for a different flavor.",
+        "Experiment with different types of chutneys or sambar as accompaniments."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. Dosa batter can be stored in the refrigerator for up to 2 days.",
+        "instructions": "Store unused batter in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat on a griddle or pan until crispy."
+    ],
+    "presentationTips": [
+        "Serve on a banana leaf for an authentic South Indian experience.",
+        "Accompany with a dollop of butter on top for added richness."
+    ],
+    "keywords": [
+        "Ghee Roast Dosa",
+        "South Indian Cuisine",
+        "Crispy Crepe"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

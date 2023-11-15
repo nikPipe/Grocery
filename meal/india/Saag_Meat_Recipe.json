@@ -1,0 +1,234 @@
+{
+    "id": "Saag_Meat_Recipe",
+    "name": "Saag Meat",
+    "origin": "India",
+    "history": "Saag Meat, a North Indian dish, combines meat (typically mutton) with saag (leafy greens). It's a traditional Punjabi recipe, famous for its rich flavor and nutritious value.",
+    "description": "Saag Meat is a hearty dish where tender pieces of meat are cooked with spinach and other greens, infused with aromatic spices. It's a perfect blend of meaty richness and the earthiness of greens.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "60"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "80"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "cooking pot",
+            "description": "For cooking the meat and saag.",
+            "imageURL": ""
+        },
+        {
+            "name": "blender",
+            "description": "For pureeing the greens.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "mutton or lamb, cut into pieces",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "spinach, chopped",
+            "quantity": "2 bunches",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard greens, chopped",
+            "quantity": "1 bunch",
+            "weight": {
+                "value": "250",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "fresh coriander leaves, chopped",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Cook the Meat",
+            "description": "Heat oil in a pot. Add cumin seeds, onions, and ginger-garlic paste. Saut\u00c3\u00a9 until onions are golden. Add the meat, turmeric, coriander powder, red chili powder, and salt. Cook until meat is browned."
+        },
+        {
+            "step": "2",
+            "title": "Add Greens",
+            "description": "Add chopped spinach and mustard greens to the pot. Pour in enough water to cover the meat. Bring to a boil, then simmer until the meat is tender."
+        },
+        {
+            "step": "3",
+            "title": "Blend the Greens",
+            "description": "Once the meat is cooked, use a blender to puree the greens in the pot, creating a thick gravy."
+        },
+        {
+            "step": "4",
+            "title": "Add Final Spices",
+            "description": "Add chopped tomatoes, green chilies, and garam masala to the pot. Cook for an additional 10 minutes."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with fresh coriander leaves. Serve hot with naan or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "550 per serving",
+        "carbohydrates": "20g",
+        "protein": "50g",
+        "fat": "30g",
+        "fiber": "6g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Cook the meat on low heat for a longer time to make it tender and flavorful.",
+        "Adjust the amount of green chilies according to your spice preference."
+    ],
+    "variations": [
+        "Substitute mustard greens with other leafy greens like kale or collard greens.",
+        "Add a dollop of cream or yogurt for a richer gravy."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a traditional Indian serving dish, garnished with a lemon wedge.",
+        "Accompany with a side of pickled onions."
+    ],
+    "keywords": [
+        "Saag Meat",
+        "Indian Meat Curry",
+        "Spinach Meat Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "id": "Idli_Recipe",
+    "name": "Idli",
+    "origin": "India",
+    "history": "Idli is a traditional South Indian dish believed to have originated in present-day Karnataka. It has been a staple breakfast item in South Indian households for centuries.",
+    "description": "Idli is a soft and fluffy steamed cake made from a fermented batter of rice and black lentils. It is known for its light texture and mild flavor, typically served with chutney and sambar.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free",
+        "Vegan"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "840"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "idli steamer or idli cooker",
+            "imageURL": "",
+            "description": "Specialized equipment used to steam idlis."
+        },
+        {
+            "name": "blender or grinder",
+            "imageURL": "",
+            "description": "Used for grinding the rice and lentils into a fine batter."
+        },
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "A bowl used for fermenting the batter."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "400",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as required for batter",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Soak and Grind",
+            "description": "Soak the rice, urad dal, and fenugreek seeds in water for 6-8 hours. Drain and grind them to a smooth batter, adding water as needed."
+        },
+        {
+            "step": "2",
+            "title": "Ferment the Batter",
+            "description": "Transfer the batter to a large bowl. Add salt and allow it to ferment in a warm place for 8-12 hours, until it doubles in size."
+        },
+        {
+            "step": "3",
+            "title": "Steam the Idlis",
+            "description": "Grease the idli molds and pour the batter into each mold. Steam in an idli steamer or cooker for 10-15 minutes, or until the idlis are cooked and fluffy."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Remove the idlis from the molds and serve hot with chutney and sambar."
+        }
+    ],
+    "nutrition": {
+        "calories": 120,
+        "carbohydrates": "25g",
+        "protein": "5g",
+        "fat": "1g",
+        "saturatedFat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "potassium": "150mg",
+        "fiber": "2g",
+        "sugar": "0g"
+    },
+    "tips": [
+        "The consistency of the batter is key; it should be neither too thick nor too runny.",
+        "Ensure the steamer or cooker is well heated before placing the idli molds for steaming."
+    ],
+    "variations": [
+        "Rava Idli: Made with semolina instead of rice and urad dal, without the need for fermentation.",
+        "Masala Idli: Add finely chopped vegetables and spices to the batter before steaming."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Idli batter can be stored in the refrigerator for up to 2 days.",
+        "instructions": "Store the batter in an airtight container. Steamed idlis can also be refrigerated."
+    },
+    "reheatingInstructions": "Reheat steamed idlis in a microwave or steamer until warm.",
+    "presentationTips": [
+        "Serve idlis on a banana leaf for a traditional presentation."
+    ],
+    "keywords": [
+        "idli",
+        "South Indian cuisine",
+        "steamed cake"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

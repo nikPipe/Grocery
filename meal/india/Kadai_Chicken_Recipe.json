@@ -1,0 +1,226 @@
+{
+    "id": "Kadai_Chicken_Recipe",
+    "name": "Kadai Chicken",
+    "origin": "India",
+    "history": "Kadai Chicken is a popular North Indian dish that gets its name from the cooking vessel used, a Kadai, which is similar to a wok. It's known for its rich aroma and spicy taste.",
+    "description": "Kadai Chicken is a spicy chicken curry cooked with a mix of freshly ground spices, onions, tomatoes, and bell peppers. It's characterized by its thick, flavorful gravy and is often served at celebrations.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "kadai or wok",
+            "description": "For cooking the dish.",
+            "imageURL": ""
+        },
+        {
+            "name": "grinder",
+            "description": "For grinding the spices.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "chicken, cut into pieces",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green bell pepper, cubed",
+            "quantity": "1",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander seeds",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dry red chilies",
+            "quantity": "3",
+            "weight": {
+                "value": "3",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fresh coriander leaves, chopped",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Spice Mix",
+            "description": "Dry roast coriander seeds, cumin seeds, and dry red chilies. Grind them into a coarse powder."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Chicken",
+            "description": "Heat oil in a kadai. Add onions and ginger-garlic paste, saut\u00c3\u00a9 until golden. Add chicken pieces, turmeric, red chili powder, and salt. Cook until chicken is half done."
+        },
+        {
+            "step": "3",
+            "title": "Add Vegetables and Spices",
+            "description": "Add bell pepper, tomatoes, and the ground spice mix to the chicken. Cook until the chicken is tender and the tomatoes are mushy."
+        },
+        {
+            "step": "4",
+            "title": "Finish with Garam Masala",
+            "description": "Sprinkle garam masala over the curry and mix well."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped coriander leaves. Serve hot with naan, roti, or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "450 per serving",
+        "carbohydrates": "15g",
+        "protein": "40g",
+        "fat": "25g",
+        "fiber": "4g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Ensure the spice mix is ground coarsely to maintain the texture of the curry.",
+        "Cooking the chicken on medium heat ensures it's tender and absorbs the flavors."
+    ],
+    "variations": [
+        "Add a dash of cream for a richer gravy.",
+        "Include other vegetables like carrots or peas for added nutrition."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a traditional Indian serving dish for an authentic dining experience.",
+        "Accompany with lemon wedges and onion rings."
+    ],
+    "keywords": [
+        "Kadai Chicken",
+        "Indian Chicken Curry",
+        "Spicy Chicken"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

@@ -1,0 +1,81 @@
+{
+  "name": "Rajasthani Vegetarian Thali",
+  "id": 12,
+  "menu": {
+    "bread": {
+      "default": {"name": "Bajra Roti", "id": "Bajra_Roti_Recipe"},
+      "variations": {
+        "Missi Roti": "Missi_Roti_Recipe",
+        "Makki Ki Roti": "Makki_Ki_Roti_Recipe",
+        "Bejad Roti": 170,
+        "Jowar Roti": "Jowar_Roti_Recipe",
+        "Ker Sangri Paratha": 172,
+        "Phulka": "Phulka_Recipe",
+        "Masala Puri": 174,
+        "Methi Thepla": "Methi_Thepla_Recipe",
+        "Dhebra": 176,
+        "Gatte Ki Sabzi": 177
+      }
+    },
+    "curry": {
+      "default": {"name": "Dal Baati Churma", "id": 267},
+      "variations": {
+        "Gatte Ki Sabzi": 268,
+        "Kadhi": 269,
+        "Panchmel Dal": 270,
+        "Ker Sangri": 271,
+        "Govind Gatte": 272,
+        "Papad Ki Sabzi": 273,
+        "Rajasthani Kadhi": 274,
+        "Aloo Mangodi": 275,
+        "Mangodi Ki Sabzi": 276,
+        "Chana Dal Parantha": 277
+      }
+    },
+    "side": {
+      "default": {"name": "Papad", "id": "Papad_Recipe"},
+      "variations": {
+        "Pickle": "Mixed_Pickle_Recipe",
+        "Green Chutney": "Green_Chutney_Recipe",
+        "Tamarind Chutney": "Tamarind_Chutney_Recipe",
+        "Raita": "Raita_Recipe",
+        "Kachumber Salad": "Kachumber_Salad_Recipe",
+        "Mint Chutney": "Mint_Chutney_Recipe",
+        "Mirchi Bada": 374,
+        "Pyaaz Kachori": 375,
+        "Dahi Bhalla": "Dahi_Bhalla_Recipe",
+        "Gobi Manchurian": "Gobi_Manchurian_Recipe"
+      }
+    },
+    "rice": {
+      "default": {"name": "Khichdi", "id": 467},
+      "variations": {
+        "Gatte Ka Pulao": 468,
+        "Jeera Rice": "Jeera_Rice_Recipe",
+        "Vegetable Biryani": "Vegetable_Biryani_Recipe",
+        "Kabuli": 471,
+        "Plain Rice": 472,
+        "Saffron Rice": "Saffron_Rice_Recipe",
+        "Lemon Rice": "Lemon_Rice_Recipe",
+        "Curry Rice": 475,
+        "Tamarind Rice": "Tamarind_Rice_Recipe",
+        "Coconut Rice": "Coconut_Rice_Recipe"
+      }
+    },
+    "drink": {
+      "default": {"name": "Chaas", "id": 567},
+      "variations": {
+        "Masala Chaas": 568,
+        "Kesar Milk": 569,
+        "Nimbu Pani": "Nimbu_Pani_Recipe",
+        "Masala Tea": "Masala_Chai_Recipe",
+        "Ginger Tea": 572,
+        "Jaljeera": "Jal_Jeera_Recipe",
+        "Rose Sherbat": "Rose_Sherbet_Recipe",
+        "Fruit Punch": 575,
+        "Kokum Sherbat": 576,
+        "Sugarcane Juice": "Sugarcane_Juice_Recipe"
+      }
+    }
+  }
+}

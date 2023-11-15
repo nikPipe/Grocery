@@ -1,0 +1,265 @@
+{
+    "id": "Navratan_Korma_Recipe",
+    "name": "Navratan Korma",
+    "origin": "India",
+    "history": "Navratan Korma, meaning 'nine-gem curry', is a classic Indian dish known for its richness and variety. It's named after the nine ingredients or 'gems' traditionally used, symbolizing the nine jewels of Emperor Akbar's court.",
+    "description": "Navratan Korma is a luxurious vegetarian curry made with a mix of vegetables, fruits, nuts, and paneer. Cooked in a creamy, mildly spiced gravy, it's a symphony of flavors and textures, often served on special occasions.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "paneer, cubed",
+            "quantity": "100 grams",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carrots, chopped",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "peas",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green beans, chopped",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cauliflower florets",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "potatoes, cubed",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cashew nuts",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "raisins",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "20",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "pineapple, chopped",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cream",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Cook the Vegetables",
+            "description": "Heat oil in a pan. Add onions and ginger-garlic paste, saut\u00c3\u00a9 until golden. Add tomatoes, turmeric, coriander powder, red chili powder, and salt. Cook until tomatoes are soft. Add carrots, peas, beans, cauliflower, and potatoes with water. Cover and cook until vegetables are tender."
+        },
+        {
+            "step": "2",
+            "title": "Add Paneer and Fruits",
+            "description": "Add paneer, cashews, raisins, and pineapple to the pan. Cook for a few minutes."
+        },
+        {
+            "step": "3",
+            "title": "Finish with Cream and Spices",
+            "description": "Lower the heat and add cream, stirring gently. Add garam masala and simmer for a few minutes."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with naan or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "550 per serving",
+        "carbohydrates": "45g",
+        "protein": "15g",
+        "fat": "35g",
+        "fiber": "8g",
+        "sugar": "15g"
+    },
+    "tips": [
+        "Cut the vegetables into equal-sized pieces for even cooking.",
+        "Adjust the amount of cream to balance the richness of the dish."
+    ],
+    "variations": [
+        "Use coconut milk instead of cream for a vegan version.",
+        "Add different fruits like apple or mango for a unique flavor twist."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat gently on the stove or in a microwave.",
+    "presentationTips": [
+        "Serve in a decorative bowl, topped with extra cream or nuts.",
+        "Pair with a light cucumber salad to balance the richness."
+    ],
+    "keywords": [
+        "Navratan Korma",
+        "Indian Vegetable Curry",
+        "Creamy Mixed Vegetable Dish"
+    ],
+    "allergens": [
+        "Dairy",
+        "Nuts"
+    ]
+}

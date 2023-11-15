@@ -1,0 +1,165 @@
+{
+    "id": "Butter_Naan_Recipe",
+    "name": "Butter Naan",
+    "origin": "India",
+    "history": "Butter Naan is a variant of the classic Naan, a traditional Indian flatbread. It is particularly popular in North India and is known for its rich buttery flavor, which enhances the overall taste and texture of the bread.",
+    "description": "Butter Naan is a soft, leavened flatbread made from refined flour and enriched with butter. It's typically cooked in a tandoor or on a skillet, resulting in a deliciously aromatic bread with a slightly crispy exterior and soft interior.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "tawa or skillet",
+            "description": "For cooking the naans.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "all-purpose flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dry yeast",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "warm water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "butter",
+            "quantity": "for brushing",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "Dissolve yeast and sugar in warm water. Let it sit for 10 minutes until frothy. In a mixing bowl, combine flour, salt, and yogurt. Add the yeast mixture and knead into a soft dough. Cover and let it rest for 2-3 hours."
+        },
+        {
+            "step": "2",
+            "title": "Roll the Naans",
+            "description": "Divide the dough into small balls. Roll each ball into an oval shape."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Naans",
+            "description": "Heat a tawa or skillet. Place the rolled naan on it and cook until bubbles appear. Flip and cook the other side until brown spots appear. Brush with melted butter."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with curries, dal, or as a standalone snack."
+        }
+    ],
+    "nutrition": {
+        "calories": "220 per naan",
+        "carbohydrates": "40g",
+        "protein": "6g",
+        "fat": "5g",
+        "fiber": "2g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Ensure the water is warm, not hot, to activate the yeast properly.",
+        "The dough should be soft and pliable for the best texture."
+    ],
+    "variations": [
+        "Add garlic or herbs to the dough for additional flavors.",
+        "Stuff with cheese or spiced potatoes for a filling variant."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh but can be stored in an airtight container for up to 24 hours.",
+        "instructions": "Reheat on a skillet before serving if stored."
+    },
+    "reheatingInstructions": "Reheat on a hot skillet or tawa until warm and soft.",
+    "presentationTips": [
+        "Serve in a basket lined with a cloth to keep the naan warm.",
+        "Pair with a variety of dips and side dishes for a complete meal."
+    ],
+    "keywords": [
+        "Butter Naan",
+        "Indian Flatbread",
+        "Leavened Bread with Butter"
+    ],
+    "allergens": [
+        "Gluten",
+        "Dairy"
+    ]
+}

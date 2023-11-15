@@ -1,0 +1,221 @@
+{
+    "id": "Chicken_Saagwala_Recipe",
+    "name": "Chicken Saagwala",
+    "origin": "India",
+    "history": "Chicken Saagwala is a popular dish in Indian cuisine, particularly in North India. It combines tender pieces of chicken with saag (leafy greens), embodying a harmonious blend of meat and vegetables.",
+    "description": "Chicken Saagwala is a flavorful and nutritious curry made with chicken and spinach. The dish features a blend of spices, cooked chicken, and pureed spinach, creating a rich, green sauce that's both delicious and wholesome.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "40"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "60"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "chicken, cut into pieces",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "spinach, blanched and pureed",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "fresh cream",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Saut\u00c3\u00a9 Onions and Spices",
+            "description": "Heat oil in a pan. Add cumin seeds and let them splutter. Add onions and ginger-garlic paste, cooking until onions turn golden. Stir in turmeric, coriander, red chili powder, and garam masala."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Chicken",
+            "description": "Add chicken pieces to the pan. Cook until the chicken is browned and nearly cooked through."
+        },
+        {
+            "step": "3",
+            "title": "Add Spinach and Tomatoes",
+            "description": "Add the pureed spinach and chopped tomatoes to the pan. Season with salt. Add water if needed. Simmer until the chicken is fully cooked and the spinach integrates into the curry."
+        },
+        {
+            "step": "4",
+            "title": "Finish with Cream",
+            "description": "Stir in the fresh cream and simmer for an additional few minutes."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with naan, roti, or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "450 per serving",
+        "carbohydrates": "20g",
+        "protein": "40g",
+        "fat": "25g",
+        "fiber": "5g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Blanching the spinach before pureeing helps retain its vibrant color.",
+        "Adjust the amount of cream to balance the richness of the dish."
+    ],
+    "variations": [
+        "Add a pinch of fenugreek leaves (kasuri methi) for additional flavor.",
+        "Include other greens like kale or mustard greens for a different taste."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a traditional Indian serving dish.",
+        "Pair with a cool cucumber salad or raita."
+    ],
+    "keywords": [
+        "Chicken Saagwala",
+        "Indian Spinach Chicken Curry",
+        "Creamy Chicken and Spinach"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

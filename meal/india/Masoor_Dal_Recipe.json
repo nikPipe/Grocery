@@ -1,0 +1,192 @@
+{
+    "id": "Masoor_Dal_Recipe",
+    "name": "Masoor Dal",
+    "origin": "India",
+    "history": "Masoor Dal, made from red lentils, is a staple dish in Indian cuisine. It is known for its quick cooking time and high nutritional value, making it a popular choice in many Indian households.",
+    "description": "Masoor Dal is a simple yet flavorful lentil dish made with red lentils (masoor dal). It is typically seasoned with a variety of spices and herbs, offering a comforting and nutritious meal, often served with rice or roti.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "40"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the dal.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "masoor dal (red lentils)",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "3 cups",
+            "weight": {
+                "value": "720",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Cook the Lentils",
+            "description": "Rinse the masoor dal thoroughly. In a pan, add dal, turmeric powder, and 3 cups of water. Bring to a boil, then simmer until the dal is soft and cooked."
+        },
+        {
+            "step": "2",
+            "title": "Prepare the Tadka",
+            "description": "Heat oil in another pan. Add cumin seeds and let them splutter. Add ginger-garlic paste and onions, and saut\u00c3\u00a9 until golden brown. Add chopped tomatoes, red chili powder, and salt. Cook until tomatoes are soft."
+        },
+        {
+            "step": "3",
+            "title": "Combine Dal with Tadka",
+            "description": "Pour the cooked tomato-onion tadka into the cooked dal. Add garam masala and mix well. Simmer for 5-10 minutes."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with rice or Indian bread like roti or naan."
+        }
+    ],
+    "nutrition": {
+        "calories": "350 per serving",
+        "carbohydrates": "45g",
+        "protein": "20g",
+        "fat": "10g",
+        "fiber": "10g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Soaking the dal before cooking can reduce cooking time.",
+        "Adjust the amount of red chili powder according to your spice preference."
+    ],
+    "variations": [
+        "Add vegetables like spinach or carrots for extra nutrition.",
+        "For a smoky flavor, add a tadka of cumin seeds and red chilies in ghee."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a traditional Indian serving bowl.",
+        "Pair with a side of cooling cucumber raita."
+    ],
+    "keywords": [
+        "Masoor Dal",
+        "Indian Red Lentil Curry",
+        "Healthy Lentil Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

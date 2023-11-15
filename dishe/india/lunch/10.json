@@ -1,0 +1,81 @@
+{
+  "name": "Indian Summer Thali",
+  "id": 10,
+  "menu": {
+    "bread": {
+      "default": {"name": "Phulka", "id": "Phulka_Recipe"},
+      "variations": {
+        "Bajra Roti": "Bajra_Roti_Recipe",
+        "Jowar Roti": "Jowar_Roti_Recipe",
+        "Akki Roti": "Akki_Roti_Recipe",
+        "Ragi Roti": "Ragi_Roti_Recipe",
+        "Makki Di Roti": "Makki_Ki_Roti_Recipe",
+        "Plain Naan": "Naan_Recipe",
+        "Butter Roti": "Roti_Recipe",
+        "Kulcha": "Kulcha_Recipe",
+        "Paratha": "Paratha_Recipe",
+        "Missi Roti": "Missi_Roti_Recipe"
+      }
+    },
+    "curry": {
+      "default": {"name": "Matar Paneer", "id": "Matar_Paneer_Recipe"},
+      "variations": {
+        "Vegetable Kadai": "Vegetable_Kadai_Recipe",
+        "Paneer Butter Masala": "Paneer_Butter_Masala_Recipe",
+        "Veg Handi": "Veg_Handi_Recipe",
+        "Malai Kofta": "Malai_Kofta_Recipe",
+        "Dum Aloo": "Dum_Aloo_Recipe",
+        "Baingan Ka Bharta": "Baingan_Bharta_Recipe",
+        "Dal Makhani": "Dal_Makhani_Recipe",
+        "Rajma": "Rajma_Masala_Recipe",
+        "Chole": "Chole_Recipe",
+        "Aloo Palak": "Aloo_Palak_Recipe"
+      }
+    },
+    "side": {
+      "default": {"name": "Cucumber Raita", "id": "Cucumber_Raita_Recipe"},
+      "variations": {
+        "Boondi Raita": "Boondi_Raita_Recipe",
+        "Green Salad": "Green_Salad_Recipe",
+        "Lemon Pickle": "Lemon_Pickle_Recipe",
+        "Mango Chutney": "Mango_Chutney_Recipe",
+        "Masala Papad": "Masala_Papad_Recipe",
+        "Mint Chutney": "Mint_Chutney_Recipe",
+        "Onion Rings": "Onion_Rings_Recipe",
+        "Pickle": "Mixed_Pickle_Recipe",
+        "Plain Curd": "Curd_Recipe",
+        "Tomato Salad": "Tomato_Salad_Recipe"
+      }
+    },
+    "rice": {
+      "default": {"name": "Pulao", "id": "Vegetable_Pulao_Recipe"},
+      "variations": {
+        "Coconut Rice": "Coconut_Rice_Recipe",
+        "Lemon Rice": "Lemon_Rice_Recipe",
+        "Tamarind Rice": "Tamarind_Rice_Recipe",
+        "Vegetable Biryani": "Vegetable_Biryani_Recipe",
+        "Kashmiri Pulao": "Kashmiri_Pulao_Recipe",
+        "Saffron Rice": "Saffron_Rice_Recipe",
+        "Jeera Rice": "Jeera_Rice_Recipe",
+        "Curry Leaf Rice": "Curry_Leaf_Rice_Recipe",
+        "Mushroom Rice": "Mushroom_Rice_Recipe",
+        "Paneer Pulao": "Paneer_Pulao_Recipe"
+      }
+    },
+    "drink": {
+      "default": {"name": "Nimbu Pani", "id": "Nimbu_Pani_Recipe"},
+      "variations": {
+        "Buttermilk": "Buttermilk_Recipe",
+        "Jaljeera": "Jal_Jeera_Recipe",
+        "Mango Lassi": "Mango_Lassi_Recipe",
+        "Rose Sherbet": "Rose_Sherbet_Recipe",
+        "Sugarcane Juice": "Sugarcane_Juice_Recipe",
+        "Masala Chai": "Masala_Chai_Recipe",
+        "Mint Lemonade": "Mint_Lemonade_Recipe",
+        "Sweet Lassi": "Sweet_Lassi_Recipe",
+        "Watermelon Juice": "Watermelon_Juice_Recipe",
+        "Coconut Water": "Coconut_Water_Recipe"
+      }
+    }
+  }
+}

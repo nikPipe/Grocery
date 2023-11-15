@@ -1,0 +1,122 @@
+{
+    "id": "Hot_Lemon_Tea_Recipe",
+    "name": "Hot Lemon Tea",
+    "origin": "Global",
+    "history": "Hot Lemon Tea is a widely consumed beverage around the world, known for its simple preparation and soothing properties. It's often consumed for its potential health benefits, including vitamin C intake and relief from cold symptoms.",
+    "description": "Hot Lemon Tea is a comforting and easy-to-make drink, consisting of hot water, fresh lemon juice, and often sweetened with honey or sugar. It's appreciated for its citrusy flavor and is a popular choice for relaxation or as a home remedy for colds.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan (if not using honey)"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "5"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "5"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "kettle or pot",
+            "description": "For boiling water.",
+            "imageURL": ""
+        },
+        {
+            "name": "teacup",
+            "description": "For serving the tea.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "fresh water",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1/2",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "honey or sugar",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Boil Water",
+            "description": "Boil 1 cup of water in a kettle or pot."
+        },
+        {
+            "step": "2",
+            "title": "Prepare Lemon",
+            "description": "Cut the lemon in half and squeeze the juice of half the lemon into a teacup."
+        },
+        {
+            "step": "3",
+            "title": "Combine and Serve",
+            "description": "Pour the hot water over the lemon juice in the cup. Sweeten with honey or sugar to taste. Stir well."
+        }
+    ],
+    "nutrition": {
+        "calories": "10 per serving (without sweetener)",
+        "carbohydrates": "3g",
+        "protein": "0g",
+        "fat": "0g",
+        "fiber": "0g",
+        "sugar": "1g (varies with sweetener)"
+    },
+    "tips": [
+        "Adjust the amount of lemon juice to suit your taste preferences.",
+        "Adding a slice of ginger can provide an additional flavor and potential health benefits."
+    ],
+    "variations": [
+        "Include a tea bag of your choice (like green or herbal tea) for added flavor.",
+        "Add spices such as cinnamon or cloves for a warming effect."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately.",
+        "instructions": "Not recommended for storage as the lemon flavor is best enjoyed fresh."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve with a slice of lemon on the rim of the cup for an elegant presentation.",
+        "Accompany with a small spoon or stirrer."
+    ],
+    "keywords": [
+        "Hot Lemon Tea",
+        "Lemon Water",
+        "Herbal Tea"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

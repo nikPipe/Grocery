@@ -1,0 +1,158 @@
+{
+    "id": "Onion_Salad_Recipe",
+    "name": "Onion Salad",
+    "origin": "Global",
+    "history": "Onion Salad is a common side dish in many cuisines around the world. It's known for its simplicity and the sharp, refreshing taste of raw onions, often used to complement heavier main dishes.",
+    "description": "Onion Salad is a simple, crunchy, and flavorful salad made with sliced onions, often red or white, seasoned with herbs, spices, and a dressing of lemon juice or vinegar. It's a refreshing side dish, perfect for balancing rich and spicy flavors.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "10"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For combining the ingredients.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "red onions, thinly sliced",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon juice or vinegar",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "fresh cilantro (coriander), chopped",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chilies, finely chopped (optional)",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black pepper, freshly ground",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar (optional)",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "4",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin powder (optional)",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Onions",
+            "description": "Soak the thinly sliced onions in cold water for about 5 minutes to remove some of their sharpness. Drain well."
+        },
+        {
+            "step": "2",
+            "title": "Mix Ingredients",
+            "description": "In a mixing bowl, combine the sliced onions, lemon juice or vinegar, chopped cilantro, green chilies (if using), salt, black pepper, sugar (if using), and cumin powder (if using)."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Toss everything together until well mixed. Serve the onion salad as a side dish with your main meal."
+        }
+    ],
+    "nutrition": {
+        "calories": "40 per serving",
+        "carbohydrates": "10g",
+        "protein": "1g",
+        "fat": "0g",
+        "fiber": "2g",
+        "sugar": "4g"
+    },
+    "tips": [
+        "Soaking the onions in cold water helps to mellow their flavor.",
+        "Adjust the amount of lemon juice or vinegar to balance the tanginess."
+    ],
+    "variations": [
+        "Add sliced tomatoes or cucumbers for a more substantial salad.",
+        "Sprinkle with chaat masala for an extra burst of flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh. If needed, can be refrigerated for a few hours.",
+        "instructions": "Cover and refrigerate if not serving immediately."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in a small salad bowl or as part of a larger salad platter.",
+        "Garnish with additional fresh herbs or a sprinkle of spice for color."
+    ],
+    "keywords": [
+        "Onion Salad",
+        "Simple Side Dish",
+        "Raw Onion Salad"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

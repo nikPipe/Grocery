@@ -1,0 +1,234 @@
+{
+    "id": "Rogan_Josh_Recipe",
+    "name": "Rogan Josh",
+    "origin": "India",
+    "history": "Rogan Josh is a signature dish of Kashmiri cuisine, influenced by Persian cooking. It is known for its aromatic and rich flavor.",
+    "description": "Rogan Josh is a flavorful lamb curry made with a variety of spices, yogurt, and a tomato-based sauce. It features a deep red color traditionally achieved with Kashmiri red chilies.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "40"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "60"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "cooking pot or Dutch oven",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "lamb or goat meat, cut into pieces",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black cardamom pods",
+            "quantity": "2",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cinnamon stick",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "bay leaves",
+            "quantity": "2",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "fresh coriander leaves, chopped",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Marinate the Meat",
+            "description": "Marinate the meat in yogurt and half of the Kashmiri red chili powder for at least 1 hour."
+        },
+        {
+            "step": "2",
+            "title": "Cook Onions and Spices",
+            "description": "Heat oil in a pot. Add black cardamom, cinnamon, and bay leaves. Add onions and cook until golden. Stir in ginger-garlic paste."
+        },
+        {
+            "step": "3",
+            "title": "Add Meat and Spices",
+            "description": "Add the marinated meat to the pot. Cook until it starts to brown. Add coriander powder, cumin powder, remaining Kashmiri red chili powder, and salt."
+        },
+        {
+            "step": "4",
+            "title": "Add Tomatoes and Simmer",
+            "description": "Add tomato puree. Cook until the oil separates. Add water as needed and simmer until the meat is tender."
+        },
+        {
+            "step": "5",
+            "title": "Finish with Garam Masala",
+            "description": "Stir in garam masala powder. Cook for another 5 minutes."
+        },
+        {
+            "step": "6",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped coriander leaves. Serve hot with rice or naan."
+        }
+    ],
+    "nutrition": {
+        "calories": "500 per serving",
+        "carbohydrates": "15g",
+        "protein": "40g",
+        "fat": "30g",
+        "fiber": "4g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Marinating the meat for a longer duration helps in tenderizing and infusing flavors.",
+        "Slow cooking the curry enhances the depth of flavors."
+    ],
+    "variations": [
+        "Use chicken or beef instead of lamb for a different taste.",
+        "Add a touch of cream for a richer, more indulgent gravy."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container and reheat gently before serving."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a traditional clay pot for an authentic presentation.",
+        "Garnish with fresh mint leaves and serve with lemon wedges."
+    ],
+    "keywords": [
+        "Rogan Josh",
+        "Lamb Curry",
+        "Indian Cuisine"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

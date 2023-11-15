@@ -1,0 +1,126 @@
+{
+    "id": "Podi_Dosa_Recipe",
+    "name": "Podi Dosa",
+    "origin": "India",
+    "history": "Podi Dosa is a popular variation of the traditional South Indian dosa. It is made by sprinkling 'Podi,' a spicy and flavorful powder made from ground dry spices, on the dosa. This variant is known for its unique taste and is commonly served in South Indian restaurants and households.",
+    "description": "Podi Dosa is a crispy and savory South Indian crepe made from fermented rice and lentil batter, topped with a generous sprinkle of spicy 'Podi' mixture. It's a delightful combination of flavors and is typically served with chutney and sambar.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15 (excluding batter fermentation)"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": ["Breakfast", "Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "griddle or non-stick pan",
+            "description": "For cooking the dosa."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "dosa batter",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dosa podi (spice powder)",
+            "quantity": "4 tablespoons",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dosa Batter",
+            "description": "Ensure that the dosa batter is at room temperature and well fermented."
+        },
+        {
+            "step": "2",
+            "title": "Heat the Griddle",
+            "description": "Heat a griddle or non-stick pan on medium heat. Sprinkle a few drops of water to check if it's hot enough (the water should sizzle)."
+        },
+        {
+            "step": "3",
+            "title": "Pour and Spread the Batter",
+            "description": "Pour a ladleful of batter onto the center of the griddle. Quickly spread it outwards in a circular motion to make a thin crepe."
+        },
+        {
+            "step": "4",
+            "title": "Add Podi and Oil",
+            "description": "Sprinkle the dosa podi evenly over the dosa. Drizzle oil around the edges and a little over the top."
+        },
+        {
+            "step": "5",
+            "title": "Cook the Dosa",
+            "description": "Cook until the dosa turns golden brown and crispy. Fold and remove from the griddle."
+        },
+        {
+            "step": "6",
+            "title": "Serve",
+            "description": "Serve the Podi Dosa hot with chutney and sambar."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per serving",
+        "carbohydrates": "35g",
+        "protein": "6g",
+        "fat": "10g",
+        "fiber": "2g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "Adjust the amount of podi as per your taste preference.",
+        "Ensure the griddle is at the right temperature for a crispy dosa."
+    ],
+    "variations": [
+        "Add finely chopped onions or grated cheese on top for a different flavor.",
+        "Mix the podi with sesame oil before sprinkling for an enhanced taste."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. Dosa batter can be stored in the refrigerator for up to 2 days.",
+        "instructions": "Store unused batter in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat on a griddle or pan until crispy."
+    ],
+    "presentationTips": [
+        "Serve on a banana leaf for an authentic South Indian experience.",
+        "Garnish with a side of coconut chutney and a wedge of lime."
+    ],
+    "keywords": [
+        "Podi Dosa",
+        "Spicy South Indian Crepe",
+        "Fermented Rice and Lentil Pancake"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

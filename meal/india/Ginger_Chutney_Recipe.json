@@ -1,0 +1,207 @@
+{
+    "id": "Ginger_Chutney_Recipe",
+    "name": "Ginger Chutney",
+    "origin": "India",
+    "history": "Ginger Chutney, also known as Allam Pachadi, is a popular condiment in South Indian cuisine. It is particularly favored in Andhra Pradesh and Telangana. This chutney is known for its bold and spicy flavor, with ginger as the main ingredient.",
+    "description": "Ginger Chutney is a spicy and tangy condiment made primarily from fresh ginger, tamarind, and jaggery. It is often accompanied by dishes such as idli, dosa, and vada. The chutney has a unique taste, balancing the sharpness of ginger with the sweetness of jaggery.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": ["Breakfast", "Lunch", "Dinner", "Snack"],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For roasting the ingredients and cooking the chutney."
+        },
+        {
+            "name": "blender",
+            "description": "For grinding the chutney."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "fresh ginger, peeled and chopped",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tamarind paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "jaggery, grated",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal (split black lentils)",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chana dal (split Bengal gram)",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chilies, dry",
+            "quantity": "3",
+            "weight": {
+                "value": "3",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1.25",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida (hing)",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Roast the Ingredients",
+            "description": "Heat a teaspoon of oil in a pan. Roast the chana dal, urad dal, red chilies, and fenugreek seeds until golden. Set aside to cool."
+        },
+        {
+            "step": "2",
+            "title": "Sauté the Ginger",
+            "description": "In the same pan, add another teaspoon of oil and sauté the ginger until aromatic."
+        },
+        {
+            "step": "3",
+            "title": "Grind the Mixture",
+            "description": "In a blender, combine the roasted ingredients, sautéed ginger, tamarind paste, jaggery, asafoetida, and salt. Grind to a smooth paste, adding water as needed."
+        },
+        {
+            "step": "4",
+            "title": "Temper the Chutney",
+            "description": "Heat the remaining oil in the pan. Add mustard seeds and curry leaves. When the mustard seeds start to splutter, pour this tempering over the ground chutney."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the Ginger Chutney as an accompaniment to idli, dosa, or other South Indian dishes."
+        }
+    ],
+    "nutrition": {
+        "calories": "80 per serving",
+        "carbohydrates": "12g",
+        "protein": "2g",
+        "fat": "3g",
+        "fiber": "1g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Adjust the amount of jaggery and tamarind to balance the sweetness and tanginess.",
+        "The chutney should have a slightly coarse texture for the best experience."
+    ],
+    "variations": [
+        "Add a small piece of raw mango for a tangy twist.",
+        "For a spicier chutney, increase the number of red chilies."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Ginger Chutney is best served at room temperature and does not require reheating."
+        }
+    ],
+    "presentationTips": [
+        "Serve in a small traditional bowl with a spoon for easy serving.",
+        "Garnish with a sprig of curry leaf for added aroma and visual appeal."
+    ],
+    "keywords": [
+        "Ginger Chutney",
+        "Allam Pachadi",
+        "Indian Condiment"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

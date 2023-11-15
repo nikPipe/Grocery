@@ -1,0 +1,115 @@
+{
+    "id": "Jowar_Roti_Recipe",
+    "name": "Jowar Roti",
+    "origin": "India",
+    "history": "Jowar Roti, also known as 'Jolada Rotti' in Karnataka, is a traditional Indian flatbread popular in various parts of the country. It is particularly a staple in regions where jowar (sorghum) is a predominant crop.",
+    "description": "Jowar Roti is an unleavened Indian flatbread made from jowar flour, which is ground from sorghum grains. It's gluten-free and known for its rich nutritional profile. Jowar Roti has a soft texture and mild, nutty flavor.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "flat griddle or tawa",
+            "description": "For cooking the rotis.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "jowar flour (sorghum flour)",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "warm water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "optional",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a bowl, mix jowar flour with a pinch of salt (optional). Gradually add warm water and knead into a soft dough."
+        },
+        {
+            "step": "2",
+            "title": "Shape and Cook the Rotis",
+            "description": "Divide the dough into small balls. Flatten each ball and roll it out into a round shape on a flat surface using your hands. Cook each roti on a hot griddle until it develops brown spots on both sides."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Serve the hot Jowar Rotis with a curry, dal, or chutney of your choice."
+        }
+    ],
+    "nutrition": {
+        "calories": "120 per roti",
+        "carbohydrates": "25g",
+        "protein": "4g",
+        "fat": "1g",
+        "fiber": "3g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "The dough should be soft to make the rolling easier.",
+        "Cooking on medium heat ensures even cooking and prevents the rotis from getting hard."
+    ],
+    "variations": [
+        "Add herbs or spices like cumin seeds or chopped cilantro to the dough for extra flavor.",
+        "Make stuffed rotis with vegetables or lentil fillings for a more nutritious meal."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh, as they tend to harden over time.",
+        "instructions": "Store in an airtight container and reheat on a griddle if necessary."
+    },
+    "reheatingInstructions": "Reheat on a hot griddle or tawa until soft and warm.",
+    "presentationTips": [
+        "Serve on a traditional thali with accompaniments like pickles and yogurt.",
+        "Garnish with fresh herbs for an appealing presentation."
+    ],
+    "keywords": [
+        "Jowar Roti",
+        "Sorghum Flatbread",
+        "Gluten-Free Indian Bread"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

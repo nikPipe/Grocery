@@ -1,0 +1,185 @@
+{
+    "id": "Sheermal_Recipe",
+    "name": "Sheermal",
+    "origin": "India",
+    "history": "Originating from the Persian influence on Indian cuisine, Sheermal is a traditional saffron-flavored flatbread.",
+    "description": "Sheermal is a rich, sweet flatbread made with flour, milk, saffron, and ghee. It's typically served with spicy curries or enjoyed as a delicacy on its own.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "Used for preparing the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "oven",
+            "description": "Used for baking the sheermal.",
+            "imageURL": ""
+        },
+        {
+            "name": "rolling pin",
+            "description": "Used for rolling out the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "baking tray",
+            "description": "Used for placing the sheermal before baking.",
+            "imageURL": ""
+        },
+        {
+            "name": "pastry brush",
+            "description": "Used for applying milk and saffron mixture on the sheermal.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "all-purpose flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "125",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "warm milk",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "active dry yeast",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "saffron strands",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cardamom powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "Dissolve yeast and a pinch of sugar in warm milk. Let it sit until frothy. In a bowl, mix flour, sugar, salt, cardamom powder, and ghee. Add the yeast mixture and knead into a soft dough. Cover and let it rest for an hour."
+        },
+        {
+            "step": "2",
+            "title": "Prepare Saffron Mixture",
+            "description": "Soak saffron in 1 tablespoon of warm milk."
+        },
+        {
+            "step": "3",
+            "title": "Shape the Sheermal",
+            "description": "Preheat the oven to 200\u00c2\u00b0C (400\u00c2\u00b0F). Roll the dough into a round shape and place it on a baking tray."
+        },
+        {
+            "step": "4",
+            "title": "Bake",
+            "description": "Brush the rolled dough with the saffron-infused milk. Bake for 15 minutes or until golden brown."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the sheermal warm. It can be enjoyed with tea, coffee, or a savory dish."
+        }
+    ],
+    "nutrition": {
+        "calories": "450",
+        "carbohydrates": "70g",
+        "protein": "10g",
+        "fat": "15g",
+        "fiber": "3g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Kneading the dough well is key to a soft sheermal.",
+        "The dough should be slightly sticky for the right texture."
+    ],
+    "variations": [
+        "Add nuts or dried fruits to the dough for a different flavor.",
+        "Replace sugar with honey for a different kind of sweetness."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh, but can be stored for up to 2 days in an airtight container.",
+        "instructions": "Reheat in an oven or on a skillet before serving."
+    },
+    "reheatingInstructions": "Warm in an oven or on a skillet until soft and heated through.",
+    "presentationTips": [
+        "Serve on a decorative plate with a garnish of powdered sugar or sliced almonds."
+    ],
+    "keywords": [
+        "Sheermal",
+        "Saffron Bread",
+        "Indian Cuisine"
+    ],
+    "allergens": [
+        "Gluten",
+        "Dairy"
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "id": "Besan_Chilla_Recipe",
+    "name": "Besan Chilla",
+    "origin": "India",
+    "history": "Besan Chilla, also known as chickpea flour pancake, is a popular dish in North Indian cuisine. It's a quick and nutritious meal, often enjoyed as a breakfast item or a snack.",
+    "description": "Besan Chilla is a savory pancake made from gram flour (besan), enriched with vegetables and spices. It's a versatile dish that can be customized with various fillings and toppings.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free",
+        "Vegan"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "5"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "15"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "non-stick skillet or griddle",
+            "imageURL": "",
+            "description": "Used for cooking the chilla."
+        },
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "Used for preparing the batter."
+        },
+        {
+            "name": "whisk or spoon",
+            "imageURL": "",
+            "description": "Used for mixing the batter."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "chickpea flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as required to make a batter",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "40",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "40",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Batter",
+            "description": "In a mixing bowl, combine gram flour, water, turmeric powder, red chili powder, and salt to form a smooth batter of pouring consistency."
+        },
+        {
+            "step": "2",
+            "title": "Add Vegetables",
+            "description": "Mix in the chopped onions, tomatoes, green chili, and coriander leaves."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Chilla",
+            "description": "Heat a non-stick skillet and lightly grease it with oil. Pour a ladleful of batter and spread it evenly to form a pancake. Cook on medium heat until the edges start to lift, then flip and cook the other side until golden brown."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Besan Chilla hot with chutney or yogurt."
+        }
+    ],
+    "nutrition": {
+        "calories": 200,
+        "carbohydrates": "30g",
+        "protein": "7g",
+        "fat": "5g",
+        "saturatedFat": "1g",
+        "cholesterol": "0mg",
+        "sodium": "300mg",
+        "potassium": "200mg",
+        "fiber": "5g",
+        "sugar": "4g"
+    },
+    "tips": [
+        "Ensure the batter is not too thick; it should easily spread on the skillet.",
+        "Adding a bit of fruit salt or baking soda can make the chilla fluffier."
+    ],
+    "variations": [
+        "Add grated vegetables like carrots or zucchini for a nutritional boost.",
+        "Spice it up with additional spices like cumin or garam masala."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "The batter can be refrigerated for up to 1 day.",
+        "instructions": "Store the batter in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat the chilla on a skillet or in a microwave until warm.",
+    "presentationTips": [
+        "Garnish with fresh coriander and serve with a wedge of lemon."
+    ],
+    "keywords": [
+        "besan chilla",
+        "chickpea flour pancake",
+        "Indian breakfast"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

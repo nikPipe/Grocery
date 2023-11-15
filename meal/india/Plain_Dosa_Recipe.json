@@ -1,0 +1,121 @@
+{
+    "id": "Plain_Dosa_Recipe",
+    "name": "Plain Dosa",
+    "origin": "India",
+    "history": "Plain Dosa is a staple in South Indian cuisine with a history dating back centuries. It's a type of fermented crepe made from rice and lentils. Originally from Tamil Nadu, dosa is now popular all over India and in other countries as well.",
+    "description": "Plain Dosa is a thin, crispy, and savory crepe made from a fermented batter of rice and lentils. It is a versatile dish typically served with chutney and sambar. Plain Dosa is appreciated for its light texture and subtle flavor.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15 (excluding batter fermentation)"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "griddle or non-stick pan",
+            "description": "For cooking the dosa.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "dosa batter",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Batter",
+            "description": "Ensure the dosa batter is well fermented and at room temperature."
+        },
+        {
+            "step": "2",
+            "title": "Heat the Griddle",
+            "description": "Heat a griddle or non-stick pan on medium heat. If using an iron griddle, sprinkle a few drops of water to check if it's hot enough (it should sizzle)."
+        },
+        {
+            "step": "3",
+            "title": "Pour and Spread the Batter",
+            "description": "Pour a ladleful of batter onto the center of the griddle. Quickly spread it outwards in a circular motion to make a thin crepe."
+        },
+        {
+            "step": "4",
+            "title": "Cook the Dosa",
+            "description": "Drizzle a little oil around the edges of the dosa. Cook until the bottom is golden brown and crispy."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Fold the dosa and remove it from the griddle. Serve hot with chutney and sambar."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per serving",
+        "carbohydrates": "33g",
+        "protein": "6g",
+        "fat": "5g",
+        "fiber": "2g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "The consistency of the batter is key to making good dosas; it should be smooth and pourable.",
+        "Maintain medium heat to ensure the dosa cooks evenly and becomes crispy."
+    ],
+    "variations": [
+        "For a healthier version, use a non-stick pan with minimal oil.",
+        "Experiment with different types of chutneys or sambar as accompaniments."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. Dosa batter can be stored in the refrigerator for up to 2 days.",
+        "instructions": "Store unused batter in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat on a griddle or pan until crispy."
+    ],
+    "presentationTips": [
+        "Serve on a banana leaf for an authentic South Indian experience.",
+        "Arrange the dosa on a plate with the accompaniments on the side for a pleasing presentation."
+    ],
+    "keywords": [
+        "Plain Dosa",
+        "South Indian Crepe",
+        "Vegan Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

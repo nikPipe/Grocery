@@ -1,0 +1,197 @@
+{
+    "id": "Ragi_Dosa_Recipe",
+    "name": "Ragi Dosa",
+    "origin": "India",
+    "history": "Ragi Dosa is a variation of the traditional South Indian dosa. It incorporates ragi flour, also known as finger millet, which is highly nutritious and popular in Southern India.",
+    "description": "Ragi Dosa is a healthy and delicious alternative to the traditional dosa, made using ragi flour. It's rich in fiber and iron, making it a preferred choice for health-conscious individuals.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "25"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "Used for preparing the dosa batter."
+        },
+        {
+            "name": "non-stick skillet or griddle",
+            "imageURL": "",
+            "description": "Used for cooking the dosa."
+        },
+        {
+            "name": "ladle",
+            "imageURL": "",
+            "description": "Used for pouring the batter onto the skillet."
+        },
+        {
+            "name": "spatula",
+            "imageURL": "",
+            "description": "Used for flipping and removing the dosa."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "ragi flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "rice",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as required to make a batter",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "40",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Batter",
+            "description": "In a mixing bowl, combine ragi flour, rice flour, yogurt, and water to make a batter of pouring consistency. Let it rest for 10 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Add Flavors",
+            "description": "Mix in the chopped onions, green chili, coriander leaves, cumin seeds, and salt into the batter."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Ragi Dosa",
+            "description": "Heat a non-stick skillet. Pour a ladleful of batter and spread it evenly to form a thin pancake. Drizzle oil around the edges and cook until the dosa is golden brown. Flip and cook the other side."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Ragi Dosa hot with coconut chutney or sambar."
+        }
+    ],
+    "nutrition": {
+        "calories": 220,
+        "carbohydrates": "40g",
+        "protein": "6g",
+        "fat": "5g",
+        "saturatedFat": "1g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "potassium": "150mg",
+        "fiber": "3g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "The batter consistency is important for a crispy dosa. Adjust the water as needed.",
+        "Cook on a medium flame to ensure even cooking without burning."
+    ],
+    "variations": [
+        "Add grated vegetables like carrots for extra nutrition.",
+        "For a different flavor, add a pinch of asafoetida (hing) to the batter."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "The batter can be refrigerated for up to 1 day.",
+        "instructions": "Store the batter in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat the dosa on a skillet until crisp.",
+    "presentationTips": [
+        "Garnish with freshly chopped coriander leaves for a fresh look."
+    ],
+    "keywords": [
+        "ragi dosa",
+        "finger millet dosa",
+        "healthy Indian pancake"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

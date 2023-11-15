@@ -1,0 +1,206 @@
+{
+    "id": "Fish_Molee_Recipe",
+    "name": "Fish Molee",
+    "origin": "India",
+    "history": "Fish Molee, also known as Meen Moilee, is a Kerala-style fish stew. It's a part of Kerala's rich coastal cuisine and is known for its mild yet flavorful coconut milk-based gravy.",
+    "description": "Fish Molee is a delicately flavored fish curry, cooked in a mildly spiced coconut milk sauce with hints of turmeric and green chilies. It's usually made with firm white fish and is both nourishing and comforting.",
+    "servings": "1",
+    "dietTypes": [
+        "Pescatarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "firm white fish (like cod or halibut), cut into pieces",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger",
+            "quantity": "1 inch piece",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garlic cloves, finely chopped",
+            "quantity": "4",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coconut milk",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Saut\u00c3\u00a9 Onions and Spices",
+            "description": "Heat oil in a pan. Add mustard seeds and let them splutter. Add onions, ginger, garlic, green chilies, and curry leaves. Saut\u00c3\u00a9 until onions are translucent."
+        },
+        {
+            "step": "2",
+            "title": "Add Turmeric and Tomatoes",
+            "description": "Stir in turmeric powder. Add tomatoes and cook until they are soft."
+        },
+        {
+            "step": "3",
+            "title": "Simmer with Coconut Milk",
+            "description": "Pour in the coconut milk and bring to a gentle simmer. Do not boil."
+        },
+        {
+            "step": "4",
+            "title": "Cook the Fish",
+            "description": "Add the fish pieces and salt. Cover and simmer on low heat until the fish is cooked through."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with rice or appams (rice pancakes)."
+        }
+    ],
+    "nutrition": {
+        "calories": "400 per serving",
+        "carbohydrates": "15g",
+        "protein": "35g",
+        "fat": "20g",
+        "fiber": "3g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Use fresh, firm-fleshed fish for the best texture.",
+        "Keep the heat low while cooking with coconut milk to prevent it from splitting."
+    ],
+    "variations": [
+        "Add a pinch of fenugreek powder for an extra layer of flavor.",
+        "Include vegetables like bell peppers or green peas for more nutrition."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat gently to avoid breaking the fish.",
+    "presentationTips": [
+        "Serve in a traditional clay pot for an authentic presentation.",
+        "Accompany with a side of lemon wedges."
+    ],
+    "keywords": [
+        "Fish Molee",
+        "Kerala Fish Curry",
+        "Coconut Milk Fish Stew"
+    ],
+    "allergens": [
+        "Fish",
+        "Coconut"
+    ]
+}

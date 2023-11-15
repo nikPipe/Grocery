@@ -1,0 +1,81 @@
+{
+  "name": "Gujarati Vegetarian Thali",
+  "id": 13,
+  "menu": {
+    "bread": {
+      "default": {"name": "Thepla", "id": "Thepla_Recipe"},
+      "variations": {
+        "Bhakhri": "Bhakri_Recipe",
+        "Puran Poli": 180,
+        "Phulka": "Phulka_Recipe",
+        "Khakhra": 182,
+        "Rotli": 183,
+        "Methi Na Dhebra": 184,
+        "Bajra Na Rotla": 185,
+        "Masala Puri": 186,
+        "Dudheli": 187,
+        "Fulwadi": 188
+      }
+    },
+    "curry": {
+      "default": {"name": "Undhiyu", "id": 278},
+      "variations": {
+        "Sev Tamatar": 279,
+        "Gujarati Kadhi": 280,
+        "Ringan no Olo": 281,
+        "Dal Dhokli": 282,
+        "Patra": 283,
+        "Khatta Moong": 284,
+        "Gatte ki Sabzi": 285,
+        "Dudhi Chana": 286,
+        "Kadhi": 287,
+        "Tindora Nu Shaak": 288
+      }
+    },
+    "side": {
+      "default": {"name": "Khaman Dhokla", "id": 378},
+      "variations": {
+        "Handvo": 379,
+        "Fafda": 380,
+        "Khandvi": 381,
+        "Muthia": 382,
+        "Ganthia": 383,
+        "Papdi no Lot": 384,
+        "Chakri": 385,
+        "Sev": 386,
+        "Jalebi": 387,
+        "Dahi Bhalla": 388
+      }
+    },
+    "rice": {
+      "default": {"name": "Khichdi", "id": 478},
+      "variations": {
+        "Vagharela Bhat": 479,
+        "Masala Bhat": 480,
+        "Dal Bhat": 481,
+        "Pulav": 482,
+        "Jeera Rice": 483,
+        "Saffron Rice": 484,
+        "Lemon Rice": 485,
+        "Curry Rice": 486,
+        "Tamarind Rice": 487,
+        "Coconut Rice": 488
+      }
+    },
+    "drink": {
+      "default": {"name": "Chaas", "id": 578},
+      "variations": {
+        "Masala Chaas": 579,
+        "Kesar Milk": 580,
+        "Nimbu Pani": 581,
+        "Masala Tea": 582,
+        "Ginger Tea": 583,
+        "Jaljeera": 584,
+        "Rose Sherbat": 585,
+        "Fruit Punch": 586,
+        "Kokum Sherbat": 587,
+        "Sugarcane Juice": 588
+      }
+    }
+  }
+}

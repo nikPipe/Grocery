@@ -1,0 +1,206 @@
+{
+    "id": "Ghevar_Recipe",
+    "name": "Ghevar",
+    "origin": "India",
+    "history": "Ghevar is a traditional Rajasthani sweet, particularly popular during the Teej and Raksha Bandhan festivals. It's known for its disc-like shape and honeycomb texture.",
+    "description": "Ghevar is a crispy, sweet cake made from all-purpose flour, ghee, and milk. It's deep-fried and then soaked in sugar syrup, often topped with dry fruits, rabri, or whipped cream.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Dessert"
+    ],
+    "equipment": [
+        {
+            "name": "large deep pan",
+            "description": "For deep frying the Ghevar.",
+            "imageURL": ""
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the batter.",
+            "imageURL": ""
+        },
+        {
+            "name": "sieve",
+            "description": "For straining the sugar syrup.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "all-purpose flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "milk",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "ice water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "400",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water (for sugar syrup)",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "saffron strands",
+            "quantity": "a few",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cardamom powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "pistachios, chopped",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "silver leaf (optional)",
+            "quantity": "for decoration",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "edible food color (optional)",
+            "quantity": "a few drops",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for deep frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Batter",
+            "description": "Whisk ghee, flour, and milk together. Gradually add ice water to form a smooth, flowing batter. Optionally, add food color."
+        },
+        {
+            "step": "2",
+            "title": "Fry the Ghevar",
+            "description": "Heat oil in a deep pan. Pour the batter in a thin stream into the oil, forming a disc. Fry until crisp. Remove and drain excess oil."
+        },
+        {
+            "step": "3",
+            "title": "Prepare Sugar Syrup",
+            "description": "Boil sugar and water to make a syrup. Add saffron and cardamom. Strain the syrup."
+        },
+        {
+            "step": "4",
+            "title": "Soak Ghevar in Syrup",
+            "description": "Dip the fried Ghevar in sugar syrup. Remove and let excess syrup drain."
+        },
+        {
+            "step": "5",
+            "title": "Garnish",
+            "description": "Garnish with pistachios and silver leaf. Let it cool before serving."
+        }
+    ],
+    "nutrition": {
+        "calories": "500",
+        "carbohydrates": "60g",
+        "protein": "5g",
+        "fat": "25g",
+        "fiber": "2g",
+        "sugar": "30g"
+    },
+    "tips": [
+        "Maintain a consistent temperature while frying for even cooking.",
+        "The batter consistency is crucial for the right texture of Ghevar."
+    ],
+    "variations": [
+        "Top with rabri or whipped cream for a richer flavor.",
+        "Experiment with different nuts or dried fruits for garnishing."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh, can be stored for 1-2 days.",
+        "instructions": "Store in an airtight container at room temperature."
+    },
+    "reheatingInstructions": "Typically not reheated; served at room temperature.",
+    "presentationTips": [
+        "Serve on a decorative plate with a dollop of rabri or a drizzle of honey."
+    ],
+    "keywords": [
+        "Ghevar",
+        "Indian dessert",
+        "Rajasthani sweet"
+    ],
+    "allergens": [
+        "Gluten",
+        "Dairy"
+    ]
+}

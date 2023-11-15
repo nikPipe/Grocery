@@ -1,0 +1,81 @@
+{
+  "name": "Festive Indian Thali",
+  "id": 8,
+  "menu": {
+    "bread": {
+      "default": {"name": "Naan", "id": "Naan_Recipe"},
+      "variations": {
+        "Garlic Naan": "Garlic_Naan_Recipe",
+        "Butter Naan": "Butter_Naan_Recipe",
+        "Paneer Kulcha": "Paneer_Kulcha_Recipe",
+        "Peshawari Naan": "Peshawari_Naan_Recipe",
+        "Keema Naan": "Keema_Naan_Recipe",
+        "Onion Kulcha": "Onion_Kulcha_Recipe",
+        "Cheese Naan": "Cheese_Naan_Recipe",
+        "Aloo Paratha": "Aloo_Paratha_Recipe",
+        "Gobi Paratha": "Gobi_Paratha_Recipe",
+        "Methi Paratha": "Methi_Paratha_Recipe"
+      }
+    },
+    "curry": {
+      "default": {"name": "Butter Chicken", "id": "Butter_Chicken_Recipe"},
+      "variations": {
+        "Palak Paneer": "Palak_Paneer_Recipe",
+        "Paneer Makhani": "Paneer_Makhani_Recipe",
+        "Chicken Korma": "Chicken_Korma_Recipe",
+        "Lamb Rogan Josh": "Lamb_Rogan_Josh_Recipe",
+        "Fish Curry": "Fish_Curry_Recipe",
+        "Egg Curry": "Egg_Curry_Recipe",
+        "Paneer Bhurji": "Paneer_Bhurji_Recipe",
+        "Vegetable Kolhapuri": "Vegetable_Kolhapuri_Recipe",
+        "Shahi Paneer": "Shahi_Paneer_Recipe",
+        "Kadai Chicken": "Kadai_Chicken_Recipe"
+      }
+    },
+    "side": {
+      "default": {"name": "Boondi Raita", "id": "Boondi_Raita_Recipe"},
+      "variations": {
+        "Pickle": "Mixed_Pickle_Recipe",
+        "Curd": "Curd_Recipe",
+        "Green Salad": "Green_Salad_Recipe",
+        "Masala Papad": "Masala_Papad_Recipe",
+        "Achari Salad": "Achari_Salad_Recipe",
+        "Fruit Salad": "Fruit_Salad_Recipe",
+        "Pudina Chutney": "Pudina_Chutney_Recipe",
+        "Onion Rings": "Onion_Rings_Recipe",
+        "Lemon Pickle": "Lemon_Pickle_Recipe",
+        "Chana Salad": "Chana_Salad_Recipe"
+      }
+    },
+    "rice": {
+      "default": {"name": "Pulao", "id": "Vegetable_Pulao_Recipe"},
+      "variations": {
+        "Vegetable Biryani": "Vegetable_Biryani_Recipe",
+        "Peas Pulao": "Peas_Pulao_Recipe",
+        "Kashmiri Pulao": "Kashmiri_Pulao_Recipe",
+        "Coconut Rice": "Coconut_Rice_Recipe",
+        "Lemon Rice": "Lemon_Rice_Recipe",
+        "Saffron Rice": "Saffron_Rice_Recipe",
+        "Mushroom Rice": "Mushroom_Rice_Recipe",
+        "Curd Rice": "Curd_Rice_Recipe",
+        "Tamarind Rice": "Tamarind_Rice_Recipe",
+        "Paneer Rice": "Paneer_Rice_Recipe"
+      }
+    },
+    "drink": {
+      "default": {"name": "Sweet Lassi", "id": "Sweet_Lassi_Recipe"},
+      "variations": {
+        "Rose Milk": "Rose_Milk_Recipe",
+        "Badam Milk": "Badam_Milk_Recipe",
+        "Mango Shake": "Mango_Shake_Recipe",
+        "Lemonade": "Lemonade_Recipe",
+        "Buttermilk": "Buttermilk_Recipe",
+        "Jaljeera": "Jal_Jeera_Recipe",
+        "Kesar Lassi": "Kesar_Lassi_Recipe",
+        "Watermelon Juice": "Watermelon_Juice_Recipe",
+        "Orange Juice": "Orange_Juice_Recipe",
+        "Masala Chai": "Masala_Chai_Recipe"
+      }
+    }
+  }
+}

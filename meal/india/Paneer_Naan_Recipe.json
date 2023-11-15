@@ -1,0 +1,210 @@
+{
+    "id": "Paneer_Naan_Recipe",
+    "name": "Paneer Naan",
+    "origin": "India",
+    "history": "Paneer Naan is a variation of the traditional Indian naan bread, incorporating paneer (Indian cottage cheese) into the dough. It's a fusion of classic naan and the rich flavors of paneer, offering a delicious twist to the conventional Indian bread.",
+    "description": "Paneer Naan is a soft and fluffy Indian bread stuffed with spiced paneer filling. Made by combining naan dough with a flavorful paneer mixture, it's typically cooked in a tandoor or oven and often served with Indian curries or as a snack.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "oven or tandoor",
+            "description": "For baking the naan.",
+            "imageURL": ""
+        },
+        {
+            "name": "rolling pin",
+            "description": "For rolling out the naan.",
+            "imageURL": ""
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough and filling.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "all-purpose flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "instant yeast",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "warm water",
+            "quantity": "3/4 cup",
+            "weight": {
+                "value": "180",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "paneer, crumbled",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "1-2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil or ghee for brushing",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, combine the flour, yeast, sugar, and salt. Add yogurt and warm water to form a soft dough. Knead well, then cover and let it rise for about 2 hours."
+        },
+        {
+            "step": "2",
+            "title": "Make Paneer Filling",
+            "description": "Mix crumbled paneer with garam masala, cumin powder, chopped coriander, and green chilies. Set aside."
+        },
+        {
+            "step": "3",
+            "title": "Assemble the Naan",
+            "description": "Divide the dough into balls. Roll out each ball, place a portion of the paneer filling in the center, and seal it by bringing the edges together. Gently roll out again to flatten."
+        },
+        {
+            "step": "4",
+            "title": "Cook the Naan",
+            "description": "Preheat the oven or tandoor. Place the naan on a baking tray or tandoor surface. Cook until puffed up and golden brown, turning once."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Brush the cooked naan with oil or ghee. Serve hot with Indian curries or dips."
+        }
+    ],
+    "nutrition": {
+        "calories": "350 per serving",
+        "carbohydrates": "50g",
+        "protein": "15g",
+        "fat": "10g",
+        "fiber": "3g",
+        "sugar": "4g"
+    },
+    "tips": [
+        "The dough should be soft and pliable for the best texture.",
+        "Adjust the spiciness of the filling according to your preference."
+    ],
+    "variations": [
+        "Add finely chopped onions or capsicum to the paneer filling for extra crunch.",
+        "Experiment with different herbs like mint or dill for varied flavors."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh. Can be stored for 1 day.",
+        "instructions": "Wrap in foil and store in the refrigerator. Reheat before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat in an oven or on a pan until warm."
+    ],
+    "presentationTips": [
+        "Cut into wedges and serve on a platter with a side of chutney.",
+        "Garnish with a sprinkle of chaat masala or freshly chopped coriander."
+    ],
+    "keywords": [
+        "Paneer Naan",
+        "Stuffed Indian Bread",
+        "Paneer Recipes"
+    ],
+    "allergens": [
+        "Dairy",
+        "Gluten"
+    ]
+}

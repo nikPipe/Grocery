@@ -1,0 +1,152 @@
+{
+    "id": "Stuffed_Paratha_Recipe",
+    "name": "Stuffed Paratha",
+    "origin": "India",
+    "history": "Stuffed Paratha is a beloved Indian flatbread, traditionally filled with various ingredients. It's a versatile dish enjoyed across the country.",
+    "description": "Stuffed Paratha is a delicious Indian flatbread, filled with a spiced mixture. Popular fillings include potato, paneer, and mixed vegetables.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough and mixing the filling.",
+            "imageURL": ""
+        },
+        {
+            "name": "rolling pin",
+            "description": "For rolling out the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "skillet or tawa",
+            "description": "For cooking the parathas.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "whole wheat flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "potato filling",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            },
+            "description": "A mixture of boiled and mashed potatoes, seasoned with spices like turmeric, chili powder, and cumin."
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Make the Dough",
+            "description": "Combine whole wheat flour, salt, and water to form a soft dough. Knead well and let it rest."
+        },
+        {
+            "step": "2",
+            "title": "Prepare the Filling",
+            "description": "Mix boiled, mashed potatoes with spices such as turmeric, chili powder, cumin, salt, and chopped herbs."
+        },
+        {
+            "step": "3",
+            "title": "Roll and Stuff",
+            "description": "Divide the dough into balls. Roll each ball, place a portion of filling in the center, and seal. Roll again to flatten."
+        },
+        {
+            "step": "4",
+            "title": "Cook the Parathas",
+            "description": "Heat a skillet. Cook each paratha with oil until golden brown on both sides."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve hot with yogurt, butter, or pickle."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "45g",
+        "protein": "8g",
+        "fat": "10g",
+        "fiber": "6g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Ensure the filling is not too moist to prevent the parathas from tearing.",
+        "Cook on medium heat for even cooking."
+    ],
+    "variations": [
+        "Try different fillings like paneer, cauliflower, or minced meat.",
+        "Add grated cheese to the potato filling for a cheesy twist."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Parathas can be stored in the refrigerator for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat on a skillet before serving."
+    },
+    "reheatingInstructions": "Reheat on a skillet or in a microwave until warm.",
+    "presentationTips": [
+        "Garnish with fresh coriander and serve with a side of chutneys."
+    ],
+    "keywords": [
+        "Indian flatbread",
+        "vegetarian meal",
+        "breakfast"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

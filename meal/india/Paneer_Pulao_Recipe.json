@@ -1,0 +1,237 @@
+{
+    "id": "Paneer_Pulao_Recipe",
+    "name": "Paneer Pulao",
+    "origin": "India",
+    "history": "Paneer Pulao is a delightful variation of the traditional Indian pulao, incorporating paneer (Indian cottage cheese) as the main ingredient. It's a popular choice in vegetarian Indian cuisine, known for its rich and satisfying taste.",
+    "description": "Paneer Pulao is a flavorful rice dish made with basmati rice, paneer cubes, and a mix of aromatic spices. It's a simple yet delicious meal, often served with raita or a curry, and is popular for its combination of soft paneer and fragrant rice.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pot or rice cooker",
+            "description": "For cooking the rice.",
+            "imageURL": ""
+        },
+        {
+            "name": "frying pan",
+            "description": "For saut\u00c3\u00a9ing the paneer and spices.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "paneer (indian cottage cheese), cubed",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "peas",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "bay leaf",
+            "quantity": "1",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cinnamon stick",
+            "quantity": "1 small piece",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cardamom pods",
+            "quantity": "2",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cloves",
+            "quantity": "2",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "500",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Rice",
+            "description": "Wash and soak basmati rice for 30 minutes. Cook until it's 80% done. Drain and set aside."
+        },
+        {
+            "step": "2",
+            "title": "Saut\u00c3\u00a9 Paneer and Spices",
+            "description": "In a frying pan, heat oil. Add cumin seeds, bay leaf, cinnamon, cardamom, cloves, and saut\u00c3\u00a9. Add onions and green chilies, cook until onions are golden. Add ginger-garlic paste, turmeric powder, green peas, and paneer cubes. Saut\u00c3\u00a9 for a few minutes."
+        },
+        {
+            "step": "3",
+            "title": "Combine Rice with Paneer Mixture",
+            "description": "Add the cooked rice to the paneer mixture. Sprinkle garam masala and salt. Gently mix everything together."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Garnish with chopped coriander leaves. Serve the Paneer Pulao hot with raita or a curry of your choice."
+        }
+    ],
+    "nutrition": {
+        "calories": "450 per serving",
+        "carbohydrates": "65g",
+        "protein": "15g",
+        "fat": "15g",
+        "fiber": "4g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Fry paneer cubes to a light golden color for added texture.",
+        "Ensure the rice grains are fluffy and separate to avoid a mushy pulao."
+    ],
+    "variations": [
+        "Add cashew nuts or raisins for a sweet and nutty flavor.",
+        "Experiment with different vegetables like carrots or bell peppers."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on a stove until hot.",
+    "presentationTips": [
+        "Serve in a decorative serving dish, garnished with fried onions or nuts.",
+        "Pair with a side of cucumber raita or a simple salad for a complete meal."
+    ],
+    "keywords": [
+        "Paneer Pulao",
+        "Indian Rice Dish",
+        "Cottage Cheese Pilaf"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

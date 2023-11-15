@@ -1,0 +1,162 @@
+{
+    "id": "Ragi_Idli_Recipe",
+    "name": "Ragi Idli",
+    "origin": "India",
+    "history": "Ragi Idli is a healthier variation of the traditional South Indian idli. It incorporates ragi flour, also known as finger millet, known for its rich nutritional content.",
+    "description": "Ragi Idli is a nutritious and delicious alternative to regular idlis, made using ragi flour mixed with rice and urad dal. These idlis are soft, fluffy, and rich in fiber and calcium.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": [
+        "Breakfast"
+    ],
+    "equipment": [
+        {
+            "name": "idli steamer or cooker",
+            "imageURL": "",
+            "description": "Used for steaming the idlis."
+        },
+        {
+            "name": "blender or grinder",
+            "imageURL": "",
+            "description": "Used for grinding the batter."
+        },
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "Used for fermenting the batter."
+        },
+        {
+            "name": "idli molds",
+            "imageURL": "",
+            "description": "Used for shaping the idlis."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "ragi flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "idli rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as required for grinding and batter consistency",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Soak and Grind",
+            "description": "Soak the urad dal, idli rice, and fenugreek seeds in water for 4-6 hours. Grind them along with ragi flour to a smooth batter, adding water as needed."
+        },
+        {
+            "step": "2",
+            "title": "Ferment the Batter",
+            "description": "Transfer the batter to a mixing bowl, add salt, and mix well. Allow it to ferment in a warm place for 8-12 hours until it doubles in volume."
+        },
+        {
+            "step": "3",
+            "title": "Steam the Idlis",
+            "description": "Grease the idli molds. Pour the batter into the molds and steam in an idli steamer or cooker for 10-15 minutes, or until the idlis are cooked and fluffy."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Ragi Idlis hot with coconut chutney and sambar."
+        }
+    ],
+    "nutrition": {
+        "calories": 150,
+        "carbohydrates": "30g",
+        "protein": "5g",
+        "fat": "1g",
+        "saturatedFat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "potassium": "100mg",
+        "fiber": "3g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "Ensure the batter is not too thick; it should have a pouring consistency.",
+        "Fermentation time may vary depending on the climate; warmer places ferment batter faster."
+    ],
+    "variations": [
+        "Add grated vegetables or chopped greens to the batter for extra nutrition.",
+        "Experiment with different proportions of ragi and rice for a change in texture and taste."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Ragi Idli batter can be stored in the refrigerator for up to 2 days.",
+        "instructions": "Store the batter in an airtight container and refrigerate."
+    },
+    "reheatingInstructions": "Reheat idlis in a steamer or microwave until warm.",
+    "presentationTips": [
+        "Garnish with grated coconut or a sprig of curry leaves for a traditional touch."
+    ],
+    "keywords": [
+        "ragi idli",
+        "finger millet idli",
+        "healthy Indian breakfast"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "id": "Uthappam_Recipe",
+    "name": "Uthappam",
+    "origin": "India",
+    "history": "Uthappam is a type of dosa from South Indian cuisine. Unlike a typical dosa, which is crisp and crepe-like, uthappam is thicker, with toppings cooked right into the batter.",
+    "description": "Uthappam is a thick, pancake-like dish made from fermented rice and urad dal batter, similar to dosa. It is distinguished by its toppings, typically onions, tomatoes, chilies, and other vegetables.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "25"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch"
+    ],
+    "equipment": [
+        {
+            "name": "griddle or non-stick pan",
+            "description": "For cooking the uthappam.",
+            "imageURL": ""
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the batter.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "dosa batter",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "capsicum",
+            "quantity": "1/2",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "as needed for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Toppings",
+            "description": "Mix together chopped onions, tomatoes, green chilies, capsicum, and coriander leaves in a bowl."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Uthappam",
+            "description": "Heat a griddle or non-stick pan. Pour a ladleful of dosa batter and spread it slightly. Sprinkle the vegetable mixture over the batter. Drizzle oil around the edges and cook until the underside is golden brown. Flip and cook the other side if desired."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Serve the uthappam hot with coconut chutney or sambar."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per serving",
+        "carbohydrates": "30g",
+        "protein": "5g",
+        "fat": "7g",
+        "fiber": "3g",
+        "sugar": "4g"
+    },
+    "tips": [
+        "Ensure the batter is well-fermented for the best taste and texture.",
+        "Cook on a medium flame for even browning and cooking."
+    ],
+    "variations": [
+        "Experiment with different toppings like grated carrots, paneer, or cooked peas.",
+        "Add spices like cumin seeds or black pepper to the batter for extra flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Batter can be refrigerated for up to 2 days.",
+        "instructions": "Store the batter in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat the uthappam on a pan until warm and crispy.",
+    "presentationTips": [
+        "Garnish with a sprinkle of fresh coriander and serve on a colorful plate."
+    ],
+    "keywords": [
+        "Uthappam",
+        "South Indian Pancake",
+        "Rice Batter Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "id": "Peanut_Chutney_Recipe",
+    "name": "Peanut Chutney",
+    "origin": "India",
+    "history": "Peanut Chutney is a popular condiment in South Indian cuisine, particularly in Andhra Pradesh and Tamil Nadu. It's made from roasted peanuts and is known for its creamy texture and nutty flavor. This chutney is a common accompaniment to breakfast items like idli and dosa.",
+    "description": "Peanut Chutney is a smooth and flavorful dip made from roasted peanuts, combined with spices, tamarind, and garlic. It's a versatile chutney that complements various South Indian dishes, adding a rich and nutty dimension to meals.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "20"
+        }
+    },
+    "mealtime": ["Breakfast", "Lunch", "Dinner", "Snack"],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For roasting peanuts and spices."
+        },
+        {
+            "name": "blender",
+            "description": "For grinding the chutney."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "peanuts, roasted and unsalted",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tamarind paste",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garlic cloves",
+            "quantity": "2",
+            "weight": {
+                "value": "6",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Roast Ingredients",
+            "description": "Roast the peanuts in a pan until golden. Remove and set aside. In the same pan, roast the cumin seeds, mustard seeds, garlic, and green chilies for a few minutes."
+        },
+        {
+            "step": "2",
+            "title": "Blend the Mixture",
+            "description": "Combine the roasted peanuts, tamarind paste, the roasted spice mixture, salt, and a little water in a blender. Blend to a smooth consistency."
+        },
+        {
+            "step": "3",
+            "title": "Prepare the Tempering",
+            "description": "Heat oil in the pan. Add mustard seeds and curry leaves. When they start to splutter, remove from heat."
+        },
+        {
+            "step": "4",
+            "title": "Combine and Serve",
+            "description": "Pour the tempering over the blended peanut mixture. Serve the Peanut Chutney with idli, dosa, or other South Indian dishes."
+        }
+    ],
+    "nutrition": {
+        "calories": "90 per serving",
+        "carbohydrates": "8g",
+        "protein": "4g",
+        "fat": "6g",
+        "fiber": "2g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Adjust the amount of green chilies based on your spice preference.",
+        "Ensure the peanuts are well-roasted for the best flavor."
+    ],
+    "variations": [
+        "Add a small piece of jaggery for a hint of sweetness.",
+        "Include a handful of fresh coriander leaves for a refreshing twist."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Peanut Chutney is best served at room temperature and does not require reheating."
+        }
+    ],
+    "presentationTips": [
+        "Serve in a small bowl with a spoon for easy use.",
+        "Garnish with a few roasted peanuts on top for added texture."
+    ],
+    "keywords": [
+        "Peanut Chutney",
+        "South Indian Condiment",
+        "Spicy Peanut Dip"
+    ],
+    "allergens": [
+        "Peanuts"
+    ]
+}

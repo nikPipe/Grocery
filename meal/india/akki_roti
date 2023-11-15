@@ -1,0 +1,91 @@
+{
+    "id": "Give me Recepie if with '_' ",
+    "name": "Name of the Recepie",
+    "origin": "Origin of the Recepie",
+    "history": "Give the history of the Recepie",
+    "description": "Give the description of the Recepie",
+    "servings": "Give the only one number like 1",
+    "dietTypes": ["Specify the diet types"],
+    "time": {
+        "preparationTime": {
+            "unit": "Always in Minute",
+            "value": "always in integer"
+        },
+        "cookingTime": {
+            "unit": "Always in Minute",
+            "value": "always in integer"
+        },
+        "totalTime": {
+            "unit": "Always in Minute",
+            "value": "always in integer"
+        }
+    },
+    "mealtime": ["List of the mealtime"],
+    "equipment": [
+        {
+            "name": "Name of the Equipment",
+            "imageURL": "",
+            "description": "Description of the Equipment"
+        }
+
+    ],
+    "ingredients": [
+        {
+            "item": "Name of the Ingredient be specific with the name of the ingredient exactly as it is in the recepie",
+            "quantity": "Quantity of the Ingredient",
+            "weight": {
+                "value": "Always in Gram as Integer",
+                "unit": "Always in Gram like g"
+            }
+
+        }
+
+    ],
+    "instructions": [
+        {
+            "step": "Step Number",
+            "title": "Title of the Step",
+            "description": "Description of the Step"
+        }
+
+    ],
+    "nutrition": {
+        "calories": "calories in integer",
+        "carbohydrates": "carbohydrates in integer",
+        "protein": " protein in integer",
+        "fat": " fat in integer",
+        "saturatedFat": " saturatedFat in integer",
+        "cholesterol": " cholesterol in integer",
+        "sodium": " sodium in integer",
+        "potassium": " potassium in integer",
+        "fiber": " fiber in integer",
+        "sugar": " sugar in integer",
+    },
+    "tips": [
+        "give the tips of the recepie"
+
+    ],
+    "variations": [
+        "give the variations of the recepie if any"
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Shelf life of the Recepie",
+        "instructions": "Storage Instructions of the Recepie"
+    },
+    "reheatingInstructions": "Reheating Instructions of the Recepie",
+    "presentationTips": [
+        "Presentation Tips of the Recepie"
+    ],
+    "keywords": [
+        "keyword1",
+
+    ],
+    "allergens": [
+        "None"
+    ]
+}
+other than this please do not add or remove any of the parameters on json format and please do not add the comment like //
+please keep this for future all the json and follow exactly has requested

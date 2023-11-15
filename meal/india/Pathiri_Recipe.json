@@ -1,0 +1,147 @@
+{
+    "id": "Pathiri_Recipe",
+    "name": "Pathiri",
+    "origin": "India",
+    "history": "Pathiri is a traditional flatbread from the Malabar region of Kerala, India. It's made from rice flour and is known for its thin, soft texture.",
+    "description": "Pathiri is a delicate, gluten-free flatbread made from rice flour, traditionally served with curries or coconut milk. It's a staple in Kerala cuisine and is enjoyed for its light, soft texture.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "rolling pin",
+            "description": "For rolling out the pathiris.",
+            "imageURL": ""
+        },
+        {
+            "name": "non-stick skillet or tawa",
+            "description": "For cooking the pathiris.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coconut oil",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for greasing",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "Boil water with salt and coconut oil. Add this to the rice flour and knead into a smooth dough."
+        },
+        {
+            "step": "2",
+            "title": "Roll the Pathiris",
+            "description": "Divide the dough into small balls. Roll each ball into a thin circle, using rice flour for dusting."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Pathiris",
+            "description": "Heat a skillet. Cook each pathiri until it puffs up, flipping once. Apply ghee or oil as needed."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the pathiris hot with curry, stew, or coconut milk."
+        }
+    ],
+    "nutrition": {
+        "calories": "250",
+        "carbohydrates": "50g",
+        "protein": "4g",
+        "fat": "5g",
+        "fiber": "2g",
+        "sugar": "0g"
+    },
+    "tips": [
+        "The dough should be soft and pliable for the best texture.",
+        "Do not overcook the pathiris to maintain their softness."
+    ],
+    "variations": [
+        "Add cumin seeds or grated coconut to the dough for a different flavor.",
+        "Experiment with different types of rice flour for variations in taste."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh but can be stored for up to 1 day.",
+        "instructions": "Store in an airtight container and reheat on a skillet before serving."
+    },
+    "reheatingInstructions": "Reheat on a skillet until warm and soft.",
+    "presentationTips": [
+        "Serve on a banana leaf for an authentic presentation.",
+        "Accompany with a variety of curries for a complete meal."
+    ],
+    "keywords": [
+        "Pathiri",
+        "Kerala flatbread",
+        "Rice flour bread"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

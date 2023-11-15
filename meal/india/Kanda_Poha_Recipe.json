@@ -1,0 +1,193 @@
+{
+    "id": "Kanda_Poha_Recipe",
+    "name": "Kanda Poha",
+    "origin": "India",
+    "history": "Kanda Poha is a popular Maharashtrian breakfast dish, often served as a quick snack as well. It's made from flattened rice (poha) and flavored with onions (kanda) and spices.",
+    "description": "Kanda Poha is a light yet filling dish made from flattened rice, saut\u00c3\u00a9ed with onions, green chilies, mustard seeds, and turmeric. It's often garnished with fresh coriander and lemon juice.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "20"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "imageURL": "",
+            "description": "Used for cooking the poha."
+        },
+        {
+            "name": "strainer",
+            "imageURL": "",
+            "description": "Used for rinsing the poha."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "poha",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "a few",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "4",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Poha",
+            "description": "Rinse the poha in a strainer under running water until it softens. Drain and set aside."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Seasoning",
+            "description": "Heat oil in a pan. Add mustard seeds and let them splutter. Then add chopped onions, green chilies, and curry leaves. Saut\u00c3\u00a9 until the onions turn translucent."
+        },
+        {
+            "step": "3",
+            "title": "Add Poha",
+            "description": "To the pan, add turmeric powder and salt. Mix well. Then add the softened poha and sugar. Stir gently to mix everything together."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Turn off the heat, add lemon juice and garnish with chopped coriander. Serve hot."
+        }
+    ],
+    "nutrition": {
+        "calories": 250,
+        "carbohydrates": "45g",
+        "protein": "5g",
+        "fat": "7g",
+        "saturatedFat": "1g",
+        "cholesterol": "0mg",
+        "sodium": "300mg",
+        "potassium": "200mg",
+        "fiber": "2g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Ensure the poha is not over-rinsed; it should be moist but not mushy.",
+        "Adjust the green chilies and sugar according to taste."
+    ],
+    "variations": [
+        "Add peanuts or cashews for a crunchy texture.",
+        "Include vegetables like peas, carrots, or potatoes for a more filling dish."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Kanda Poha is best enjoyed fresh but can be stored in the refrigerator for up to 1 day.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on a stovetop until warm.",
+    "presentationTips": [
+        "Serve on a plate with a side of fresh slices of cucumber or tomato."
+    ],
+    "keywords": [
+        "kanda poha",
+        "flattened rice snack",
+        "Indian breakfast"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

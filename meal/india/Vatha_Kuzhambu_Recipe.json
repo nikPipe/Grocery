@@ -1,0 +1,187 @@
+{
+    "id": "Vatha_Kuzhambu_Recipe",
+    "name": "Vatha Kuzhambu",
+    "origin": "India",
+    "history": "Vatha Kuzhambu is a traditional Tamil Nadu dish known for its tangy and spicy taste. It is a tamarind-based stew that typically features sun-dried vegetables like 'vathal' along with a variety of spices, embodying the essence of South Indian cuisine.",
+    "description": "Vatha Kuzhambu is a flavorful South Indian gravy made with tamarind, sun-dried vegetables (vathal), and a special blend of spices. It's typically served with rice and is loved for its unique combination of sourness from the tamarind and heat from the spices.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For preparing the kuzhambu."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "tamarind paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sun-dried vegetables (vathal)",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "25",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sambar powder",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida (hing)",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dried red chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sesame oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Tamarind Water",
+            "description": "Soak the tamarind paste in warm water, extract the juice, and set aside."
+        },
+        {
+            "step": "2",
+            "title": "Fry the Vathal",
+            "description": "Heat sesame oil in a pan. Add the mustard seeds, fenugreek seeds, dried red chilies, and asafoetida. Once the mustard seeds start to splutter, add the vathal and fry until golden."
+        },
+        {
+            "step": "3",
+            "title": "Add Tamarind Water and Spices",
+            "description": "Pour the tamarind water into the pan. Add sambar powder, curry leaves, and salt. Bring to a boil."
+        },
+        {
+            "step": "4",
+            "title": "Simmer the Kuzhambu",
+            "description": "Reduce the heat and let the kuzhambu simmer until it thickens to a gravy-like consistency."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the Vatha Kuzhambu hot with steamed rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "150 per serving",
+        "carbohydrates": "20g",
+        "protein": "2g",
+        "fat": "7g",
+        "fiber": "3g",
+        "sugar": "4g"
+    },
+    "tips": [
+        "Adjust the amount of sambar powder and red chilies to suit your taste.",
+        "Ensure the kuzhambu is simmered well for the flavors to meld together."
+    ],
+    "variations": [
+        "You can add other vegetables like eggplant or okra to the kuzhambu.",
+        "For a different taste, use different types of vathal like sundakkai or manathakkali."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat on the stove over medium heat until warm."
+        }
+    ],
+    "presentationTips": [
+        "Garnish with a few curry leaves for a fresh look.",
+        "Serve in a traditional clay pot for an authentic South Indian presentation."
+    ],
+    "keywords": [
+        "Vatha Kuzhambu",
+        "Tamarind Stew",
+        "South Indian Gravy"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

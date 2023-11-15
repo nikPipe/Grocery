@@ -1,0 +1,221 @@
+{
+    "id": "Mushroom_Masala_Recipe",
+    "name": "Mushroom Masala",
+    "origin": "India",
+    "history": "Mushroom Masala is a popular dish in Indian cuisine, especially among vegetarians. It consists of mushrooms cooked in a spicy and creamy gravy, often flavored with various Indian spices, tomatoes, and onions.",
+    "description": "Mushroom Masala is a flavorful Indian curry made with mushrooms simmered in a rich and spicy tomato-based sauce. The dish is enhanced with traditional Indian spices, making it a delightful vegetarian option that pairs well with rice or bread.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "frying pan",
+            "description": "For cooking the masala.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "mushrooms, sliced",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "fresh coriander leaves, chopped",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cream (optional)",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Saut\u00c3\u00a9 the Aromatics",
+            "description": "Heat oil in a frying pan. Add cumin seeds and let them splutter. Saut\u00c3\u00a9 onions and green chilies until the onions turn golden. Add ginger-garlic paste and cook for a minute."
+        },
+        {
+            "step": "2",
+            "title": "Add Spices and Tomatoes",
+            "description": "Stir in turmeric, red chili, and coriander powder. Add pureed tomatoes and cook until the oil separates from the masala."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Mushrooms",
+            "description": "Add the sliced mushrooms and salt. Cook until the mushrooms are soft and have released their water."
+        },
+        {
+            "step": "4",
+            "title": "Final Touches",
+            "description": "Sprinkle garam masala and add cream if using. Cook for another 2-3 minutes."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Garnish with chopped coriander leaves. Serve hot with naan, roti, or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per serving",
+        "carbohydrates": "20g",
+        "protein": "6g",
+        "fat": "15g",
+        "fiber": "4g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Clean the mushrooms properly before slicing them.",
+        "Adjust the spice levels according to your preference."
+    ],
+    "variations": [
+        "Add green peas or bell peppers for more color and nutrition.",
+        "For a vegan version, skip the cream or use coconut milk."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on a stove until hot.",
+    "presentationTips": [
+        "Serve in a bowl with a side of freshly sliced onions and lemon wedges.",
+        "Garnish with cream and a sprig of fresh mint for a refreshing touch."
+    ],
+    "keywords": [
+        "Mushroom Masala",
+        "Indian Mushroom Curry",
+        "Spicy Mushroom Gravy"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

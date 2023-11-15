@@ -1,0 +1,232 @@
+{
+    "id": "Vegetable_Jalfrezi_Recipe",
+    "name": "Vegetable Jalfrezi",
+    "origin": "India",
+    "history": "Vegetable Jalfrezi is a popular dish in Indian cuisine, originally derived from a type of Anglo-Indian food. The term 'Jalfrezi' refers to the stir-frying of ingredients, and the dish is known for its spicy, tangy tomato-based sauce with various vegetables.",
+    "description": "Vegetable Jalfrezi is a vibrant and spicy stir-fry dish made with a mix of fresh vegetables such as bell peppers, carrots, and onions, cooked in a flavorful tomato-based sauce. It is often spiced with cumin, coriander, and turmeric, and finished with a squeeze of lemon juice.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan or wok",
+            "description": "For stir-frying the vegetables.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "bell peppers (red, green, yellow), chopped",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carrots, julienned",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green beans, chopped",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fresh cilantro (coriander), chopped",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Saut\u00c3\u00a9 the Aromatics",
+            "description": "Heat oil in a pan or wok. Add cumin seeds and let them splutter. Saut\u00c3\u00a9 onions, ginger-garlic paste, and green chilies until the onions turn golden."
+        },
+        {
+            "step": "2",
+            "title": "Add Spices and Vegetables",
+            "description": "Add turmeric, red chili powder, coriander powder, and salt. Stir well. Add the chopped bell peppers, carrots, and green beans. Cook until they are slightly tender."
+        },
+        {
+            "step": "3",
+            "title": "Add Tomatoes and Cook",
+            "description": "Add chopped tomatoes and cook until they soften and the oil separates. The vegetables should be cooked but still retain some crunch."
+        },
+        {
+            "step": "4",
+            "title": "Finish with Garam Masala",
+            "description": "Sprinkle garam masala and lemon juice over the curry. Mix well."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped fresh cilantro. Serve the Vegetable Jalfrezi hot with naan, roti, or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "150 per serving",
+        "carbohydrates": "20g",
+        "protein": "3g",
+        "fat": "7g",
+        "fiber": "4g",
+        "sugar": "7g"
+    },
+    "tips": [
+        "The vegetables should be cut uniformly for even cooking.",
+        "Adjust the spice levels according to your taste."
+    ],
+    "variations": [
+        "Add paneer or tofu for a protein-rich version.",
+        "Include other vegetables like cauliflower or peas for more variety."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until warm."
+    ],
+    "presentationTips": [
+        "Serve in a colorful bowl to highlight the dish's vibrant appearance.",
+        "Pair with a side of cooling cucumber raita or a salad."
+    ],
+    "keywords": [
+        "Vegetable Jalfrezi",
+        "Indian Stir-Fry",
+        "Spicy Vegetable Curry"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

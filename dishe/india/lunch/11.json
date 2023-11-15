@@ -1,0 +1,81 @@
+{
+  "name": "South Indian Vegetarian Thali",
+  "id": 11,
+  "menu": {
+    "bread": {
+      "default": {"name": "Dosa", "id": "Dosa_Recipe"},
+      "variations": {
+        "Masala Dosa": "Masala_Dosa_Recipe",
+        "Rava Dosa": "Rava_Dosa_Recipe",
+        "Onion Dosa": "Onion_Dosa_Recipe",
+        "Neer Dosa": "Neer_Dosa_Recipe",
+        "Uthappam": "Uttapam_Recipe",
+        "Ghee Roast Dosa": "Ghee_Roast_Dosa_Recipe",
+        "Set Dosa": "Set_Dosa_Recipe",
+        "Plain Dosa": "Plain_Dosa_Recipe",
+        "Podi Dosa": "Podi_Dosa_Recipe",
+        "Paper Dosa": "Paper_Dosa_Recipe"
+      }
+    },
+    "curry": {
+      "default": {"name": "Sambar", "id": "Sambar_Recipe"},
+      "variations": {
+        "Rasam": "Rasam_Recipe",
+        "Avial": "Avial_Recipe",
+        "Kootu": "Kootu_Recipe",
+        "Vegetable Stew": "Vegetable_Stew_Recipe",
+        "Vatha Kuzhambu": "Vatha_Kuzhambu_Recipe",
+        "Mor Kuzhambu": "Mor_Kuzhambu_Recipe",
+        "Puli Kuzhambu": "Puli_Kuzhambu_Recipe",
+        "Tomato Gothsu": "Tomato_Gothsu_Recipe",
+        "Mysore Pak": "Mysore_Pak_Recipe",
+        "Ennai Kathirikai": "Ennai_Kathirikai_Recipe"
+      }
+    },
+    "side": {
+      "default": {"name": "Coconut Chutney", "id": "Chutney"},
+      "variations": {
+        "Tomato Chutney": "Tomato_Chutney_Recipe",
+        "Mint Chutney": "Mint_Chutney_Recipe",
+        "Tamarind Chutney": "Tamarind_Chutney_Recipe",
+        "Ginger Chutney": "Ginger_Chutney_Recipe",
+        "Coriander Chutney": "Coriander_Chutney_Recipe",
+        "Peanut Chutney": "Peanut_Chutney_Recipe",
+        "Garlic Chutney": "Garlic_Chutney_Recipe",
+        "Red Chilli Chutney": "Red_Chilli_Chutney_Recipe",
+        "Onion Chutney": 365,
+        "Yogurt Chutney": 366
+      }
+    },
+    "rice": {
+      "default": {"name": "Lemon Rice", "id": "Lemon_Rice_Recipe"},
+      "variations": {
+        "Tamarind Rice": "Tamarind_Rice_Recipe",
+        "Coconut Rice": "Coconut_Rice_Recipe",
+        "Curd Rice": "Curd_Rice_Recipe",
+        "Tomato Rice": "Tomato_Rice_Recipe",
+        "Bisi Bele Bath": 461,
+        "Puliogare": 462,
+        "Mango Rice": 463,
+        "Sesame Rice": 464,
+        "Vegetable Biryani": "Vegetable_Biryani_Recipe",
+        "Karnataka Style Bisi Bele Bath": 466
+      }
+    },
+    "drink": {
+      "default": {"name": "Filter Coffee", "id": 556},
+      "variations": {
+        "Masala Chai": "Masala_Chai_Recipe",
+        "Sweet Lassi": "Sweet_Lassi_Recipe",
+        "Buttermilk": "Buttermilk_Recipe",
+        "Mango Lassi": "Mango_Lassi_Recipe",
+        "Rose Milk": "Rose_Milk_Recipe",
+        "Sugarcane Juice": "Sugarcane_Juice_Recipe",
+        "Nannari Sarbath": 563,
+        "Lemonade": "Lemonade_Recipe",
+        "Jigarthanda": 565,
+        "Elaneer": 566
+      }
+    }
+  }
+}

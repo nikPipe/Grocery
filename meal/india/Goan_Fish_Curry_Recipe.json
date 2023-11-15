@@ -1,0 +1,232 @@
+{
+    "id": "Goan_Fish_Curry_Recipe",
+    "name": "Goan Fish Curry",
+    "origin": "India",
+    "history": "Originating from Goa, a coastal state in India, Goan Fish Curry is a staple in Goan cuisine. It reflects the region's rich seafood tradition, influenced by Portuguese and local Indian flavors.",
+    "description": "Goan Fish Curry is a spicy and tangy dish made with fish cooked in a coconut milk-based curry. The curry is flavored with tamarind, spices, and a paste of coconut and chilies, offering a perfect balance of heat and sourness.",
+    "servings": "1",
+    "dietTypes": [
+        "Pescatarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "40"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "blender or grinder",
+            "description": "For making the spice paste.",
+            "imageURL": ""
+        },
+        {
+            "name": "cooking pot",
+            "description": "For preparing the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "firm white fish (like cod or tilapia), cut into pieces",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coconut milk",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "tamarind paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "grated coconut",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "45",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander seeds",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garlic cloves",
+            "quantity": "4",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger, chopped",
+            "quantity": "1 inch piece",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "fresh coriander leaves, chopped",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Spice Paste",
+            "description": "Grind grated coconut, green chilies, coriander seeds, cumin seeds, garlic, and ginger with a little water to make a smooth paste."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Onions",
+            "description": "Heat oil in a pot. Add onions and cook until translucent."
+        },
+        {
+            "step": "3",
+            "title": "Add the Spice Paste",
+            "description": "Add the prepared spice paste to the onions, along with turmeric powder. Cook until the oil begins to separate."
+        },
+        {
+            "step": "4",
+            "title": "Simmer with Coconut Milk and Tamarind",
+            "description": "Add coconut milk, tamarind paste, and salt. Bring to a simmer."
+        },
+        {
+            "step": "5",
+            "title": "Cook the Fish",
+            "description": "Add the fish pieces and cook gently until the fish is done."
+        },
+        {
+            "step": "6",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped coriander leaves. Serve hot with rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "350 per serving",
+        "carbohydrates": "15g",
+        "protein": "35g",
+        "fat": "18g",
+        "fiber": "4g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Use fresh, firm white fish for the best texture.",
+        "Adjust the amount of tamarind and green chilies to suit your taste."
+    ],
+    "variations": [
+        "Add a few curry leaves during cooking for an authentic South Indian flavor.",
+        "Substitute fish with shrimp or other seafood for a different take on the recipe."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh, but can be refrigerated for up to 1 day.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat gently on the stove until warm.",
+    "presentationTips": [
+        "Serve in a traditional earthenware bowl for a rustic feel.",
+        "Accompany with steamed basmati rice and a wedge of lime."
+    ],
+    "keywords": [
+        "Goan Fish Curry",
+        "Seafood Curry",
+        "Indian Cuisine"
+    ],
+    "allergens": [
+        "Fish",
+        "Coconut"
+    ]
+}

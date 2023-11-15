@@ -1,0 +1,127 @@
+{
+    "id": "Mango_Shake_Recipe",
+    "name": "Mango Shake",
+    "origin": "Global",
+    "history": "Mango Shake is a popular beverage enjoyed worldwide, particularly in regions where mangoes are a native fruit. This refreshing drink is made by blending ripe mangoes with milk and sugar, and it's often enjoyed in the summer months.",
+    "description": "Mango Shake is a creamy and delightful drink made from ripe mangoes, milk, and sugar, blended to a smooth consistency. It's a sweet and refreshing beverage, perfect for hot days or as a nutritious snack.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "10"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "blender",
+            "description": "For blending the ingredients.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "ripe mangoes, peeled and chopped",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "300",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cold milk",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar, or to taste",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ice cubes (optional)",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chopped mango or mint leaves, for garnish",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Blend Ingredients",
+            "description": "In a blender, combine the chopped mangoes, milk, and sugar. Blend until smooth and creamy. Add ice cubes if desired for a chilled drink."
+        },
+        {
+            "step": "2",
+            "title": "Serve",
+            "description": "Pour the mango shake into glasses. Garnish with chopped mango or mint leaves. Serve immediately."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per serving",
+        "carbohydrates": "45g",
+        "protein": "8g",
+        "fat": "5g",
+        "fiber": "3g",
+        "sugar": "40g"
+    },
+    "tips": [
+        "Use ripe and sweet mangoes for the best flavor.",
+        "Adjust the amount of sugar based on the sweetness of the mangoes."
+    ],
+    "variations": [
+        "Add a scoop of vanilla ice cream for a richer shake.",
+        "Blend in a few cardamom pods for a unique flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately.",
+        "instructions": "Mango shake does not store well as it tends to separate."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in tall glasses with a straw.",
+        "Garnish with a slice of mango on the rim of the glass for an attractive look."
+    ],
+    "keywords": [
+        "Mango Shake",
+        "Fruit Shake",
+        "Summer Drink"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

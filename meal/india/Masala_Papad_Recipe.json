@@ -1,0 +1,180 @@
+{
+    "id": "Masala_Papad_Recipe",
+    "name": "Masala Papad",
+    "origin": "India",
+    "history": "Masala Papad is a popular Indian appetizer or snack, featuring crispy papadums topped with a spicy and tangy mixture of onions, tomatoes, and spices. It's a staple in many Indian restaurants and households for its simplicity and flavor.",
+    "description": "Masala Papad is a quick and flavorful dish made with roasted or fried papadums, which are thin, crisp disc-shaped foods, topped with a fresh mix of chopped onions, tomatoes, green chilies, and spices. It's often served as a starter or side dish.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "5"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "15"
+        }
+    },
+    "mealtime": [
+        "Snack",
+        "Appetizer"
+    ],
+    "equipment": [
+        {
+            "name": "pan or microwave",
+            "description": "For roasting or frying the papad.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "papads",
+            "quantity": "2",
+            "weight": {
+                "value": "20",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 small",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "1 small",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chaat masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sev (optional)",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Topping",
+            "description": "In a bowl, mix together chopped onions, tomatoes, green chilies, coriander leaves, chaat masala, red chili powder, lemon juice, and salt."
+        },
+        {
+            "step": "2",
+            "title": "Roast or Fry Papads",
+            "description": "Roast the papads over an open flame or fry them until crispy. You can also microwave them for a healthier option."
+        },
+        {
+            "step": "3",
+            "title": "Assemble Masala Papad",
+            "description": "Spread the prepared topping evenly over the roasted or fried papads. If desired, garnish with sev."
+        },
+        {
+            "step": "4",
+            "title": "Serve Immediately",
+            "description": "Serve the Masala Papad immediately as an appetizer or snack."
+        }
+    ],
+    "nutrition": {
+        "calories": "70 per serving",
+        "carbohydrates": "10g",
+        "protein": "2g",
+        "fat": "2g",
+        "fiber": "2g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Serve the Masala Papad immediately after assembling to maintain the crispness of the papad.",
+        "Adjust the amount of green chilies and spices according to your taste."
+    ],
+    "variations": [
+        "Add grated carrots or beetroots for additional color and nutrition.",
+        "Sprinkle with roasted cumin powder for an extra flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. Papads may lose crispness if stored.",
+        "instructions": "Assemble just before serving to retain crispness."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve on a colorful plate to enhance the visual appeal.",
+        "Garnish with a lemon wedge or sprinkle with finely chopped fresh herbs."
+    ],
+    "keywords": [
+        "Masala Papad",
+        "Indian Snack",
+        "Crispy Appetizer"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

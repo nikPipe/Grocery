@@ -1,0 +1,190 @@
+{
+    "id": "Onion_Rings_Recipe",
+    "name": "Onion Rings",
+    "origin": "Western",
+    "history": "Onion Rings are a popular snack and side dish in Western cuisine, particularly in the United States. They consist of onion slices deep-fried in a crispy batter. The exact origin is unknown, but they have been a staple in American diners and fast-food restaurants for decades.",
+    "description": "Onion Rings are a classic snack made from slices of onion coated in a savory batter and deep-fried until golden and crispy. They are known for their crunchy exterior and tender onion inside, often served with dipping sauces like ketchup or ranch.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "25"
+        }
+    },
+    "mealtime": [
+        "Snack",
+        "Side Dish"
+    ],
+    "equipment": [
+        {
+            "name": "deep fryer or heavy-bottomed pan",
+            "description": "For deep frying the onion rings.",
+            "imageURL": ""
+        },
+        {
+            "name": "mixing bowls",
+            "description": "For preparing the batter and dredging the onions.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "large onions",
+            "quantity": "2",
+            "weight": {
+                "value": "300",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "all-purpose flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cornstarch",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "baking powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "paprika",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black pepper",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "milk",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "egg",
+            "quantity": "1",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for deep frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Onions",
+            "description": "Peel the onions and slice them into 1/4-inch thick rings. Separate the rings."
+        },
+        {
+            "step": "2",
+            "title": "Make the Batter",
+            "description": "In a bowl, mix together flour, cornstarch, baking powder, paprika, salt, and black pepper. In another bowl, whisk together the milk and egg. Combine the wet and dry ingredients to form a batter."
+        },
+        {
+            "step": "3",
+            "title": "Dredge the Onion Rings",
+            "description": "Dip each onion ring into the batter, ensuring it's fully coated, then carefully place it in the hot oil."
+        },
+        {
+            "step": "4",
+            "title": "Fry the Onion Rings",
+            "description": "Heat oil in a deep fryer or heavy-bottomed pan to 375\u00c2\u00b0F (190\u00c2\u00b0C). Fry the onion rings in batches until they are golden brown and crispy, about 2-3 minutes per batch. Drain on paper towels."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the onion rings hot with your choice of dipping sauces."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "35g",
+        "protein": "5g",
+        "fat": "15g",
+        "fiber": "2g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Ensure the oil is at the correct temperature before frying to avoid soggy onion rings.",
+        "Do not overcrowd the pan while frying, as it lowers the oil temperature."
+    ],
+    "variations": [
+        "Add different spices to the batter, like garlic powder or cayenne pepper, for extra flavor.",
+        "Use beer instead of milk in the batter for beer-battered onion rings."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. Can be stored for a few hours.",
+        "instructions": "Keep in a warm oven if not serving immediately."
+    },
+    "reheatingInstructions": [
+        "Reheat in a preheated oven at 350\u00c2\u00b0F (175\u00c2\u00b0C) until crispy."
+    ],
+    "presentationTips": [
+        "Serve in a basket lined with parchment paper for a classic look.",
+        "Garnish with fresh parsley and serve with a side of creamy ranch or spicy ketchup."
+    ],
+    "keywords": [
+        "Onion Rings",
+        "Fried Snack",
+        "Crispy Appetizer"
+    ],
+    "allergens": [
+        "Gluten",
+        "Dairy",
+        "Eggs"
+    ]
+}

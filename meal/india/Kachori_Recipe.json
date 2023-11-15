@@ -1,0 +1,233 @@
+{
+    "id": "Kachori_Recipe",
+    "name": "Kachori",
+    "origin": "India",
+    "history": "Kachori is a popular Indian snack, believed to have originated in Uttar Pradesh or Rajasthan. It's a deep-fried pastry filled with a spicy mixture, often enjoyed with chutney.",
+    "description": "Kachori is a crispy, flaky pastry filled with savory fillings like spiced lentils, onions, or potatoes. It's a common street food in India, known for its delicious taste and texture.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "imageURL": "",
+            "description": "Used for preparing the filling."
+        },
+        {
+            "name": "deep frying pan",
+            "imageURL": "",
+            "description": "Used for frying the kachoris."
+        },
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "Used for preparing the dough."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "all-purpose flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "4 tablespoons",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "carom seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as required for dough",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "dal",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fennel seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "amchur",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, combine the flour, ajwain, salt, and ghee or oil. Gradually add water and knead to form a smooth dough. Cover and set aside."
+        },
+        {
+            "step": "2",
+            "title": "Make the Filling",
+            "description": "Soak the dal for an hour, then drain. Heat a little oil in a pan, add asafoetida, cumin seeds, fennel seeds, ginger, green chilies, and the soaked dal. Cook until the dal is soft. Add spices and salt, and cook until the mixture is dry."
+        },
+        {
+            "step": "3",
+            "title": "Shape and Fill Kachoris",
+            "description": "Divide the dough into small balls. Roll out each ball, place a portion of the filling in the center, and seal the edges. Gently flatten the kachoris."
+        },
+        {
+            "step": "4",
+            "title": "Fry the Kachoris",
+            "description": "Heat oil in a deep frying pan. Deep fry the kachoris over a medium flame until golden and crisp."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve hot kachoris with tamarind chutney or green chutney."
+        }
+    ],
+    "nutrition": {
+        "calories": 300,
+        "carbohydrates": "45g",
+        "protein": "8g",
+        "fat": "12g",
+        "saturatedFat": "2g",
+        "cholesterol": "0mg",
+        "sodium": "400mg",
+        "potassium": "250mg",
+        "fiber": "5g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Ensure the dough is not too soft; it should be firm enough to hold the filling.",
+        "Fry the kachoris on medium heat for even cooking and crispiness."
+    ],
+    "variations": [
+        "Add mashed peas or spiced grated coconut to the filling for different flavors.",
+        "Experiment with different types of lentils or beans for the filling."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Kachoris can be stored in an airtight container at room temperature for up to 2 days.",
+        "instructions": "Reheat in an oven or air fryer for best results."
+    },
+    "reheatingInstructions": "Reheat in an oven or air fryer until crispy.",
+    "presentationTips": [
+        "Garnish with sev or chopped onions, and serve alongside a cup of hot tea."
+    ],
+    "keywords": [
+        "kachori",
+        "Indian snack",
+        "stuffed pastry"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

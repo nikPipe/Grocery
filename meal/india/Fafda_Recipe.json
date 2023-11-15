@@ -1,0 +1,169 @@
+{
+    "id": "Fafda_Recipe",
+    "name": "Fafda",
+    "origin": "India",
+    "history": "Fafda is a traditional Gujarati snack, popular especially during festivals. It is a crispy and savory snack made from gram flour.",
+    "description": "Fafda is a crunchy, fried strip of gram flour dough, flavored with carom seeds, turmeric, and asafoetida. It is often enjoyed with chutney or jalebi, particularly during the festival of Dussehra.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "kneading bowl",
+            "description": "Used for making the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "rolling board",
+            "description": "Used for rolling the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "frying pan",
+            "description": "Used for frying the fafda.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "gram flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons + for deep frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "carom seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "baking soda",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a bowl, mix gram flour, oil, carom seeds, turmeric powder, asafoetida, salt, and baking soda. Add water gradually and knead into a stiff dough. Let it rest for 20-30 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Shape the Fafda",
+            "description": "Divide the dough into small portions. Roll each portion into a thin strip on a rolling board using your palms."
+        },
+        {
+            "step": "3",
+            "title": "Fry the Fafda",
+            "description": "Heat oil in a frying pan. Deep fry the fafda strips over medium heat until crisp and golden brown."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the fafda hot with chutney or jalebi."
+        }
+    ],
+    "nutrition": {
+        "calories": "300",
+        "carbohydrates": "35g",
+        "protein": "8g",
+        "fat": "15g",
+        "fiber": "2g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "The dough should be stiff to get the perfect texture of fafda.",
+        "Do not overcrowd the frying pan while frying fafda."
+    ],
+    "variations": [
+        "Add crushed black pepper or sesame seeds to the dough for added flavor.",
+        "Experiment with different types of chutneys for serving."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Fafda is best enjoyed fresh but can be stored in an airtight container for up to 2 days.",
+        "instructions": "Store at room temperature in an airtight container."
+    },
+    "reheatingInstructions": "Reheat in a microwave or oven until crispy.",
+    "presentationTips": [
+        "Garnish with sliced onions and sev for serving.",
+        "Arrange neatly on a platter alongside a bowl of chutney."
+    ],
+    "keywords": [
+        "Fafda",
+        "Gujarati snack",
+        "Crispy fried snack"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

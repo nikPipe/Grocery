@@ -1,0 +1,169 @@
+{
+    "id": "Ragi_Roti_Recipe",
+    "name": "Ragi Roti",
+    "origin": "India",
+    "history": "Ragi Roti is a traditional flatbread from South India, particularly Karnataka. Made with ragi (finger millet) flour, it's known for its nutritional value and is a staple in many households. This roti is often enjoyed with chutneys or curries.",
+    "description": "Ragi Roti is a healthy and delicious Indian flatbread made from ragi flour. It's often mixed with vegetables and spices, then pan-cooked to achieve a soft yet crispy texture. This roti is a great source of fiber and iron.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "25"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "griddle or tawa",
+            "description": "For cooking the roti.",
+            "imageURL": ""
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "ragi flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fresh coriander leaves, chopped",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, combine ragi flour, chopped onions, green chilies, coriander leaves, cumin seeds, and salt. Gradually add water and knead into a soft dough."
+        },
+        {
+            "step": "2",
+            "title": "Shape the Roti",
+            "description": "Divide the dough into small balls. Flatten each ball and roll it out on a lightly floured surface to form a roti."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Roti",
+            "description": "Heat a griddle or tawa over medium heat. Place the roti on the griddle and cook until it starts to puff up. Flip and cook the other side, applying a little oil."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the hot Ragi Roti with chutney, curry, or yogurt."
+        }
+    ],
+    "nutrition": {
+        "calories": "150 per serving",
+        "carbohydrates": "30g",
+        "protein": "3g",
+        "fat": "2g",
+        "fiber": "4g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "The dough should be soft and pliable for easy rolling.",
+        "You can add grated vegetables like carrot or cucumber for extra nutrition."
+    ],
+    "variations": [
+        "Mix in spices like garam masala or red chili powder for a spicier version.",
+        "Use buttermilk instead of water for a tangy flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh. Can be stored for up to a day.",
+        "instructions": "Store in an airtight container at room temperature."
+    },
+    "reheatingInstructions": [
+        "Reheat on a tawa or in a microwave until warm."
+    ],
+    "presentationTips": [
+        "Serve on a traditional banana leaf for an authentic experience.",
+        "Garnish with a side of freshly sliced onions and a lemon wedge."
+    ],
+    "keywords": [
+        "Ragi Roti",
+        "Finger Millet Flatbread",
+        "Healthy Indian Bread"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

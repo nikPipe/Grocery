@@ -1,0 +1,208 @@
+{
+    "id": "Ennai_Kathirikai_Recipe",
+    "name": "Ennai Kathirikai",
+    "origin": "India",
+    "history": "Ennai Kathirikai is a traditional South Indian dish originating from Tamil Nadu. It's a popular curry made with small brinjals, commonly known as eggplants, which are stuffed with a spicy mixture and simmered in tamarind gravy.",
+    "description": "Ennai Kathirikai is a flavorful brinjal (eggplant) curry where the brinjals are slit and stuffed with a spicy masala, then cooked in a tangy tamarind sauce. This dish is famous for its distinct flavors and is often served with rice.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "small brinjals (eggplants)",
+            "quantity": "6",
+            "weight": {
+                "value": "300",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tamarind paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sambar powder",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal (split black lentils)",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida (hing)",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dried red chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sesame oil",
+            "quantity": "3 tablespoons",
+            "weight": {
+                "value": "45",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Brinjals",
+            "description": "Slit the brinjals into four without cutting through the stem. Soak in water to prevent discoloration."
+        },
+        {
+            "step": "2",
+            "title": "Make Stuffing Masala",
+            "description": "Mix sambar powder, turmeric, and salt. Stuff this mixture into the slit brinjals."
+        },
+        {
+            "step": "3",
+            "title": "Prepare Tamarind Water",
+            "description": "Mix tamarind paste in water to make tamarind water."
+        },
+        {
+            "step": "4",
+            "title": "Cook the Brinjals",
+            "description": "Heat oil in a pan. Add mustard seeds, urad dal, fenugreek seeds, dry red chilies, asafoetida, and curry leaves. Add the stuffed brinjals and sauté gently."
+        },
+        {
+            "step": "5",
+            "title": "Add Tamarind Water and Simmer",
+            "description": "Add tamarind water to the pan. Cover and simmer until the brinjals are cooked and the gravy thickens."
+        },
+        {
+            "step": "6",
+            "title": "Serve",
+            "description": "Serve the Ennai Kathirikai hot with rice or roti."
+        }
+    ],
+    "nutrition": {
+        "calories": "180 per serving",
+        "carbohydrates": "20g",
+        "protein": "3g",
+        "fat": "10g",
+        "fiber": "5g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Ensure the brinjals are fresh and tender for the best taste.",
+        "Adjust the amount of tamarind and sambar powder according to your taste."
+    ],
+    "variations": [
+        "Add a pinch of jaggery to balance the tanginess of the tamarind.",
+        "You can also use small onions or garlic for additional flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat gently on the stove over medium heat until warm."
+        }
+    ],
+    "presentationTips": [
+        "Garnish with coriander leaves for a pop of color.",
+        "Serve in a traditional clay bowl for an authentic presentation."
+    ],
+    "keywords": [
+        "Ennai Kathirikai",
+        "Brinjal Curry",
+        "South Indian Eggplant Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

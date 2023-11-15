@@ -1,0 +1,199 @@
+{
+    "id": "Jalebi_Recipe",
+    "name": "Jalebi",
+    "origin": "India",
+    "history": "Jalebi is a popular sweet in India, believed to have originated in the Middle East. It's known for its bright color and spiral shape.",
+    "description": "Jalebi is a sweet, crispy, and tangy Indian dessert made by deep-frying a fermented batter of all-purpose flour and yogurt into spiral shapes and soaking them in sugar syrup.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": [
+        "Dessert",
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the batter.",
+            "imageURL": ""
+        },
+        {
+            "name": "deep frying pan",
+            "description": "For frying the jalebis.",
+            "imageURL": ""
+        },
+        {
+            "name": "squeeze bottle or piping bag",
+            "description": "For shaping the jalebis.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "all-purpose flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "warm water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "400",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water (for sugar syrup)",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "saffron strands",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cardamom powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "edible food color (optional)",
+            "quantity": "a few drops",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "baking powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for deep frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Batter",
+            "description": "Mix all-purpose flour, yogurt, baking powder, and water to form a smooth batter. Add food color if desired. Let it ferment for 4-5 hours."
+        },
+        {
+            "step": "2",
+            "title": "Make Sugar Syrup",
+            "description": "Boil sugar and water together. Add lemon juice, cardamom powder, and saffron. Simmer until it reaches a one-string consistency."
+        },
+        {
+            "step": "3",
+            "title": "Fry the Jalebis",
+            "description": "Heat oil in a pan. Pour the batter into a squeeze bottle or piping bag. Squeeze out spirals into the hot oil and fry until crisp."
+        },
+        {
+            "step": "4",
+            "title": "Soak in Syrup",
+            "description": "Immerse the fried jalebis in sugar syrup for a few minutes, then remove and drain."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the jalebis warm or at room temperature."
+        }
+    ],
+    "nutrition": {
+        "calories": "500",
+        "carbohydrates": "80g",
+        "protein": "6g",
+        "fat": "20g",
+        "fiber": "1g",
+        "sugar": "50g"
+    },
+    "tips": [
+        "The consistency of the batter is crucial for perfect jalebis.",
+        "Ensure the sugar syrup is not too thick or too thin."
+    ],
+    "variations": [
+        "Add rose water to the sugar syrup for a different flavor.",
+        "Experiment with different shapes and sizes of jalebis."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Jalebis are best eaten fresh but can be stored for up to 1 day.",
+        "instructions": "Store in an airtight container at room temperature."
+    },
+    "reheatingInstructions": "Reheat in a microwave or oven until warm and crispy.",
+    "presentationTips": [
+        "Garnish with silver leaf and pistachios for an elegant presentation."
+    ],
+    "keywords": [
+        "Jalebi",
+        "Indian dessert",
+        "Sweet snack"
+    ],
+    "allergens": [
+        "Gluten",
+        "Dairy"
+    ]
+}

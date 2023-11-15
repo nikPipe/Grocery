@@ -1,0 +1,191 @@
+{
+    "id": "Curd_Rice_Recipe",
+    "name": "Curd Rice",
+    "origin": "India",
+    "history": "Curd Rice, also known as 'Thayir Sadam' in South India, is a popular comfort food. It's a simple dish where cooked rice is mixed with curd (yogurt) and then tempered with spices. It's known for its cooling effect and digestibility.",
+    "description": "Curd Rice is a traditional South Indian dish made by combining cooked rice with curd (yogurt) and a tempering of mustard seeds, curry leaves, and other spices. It's often garnished with coriander and served chilled.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For the tempering.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "milk",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "1-2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Mash the Rice",
+            "description": "Slightly mash the cooked rice while it's still warm. Let it cool to room temperature."
+        },
+        {
+            "step": "2",
+            "title": "Mix Rice with Curd",
+            "description": "In a bowl, combine the cooled rice with curd and milk. Add salt to taste. Mix well to achieve a creamy consistency."
+        },
+        {
+            "step": "3",
+            "title": "Prepare the Tempering",
+            "description": "Heat oil in a pan. Add mustard seeds and urad dal. When the mustard seeds start to splutter, add chopped green chilies, ginger, and curry leaves. Saut\u00c3\u00a9 for a few seconds."
+        },
+        {
+            "step": "4",
+            "title": "Combine and Garnish",
+            "description": "Pour the tempering over the curd rice mixture. Add chopped coriander leaves and mix gently."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the Curd Rice chilled or at room temperature. It can be garnished with additional coriander leaves or pomegranate seeds."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "45g",
+        "protein": "10g",
+        "fat": "8g",
+        "fiber": "2g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Using slightly overcooked rice can give a softer texture to the dish.",
+        "Adjust the amount of milk to get your desired consistency."
+    ],
+    "variations": [
+        "Add grated cucumber or carrot for a refreshing twist.",
+        "For a spicier version, include finely chopped green chilies in the tempering."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "No reheating required. Serve chilled or at room temperature."
+    ],
+    "presentationTips": [
+        "Serve in a bowl with a spoonful of pickle or chutney on the side.",
+        "Garnish with fresh herbs or edible flowers for an elegant look."
+    ],
+    "keywords": [
+        "Curd Rice",
+        "Thayir Sadam",
+        "Yogurt Rice"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

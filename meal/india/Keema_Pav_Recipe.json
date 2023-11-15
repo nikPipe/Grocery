@@ -1,0 +1,225 @@
+{
+    "id": "Keema_Pav_Recipe",
+    "name": "Keema Pav",
+    "origin": "India",
+    "history": "Keema Pav is a popular Indian street food, particularly in Mumbai. It's a spicy minced meat dish, traditionally made with mutton or lamb, served with soft bread rolls (Pav).",
+    "description": "Keema Pav features a deliciously spiced minced meat curry (Keema) paired with buttered and toasted Pav. It's a hearty meal, often enjoyed as a breakfast or snack.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Snack",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "imageURL": "",
+            "description": "Used for cooking the keema."
+        },
+        {
+            "name": "tawa or skillet",
+            "imageURL": "",
+            "description": "Used for toasting the pav."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "minced meat",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "pav",
+            "quantity": "4",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "butter",
+            "quantity": "for toasting pav",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Cook the Keema",
+            "description": "Heat oil in a pan. Add cumin seeds, onions, ginger-garlic paste, and green chilies. Saut\u00c3\u00a9 until onions turn golden. Add minced meat, turmeric, red chili powder, coriander powder, garam masala, and salt. Cook until the meat is well done."
+        },
+        {
+            "step": "2",
+            "title": "Add Tomatoes",
+            "description": "Add chopped tomatoes to the keema and cook until the oil separates. Add a little water if needed. Garnish with fresh coriander."
+        },
+        {
+            "step": "3",
+            "title": "Toast the Pav",
+            "description": "Butter the pav and toast them on a tawa or skillet until slightly crisp and golden."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the hot keema with the buttered and toasted pav."
+        }
+    ],
+    "nutrition": {
+        "calories": 450,
+        "carbohydrates": "35g",
+        "protein": "25g",
+        "fat": "25g",
+        "saturatedFat": "10g",
+        "cholesterol": "80mg",
+        "sodium": "600mg",
+        "potassium": "500mg",
+        "fiber": "4g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Cook the keema on medium flame to ensure it's evenly cooked without burning.",
+        "Adjust the spices according to taste preferences."
+    ],
+    "variations": [
+        "Try using chicken or beef mince as alternatives to mutton or lamb.",
+        "Include peas or diced potatoes in the keema for additional texture."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Keema can be stored in the refrigerator for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat before serving. Pav should be served fresh."
+    },
+    "reheatingInstructions": "Reheat the keema on the stove or in a microwave. Pav can be lightly toasted if needed.",
+    "presentationTips": [
+        "Serve with a side of sliced onions and lemon wedges."
+    ],
+    "keywords": [
+        "keema pav",
+        "Indian minced meat dish",
+        "spicy meat with bread"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

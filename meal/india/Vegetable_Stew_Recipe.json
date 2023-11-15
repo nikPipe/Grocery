@@ -1,0 +1,190 @@
+{
+    "id": "Vegetable_Stew_Recipe",
+    "name": "Vegetable Stew",
+    "origin": "India",
+    "history": "Vegetable Stew is a popular dish in South Indian cuisine, especially in Kerala. Influenced by the region's abundant use of coconut, this stew is known for its creamy texture and aromatic spices. It's often served with appam or rice.",
+    "description": "Vegetable Stew is a light, coconut milk-based stew filled with a variety of vegetables like carrots, potatoes, green beans, and peas. It's delicately spiced with whole spices and curry leaves, making it both flavorful and comforting.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pot",
+            "description": "For cooking the stew."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "coconut milk",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "carrots, chopped",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "potatoes, chopped",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green beans, chopped",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green peas",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onions, sliced",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chilies, slit",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger, finely chopped",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "whole spices (cinnamon, cloves, cardamom)",
+            "quantity": "Each 2-3",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coconut oil",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Sauté Onions and Spices",
+            "description": "Heat coconut oil in a pot. Add the whole spices, ginger, green chilies, curry leaves, and onions. Sauté until the onions are translucent."
+        },
+        {
+            "step": "2",
+            "title": "Add Vegetables",
+            "description": "Add the chopped carrots, potatoes, green beans, and peas to the pot. Sauté for a few minutes."
+        },
+        {
+            "step": "3",
+            "title": "Cook with Coconut Milk",
+            "description": "Pour in the coconut milk and add salt. Bring to a boil, then simmer until the vegetables are cooked."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the vegetable stew hot with appam, rice, or bread of your choice."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per serving",
+        "carbohydrates": "25g",
+        "protein": "5g",
+        "fat": "10g",
+        "fiber": "6g",
+        "sugar": "4g"
+    },
+    "tips": [
+        "Adjust the number of green chilies according to your spice preference.",
+        "Be careful not to boil the stew vigorously after adding coconut milk to prevent curdling."
+    ],
+    "variations": [
+        "Add other vegetables like cauliflower or squash for variation.",
+        "For a richer stew, use thick coconut milk or add a spoonful of coconut cream."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat gently on the stove over low heat, stirring occasionally."
+        }
+    ],
+    "presentationTips": [
+        "Garnish with a few curry leaves or a sprinkle of fried onions.",
+        "Serve in a traditional clay pot for an authentic feel."
+    ],
+    "keywords": [
+        "Vegetable Stew",
+        "South Indian Cuisine",
+        "Coconut Milk Stew"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

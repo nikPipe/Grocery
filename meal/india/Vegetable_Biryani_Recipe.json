@@ -1,0 +1,260 @@
+{
+    "id": "Vegetable_Biryani_Recipe",
+    "name": "Vegetable Biryani",
+    "origin": "India",
+    "history": "Vegetable Biryani is a variant of the classic Biryani, a rice dish with roots in the Indian subcontinent. It's a popular dish that combines rice with a mix of vegetables and spices, offering a vegetarian option to the traditional meat biryanis.",
+    "description": "Vegetable Biryani is a flavorful, spiced rice dish cooked with a variety of vegetables, aromatic spices, and herbs. It's layered and slow-cooked, resulting in a vibrant dish that's a staple at celebrations and gatherings.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "40"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "70"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "large pot",
+            "description": "For cooking the rice and vegetables.",
+            "imageURL": ""
+        },
+        {
+            "name": "frying pan",
+            "description": "For saut\u00c3\u00a9ing the vegetables and spices.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carrots, diced",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "peas",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green beans, chopped",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cauliflower florets",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "2",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mint leaves",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "biryani masala",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "saffron strands",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.2",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Rice and Vegetables",
+            "description": "Wash and soak basmati rice for 30 minutes. Parboil rice until it's 70% cooked. In another pot, boil carrots, peas, beans, and cauliflower until halfway cooked."
+        },
+        {
+            "step": "2",
+            "title": "Saut\u00c3\u00a9 Spices and Vegetables",
+            "description": "In a pan, heat oil and saut\u00c3\u00a9 onions until golden brown. Add ginger-garlic paste, tomatoes, green chilies, and cook. Add turmeric, red chili powder, biryani masala, salt, mint, coriander leaves, and yogurt. Mix well."
+        },
+        {
+            "step": "3",
+            "title": "Layer the Biryani",
+            "description": "In a large pot, layer the cooked vegetables and rice alternatively. Sprinkle saffron soaked in water over the top layer."
+        },
+        {
+            "step": "4",
+            "title": "Cook the Biryani",
+            "description": "Cover the pot and cook on a low flame for 20 minutes until the rice is fully cooked."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the hot Vegetable Biryani with raita, salad, or pickle."
+        }
+    ],
+    "nutrition": {
+        "calories": "350 per serving",
+        "carbohydrates": "60g",
+        "protein": "8g",
+        "fat": "8g",
+        "fiber": "5g",
+        "sugar": "4g"
+    },
+    "tips": [
+        "Soaking the rice beforehand helps in cooking it perfectly.",
+        "Cooking the biryani on low flame allows the flavors to infuse into the rice."
+    ],
+    "variations": [
+        "Add other vegetables like bell peppers, potatoes, or paneer for more variety.",
+        "Experiment with different biryani masala blends for unique flavors."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat in a microwave or on a stove until hot."
+    ],
+    "presentationTips": [
+        "Garnish with fried onions and chopped coriander before serving.",
+        "Serve in a traditional biryani handi for an authentic experience."
+    ],
+    "keywords": [
+        "Vegetable Biryani",
+        "Indian Rice Dish",
+        "Spiced Vegetable Rice"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

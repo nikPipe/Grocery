@@ -1,0 +1,228 @@
+{
+    "id": "Kadai_Paneer_Recipe",
+    "name": "Kadai Paneer",
+    "origin": "India",
+    "history": "Kadai Paneer is a popular dish in Indian cuisine, particularly in the Northern regions. It gets its name from the 'Kadai' or wok in which it is cooked. This dish is known for its rich and spicy tomato-based sauce and soft paneer cubes.",
+    "description": "Kadai Paneer is a flavorful curry made with paneer (Indian cottage cheese), bell peppers, onions, and an array of spices. The dish is cooked in a thick tomato gravy with a special blend of spices known as Kadai masala, giving it a unique and robust flavor.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "25"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "40"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "kadai or wok",
+            "description": "For cooking the dish.",
+            "imageURL": ""
+        },
+        {
+            "name": "spice grinder",
+            "description": "For preparing Kadai masala.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "paneer (indian cottage cheese), cubed",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onions, chopped",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "bell peppers (red & green), chopped",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "kadai masala (blend of coriander seeds, cumin seeds, fennel seeds, and dry red chilies)",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "fresh cilantro (coriander leaves), chopped",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Kadai Masala",
+            "description": "Dry roast the coriander seeds, cumin seeds, fennel seeds, and dry red chilies. Grind them into a fine powder to make the Kadai masala."
+        },
+        {
+            "step": "2",
+            "title": "Cook Onions and Bell Peppers",
+            "description": "Heat oil in a kadai or wok. Add cumin seeds and let them splutter. Saut\u00c3\u00a9 onions and bell peppers until slightly soft."
+        },
+        {
+            "step": "3",
+            "title": "Add Spices and Tomatoes",
+            "description": "Add ginger-garlic paste, turmeric powder, red chili powder, coriander powder, and half of the Kadai masala. Cook for a few minutes. Add chopped tomatoes and cook until they turn mushy."
+        },
+        {
+            "step": "4",
+            "title": "Add Paneer and Simmer",
+            "description": "Add the paneer cubes and remaining Kadai masala. Add water to adjust the consistency and simmer for 5-7 minutes."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Sprinkle garam masala and garnish with chopped cilantro. Serve hot with naan or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "20g",
+        "protein": "15g",
+        "fat": "20g",
+        "fiber": "5g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Ensure the paneer is fresh for the best taste and texture.",
+        "Adjust the consistency of the gravy according to your preference."
+    ],
+    "variations": [
+        "Add cream for a richer gravy.",
+        "Include other vegetables like peas or mushrooms for added nutrition."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until warm."
+    ],
+    "presentationTips": [
+        "Serve in a traditional Indian serving bowl.",
+        "Garnish with a lemon wedge or sliced onions for added flavor."
+    ],
+    "keywords": [
+        "Kadai Paneer",
+        "Indian Cheese Curry",
+        "Spicy Paneer Dish"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

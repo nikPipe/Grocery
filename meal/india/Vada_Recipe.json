@@ -1,0 +1,176 @@
+{
+    "id": "Vada_Recipe",
+    "name": "Vada",
+    "origin": "India",
+    "history": "Vada is a traditional South Indian snack, believed to have originated in ancient Tamil Nadu. It's a popular street food and is commonly served in restaurants and roadside stalls.",
+    "description": "Vada is a crispy and savory deep-fried snack made from dal, typically urad dal or chana dal. These doughnut-shaped fritters are aromatic and flavored with spices and herbs.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "blender or grinder",
+            "imageURL": "",
+            "description": "Used for grinding the dal into a paste."
+        },
+        {
+            "name": "deep frying pan",
+            "imageURL": "",
+            "description": "Used for deep frying the vadas."
+        },
+        {
+            "name": "slotted spoon",
+            "imageURL": "",
+            "description": "Used for removing the vadas from the oil."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "urad dal",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger",
+            "quantity": "1 inch piece",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black pepper",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "a few",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for deep frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Soak and Grind Dal",
+            "description": "Soak urad dal in water for at least 4 hours. Drain the water and grind the dal with green chili, ginger, cumin seeds, and black pepper into a smooth batter. Add very little water if necessary."
+        },
+        {
+            "step": "2",
+            "title": "Prepare Vada Batter",
+            "description": "Transfer the batter to a bowl, add salt and finely chopped curry leaves. Beat the batter until light and fluffy."
+        },
+        {
+            "step": "3",
+            "title": "Shape and Fry Vadas",
+            "description": "Heat oil in a deep frying pan. Wet your hands and shape the batter into small doughnut-shaped discs. Drop them gently into the hot oil and fry until golden and crisp."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Drain the vadas on absorbent paper and serve hot with coconut chutney and sambar."
+        }
+    ],
+    "nutrition": {
+        "calories": 250,
+        "carbohydrates": "35g",
+        "protein": "12g",
+        "fat": "8g",
+        "saturatedFat": "1g",
+        "cholesterol": "0mg",
+        "sodium": "300mg",
+        "potassium": "200mg",
+        "fiber": "4g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "The consistency of the batter is crucial; it should be thick and not runny.",
+        "Maintain the oil at a medium temperature to ensure even cooking."
+    ],
+    "variations": [
+        "Add finely chopped onions or grated carrots to the batter for a different flavor.",
+        "For Masala Vada, use chana dal and add additional spices like fennel seeds and asafoetida."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Vadas are best consumed fresh but can be stored in the refrigerator for up to 1 day.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat in a microwave or on a skillet until crispy."
+    ],
+    "presentationTips": [
+        "Serve on a banana leaf with a garnish of grated coconut for a traditional touch."
+    ],
+    "keywords": [
+        "vada",
+        "South Indian snack",
+        "dal fritters"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

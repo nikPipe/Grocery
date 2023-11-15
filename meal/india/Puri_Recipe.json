@@ -1,0 +1,129 @@
+{
+    "id": "Puri_Recipe",
+    "name": "Puri",
+    "origin": "India",
+    "history": "Puri is a traditional Indian bread and a popular dish across the Indian subcontinent. It has a rich history and is often associated with festive occasions, religious ceremonies, and family gatherings.",
+    "description": "Puri is a deep-fried Indian bread made from unleavened whole wheat flour dough. It puffs up into a light, crispy, and golden-brown delicacy when fried. Puris are commonly served with savory curries or sweet dishes like halwa.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "deep frying pan or kadai",
+            "description": "For deep-frying the puris.",
+            "imageURL": ""
+        },
+        {
+            "name": "rolling pin",
+            "description": "For rolling out the dough.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "whole wheat flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for deep-frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "Mix whole wheat flour and salt. Gradually add water and knead to form a firm dough. Let it rest for 10 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Roll and Fry the Puris",
+            "description": "Divide the dough into small balls. Roll each ball into a small, flat circle. Heat oil in a deep frying pan. Fry each puri until it puffs up and turns golden brown on both sides."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Serve the hot puris with a side dish like potato curry, chana masala, or sweet halwa."
+        }
+    ],
+    "nutrition": {
+        "calories": "100 per puri",
+        "carbohydrates": "15g",
+        "protein": "2g",
+        "fat": "4g",
+        "fiber": "2g",
+        "sugar": "0g"
+    },
+    "tips": [
+        "The oil should be hot enough to make the puris puff up immediately.",
+        "Roll the puris evenly for uniform cooking."
+    ],
+    "variations": [
+        "Add spices like carom seeds (ajwain) to the dough for a different flavor.",
+        "Make stuffed puris with fillings like spiced lentils or mashed potatoes."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Puris are best enjoyed fresh and are not typically stored.",
+        "instructions": "If necessary, store in an airtight container for a few hours."
+    },
+    "reheatingInstructions": "Reheating is not recommended as it affects the texture.",
+    "presentationTips": [
+        "Serve on a platter lined with absorbent paper to remove excess oil.",
+        "Garnish with fresh herbs or side salads for a colorful presentation."
+    ],
+    "keywords": [
+        "Puri",
+        "Indian Fried Bread",
+        "Whole Wheat Puri"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "id": "Cheese_Naan_Recipe",
+    "name": "Cheese Naan",
+    "origin": "India",
+    "history": "Cheese Naan is a modern twist on the traditional Indian naan bread. It's an adaptation that caters to the love for cheese and has become popular in Indian restaurants worldwide. This fusion dish combines the classic naan with gooey melted cheese.",
+    "description": "Cheese Naan is a soft and fluffy flatbread filled with a generous amount of cheese. It's typically made using all-purpose flour and yeast, then stuffed with cheese such as mozzarella or cheddar, giving it a delightful melted center.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "oven or tandoor",
+            "description": "For baking the naan.",
+            "imageURL": ""
+        },
+        {
+            "name": "rolling pin",
+            "description": "For rolling out the dough.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "all-purpose flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yeast or baking powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "milk",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "shredded cheese (mozzarella or cheddar)",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "butter or ghee, for brushing",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garlic, minced (optional)",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fresh coriander, chopped (optional)",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, combine flour, yeast or baking powder, sugar, and salt. Add milk, yogurt, and oil to form a soft dough. Knead well and let it rest for about 2 hours until it doubles in size."
+        },
+        {
+            "step": "2",
+            "title": "Stuff and Shape the Naan",
+            "description": "Divide the dough into balls. Roll each ball into a circle, place a portion of shredded cheese in the center, and seal it. Roll it again gently into an oval shape."
+        },
+        {
+            "step": "3",
+            "title": "Bake the Naan",
+            "description": "Place the naan in a preheated oven or tandoor. Bake until puffed up and golden brown. Optionally, brush with butter or ghee and sprinkle minced garlic and chopped coriander."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Cheese Naan hot, ideally with a side of curry or as a standalone snack."
+        }
+    ],
+    "nutrition": {
+        "calories": "350 per naan",
+        "carbohydrates": "50g",
+        "protein": "15g",
+        "fat": "12g",
+        "fiber": "2g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Ensure the cheese is well-sealed inside the dough to prevent it from leaking.",
+        "You can mix different types of cheese for a richer flavor."
+    ],
+    "variations": [
+        "Add herbs like basil or oregano to the dough for an Italian twist.",
+        "Stuff with a mixture of cheese and finely chopped vegetables for added nutrition."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh. Can be stored for up to 1 day in the refrigerator.",
+        "instructions": "Store in an airtight container and reheat in the oven before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat in the oven or on a tawa until warm."
+    ],
+    "presentationTips": [
+        "Serve on a traditional Indian platter with accompaniments like mint chutney or raita.",
+        "Garnish with a sprinkle of fresh herbs or a drizzle of melted butter."
+    ],
+    "keywords": [
+        "Cheese Naan",
+        "Stuffed Naan Bread",
+        "Indian Cheese Flatbread"
+    ],
+    "allergens": [
+        "Gluten",
+        "Dairy"
+    ]
+}

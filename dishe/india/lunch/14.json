@@ -1,0 +1,81 @@
+{
+  "name": "Bengali Vegetarian Thali",
+  "id": 14,
+  "menu": {
+    "bread": {
+      "default": {"name": "Luchi", "id": 189},
+      "variations": {
+        "Radhaballabhi": 190,
+        "Koraishutir Kochuri": 191,
+        "Moong Dal Puri": 192,
+        "Aloo Paratha": 193,
+        "Taler Bora": 194,
+        "Chapati": 195,
+        "Parotta": 196,
+        "Pithe": 197,
+        "Jhinge Aloo Posto": 198,
+        "Cholar Dal": 199
+      }
+    },
+    "curry": {
+      "default": {"name": "Shukto", "id": 289},
+      "variations": {
+        "Aloo Posto": 290,
+        "Chanar Dalna": 291,
+        "Dhokar Dalna": 292,
+        "Phulkopir Roast": 293,
+        "Potoler Dolma": 294,
+        "Enchorer Dalna": 295,
+        "Mochar Ghonto": 296,
+        "Begun Bhaja": 297,
+        "Labra": 298,
+        "Doi Potol": 299
+      }
+    },
+    "side": {
+      "default": {"name": "Beguni", "id": 389},
+      "variations": {
+        "Aloo Bhaja": 390,
+        "Misti Doi": 391,
+        "Tomato Chutney": 392,
+        "Baingan Bhaja": 393,
+        "Cholar Dal": 394,
+        "Kacha Aam Chutney": 395,
+        "Panch Mishali": 396,
+        "Dhokla": 397,
+        "Sandesh": 398,
+        "Rasgulla": 399
+      }
+    },
+    "rice": {
+      "default": {"name": "Basmati Rice", "id": 489},
+      "variations": {
+        "Gobindobhog Rice": 490,
+        "Khichuri": 491,
+        "Pulao": 492,
+        "Jeera Rice": 493,
+        "Misti Pulao": 494,
+        "Lemon Rice": 495,
+        "Moong Dal Khichdi": 496,
+        "Peas Pulao": 497,
+        "Vegetable Biryani": 498,
+        "Coconut Rice": 499
+      }
+    },
+    "drink": {
+      "default": {"name": "Chaas", "id": 589},
+      "variations": {
+        "Aam Panna": 590,
+        "Lassi": 591,
+        "Bel Pana": 592,
+        "Gondhoraj Ghol": 593,
+        "Masala Chai": 594,
+        "Borhani": 595,
+        "Jaljeera": 596,
+        "Rose Sherbat": 597,
+        "Kesar Milk": 598,
+        "Sugarcane Juice": 599
+      }
+    }
+  }
+}

@@ -1,0 +1,124 @@
+{
+    "id": "Phulka_Recipe",
+    "name": "Phulka",
+    "origin": "India",
+    "history": "Phulka, also known as Roti or Chapati, is a traditional Indian flatbread, widely consumed across the Indian subcontinent. It is a staple in Indian meals and is known for its simple ingredients and cooking method.",
+    "description": "Phulka is a thin, unleavened flatbread made from whole wheat flour. It is cooked partially on a flat skillet and then directly on an open flame, causing it to puff up. This bread is soft, light, and healthy, typically served with curries or vegetables.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "rolling pin",
+            "description": "For rolling the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "flat griddle or tawa",
+            "description": "For cooking the phulkas.",
+            "imageURL": ""
+        },
+        {
+            "name": "open flame",
+            "description": "For puffing up the phulkas.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "whole wheat flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "optional",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a bowl, mix whole wheat flour with a pinch of salt (optional). Gradually add water and knead into a soft, pliable dough. Let it rest for a few minutes."
+        },
+        {
+            "step": "2",
+            "title": "Roll and Cook the Phulkas",
+            "description": "Divide the dough into small balls. Roll each ball into a thin, round shape. Cook on a hot griddle until small bubbles form, then place directly on an open flame until it puffs up and develops brown spots."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Serve the hot Phulkas with a curry, dal, or any other side dish."
+        }
+    ],
+    "nutrition": {
+        "calories": "80 per phulka",
+        "carbohydrates": "17g",
+        "protein": "3g",
+        "fat": "1g",
+        "fiber": "3g",
+        "sugar": "0g"
+    },
+    "tips": [
+        "The dough should be soft and non-sticky for easy rolling.",
+        "Cooking on an open flame should be quick to avoid burning."
+    ],
+    "variations": [
+        "Add herbs or spices like cumin to the dough for extra flavor.",
+        "Use multigrain flour for a healthier variant."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh but can be stored in an airtight container for up to 24 hours.",
+        "instructions": "Reheat on a griddle before serving if stored."
+    },
+    "reheatingInstructions": "Reheat on a hot griddle or tawa until warm and soft.",
+    "presentationTips": [
+        "Serve in a basket lined with a cloth to keep them warm.",
+        "Pair with a variety of chutneys and side dishes for a complete meal."
+    ],
+    "keywords": [
+        "Phulka",
+        "Indian Flatbread",
+        "Whole Wheat Puffed Bread"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

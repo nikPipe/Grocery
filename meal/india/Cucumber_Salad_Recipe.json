@@ -1,0 +1,173 @@
+{
+    "id": "Cucumber_Salad_Recipe",
+    "name": "Cucumber Salad",
+    "origin": "Global",
+    "history": "Cucumber Salad is a popular dish worldwide, known for its refreshing and light taste. It's a staple in many cuisines due to its simplicity and the cooling effect of cucumbers, making it a favorite especially in warm weather.",
+    "description": "Cucumber Salad is a crisp and refreshing dish made primarily with sliced cucumbers. It's often dressed with a light vinaigrette or yogurt-based dressing and can be enhanced with herbs, spices, and other vegetables like onions or tomatoes.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "10"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For combining the ingredients.",
+            "imageURL": ""
+        },
+        {
+            "name": "vegetable peeler or mandoline slicer",
+            "description": "Optional, for slicing the cucumbers.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "cucumbers, thinly sliced",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "300",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red onion, thinly sliced",
+            "quantity": "1 small",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fresh dill, chopped",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "vinegar (white or apple cider)",
+            "quantity": "3 tablespoons",
+            "weight": {
+                "value": "45",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "olive oil",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar (optional)",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "4",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black pepper, freshly ground",
+            "quantity": "to taste",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Cucumbers",
+            "description": "Wash the cucumbers and slice them thinly. You can peel them if desired."
+        },
+        {
+            "step": "2",
+            "title": "Combine Ingredients",
+            "description": "In a mixing bowl, combine the sliced cucumbers, red onion, and chopped dill."
+        },
+        {
+            "step": "3",
+            "title": "Make the Dressing",
+            "description": "In a small bowl, whisk together vinegar, olive oil, sugar (if using), salt, and black pepper."
+        },
+        {
+            "step": "4",
+            "title": "Dress the Salad",
+            "description": "Pour the dressing over the cucumber mixture and toss well to coat."
+        },
+        {
+            "step": "5",
+            "title": "Chill and Serve",
+            "description": "Refrigerate the salad for at least 30 minutes before serving to allow the flavors to meld."
+        }
+    ],
+    "nutrition": {
+        "calories": "50 per serving",
+        "carbohydrates": "7g",
+        "protein": "1g",
+        "fat": "3g",
+        "fiber": "1g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Use English cucumbers for a seedless and tender option.",
+        "Adjust the amount of vinegar and sugar to balance the tartness and sweetness."
+    ],
+    "variations": [
+        "Add cherry tomatoes or bell peppers for extra color and flavor.",
+        "Substitute dill with mint or basil for a different herb profile."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh. Can be stored in the refrigerator for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in a clear bowl to showcase the salad's freshness.",
+        "Garnish with additional herbs or a sprinkle of sesame seeds for added visual appeal."
+    ],
+    "keywords": [
+        "Cucumber Salad",
+        "Fresh Side Dish",
+        "Healthy Salad"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "id": "Coconut_Rice_Recipe",
+    "name": "Coconut Rice",
+    "origin": "India",
+    "history": "Coconut Rice, known as 'Thengai Sadam' in Tamil, is a popular South Indian dish. It is often made on festive occasions and is known for its simple yet rich flavor, derived from the use of fresh grated coconut.",
+    "description": "Coconut Rice is a delicious and fragrant dish made with rice, grated coconut, and tempered with spices and nuts. It's a perfect blend of nutty and savory flavors and can be enjoyed as a main dish or as part of a larger meal.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "frying pan",
+            "description": "For tempering the spices.",
+            "imageURL": ""
+        },
+        {
+            "name": "pot or rice cooker",
+            "description": "For cooking the rice.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "400",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "grated coconut",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dal",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dry red chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cashew nuts",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "vegetable oil or ghee",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Temper the Spices",
+            "description": "Heat oil or ghee in a frying pan. Add mustard seeds, urad dal, chana dal, dry red chilies, asafoetida, curry leaves, and cashew nuts. Fry until the dals turn golden and the cashews are lightly browned."
+        },
+        {
+            "step": "2",
+            "title": "Combine with Rice",
+            "description": "In a large bowl, mix the cooked rice with the tempered spices, green chilies, and fresh grated coconut. Season with salt and mix well."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Serve the coconut rice warm. It can be paired with curry, chutney, or served as a standalone dish."
+        }
+    ],
+    "nutrition": {
+        "calories": "350 per serving",
+        "carbohydrates": "50g",
+        "protein": "6g",
+        "fat": "15g",
+        "fiber": "4g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Use freshly grated coconut for the best flavor.",
+        "Be careful not to overcook the rice; it should be fluffy and separate."
+    ],
+    "variations": [
+        "Add a spoonful of lemon juice for a tangy flavor.",
+        "Include green peas or grated carrots for added nutrition and color."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 1 day.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on a stove until warm.",
+    "presentationTips": [
+        "Garnish with additional curry leaves or fried red chilies for a more appealing look.",
+        "Serve in a traditional banana leaf for an authentic South Indian experience."
+    ],
+    "keywords": [
+        "Coconut Rice",
+        "Thengai Sadam",
+        "South Indian Rice Dish"
+    ],
+    "allergens": [
+        "Cashew Nuts"
+    ]
+}

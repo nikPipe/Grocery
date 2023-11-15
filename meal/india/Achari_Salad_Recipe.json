@@ -1,0 +1,211 @@
+{
+    "id": "Achari_Salad_Recipe",
+    "name": "Achari Salad",
+    "origin": "India",
+    "history": "Achari Salad incorporates the flavors of Indian pickles (Achar) into a salad. It's a fusion dish that combines the tangy, spicy taste of traditional Indian pickles with fresh vegetables, creating a unique and flavorful salad experience.",
+    "description": "Achari Salad is a vibrant and tangy salad made with a mix of fresh vegetables and a dressing inspired by Indian pickle spices. It typically includes ingredients like onions, tomatoes, cucumbers, and a blend of Achari spices for an intense flavor.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "15"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "imageURL": "mixing-bowl.jpg",
+            "description": "For combining the ingredients."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "cucumbers, diced",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 small",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carrot",
+            "quantity": "1 small",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red bell pepper",
+            "quantity": "1/2",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "radish",
+            "quantity": "4-5",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fresh coriander leaves, chopped",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mint leaves",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "achari masala",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chaat masala (optional)",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "olive oil",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Vegetables",
+            "description": "Dice the cucumbers, tomatoes, and red bell pepper. Finely chop the onions and green chilies. Grate the carrots and slice the radishes."
+        },
+        {
+            "step": "2",
+            "title": "Make the Achari Dressing",
+            "description": "In a small bowl, mix lemon juice, Achari masala, salt, chaat masala (if using), and olive oil to make the dressing."
+        },
+        {
+            "step": "3",
+            "title": "Combine Salad and Dressing",
+            "description": "In a large mixing bowl, combine all the chopped vegetables. Pour the Achari dressing over the vegetables and toss well to coat."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped coriander and mint leaves. Serve the Achari Salad fresh as a side dish or a healthy snack."
+        }
+    ],
+    "nutrition": {
+        "calories": "120 per serving",
+        "carbohydrates": "15g",
+        "protein": "2g",
+        "fat": "6g",
+        "fiber": "3g",
+        "sugar": "8g"
+    },
+    "tips": [
+        "For a more intense flavor, allow the salad to marinate in the dressing for a few minutes before serving.",
+        "Adjust the amount of Achari masala and green chilies according to your spice preference."
+    ],
+    "variations": [
+        "Add boiled chickpeas or paneer for extra protein.",
+        "Experiment with different vegetables like beetroot or avocado."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. Can be refrigerated for a few hours.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in a colorful bowl to enhance the visual appeal of the salad.",
+        "Garnish with a lemon wedge or sprinkle with sesame seeds for added texture."
+    ],
+    "keywords": [
+        "Achari Salad",
+        "Indian Spiced Salad",
+        "Vegetable Salad"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

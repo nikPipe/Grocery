@@ -1,0 +1,188 @@
+{
+    "id": "Onion_Rava_Dosa_Recipe",
+    "name": "Onion Rava Dosa",
+    "origin": "India",
+    "history": "Rava Dosa is a popular South Indian crepe made from semolina. The addition of onion enhances its flavor, making it a favorite in many households and restaurants.",
+    "description": "Onion Rava Dosa is a thin, crispy, and savory crepe made from a batter of semolina (rava), rice flour, and all-purpose flour, seasoned with onions and spices. It's a quick and easy dish, often enjoyed with chutney or sambar.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "25"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "Used for preparing the batter.",
+            "imageURL": ""
+        },
+        {
+            "name": "non-stick skillet or tawa",
+            "description": "Used for cooking the dosa.",
+            "imageURL": ""
+        },
+        {
+            "name": "ladle",
+            "description": "Used for pouring the batter onto the skillet.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "semolina",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "180",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "rice",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "90",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "all-purpose flour",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black pepper",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves, chopped",
+            "quantity": "few",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Batter",
+            "description": "In a mixing bowl, combine rava, rice flour, all-purpose flour, chopped onions, green chilies, cumin seeds, black pepper, curry leaves, and salt. Gradually add water to make a thin batter."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Dosa",
+            "description": "Heat a non-stick skillet or tawa. Pour a ladleful of batter and spread it thinly. Drizzle oil and cook until the dosa is crispy and golden. Flip and cook the other side if desired."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Serve the Onion Rava Dosa hot with coconut chutney or sambar."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per serving",
+        "carbohydrates": "35g",
+        "protein": "5g",
+        "fat": "5g",
+        "fiber": "2g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Ensure the batter is thin and watery for crispy dosas.",
+        "Adding finely chopped coriander leaves can enhance the flavor."
+    ],
+    "variations": [
+        "Mix in finely chopped tomatoes or grated carrots for a different taste.",
+        "Experiment with different spices like mustard seeds or asafoetida."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Batter can be refrigerated for up to 1 day.",
+        "instructions": "Store batter in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat dosas on a skillet until crisp.",
+    "presentationTips": [
+        "Garnish with chopped coriander and serve on a traditional banana leaf for an authentic touch."
+    ],
+    "keywords": [
+        "Onion Rava Dosa",
+        "South Indian cuisine",
+        "semolina crepe"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

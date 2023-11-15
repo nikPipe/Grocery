@@ -1,0 +1,81 @@
+{
+  "name": "Punjabi Vegetarian Thali",
+  "id": 15,
+  "menu": {
+    "bread": {
+      "default": {"name": "Amritsari Kulcha", "id": 200},
+      "variations": {
+        "Aloo Paratha": 201,
+        "Makki Di Roti": 202,
+        "Missi Roti": 203,
+        "Tandoori Roti": 204,
+        "Butter Naan": 205,
+        "Garlic Naan": 206,
+        "Lachha Paratha": 207,
+        "Bhature": 208,
+        "Paneer Paratha": 209,
+        "Gobi Paratha": 210
+      }
+    },
+    "curry": {
+      "default": {"name": "Sarson Da Saag", "id": 300},
+      "variations": {
+        "Paneer Butter Masala": 301,
+        "Dal Makhani": 302,
+        "Rajma Masala": 303,
+        "Chole": 304,
+        "Kadhi Pakora": 305,
+        "Aloo Gobi": 306,
+        "Matar Paneer": 307,
+        "Bhindi Masala": 308,
+        "Palak Paneer": 309,
+        "Pindi Chana": 310
+      }
+    },
+    "side": {
+      "default": {"name": "Punjabi Chutney", "id": 400},
+      "variations": {
+        "Boondi Raita": 401,
+        "Papad": 402,
+        "Mango Pickle": 403,
+        "Green Chutney": 404,
+        "Tamarind Chutney": 405,
+        "Kachumber Salad": 406,
+        "Onion Salad": 407,
+        "Lemon Pickle": 408,
+        "Mixed Pickle": 409,
+        "Curd": 410
+      }
+    },
+    "rice": {
+      "default": {"name": "Jeera Rice", "id": 500},
+      "variations": {
+        "Biryani": 501,
+        "Lemon Rice": 502,
+        "Pulao": 503,
+        "Mushroom Rice": 504,
+        "Peas Pulao": 505,
+        "Vegetable Biryani": 506,
+        "Saffron Rice": 507,
+        "Tamarind Rice": 508,
+        "Kashmiri Pulao": 509,
+        "Coconut Rice": 510
+      }
+    },
+    "drink": {
+      "default": {"name": "Lassi", "id": 600},
+      "variations": {
+        "Masala Chai": 601,
+        "Buttermilk": 602,
+        "Mango Lassi": 603,
+        "Sweet Lassi": 604,
+        "Nimbu Pani": 605,
+        "Jaljeera": 606,
+        "Rose Milk": 607,
+        "Sugarcane Juice": 608,
+        "Kesar Milk": 609,
+        "Green Tea": 610
+      }
+    }
+  }
+}

@@ -1,0 +1,148 @@
+{
+    "id": "Buttermilk_Recipe",
+    "name": "Buttermilk (Chaas)",
+    "origin": "India",
+    "history": "Buttermilk, known as Chaas in India, is a traditional Indian beverage. It's a staple in many Indian households, particularly consumed after meals for its digestive benefits. It's made by churning yogurt with water and spices.",
+    "description": "Buttermilk or Chaas is a refreshing, yogurt-based drink, often seasoned with herbs and spices like cumin, mint, and salt. It's known for its cooling properties and is a popular choice to accompany meals or as a stand-alone drink.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "5"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "5"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "blender or whisk",
+            "description": "For mixing the buttermilk.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "yogurt",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cold water",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mint leaves (optional)",
+            "quantity": "a few",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black salt (optional)",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ice cubes (optional)",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Blend Ingredients",
+            "description": "In a blender or using a whisk, mix the yogurt and water until smooth. Add cumin powder, salt, and black salt (if using). Blend or whisk well."
+        },
+        {
+            "step": "2",
+            "title": "Add Flavorings",
+            "description": "If using, add chopped mint leaves for a refreshing flavor. Blend or stir to incorporate."
+        },
+        {
+            "step": "3",
+            "title": "Chill and Serve",
+            "description": "Serve the buttermilk chilled. Add ice cubes if desired. Pour into glasses and garnish with a sprinkle of cumin powder or a mint leaf."
+        }
+    ],
+    "nutrition": {
+        "calories": "70 per serving",
+        "carbohydrates": "6g",
+        "protein": "4g",
+        "fat": "3g",
+        "fiber": "0g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Use fresh, unsweetened yogurt for the best taste.",
+        "Adjust the consistency by altering the yogurt-to-water ratio as per your preference."
+    ],
+    "variations": [
+        "Add grated ginger or a pinch of asafoetida for a different flavor profile.",
+        "For a sweeter version, blend with a bit of sugar or honey."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh. Can be stored in the refrigerator for up to a day.",
+        "instructions": "Store in a covered container in the refrigerator. Stir well before serving."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in traditional clay cups for an authentic experience.",
+        "Garnish with a sprig of fresh coriander or a slice of lime."
+    ],
+    "keywords": [
+        "Buttermilk",
+        "Chaas",
+        "Indian Yogurt Drink"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

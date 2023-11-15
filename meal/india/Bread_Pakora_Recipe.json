@@ -1,0 +1,175 @@
+{
+    "id": "Bread_Pakora_Recipe",
+    "name": "Bread Pakora",
+    "origin": "India",
+    "history": "Bread Pakora is a popular Indian snack, a favorite during monsoons and cold weather. It's a deep-fried snack made by coating bread with a spicy gram flour batter.",
+    "description": "Bread Pakora, also known as Bread Bajji, is a savory snack where slices of bread are dipped in a seasoned gram flour batter and deep-fried until golden and crispy. It's often stuffed with spiced potatoes.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": [
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "deep frying pan",
+            "imageURL": "",
+            "description": "Used for deep frying the pakoras."
+        },
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "Used for preparing the batter."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "bread",
+            "quantity": "4",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chickpea flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "rice",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carom seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as required for batter",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for deep frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Batter",
+            "description": "In a mixing bowl, combine gram flour, rice flour, ajwain, red chili powder, turmeric powder, and salt. Gradually add water to make a thick batter."
+        },
+        {
+            "step": "2",
+            "title": "Dip the Bread",
+            "description": "Cut the bread slices into desired shapes. Dip each piece in the batter, ensuring it's well coated."
+        },
+        {
+            "step": "3",
+            "title": "Fry the Pakoras",
+            "description": "Heat oil in a deep frying pan. Carefully slide the batter-coated bread slices into the hot oil. Fry until they turn golden brown and crispy."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Bread Pakoras hot with green chutney or ketchup."
+        }
+    ],
+    "nutrition": {
+        "calories": 250,
+        "carbohydrates": "35g",
+        "protein": "6g",
+        "fat": "10g",
+        "saturatedFat": "1g",
+        "cholesterol": "0mg",
+        "sodium": "500mg",
+        "potassium": "150mg",
+        "fiber": "2g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "The consistency of the batter is crucial; it should coat the bread evenly without being too thick or runny.",
+        "Maintain a medium heat while frying to avoid burning the pakoras."
+    ],
+    "variations": [
+        "For a stuffed version, add a layer of spiced mashed potatoes between two bread slices before dipping in the batter.",
+        "Experiment with different herbs and spices in the batter for variety."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Bread Pakoras are best consumed fresh but can be stored for a few hours.",
+        "instructions": "Keep in an airtight container at room temperature; reheat in an oven or air fryer before serving."
+    },
+    "reheatingInstructions": "Reheat in an oven or air fryer until crispy.",
+    "presentationTips": [
+        "Garnish with sliced onions and serve on a plate with a side of mint or tamarind chutney."
+    ],
+    "keywords": [
+        "bread pakora",
+        "Indian snack",
+        "deep fried bread"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

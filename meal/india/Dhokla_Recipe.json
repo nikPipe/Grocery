@@ -1,0 +1,219 @@
+{
+    "id": "Dhokla_Recipe",
+    "name": "Dhokla",
+    "origin": "India",
+    "history": "Dhokla is a vegetarian food item that originates from the Indian state of Gujarat. It's made with a fermented batter derived from rice and split chickpeas.",
+    "description": "Dhokla is a light and spongy steamed cake made from rice and chickpea flour. It's a popular Gujarati snack, known for its tangy and sweet taste.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "40"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "steamer",
+            "imageURL": "",
+            "description": "A kitchen appliance used to cook or prepare various foods with steam heat."
+        },
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "A bowl used for mixing ingredients."
+        },
+        {
+            "name": "spatula",
+            "imageURL": "",
+            "description": "A broad, flat, flexible blade used to mix, spread, and lift material."
+        },
+        {
+            "name": "measuring cups and spoons",
+            "imageURL": "",
+            "description": "Used for accurately measuring ingredients."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "chickpea flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "baking soda",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili-ginger paste",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sesame seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "8-10",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "2 teaspoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as required",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Batter",
+            "description": "Mix gram flour, yogurt, lemon juice, green chili-ginger paste, turmeric, salt, and water to form a smooth batter. Let it ferment for 4-5 hours."
+        },
+        {
+            "step": "2",
+            "title": "Steam Dhokla",
+            "description": "Just before steaming, add baking soda to the batter and pour it into a greased plate. Steam for about 15-20 minutes or until a toothpick inserted comes out clean."
+        },
+        {
+            "step": "3",
+            "title": "Prepare Tempering",
+            "description": "Heat oil in a pan, add mustard seeds, sesame seeds, and curry leaves. Once they crackle, add water and sugar. Bring it to a boil and then pour it over the steamed Dhokla."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Cut Dhokla into pieces and serve with green chutney."
+        }
+    ],
+    "nutrition": {
+        "calories": 280,
+        "carbohydrates": "50g",
+        "protein": "10g",
+        "fat": "7g",
+        "saturatedFat": "1g",
+        "cholesterol": "0mg",
+        "sodium": "400mg",
+        "potassium": "200mg",
+        "fiber": "3g",
+        "sugar": "10g"
+    },
+    "tips": [
+        "Ensure the batter is fermented well to achieve the right texture.",
+        "Adding fruit salt or baking soda just before steaming will help make the Dhokla fluffy."
+    ],
+    "variations": [
+        "Add finely chopped spinach or coriander to the batter for a different flavor.",
+        "Use a mixture of semolina and gram flour for a different texture."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Dhokla can be stored in the refrigerator for up to 3 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": "Reheat in a microwave or steam for a few minutes.",
+    "presentationTips": [
+        "Garnish with grated coconut and chopped coriander for a fresh look."
+    ],
+    "keywords": [
+        "Dhokla",
+        "Indian snack",
+        "Gujarati cuisine"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

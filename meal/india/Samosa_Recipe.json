@@ -1,0 +1,238 @@
+{
+    "id": "Samosa_Recipe",
+    "name": "Samosa",
+    "origin": "India",
+    "history": "Samosa is a popular Indian snack with a history dating back to medieval times. It's a deep-fried pastry with a savory filling, typically spiced potatoes, onions, peas, and lentils.",
+    "description": "Samosa is a triangular-shaped pastry filled with a spicy mixture of potatoes and peas. It's a popular snack in Indian cuisine, often accompanied by chutney.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "imageURL": "",
+            "description": "Used for cooking the filling."
+        },
+        {
+            "name": "deep frying pan",
+            "imageURL": "",
+            "description": "Used for deep frying the samosas."
+        },
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "Used for preparing the dough."
+        },
+        {
+            "name": "rolling pin",
+            "imageURL": "",
+            "description": "Used for rolling out the dough."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "all-purpose flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carom seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "4 tablespoons",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as required for dough",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "potatoes",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "peas",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "amchur",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "Mix the flour, ajwain, salt, and 2 tablespoons of oil in a bowl. Gradually add water and knead to form a stiff dough. Cover and let it rest for 20 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Make the Filling",
+            "description": "Heat oil in a pan. Add cumin seeds, ginger, green chilies, and peas. Cook for a few minutes. Add mashed potatoes, garam masala, red chili powder, coriander powder, amchur, and salt. Cook for another 5 minutes. Add chopped coriander and let the mixture cool."
+        },
+        {
+            "step": "3",
+            "title": "Shape and Stuff Samosas",
+            "description": "Divide the dough into equal portions. Roll each portion into a circle, cut it in half, and shape each half into a cone. Fill the cone with the potato mixture, seal the edges with water."
+        },
+        {
+            "step": "4",
+            "title": "Fry the Samosas",
+            "description": "Heat oil in a deep frying pan. Deep fry the samosas on low to medium heat until golden brown."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the samosas hot with mint chutney or tamarind chutney."
+        }
+    ],
+    "nutrition": {
+        "calories": 300,
+        "carbohydrates": "40g",
+        "protein": "6g",
+        "fat": "14g",
+        "saturatedFat": "2g",
+        "cholesterol": "0mg",
+        "sodium": "400mg",
+        "potassium": "300mg",
+        "fiber": "4g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Ensure the dough is stiff for easy handling and to prevent the samosas from absorbing too much oil.",
+        "Frying on a low to medium flame helps to cook them evenly and make them crispy."
+    ],
+    "variations": [
+        "Add paneer or minced meat to the filling for a different flavor.",
+        "Experiment with spices in the filling according to taste."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Samosas are best consumed fresh but can be stored in the refrigerator for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat in an oven or air fryer before serving."
+    },
+    "reheatingInstructions": "Reheat in an oven or air fryer until crispy.",
+    "presentationTips": [
+        "Garnish with a sprinkle of chaat masala and serve with a side of sliced onions and lemon wedges."
+    ],
+    "keywords": [
+        "samosa",
+        "Indian snack",
+        "potato pastry"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

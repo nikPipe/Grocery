@@ -1,0 +1,143 @@
+{
+    "id": "Lemonade_Recipe",
+    "name": "Lemonade",
+    "origin": "Global",
+    "history": "Lemonade is a classic beverage with roots traced back to ancient Egypt. It is traditionally made from lemon juice, water, and sugar, and has evolved into various forms worldwide. Lemonade is synonymous with refreshment and is popular in many cultures.",
+    "description": "Lemonade is a refreshing and simple drink made by mixing freshly squeezed lemon juice with water and sugar. It's known for its sweet and tangy flavor and is often served cold with ice, making it a popular choice on warm days.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "10"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "pitcher",
+            "description": "For mixing the lemonade.",
+            "imageURL": ""
+        },
+        {
+            "name": "juicer",
+            "description": "For extracting lemon juice.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "fresh lemons",
+            "quantity": "3-4",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cold water",
+            "quantity": "4 cups",
+            "weight": {
+                "value": "960",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "ice cubes (optional)",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mint leaves or lemon slices, for garnish",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Extract Lemon Juice",
+            "description": "Squeeze the lemons to extract their juice. Strain to remove any seeds and pulp."
+        },
+        {
+            "step": "2",
+            "title": "Dissolve Sugar",
+            "description": "In a pitcher, dissolve the sugar in 1 cup of warm water. Stir well until the sugar is fully dissolved."
+        },
+        {
+            "step": "3",
+            "title": "Combine Ingredients",
+            "description": "Add the lemon juice and the remaining 3 cups of cold water to the pitcher. Stir well to combine."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the lemonade in glasses filled with ice. Garnish with mint leaves or lemon slices."
+        }
+    ],
+    "nutrition": {
+        "calories": "80 per serving",
+        "carbohydrates": "21g",
+        "protein": "0g",
+        "fat": "0g",
+        "fiber": "0g",
+        "sugar": "20g"
+    },
+    "tips": [
+        "Adjust the sugar and lemon juice according to your taste preferences.",
+        "Chill in the refrigerator for an hour before serving for best results."
+    ],
+    "variations": [
+        "Add a splash of sparkling water for a fizzy twist.",
+        "Infuse with herbs like basil or lavender for a unique flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in a sealed pitcher or bottle in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in tall glasses with a decorative straw.",
+        "Add a colorful rim to the glass with sugar or salt for an extra touch."
+    ],
+    "keywords": [
+        "Lemonade",
+        "Refreshing Drink",
+        "Summer Beverage"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

@@ -1,0 +1,218 @@
+{
+    "id": "Chicken_Curry_Recipe",
+    "name": "Chicken Curry",
+    "origin": "India",
+    "history": "Chicken Curry is a staple dish in Indian cuisine, with variations found across different regions of the country. It's a flavorful dish that has gained popularity worldwide, known for its aromatic spices and tender chicken.",
+    "description": "Chicken Curry is a classic Indian dish made with chicken pieces simmered in a sauce of onions, tomatoes, and a rich blend of spices like turmeric, cumin, and coriander. It's often enjoyed with rice or Indian breads like naan.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "45"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "60"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "chicken, cut into pieces",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Saut\u00c3\u00a9 Onions and Spices",
+            "description": "Heat oil in a pan. Add onions and ginger-garlic paste, cooking until onions are golden. Mix in turmeric powder, coriander powder, cumin powder, and red chili powder."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Chicken",
+            "description": "Add chicken pieces to the pan. Cook until they start to brown."
+        },
+        {
+            "step": "3",
+            "title": "Add Tomatoes and Yogurt",
+            "description": "Stir in chopped tomatoes and yogurt. Cook until the tomatoes are soft and the chicken is well-coated with the sauce."
+        },
+        {
+            "step": "4",
+            "title": "Simmer the Curry",
+            "description": "Add water to achieve the desired consistency. Bring to a boil, then simmer until the chicken is fully cooked."
+        },
+        {
+            "step": "5",
+            "title": "Finish with Garam Masala",
+            "description": "Stir in garam masala and cook for a few more minutes."
+        },
+        {
+            "step": "6",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with rice or Indian bread like roti or naan."
+        }
+    ],
+    "nutrition": {
+        "calories": "550 per serving",
+        "carbohydrates": "20g",
+        "protein": "45g",
+        "fat": "30g",
+        "fiber": "5g",
+        "sugar": "10g"
+    },
+    "tips": [
+        "Marinate the chicken with yogurt and spices beforehand for more flavor.",
+        "Adjust the amount of chili powder and garam masala according to your taste."
+    ],
+    "variations": [
+        "Add vegetables like bell peppers or potatoes for extra texture.",
+        "For a creamier curry, add coconut milk or heavy cream."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a traditional Indian serving dish, garnished with a lemon wedge.",
+        "Pair with a side of cooling cucumber raita or a simple salad."
+    ],
+    "keywords": [
+        "Chicken Curry",
+        "Indian Chicken Dish",
+        "Spicy Chicken Curry"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

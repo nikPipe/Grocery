@@ -1,0 +1,217 @@
+{
+    "id": "Sevai_Recipe",
+    "name": "Sevai",
+    "origin": "India",
+    "history": "Sevai, a type of Indian vermicelli, has been a part of Indian cuisine for centuries. It is versatile and used in both sweet and savory dishes.",
+    "description": "Sevai, also known as Indian Vermicelli, is a light and delicate dish made from thin noodles. It can be prepared sweet, with milk and sugar, or savory, with vegetables and spices.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the Sevai.",
+            "imageURL": ""
+        },
+        {
+            "name": "pot",
+            "description": "For boiling the Sevai.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "sevai (indian vermicelli)",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "few",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 small",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carrots, chopped",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "peas",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green beans, chopped",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Sevai",
+            "description": "Boil the sevai in water until soft, then drain and set aside."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Vegetables",
+            "description": "Heat oil in a pan. Add mustard seeds, urad dal, curry leaves, green chilies, and onions. Saut\u00c3\u00a9 until onions are translucent. Add carrots, green peas, and green beans. Cook until vegetables are tender."
+        },
+        {
+            "step": "3",
+            "title": "Combine Sevai with Vegetables",
+            "description": "Add the boiled sevai to the pan with the cooked vegetables. Add salt and mix well. Cook for a few minutes."
+        },
+        {
+            "step": "4",
+            "title": "Finish with Lemon Juice",
+            "description": "Turn off the heat, add lemon juice, and mix well."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Garnish with fresh coriander and serve hot."
+        }
+    ],
+    "nutrition": {
+        "calories": "350",
+        "carbohydrates": "55g",
+        "protein": "8g",
+        "fat": "12g",
+        "fiber": "4g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Ensure the sevai is not overcooked to maintain its texture.",
+        "Adding vegetables enhances the nutritional value and taste."
+    ],
+    "variations": [
+        "For a sweet version, cook sevai in milk with sugar and cardamom.",
+        "Experiment with different spices or add nuts for crunch."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh but can be stored in the refrigerator for up to 1 day.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on a stovetop until warm.",
+    "presentationTips": [
+        "Serve in a bowl with a side of yogurt or chutney."
+    ],
+    "keywords": [
+        "Sevai",
+        "Indian Vermicelli",
+        "Savory Noodle Dish"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "id": "Vegetable_Kofta_Curry_Recipe",
+    "name": "Vegetable Kofta Curry",
+    "origin": "India",
+    "history": "Vegetable Kofta Curry is a vegetarian adaptation of the traditional Kofta Curry. It's a popular dish in Indian cuisine, featuring deep-fried vegetable balls served in a creamy, spiced gravy.",
+    "description": "Vegetable Kofta Curry consists of mixed vegetable balls, deep-fried until golden and then simmered in a rich, aromatic tomato-based sauce. It's a delightful blend of vegetables, spices, and cream.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "40"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "70"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For frying koftas and preparing the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "potatoes",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carrot",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "peas, boiled",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "paneer, grated",
+            "quantity": "100 grams",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cornflour",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "20",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "3 medium",
+            "weight": {
+                "value": "300",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cream",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Vegetable Koftas",
+            "description": "Mix mashed potatoes, grated carrots, peas, grated paneer, cornflour, garam masala, and salt. Form into balls and deep fry until golden brown. Set aside."
+        },
+        {
+            "step": "2",
+            "title": "Make the Curry",
+            "description": "In a pan, heat oil. Saut\u00c3\u00a9 onions and ginger-garlic paste until golden. Add tomato puree, turmeric powder, coriander powder, and red chili powder. Cook until oil separates."
+        },
+        {
+            "step": "3",
+            "title": "Combine Koftas with Curry",
+            "description": "Add the fried koftas to the curry. Add water for desired consistency and bring to a boil. Simmer for 10-15 minutes."
+        },
+        {
+            "step": "4",
+            "title": "Finish with Cream",
+            "description": "Stir in cream and simmer for another 5 minutes."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with naan, roti, or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "500 per serving",
+        "carbohydrates": "40g",
+        "protein": "15g",
+        "fat": "30g",
+        "fiber": "6g",
+        "sugar": "8g"
+    },
+    "tips": [
+        "Make sure the koftas are not too soft before frying to prevent them from breaking apart.",
+        "Adjust the amount of chili powder according to your heat preference."
+    ],
+    "variations": [
+        "Add cashew paste to the curry for a richer flavor.",
+        "For a vegan version, use tofu instead of paneer and coconut cream instead of dairy cream."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until hot."
+    ],
+    "presentationTips": [
+        "Serve in a decorative bowl, garnished with a sprinkle of garam masala.",
+        "Pair with a fresh green salad for a balanced meal."
+    ],
+    "keywords": [
+        "Vegetable Kofta Curry",
+        "Indian Vegetarian Dish",
+        "Creamy Veggie Balls"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

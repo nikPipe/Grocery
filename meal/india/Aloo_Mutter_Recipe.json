@@ -1,0 +1,213 @@
+{
+    "id": "Aloo_Mutter_Recipe",
+    "name": "Aloo Mutter",
+    "origin": "India",
+    "history": "Aloo Mutter, a staple in North Indian cuisine, is a simple yet popular dish made with potatoes (Aloo) and peas (Mutter). It's known for its comforting and homey feel, often made in Indian households.",
+    "description": "Aloo Mutter is a hearty vegetarian curry featuring a flavorful combination of potatoes and green peas. Cooked in a tomato-based sauce with Indian spices, it's both comforting and satisfying.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "potatoes",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green peas",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Base",
+            "description": "Heat oil in a pan. Add cumin seeds and let them splutter. Add onions and ginger-garlic paste, cooking until onions turn golden."
+        },
+        {
+            "step": "2",
+            "title": "Add Spices and Tomatoes",
+            "description": "Add turmeric powder, coriander powder, red chili powder, and salt. Cook for a minute, then add tomato puree. Cook until the tomatoes are soft."
+        },
+        {
+            "step": "3",
+            "title": "Cook Potatoes and Peas",
+            "description": "Add cubed potatoes and green peas to the pan. Add water to cover the vegetables. Bring to a boil, then simmer until the potatoes are tender."
+        },
+        {
+            "step": "4",
+            "title": "Finish with Garam Masala",
+            "description": "Stir in garam masala and cook for a few more minutes."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with roti, naan, or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "45g",
+        "protein": "8g",
+        "fat": "10g",
+        "fiber": "8g",
+        "sugar": "10g"
+    },
+    "tips": [
+        "Ensure the potatoes are cut into even-sized pieces for uniform cooking.",
+        "Adjust the amount of chili powder to suit your taste for spiciness."
+    ],
+    "variations": [
+        "Add a splash of cream or coconut milk for a richer curry.",
+        "Include other vegetables like carrots or cauliflower for more nutrition and variety."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a traditional Indian serving bowl.",
+        "Pair with a side of yogurt or raita for a cooling effect."
+    ],
+    "keywords": [
+        "Aloo Mutter",
+        "Indian Potato Pea Curry",
+        "Vegetarian Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

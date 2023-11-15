@@ -1,0 +1,140 @@
+{
+    "id": "Mango_Lassi_Recipe",
+    "name": "Mango Lassi",
+    "origin": "India",
+    "history": "Mango Lassi is a popular traditional yogurt-based drink from the Indian subcontinent. It combines sweet mangoes with yogurt and is often enjoyed as a refreshing beverage, especially in the hot summers of India.",
+    "description": "Mango Lassi is a creamy, smooth, and deliciously sweet drink made with ripe mangoes, yogurt, and often a touch of milk or cream. It can be sweetened with sugar or honey and is sometimes flavored with cardamom or saffron for an aromatic touch.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "10"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "blender",
+            "description": "For blending the ingredients.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "ripe mangoes, peeled and chopped",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "milk or water",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar or honey",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cardamom powder (optional)",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ice cubes",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Blend Ingredients",
+            "description": "In a blender, combine the chopped mangoes, yogurt, milk or water, and sugar or honey. Blend until smooth and creamy. Add cardamom powder if desired."
+        },
+        {
+            "step": "2",
+            "title": "Adjust Consistency",
+            "description": "If the lassi is too thick, add a little more milk or water to reach your desired consistency. Add ice cubes for a chilled beverage."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Pour the mango lassi into glasses and serve chilled. Garnish with a slice of mango or a sprinkle of cardamom powder on top for presentation."
+        }
+    ],
+    "nutrition": {
+        "calories": "150 per serving",
+        "carbohydrates": "28g",
+        "protein": "4g",
+        "fat": "3g",
+        "fiber": "2g",
+        "sugar": "24g"
+    },
+    "tips": [
+        "Use ripe and sweet mangoes for the best flavor.",
+        "Adjust the sweetness according to the sweetness of the mangoes and your preference."
+    ],
+    "variations": [
+        "Add a pinch of saffron for a luxurious flavor.",
+        "Substitute mango with other fruits like strawberries or peaches for a different twist."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. Can be refrigerated for up to a day.",
+        "instructions": "Store in the refrigerator in a covered container."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in tall glasses with a straw and a spoon.",
+        "Garnish with mint leaves or chopped nuts for an added appeal."
+    ],
+    "keywords": [
+        "Mango Lassi",
+        "Yogurt Drink",
+        "Indian Mango Smoothie"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

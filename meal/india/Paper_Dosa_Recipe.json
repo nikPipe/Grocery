@@ -1,0 +1,113 @@
+{
+    "id": "Paper_Dosa_Recipe",
+    "name": "Paper Dosa",
+    "origin": "India",
+    "history": "Paper Dosa is a thin and crispy variant of the traditional South Indian dosa. It is characterized by its large size and paper-thin consistency. Originating from Southern India, it has become popular all over the country for its unique texture and taste.",
+    "description": "Paper Dosa is an ultra-thin, crispy, and large crepe made from a fermented batter of rice and lentils. It's known for its lightness and is typically served with sambar and chutney. This dosa is a favorite for its delicate texture and impressive size.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15 (excluding batter fermentation)"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": ["Breakfast", "Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "large griddle or non-stick pan",
+            "description": "For cooking the dosa."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "dosa batter",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Batter",
+            "description": "Ensure the dosa batter is well fermented and at room temperature."
+        },
+        {
+            "step": "2",
+            "title": "Heat the Griddle",
+            "description": "Heat a large griddle or non-stick pan on medium heat. Sprinkle a few drops of water to check if it's hot enough (the water should sizzle)."
+        },
+        {
+            "step": "3",
+            "title": "Pour and Spread the Batter",
+            "description": "Pour a ladleful of batter onto the center of the griddle. Quickly spread it outwards in a circular motion to make an ultra-thin crepe."
+        },
+        {
+            "step": "4",
+            "title": "Cook the Dosa",
+            "description": "Drizzle a little oil around the edges of the dosa. Cook until the dosa is crispy and golden. Do not flip."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Carefully remove the dosa from the griddle without folding. Serve hot with sambar and chutney."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per serving",
+        "carbohydrates": "33g",
+        "protein": "6g",
+        "fat": "5g",
+        "fiber": "2g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "The batter should be of pouring consistency to spread easily.",
+        "Use a large griddle to achieve the thin and large size of the paper dosa."
+    ],
+    "variations": [
+        "Add finely chopped onions or masala to the dosa for added flavor.",
+        "Experiment with different types of chutneys or sambar as accompaniments."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. Dosa batter can be stored in the refrigerator for up to 2 days.",
+        "instructions": "Store unused batter in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": {
+        "Reheat on a griddle or pan until crispy."
+    },
+    "presentationTips": [
+        "Serve on a large plate to showcase the size of the dosa.",
+        "Garnish with a side of coconut chutney and a bowl of sambar."
+    ],
+    "keywords": [
+        "Paper Dosa",
+        "Crispy South Indian Crepe",
+        "Large Thin Dosa"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

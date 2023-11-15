@@ -1,0 +1,247 @@
+{
+    "id": "Butter_Chicken_Recipe",
+    "name": "Butter Chicken",
+    "origin": "India",
+    "history": "Butter Chicken, also known as Murgh Makhani, is a classic Indian dish originating from Delhi. It was developed in the 1950s by the chefs of the famous restaurant Moti Mahal.",
+    "description": "Butter Chicken is a rich and creamy curry made with marinated grilled chicken, simmered in a sauce of tomatoes, cream, and a blend of spices. It's known for its mild flavor and smooth texture.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "60"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "grill or skillet",
+            "description": "For cooking the chicken.",
+            "imageURL": ""
+        },
+        {
+            "name": "saucepan",
+            "description": "For preparing the sauce.",
+            "imageURL": ""
+        },
+        {
+            "name": "blender",
+            "description": "For pureeing the sauce.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "chicken, boneless and skinless",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cream",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "butter",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "honey or sugar",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek leaves (kasuri methi), crushed",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green cardamom pods",
+            "quantity": "4",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cinnamon stick",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cloves",
+            "quantity": "4",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Marinate the Chicken",
+            "description": "Mix chicken with yogurt, ginger-garlic paste, lemon juice, red chili powder, turmeric, and salt. Marinate for at least 2 hours."
+        },
+        {
+            "step": "2",
+            "title": "Grill the Chicken",
+            "description": "Grill the marinated chicken until cooked through. Alternatively, cook in a skillet with some oil."
+        },
+        {
+            "step": "3",
+            "title": "Prepare the Sauce",
+            "description": "In a saucepan, heat butter and oil. Add cardamom, cinnamon, and cloves. Add tomato puree and cook until it thickens. Add cream, honey, garam masala, and grilled chicken. Simmer for 10 minutes."
+        },
+        {
+            "step": "4",
+            "title": "Finish with Fenugreek",
+            "description": "Stir in crushed fenugreek leaves. Adjust seasoning as needed."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the butter chicken with naan or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "600 per serving",
+        "carbohydrates": "20g",
+        "protein": "40g",
+        "fat": "40g",
+        "fiber": "3g",
+        "sugar": "10g"
+    },
+    "tips": [
+        "Marinate the chicken overnight for best flavor.",
+        "Simmer the sauce gently to prevent the cream from curdling."
+    ],
+    "variations": [
+        "Add cashew paste for a richer gravy.",
+        "Substitute cream with yogurt for a lighter version."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat gently on the stove or in a microwave.",
+    "presentationTips": [
+        "Garnish with cream and chopped coriander leaves.",
+        "Serve in a traditional copper dish for an authentic experience."
+    ],
+    "keywords": [
+        "Butter Chicken",
+        "Murgh Makhani",
+        "Indian Curry"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "id": "Uttapam_Recipe",
+    "name": "Uttapam",
+    "origin": "India",
+    "history": "Uttapam is a dish from South India, similar to a dosa but thicker and with toppings. It's a popular breakfast item, often made from leftover dosa batter.",
+    "description": "Uttapam is a type of thick pancake made with fermented rice and urad dal batter, topped with vegetables like onions, tomatoes, and capsicum. It's crispy on the outside and soft inside.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free",
+        "Vegan"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "griddle or non-stick skillet",
+            "imageURL": "",
+            "description": "Used for cooking the uttapam."
+        },
+        {
+            "name": "ladle",
+            "imageURL": "",
+            "description": "Used for pouring the batter onto the skillet."
+        },
+        {
+            "name": "spatula",
+            "imageURL": "",
+            "description": "Used for flipping the uttapam."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "idli or dosa batter",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "capsicum",
+            "quantity": "1/2",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Toppings",
+            "description": "Combine chopped onions, tomatoes, capsicum, green chilies, and coriander leaves in a bowl. Set aside."
+        },
+        {
+            "step": "2",
+            "title": "Make Uttapam",
+            "description": "Heat the griddle on medium heat. Pour a ladleful of batter and spread lightly. Sprinkle the vegetable mixture on top and gently press with the spatula. Drizzle some oil around the edges and cook until the bottom is golden brown."
+        },
+        {
+            "step": "3",
+            "title": "Cook and Serve",
+            "description": "Flip the uttapam and cook for another minute or until the other side is cooked. Serve hot with chutney or sambar."
+        }
+    ],
+    "nutrition": {
+        "calories": 250,
+        "carbohydrates": "45g",
+        "protein": "8g",
+        "fat": "5g",
+        "saturatedFat": "1g",
+        "cholesterol": "0mg",
+        "sodium": "300mg",
+        "potassium": "200mg",
+        "fiber": "3g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "The batter should be of pouring consistency but not too runny.",
+        "Cook on medium heat to ensure the vegetables and uttapam are cooked evenly."
+    ],
+    "variations": [
+        "Add grated carrots or beets for extra color and nutrition.",
+        "Experiment with different toppings like paneer, corn, or cheese."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Uttapam is best enjoyed fresh but can be stored in the refrigerator for up to 1 day.",
+        "instructions": "Store in an airtight container and reheat on a skillet before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat on a skillet or in a microwave until warm."
+    ],
+    "presentationTips": [
+        "Garnish with fresh coriander and serve with a side of coconut chutney."
+    ],
+    "keywords": [
+        "uttapam",
+        "South Indian pancake",
+        "vegetable uttapam"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

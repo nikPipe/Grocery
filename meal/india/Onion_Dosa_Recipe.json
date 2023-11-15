@@ -1,0 +1,167 @@
+{
+    "id": "Onion_Dosa_Recipe",
+    "name": "Onion Dosa",
+    "origin": "India",
+    "history": "Onion Dosa is a variation of the traditional South Indian dosa. It involves adding a topping of finely chopped onions and spices to the classic dosa, which is a fermented crepe made from rice and lentils. This addition enhances the flavor and texture.",
+    "description": "Onion Dosa is a crispy and savory crepe-like dish made from a fermented batter of rice and lentils, topped with a flavorful mixture of onions, green chilies, and spices. It's a popular breakfast or snack in South Indian cuisine.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15 (excluding batter fermentation)"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "griddle or non-stick pan",
+            "description": "For cooking the dosa.",
+            "imageURL": ""
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the onion mixture.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "dosa batter",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves, chopped",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Onion Mixture",
+            "description": "In a mixing bowl, combine the chopped onions, green chilies, cumin seeds, coriander leaves, curry leaves, and salt."
+        },
+        {
+            "step": "2",
+            "title": "Make the Dosa",
+            "description": "Heat the griddle or pan. Pour a ladleful of dosa batter and spread it into a thin circle. Drizzle a little oil around the edges."
+        },
+        {
+            "step": "3",
+            "title": "Add Onion Topping",
+            "description": "Sprinkle a generous amount of the onion mixture over the dosa. Press lightly with the spatula."
+        },
+        {
+            "step": "4",
+            "title": "Cook and Serve",
+            "description": "Cook until the dosa is crispy and golden brown. Fold and remove from the pan. Serve hot with chutney or sambar."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per serving",
+        "carbohydrates": "35g",
+        "protein": "6g",
+        "fat": "8g",
+        "fiber": "3g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Ensure the dosa batter is fermented well for the best taste.",
+        "Cook the dosa on medium heat for a crispy texture."
+    ],
+    "variations": [
+        "Add grated carrots or capsicum to the onion mixture for added nutrition.",
+        "Experiment with different types of chutneys for variety."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. Dosa batter can be refrigerated for up to 2 days.",
+        "instructions": "Store unused batter in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat dosas on a pan until crisp."
+    ],
+    "presentationTips": [
+        "Serve on a banana leaf for an authentic South Indian experience.",
+        "Garnish with a side of coconut chutney and a dollop of butter."
+    ],
+    "keywords": [
+        "Onion Dosa",
+        "South Indian Cuisine",
+        "Crispy Crepe"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

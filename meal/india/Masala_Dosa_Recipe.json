@@ -1,0 +1,230 @@
+{
+    "id": "Masala_Dosa_Recipe",
+    "name": "Masala Dosa",
+    "origin": "India",
+    "history": "Masala Dosa is a renowned South Indian dish, particularly popular in Karnataka. It is famous for its thin, crispy texture and flavorful potato filling.",
+    "description": "Masala Dosa is a savory crepe made from a fermented rice and lentil batter, filled with a spiced potato mixture. It's commonly served with coconut chutney and sambar.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "60"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "blender or grinder",
+            "imageURL": "",
+            "description": "Used for grinding the batter ingredients into a smooth paste."
+        },
+        {
+            "name": "large mixing bowl",
+            "imageURL": "",
+            "description": "Used for fermenting the dosa batter."
+        },
+        {
+            "name": "non-stick skillet or tawa",
+            "imageURL": "",
+            "description": "Used for cooking the dosas."
+        },
+        {
+            "name": "spatula",
+            "imageURL": "",
+            "description": "Used for spreading and flipping the dosas."
+        },
+        {
+            "name": "pan",
+            "imageURL": "",
+            "description": "Used for preparing the potato masala."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as required for grinding and adjusting batter consistency",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "potatoes",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "a few",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Dosa Batter",
+            "description": "Soak the rice, urad dal, and fenugreek seeds in water for 4-6 hours. Drain and grind them into a smooth batter, adding water as needed. Transfer the batter to a large bowl, cover, and let it ferment in a warm place for 8-12 hours until it doubles in size and shows bubbles."
+        },
+        {
+            "step": "2",
+            "title": "Prepare Potato Masala",
+            "description": "Boil the potatoes, peel and mash them. In a pan, heat oil, add mustard seeds, urad dal, and curry leaves. When they splutter, add onions and green chilies. Saut\u00c3\u00a9 until onions are translucent. Add mashed potatoes, turmeric powder, and salt. Mix well and cook for a few minutes."
+        },
+        {
+            "step": "3",
+            "title": "Make Dosa",
+            "description": "Heat a non-stick skillet or tawa. Pour a ladleful of dosa batter and spread it into a thin circle. Drizzle oil around the edges and cook until the dosa is golden and crisp."
+        },
+        {
+            "step": "4",
+            "title": "Assemble Masala Dosa",
+            "description": "Place a portion of the potato masala on one half of the dosa. Fold the dosa over the filling."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the Masala Dosa hot with coconut chutney and sambar."
+        }
+    ],
+    "nutrition": {
+        "calories": 300,
+        "carbohydrates": "50g",
+        "protein": "6g",
+        "fat": "10g",
+        "saturatedFat": "2g",
+        "cholesterol": "0mg",
+        "sodium": "400mg",
+        "potassium": "300mg",
+        "fiber": "4g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Ensure the batter is well-fermented for a crispy dosa.",
+        "Cook on medium-high heat to achieve a golden-brown texture."
+    ],
+    "variations": [
+        "Add finely chopped vegetables to the potato masala for added nutrition.",
+        "Experiment with different fillings, such as paneer or mixed vegetables."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Dosa batter can be refrigerated for up to 2 days. Prepared masala should be consumed fresh.",
+        "instructions": "Store batter in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat dosas on a skillet for best texture.",
+    "presentationTips": [
+        "Garnish with fresh coriander leaves and serve on a traditional banana leaf for an authentic experience."
+    ],
+    "keywords": [
+        "masala dosa",
+        "South Indian cuisine",
+        "potato filled dosa"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

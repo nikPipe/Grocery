@@ -1,0 +1,141 @@
+{
+    "id": "Mint_Lemonade_Recipe",
+    "name": "Mint Lemonade",
+    "origin": "Global",
+    "history": "Mint Lemonade is a refreshing drink popular worldwide, particularly in hot climates. Its origins are believed to be from the Middle East. The combination of lemon and mint offers a perfect balance of tartness and a cool, refreshing taste.",
+    "description": "Mint Lemonade is a vibrant and refreshing drink made by blending fresh mint leaves with lemon juice, sugar, and water. It's known for its invigorating flavor and is often served chilled as a perfect antidote to hot weather.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "10"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "blender",
+            "description": "For blending the ingredients.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "mint leaves",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "2-3 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cold water",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "ice cubes",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sliced lemon and mint leaves, for garnish",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Blend Ingredients",
+            "description": "In a blender, combine mint leaves, lemon juice, sugar, and a little water. Blend until the mint is finely chopped."
+        },
+        {
+            "step": "2",
+            "title": "Add Water and Ice",
+            "description": "Add the remaining cold water and some ice cubes to the blender. Blend until smooth."
+        },
+        {
+            "step": "3",
+            "title": "Garnish and Serve",
+            "description": "Pour the lemonade into glasses. Garnish with additional lemon slices and mint leaves."
+        }
+    ],
+    "nutrition": {
+        "calories": "80 per serving",
+        "carbohydrates": "20g",
+        "protein": "0g",
+        "fat": "0g",
+        "fiber": "1g",
+        "sugar": "18g"
+    },
+    "tips": [
+        "Adjust the amount of sugar according to your taste.",
+        "Use fresh mint leaves for the best flavor."
+    ],
+    "variations": [
+        "Add sparkling water for a fizzy variation.",
+        "Mix with iced tea to make a mint lemon tea."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. Can be refrigerated for up to 24 hours.",
+        "instructions": "Store in a sealed container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in tall glasses with a decorative straw.",
+        "Garnish with a sprig of mint or a twist of lemon peel for an elegant touch."
+    ],
+    "keywords": [
+        "Mint Lemonade",
+        "Refreshing Drink",
+        "Summer Beverage"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

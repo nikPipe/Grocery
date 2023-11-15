@@ -1,0 +1,188 @@
+{
+    "id": "Batata_Vada_Recipe",
+    "name": "Batata Vada",
+    "origin": "India",
+    "history": "Batata Vada is a popular snack from Maharashtra, India, known for its spicy potato filling coated with a gram flour batter and deep fried to perfection.",
+    "description": "Batata Vada, also known as Aloo Bonda in some regions, is a savory snack featuring a spicy mashed potato filling encased in a crispy gram flour batter. It's a staple street food and often served with chutneys.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": [
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "imageURL": "",
+            "description": "Used for cooking the potato filling."
+        },
+        {
+            "name": "deep frying pan",
+            "imageURL": "",
+            "description": "Used for deep frying the vadas."
+        },
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "Used for preparing the batter."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "potatoes",
+            "quantity": "2 large",
+            "weight": {
+                "value": "400",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "a few",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chickpea flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed for batter",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "baking soda",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for deep frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Potato Filling",
+            "description": "Boil, peel, and mash the potatoes. In a pan, heat oil and add mustard seeds and curry leaves. Add chopped green chilies, turmeric powder, and mashed potatoes. Season with salt, mix well, and cook for a few minutes. Let the mixture cool and form into small balls."
+        },
+        {
+            "step": "2",
+            "title": "Make Batter",
+            "description": "In a mixing bowl, mix gram flour, a pinch of salt, baking soda, and water to form a smooth batter."
+        },
+        {
+            "step": "3",
+            "title": "Fry Batata Vada",
+            "description": "Heat oil in a deep frying pan. Dip each potato ball into the batter, ensuring it's completely coated. Deep fry in hot oil until golden brown."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve hot with green chutney or tamarind chutney."
+        }
+    ],
+    "nutrition": {
+        "calories": 300,
+        "carbohydrates": "35g",
+        "protein": "5g",
+        "fat": "15g",
+        "saturatedFat": "2g",
+        "cholesterol": "0mg",
+        "sodium": "300mg",
+        "potassium": "400mg",
+        "fiber": "3g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Ensure the potato mixture is cool before forming balls to prevent them from falling apart.",
+        "The batter should be of a coating consistency, not too thick or too runny."
+    ],
+    "variations": [
+        "Add finely chopped coriander or mint leaves to the potato mixture for extra flavor.",
+        "Experiment with adding spices like garam masala or amchur (dry mango powder) for a different twist."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Batata Vada is best consumed fresh but can be stored in the refrigerator for up to 1 day.",
+        "instructions": "Store in an airtight container and reheat in an oven or air fryer for best results."
+    },
+    "reheatingInstructions": "Reheat in an oven or air fryer until crispy.",
+    "presentationTips": [
+        "Serve on a plate with a side of chutney and garnish with sliced onions and lemon wedges."
+    ],
+    "keywords": [
+        "batata vada",
+        "Indian potato fritters",
+        "street food"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

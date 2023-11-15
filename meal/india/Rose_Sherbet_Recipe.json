@@ -1,0 +1,143 @@
+{
+    "id": "Rose_Sherbet_Recipe",
+    "name": "Rose Sherbet",
+    "origin": "Middle East",
+    "history": "Rose Sherbet, with its roots in Middle Eastern cuisine, is a traditional drink known for its floral aroma and refreshing taste. Made from rose petals, it's a popular beverage in various cultures, especially enjoyed during hot weather and festive occasions.",
+    "description": "Rose Sherbet is a fragrant and delightful drink made from rose syrup, lemon juice, and chilled water or soda. It's often served as a cooling refreshment and is admired for its sweet floral flavor and vibrant color.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "10"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "glass",
+            "description": "For serving the sherbet.",
+            "imageURL": ""
+        },
+        {
+            "name": "spoon",
+            "description": "For stirring the sherbet.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rose syrup",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "chilled water or soda",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "ice cubes",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mint leaves, for garnish",
+            "quantity": "a few",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Mix Ingredients",
+            "description": "In a glass, combine the rose syrup and lemon juice."
+        },
+        {
+            "step": "2",
+            "title": "Add Water or Soda",
+            "description": "Add chilled water or soda to the glass. Stir well."
+        },
+        {
+            "step": "3",
+            "title": "Serve with Ice",
+            "description": "Add ice cubes to the glass. Stir again."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Garnish with mint leaves. Serve immediately for a refreshing drink."
+        }
+    ],
+    "nutrition": {
+        "calories": "80 per serving",
+        "carbohydrates": "20g",
+        "protein": "0g",
+        "fat": "0g",
+        "fiber": "0g",
+        "sugar": "19g"
+    },
+    "tips": [
+        "Adjust the amount of rose syrup according to your taste.",
+        "Use fresh lemon juice for the best flavor."
+    ],
+    "variations": [
+        "Add a splash of rose water for a stronger floral aroma.",
+        "Mix with fruit juices like pomegranate or orange for a fruity twist."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately.",
+        "instructions": "Prepare fresh for each serving."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in a tall glass with a decorative straw.",
+        "Garnish with rose petals for an elegant touch."
+    ],
+    "keywords": [
+        "Rose Sherbet",
+        "Floral Beverage",
+        "Refreshing Drink"
+    ],
+    "allergens": [
+        "None"
+    ]
+}
