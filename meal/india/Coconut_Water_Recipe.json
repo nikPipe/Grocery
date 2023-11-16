@@ -1,0 +1,101 @@
+{
+    "id": "Coconut_Water_Recipe",
+    "name": "Coconut Water",
+    "origin": "Tropical Regions",
+    "history": "Coconut Water has been a popular drink in tropical regions for centuries, where coconuts are native. It's known for its hydrating properties and has gained global popularity as a natural and refreshing beverage.",
+    "description": "Coconut Water is the clear liquid found inside young green coconuts. It's naturally sweet, refreshing, and contains electrolytes, making it a popular choice for hydration and as a health drink.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "5"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "5"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "coconut opener or sharp tool",
+            "description": "For opening the coconut.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "coconut",
+            "quantity": "1",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Open the Coconut",
+            "description": "Carefully open the top of the young green coconut using a coconut opener or a sharp tool."
+        },
+        {
+            "step": "2",
+            "title": "Extract the Water",
+            "description": "Insert a straw or pour the coconut water into a glass."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Enjoy the fresh coconut water as is. Optionally, it can be chilled before serving."
+        }
+    ],
+    "nutrition": {
+        "calories": "45 per serving",
+        "carbohydrates": "11g",
+        "protein": "2g",
+        "fat": "0g",
+        "fiber": "3g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Choose young green coconuts for sweeter water.",
+        "Be cautious when opening the coconut to avoid spillage."
+    ],
+    "variations": [
+        "Add a splash of pineapple juice or lime for a flavored variation.",
+        "Mix with other fruit juices or smoothies for a tropical drink."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. Store in the refrigerator for up to 24 hours if needed.",
+        "instructions": "Keep the coconut water in a sealed container if not consumed immediately."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in a coconut shell for a natural and tropical presentation.",
+        "Garnish with a small umbrella or a slice of lime for a refreshing look."
+    ],
+    "keywords": [
+        "Coconut Water",
+        "Natural Hydration",
+        "Tropical Beverage"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

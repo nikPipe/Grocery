@@ -63,7 +63,7 @@
       }
     },
     "drink": {
-      "default": {"name": "Filter Coffee", "id": 556},
+      "default": {"name": "Filter Coffee", "id": "556"},
       "variations": {
         "Masala Chai": "Masala_Chai_Recipe",
         "Sweet Lassi": "Sweet_Lassi_Recipe",
@@ -74,7 +74,7 @@
         "Nannari Sarbath": "Nannari_Sarbath_Recipe",
         "Lemonade": "Lemonade_Recipe",
         "Jigarthanda": "Jigarthanda_Recipe",
-        "Elaneer": 566
+        "Elaneer": "566"
       }
     }
   }

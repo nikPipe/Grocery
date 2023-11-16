@@ -277,6 +277,13 @@ def normalize_ingredient(ingredient):
 
 
 itemList = getItemList()
+
+print(sorted(itemList))
+for each in sorted(itemList):
+    print(each)
+
+
+
 #printJsonData()
 
 normalized_mapping = {item: normalize_ingredient(item) for item in itemList}

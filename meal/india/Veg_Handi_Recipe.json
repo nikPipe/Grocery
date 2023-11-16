@@ -1,0 +1,277 @@
+{
+    "id": "Veg_Handi_Recipe",
+    "name": "Veg Handi",
+    "origin": "India",
+    "history": "Veg Handi is a traditional Indian dish cooked in a 'Handi,' a deep and wide-mouthed cooking vessel. It's known for its rich, creamy texture and the blend of spices and vegetables.",
+    "description": "Veg Handi is a delicious mix of various vegetables cooked in a creamy gravy. The dish combines a variety of spices and ingredients to create a rich and flavorful curry, often served with Indian bread or rice.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "handi or heavy-bottomed pot",
+            "description": "For cooking the curry."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "cauliflower",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carrot",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green peas",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green beans",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "potatoe",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "bell peppers",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomatoes",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cream",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cashew paste",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cilantro",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "kasuri methi",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Vegetables",
+            "description": "Wash all the vegetables. Cut the cauliflower into florets, dice the carrots, potatoes, and bell peppers, and chop the green beans. Set aside."
+        },
+        {
+            "step": "2",
+            "title": "Sauté Onions and Spices",
+            "description": "Heat oil in a handi or heavy-bottomed pot. Add cumin seeds and let them splutter. Then, add the finely chopped onions and sauté until they turn translucent. Stir in the ginger-garlic paste and sauté for another minute."
+        },
+        {
+            "step": "3",
+            "title": "Add Vegetables and Spices",
+            "description": "Add the prepared vegetables to the pot. Sprinkle turmeric powder, coriander powder, red chili powder, and salt over the vegetables. Sauté for 5-7 minutes."
+        },
+        {
+            "step": "4",
+            "title": "Cook with Tomato Puree",
+            "description": "Pour in the tomato puree and mix well. Cover the pot and let it cook for about 10 minutes, stirring occasionally, until the vegetables start to soften."
+        },
+        {
+            "step": "5",
+            "title": "Add Cream and Cashew Paste",
+            "description": "Stir in the cream and cashew paste into the curry. This will give the dish a rich and creamy texture. If the curry is too thick, add a little water to adjust the consistency."
+        },
+        {
+            "step": "6",
+            "title": "Final Seasoning",
+            "description": "Sprinkle garam masala and kasuri methi over the curry. Stir and let it simmer for another 5 minutes."
+        },
+        {
+            "step": "7",
+            "title": "Garnish and Serve",
+            "description": "Turn off the heat and garnish the Veg Handi with chopped fresh cilantro. Serve hot with naan, roti, or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "350 per serving",
+        "carbohydrates": "40g",
+        "protein": "10g",
+        "fat": "18g",
+        "fiber": "9g",
+        "sugar": "7g"
+    },
+    "tips": [
+        "Adjust the amount of chili powder and cream according to your taste preferences.",
+        "You can also add other vegetables of your choice, like mushrooms or paneer."
+    ],
+    "variations": [
+        "To make it vegan, use coconut cream instead of dairy cream.",
+        "Add a bit of lemon juice at the end for a tangy flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2-3 days.",
+        "instructions": "Store in an airtight container and reheat on the stove or in a microwave."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat on the stove or in a microwave until warm, adding a little water if the curry has thickened."
+        }
+    ],
+    "presentationTips": [
+        "Serve in a traditional handi or bowl to enhance the visual appeal.",
+        "Garnish with a dollop of cream or butter for a richer presentation."
+    ],
+    "keywords": [
+        "Veg Handi",
+        "Indian Vegetable Curry",
+        "Creamy Mixed Vegetable Dish"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}
