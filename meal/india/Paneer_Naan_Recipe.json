@@ -53,7 +53,7 @@
             }
         },
         {
-            "item": "instant yeast",
+            "item": "yeast",
             "quantity": "1 teaspoon",
             "weight": {
                 "value": "5",
@@ -85,7 +85,7 @@
             }
         },
         {
-            "item": "warm water",
+            "item": "water",
             "quantity": "3/4 cup",
             "weight": {
                 "value": "180",
@@ -93,7 +93,7 @@
             }
         },
         {
-            "item": "paneer, crumbled",
+            "item": "paneer",
             "quantity": "1 cup",
             "weight": {
                 "value": "200",
@@ -133,7 +133,7 @@
             }
         },
         {
-            "item": "oil or ghee for brushing",
+            "item": "oil",
             "quantity": "as needed",
             "weight": {
                 "value": "Variable",

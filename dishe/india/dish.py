@@ -38,7 +38,7 @@ for eachJson in jsonFile:
 
     if '.json' in eachJson:
         not_in_list = []
-        if '9' in eachJson:
+        if '10' in eachJson:
             path = os.path.join(os.path.dirname(lunch.__file__), eachJson)
             json_data = open(path).read()
             data = json.loads(json_data)
