@@ -1,0 +1,255 @@
+{
+    "id": "Vegetable_Kolhapuri_Recipe",
+    "name": "Vegetable Kolhapuri",
+    "origin": "India",
+    "history": "Vegetable Kolhapuri is a spicy and flavorful dish from the Kolhapur region in Maharashtra, India. Known for its fiery and bold flavors, it is a popular dish in Maharashtrian cuisine.",
+    "description": "Vegetable Kolhapuri is a vibrant mix of vegetables cooked in a spicy masala. The dish includes a variety of vegetables and is spiced with a special Kolhapuri masala, making it a rich and hearty meal.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pot",
+            "description": "For cooking the vegetables."
+        },
+        {
+            "name": "pan",
+            "description": "For preparing the masala."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "cauliflower",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carrots",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green peas",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green beans",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "potatoes",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "bell pepper",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onions",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomatoes",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Kolhapuri masala",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cilantro",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Sauté Vegetables",
+            "description": "Heat oil in a pot. Add cumin seeds, onions, and ginger-garlic paste. Sauté until onions turn golden. Add all the chopped vegetables and stir well."
+        },
+        {
+            "step": "2",
+            "title": "Add Spices",
+            "description": "Add Kolhapuri masala, turmeric powder, red chili powder, coriander powder, garam masala, and salt. Mix well and cook for a few minutes."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Vegetables",
+            "description": "Add enough water to cover the vegetables. Cover and cook until the vegetables are tender."
+        },
+        {
+            "step": "4",
+            "title": "Final Touch",
+            "description": "Once the vegetables are cooked, check for seasoning and adjust if necessary. Let the gravy simmer until it reaches the desired consistency."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with rice or Indian breads like chapati or naan."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "45g",
+        "protein": "10g",
+        "fat": "12g",
+        "fiber": "8g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "You can adjust the amount of Kolhapuri masala to control the spice level.",
+        "Including a variety of vegetables will enhance the flavor and nutritional value."
+    ],
+    "variations": [
+        "Add paneer or tofu for a protein-rich version of this dish.",
+        "Experiment with different spice blends to alter the flavor profile."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat on the stove or in a microwave until warm."
+        }
+    ],
+    "presentationTips": [
+        "Serve in a traditional Indian serving dish for an authentic look.",
+        "Garnish with fresh cilantro and a slice of lemon."
+    ],
+    "keywords": [
+        "Vegetable Kolhapuri",
+        "Spicy Indian Vegetable Curry",
+        "Maharashtrian Cuisine"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

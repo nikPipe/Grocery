@@ -1,0 +1,191 @@
+{
+    "id": "Chana_Salad_Recipe",
+    "name": "Chana Salad",
+    "origin": "India",
+    "history": "Chana Salad, made with chickpeas (chana), is a popular dish in Indian cuisine. It's known for its health benefits and is often enjoyed as a light meal or a nutritious side dish.",
+    "description": "Chana Salad is a refreshing and healthy salad made with boiled chickpeas, fresh vegetables, and a blend of spices. It's a perfect balance of protein, fiber, and flavors, making it a popular choice for a healthy meal.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian", "Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "15"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner", "Snack"],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For combining the salad ingredients."
+        },
+        {
+            "name": "colander",
+            "description": "For draining the chickpeas."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "chickpeas",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cucumber",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomatoes",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "40",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cilantro",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "chaat masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black pepper",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Chickpeas",
+            "description": "If using canned chickpeas, drain them in a colander and rinse under cold water. If using dried chickpeas, soak them overnight, then boil until tender."
+        },
+        {
+            "step": "2",
+            "title": "Chop the Vegetables",
+            "description": "Chop the cucumber, tomatoes, and onions into small, even-sized pieces. Finely chop the green chili and fresh cilantro. Be cautious while handling the chili to avoid irritation."
+        },
+        {
+            "step": "3",
+            "title": "Mix the Salad",
+            "description": "In a large mixing bowl, combine the cooked chickpeas, chopped cucumber, tomatoes, onions, and green chili. Add the chopped cilantro for freshness."
+        },
+        {
+            "step": "4",
+            "title": "Season the Salad",
+            "description": "Sprinkle the chaat masala, salt, and crushed black pepper over the salad. Drizzle with lemon juice and olive oil (if using). Toss the salad gently to mix all the ingredients and coat them evenly with the seasoning."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the Chana Salad immediately, or refrigerate it for a while to allow the flavors to meld. It can be served as a light meal, a side dish, or a healthy snack."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per serving",
+        "carbohydrates": "35g",
+        "protein": "10g",
+        "fat": "5g",
+        "fiber": "9g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Adjust the amount of green chili and chaat masala according to your taste.",
+        "Adding a bit of olive oil can enhance the flavor, but it's optional."
+    ],
+    "variations": [
+        "Include other vegetables like bell peppers or grated carrots.",
+        "For an extra tangy flavor, add a bit of tamarind paste."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh. Can be stored in the refrigerator for up to a day.",
+        "instructions": "Store in an airtight container and stir well before serving."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "This salad is best enjoyed cold and does not require reheating."
+        }
+    ],
+    "presentationTips": [
+        "Serve in a colorful bowl to enhance its visual appeal.",
+        "Garnish with a lemon wedge or a sprig of cilantro."
+    ],
+    "keywords": [
+        "Chana Salad",
+        "Chickpea Salad",
+        "Indian Salad"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

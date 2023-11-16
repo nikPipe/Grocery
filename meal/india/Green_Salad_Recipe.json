@@ -1,0 +1,188 @@
+{
+    "id": "Green_Salad_Recipe",
+    "name": "Green Salad",
+    "origin": "Global",
+    "history": "Green Salad is a staple in various cuisines worldwide, known for its simplicity and health benefits. Each region uses different types of greens based on local availability, leading to a diverse range of salad recipes.",
+    "description": "This Green Salad is a blend of specific leafy greens, providing a range of flavors and textures. It includes lettuce, spinach, and arugula, combined with other fresh vegetables and a light dressing, making it a nutritious and refreshing dish.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "15"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "salad bowl",
+            "description": "For mixing the ingredients.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "lettuce",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "spinach",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "arugula",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cucumber",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green bell pepper",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "spring onions",
+            "quantity": "2",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "parsley",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black pepper",
+            "quantity": "to taste",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Greens",
+            "description": "Wash and dry the lettuce, spinach, and arugula. Tear or chop them into bite-sized pieces."
+        },
+        {
+            "step": "2",
+            "title": "Combine Ingredients",
+            "description": "In a salad bowl, combine the lettuce, spinach, arugula, cucumber, green bell pepper, and spring onions."
+        },
+        {
+            "step": "3",
+            "title": "Dress the Salad",
+            "description": "Drizzle olive oil and lemon juice over the salad. Season with salt and freshly ground black pepper. Toss well to combine."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Garnish with chopped parsley or cilantro. Serve the salad immediately as a side dish or a light main course."
+        }
+    ],
+    "nutrition": {
+        "calories": "80 per serving",
+        "carbohydrates": "8g",
+        "protein": "2g",
+        "fat": "5g",
+        "fiber": "3g",
+        "sugar": "4g"
+    },
+    "tips": [
+        "Using a mix of different greens provides a variety of nutrients and flavors.",
+        "Add nuts, seeds, or cheese for extra texture and richness."
+    ],
+    "variations": [
+        "Incorporate other types of greens like kale or Swiss chard.",
+        "Top with grilled chicken, shrimp, or tofu for added protein."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. If needed, can be refrigerated for a few hours.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in a large, colorful bowl to enhance the appeal of the fresh ingredients.",
+        "Garnish with edible flowers for an elegant touch."
+    ],
+    "keywords": [
+        "Green Salad",
+        "Healthy Salad",
+        "Vegetarian Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

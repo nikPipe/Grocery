@@ -1,0 +1,246 @@
+{
+    "id": "Shahi_Paneer_Recipe",
+    "name": "Shahi Paneer",
+    "origin": "India",
+    "history": "Shahi Paneer is a Mughlai cuisine dish with roots in the royal kitchens of the Mughal Empire. Its name 'Shahi' refers to its royal origin, signifying a rich and creamy preparation with paneer (Indian cottage cheese).",
+    "description": "Shahi Paneer is a luxurious Indian dish made with soft paneer cubes immersed in a creamy, tomato-based gravy enriched with spices, cream, and nuts. It's known for its mild yet rich flavor, often served in special occasions.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the gravy.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "paneer",
+            "quantity": "250 grams",
+            "weight": {
+                "value": "250",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "3 medium",
+            "weight": {
+                "value": "300",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cashew nuts",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green cardamom pods",
+            "quantity": "4",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cinnamon stick",
+            "quantity": "1 small",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cloves",
+            "quantity": "4",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cream",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "saffron",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.1",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Gravy Base",
+            "description": "Heat oil in a pan. Add cardamom, cinnamon, and cloves. Once they start to sizzle, add onions and ginger-garlic paste. Cook until onions are golden. Add tomato puree, turmeric powder, red chili powder, coriander powder, and salt. Cook until the oil separates."
+        },
+        {
+            "step": "2",
+            "title": "Blend Cashews",
+            "description": "Soak cashews in warm water for 10 minutes and then blend to a smooth paste."
+        },
+        {
+            "step": "3",
+            "title": "Add Paneer and Spices",
+            "description": "Add the cashew paste to the pan. Cook for a few minutes. Add paneer cubes to the gravy and cook for another 5-7 minutes."
+        },
+        {
+            "step": "4",
+            "title": "Finish with Cream and Saffron",
+            "description": "Stir in cream and saffron. Cook for a few more minutes."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with naan, roti, or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "650 per serving",
+        "carbohydrates": "25g",
+        "protein": "25g",
+        "fat": "45g",
+        "fiber": "5g",
+        "sugar": "8g"
+    },
+    "tips": [
+        "Soak the cashews well to ensure a smooth, creamy paste.",
+        "Add water to adjust the consistency of the gravy as needed."
+    ],
+    "variations": [
+        "Add vegetables like peas or bell peppers for extra texture and nutrition.",
+        "Use almond milk instead of cream for a lighter version."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a decorative bowl, topped with a swirl of cream and saffron strands.",
+        "Pair with a fragrant basmati rice or fresh, hot naan bread."
+    ],
+    "keywords": [
+        "Shahi Paneer",
+        "Indian Creamy Paneer Curry",
+        "Rich Paneer Dish"
+    ],
+    "allergens": [
+        "Dairy",
+        "Nuts"
+    ]
+}

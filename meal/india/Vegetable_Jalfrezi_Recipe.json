@@ -5,7 +5,9 @@
     "history": "Vegetable Jalfrezi is a popular dish in Indian cuisine, known for its rich, spicy, and tangy flavor. Originating from the East Indian region, Jalfrezi dishes are stir-fried with vegetables and a variety of spices.",
     "description": "Vegetable Jalfrezi is a vibrant and flavorful dish made with a mix of vegetables like bell peppers, onions, and tomatoes, stir-fried with Indian spices. This dish is often accompanied by a thick gravy and is served with rice or flatbreads.",
     "servings": "1",
-    "dietTypes": ["Vegetarian"],
+    "dietTypes": [
+        "Vegetarian"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +22,10 @@
             "value": "35"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "pan",
@@ -176,8 +181,8 @@
     "instructions": [
         {
             "step": "1",
-            "title": "Sauté Vegetables",
-            "description": "Heat oil in a pan. Add cumin seeds. Once they splutter, add ginger-garlic paste and onions. Sauté until onions are translucent. Add carrots, green beans, and bell peppers. Stir-fry for a few minutes."
+            "title": "Saut\u00c3\u00a9 Vegetables",
+            "description": "Heat oil in a pan. Add cumin seeds. Once they splutter, add ginger-garlic paste and onions. Saut\u00c3\u00a9 until onions are translucent. Add carrots, green beans, and bell peppers. Stir-fry for a few minutes."
         },
         {
             "step": "2",

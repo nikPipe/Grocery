@@ -1,0 +1,181 @@
+{
+    "id": "Aloo_Paratha_Recipe",
+    "name": "Aloo Paratha",
+    "origin": "India",
+    "history": "Aloo Paratha is a popular North Indian flatbread stuffed with spicy mashed potatoes. It's a staple in Punjabi cuisine and is enjoyed across India.",
+    "description": "Aloo Paratha is a hearty, flavorful flatbread filled with a spiced potato mixture. It's typically served with butter, yogurt, or pickles.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch"
+    ],
+    "equipment": [
+        {
+            "name": "rolling pin",
+            "imageURL": "",
+            "description": "A cylindrical food preparation utensil used to shape and flatten dough."
+        },
+        {
+            "name": "skillet",
+            "imageURL": "",
+            "description": "A flat-bottomed pan used for frying, searing, and browning foods."
+        },
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "A bowl used for mixing ingredients."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "whole wheat flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "potato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "40",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Dough",
+            "description": "Knead wheat flour with water to form a soft dough. Cover and set aside for 20 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Prepare Filling",
+            "description": "Mash the boiled potatoes. Mix in onions, green chilies, coriander leaves, red chili powder, garam masala, and salt."
+        },
+        {
+            "step": "3",
+            "title": "Assemble Parathas",
+            "description": "Divide the dough into balls. Roll each ball, place a portion of the filling in the center, and seal it. Roll it again gently to flatten."
+        },
+        {
+            "step": "4",
+            "title": "Cook Parathas",
+            "description": "Heat a skillet. Place the paratha on the skillet and cook until brown spots appear. Flip and cook the other side, applying oil or ghee."
+        }
+    ],
+    "nutrition": {
+        "calories": 250,
+        "carbohydrates": "45g",
+        "protein": "6g",
+        "fat": "7g",
+        "saturatedFat": "3g",
+        "cholesterol": "0mg",
+        "sodium": "400mg",
+        "potassium": "300mg",
+        "fiber": "3g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "The dough should be soft for easy rolling.",
+        "Don\u00e2\u20ac\u2122t overfill the parathas, or they may break while rolling."
+    ],
+    "variations": [
+        "Add grated cheese or paneer to the potato filling for a different flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Aloo Parathas are best eaten fresh but can be stored in the refrigerator for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat on a skillet before serving."
+    },
+    "reheatingInstructions": "Reheat on a skillet or in a microwave until warm.",
+    "presentationTips": [
+        "Serve with a dollop of butter, yogurt, or pickle."
+    ],
+    "keywords": [
+        "aloo paratha",
+        "Indian flatbread",
+        "stuffed bread"
+    ],
+    "allergens": [
+        "Wheat",
+        "Ghee (if used)"
+    ]
+}

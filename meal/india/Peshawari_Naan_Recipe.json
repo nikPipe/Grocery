@@ -1,0 +1,197 @@
+{
+    "id": "Peshawari_Naan_Recipe",
+    "name": "Peshawari Naan",
+    "origin": "India",
+    "history": "Peshawari Naan is a sweet, stuffed naan originating from the Peshawar region of Pakistan. It's a popular variation of naan bread in Indian and Pakistani cuisines, known for its rich filling of dried fruits and nuts.",
+    "description": "Peshawari Naan is a delicately sweet and nutty bread, stuffed with a mixture of dried fruits and nuts. It's typically baked in a tandoor or oven, resulting in a soft, fluffy bread with a crispy exterior and a rich, flavorful filling.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough."
+        },
+        {
+            "name": "rolling pin",
+            "description": "For rolling out the naans."
+        },
+        {
+            "name": "oven",
+            "description": "For baking the naans."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "all-purpose flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "250",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "baking powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "baking soda",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1.25",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "12.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "milk",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee or butter, melted",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "filling: mixed dried fruits (raisins, apricots, etc.)",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "40",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "filling: nuts (almonds, cashews, etc.), chopped",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "40",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for brushing",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, combine all-purpose flour, baking powder, baking soda, sugar, and salt. Add milk, yogurt, and melted ghee or butter. Knead into a soft dough. Cover and let it rest for 30 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Prepare Filling",
+            "description": "Mix the chopped dried fruits and nuts to create the filling."
+        },
+        {
+            "step": "3",
+            "title": "Stuff and Roll Naans",
+            "description": "Divide the dough into equal portions. Roll out each portion, place a spoonful of filling in the center, seal, and roll out into a flat circular shape."
+        },
+        {
+            "step": "4",
+            "title": "Bake the Naans",
+            "description": "Preheat the oven. Place the rolled-out naans on a baking tray. Brush with oil and bake until golden brown."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the Peshawari Naans hot, preferably with a side of curry or chutney."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per naan",
+        "carbohydrates": "45g",
+        "protein": "8g",
+        "fat": "12g",
+        "fiber": "3g",
+        "sugar": "15g"
+    },
+    "tips": [
+        "Ensure the dough is soft and pliable for best results.",
+        "Adjust the amount of filling to your preference."
+    ],
+    "variations": [
+        "Experiment with different combinations of dried fruits and nuts.",
+        "Add a sprinkle of cardamom powder to the filling for an extra flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh. Can be stored for up to 1 day.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat in an oven or on a tawa until warm."
+        }
+    ],
+    "presentationTips": [
+        "Serve on a platter with a side of mint chutney.",
+        "Garnish with a sprinkle of chopped nuts on top."
+    ],
+    "keywords": [
+        "Peshawari Naan",
+        "Stuffed Indian Bread",
+        "Sweet Naan Bread"
+    ],
+    "allergens": [
+        "Gluten",
+        "Dairy",
+        "Nuts"
+    ]
+}

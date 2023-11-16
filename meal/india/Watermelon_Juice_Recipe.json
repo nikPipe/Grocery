@@ -1,0 +1,139 @@
+
+{
+    "id": "Watermelon_Juice_Recipe",
+    "name": "Watermelon Juice",
+    "origin": "Global",
+    "history": "Watermelon Juice is enjoyed worldwide, especially in regions where watermelons are abundant. Originating from Africa, this refreshing drink is made from the juicy flesh of watermelons and is popular for its hydrating and cooling properties.",
+    "description": "Watermelon Juice is a simple and refreshing drink made by blending the sweet flesh of watermelons. It's a hydrating beverage, often enjoyed chilled, and can be enhanced with lime juice and mint for added flavor.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "10"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "blender",
+            "description": "For blending the watermelon.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "watermelon",
+            "quantity": "4 cups",
+            "weight": {
+                "value": "600",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lime",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "mint leaves",
+            "quantity": "a few",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ice cubes",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Blend Watermelon",
+            "description": "Place the watermelon cubes in a blender. Blend until smooth."
+        },
+        {
+            "step": "2",
+            "title": "Add Flavors",
+            "description": "If desired, add lime juice, mint leaves, and sugar or honey to the blender. Blend again until everything is well combined."
+        },
+        {
+            "step": "3",
+            "title": "Strain (Optional)",
+            "description": "For a smoother juice, strain the mixture to remove any pulp."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Pour the juice into glasses over ice cubes if desired. Garnish with additional mint leaves."
+        }
+    ],
+    "nutrition": {
+        "calories": "50 per serving",
+        "carbohydrates": "13g",
+        "protein": "1g",
+        "fat": "0g",
+        "fiber": "1g",
+        "sugar": "10g"
+    },
+    "tips": [
+        "Use ripe, sweet watermelon for the best flavor.",
+        "Adjust the amount of added sweeteners based on the natural sweetness of the fruit."
+    ],
+    "variations": [
+        "Add a pinch of salt or a splash of soda water for a different taste.",
+        "Combine with other fruits like berries or pineapple for a mixed fruit juice."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. Can be refrigerated for up to 24 hours.",
+        "instructions": "Store in a sealed container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in tall glasses with a slice of watermelon on the rim.",
+        "Use decorative straws or umbrellas for a fun, summery look."
+    ],
+    "keywords": [
+        "Watermelon Juice",
+        "Refreshing Drink",
+        "Summer Beverage"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

@@ -5,7 +5,9 @@
     "history": "Kadai Paneer is a popular North Indian dish, named after the 'Kadai' or wok in which it is cooked. It's known for its rich and spicy tomato-based sauce and is a favorite in restaurants and households alike.",
     "description": "Kadai Paneer is a flavorful dish made with paneer (Indian cottage cheese), bell peppers, onions, tomatoes, and a blend of spices. The dish is often cooked in a Kadai, giving it a unique flavor and texture.",
     "servings": "1",
-    "dietTypes": ["Vegetarian"],
+    "dietTypes": [
+        "Vegetarian"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +22,10 @@
             "value": "35"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "kadai or wok",
@@ -166,7 +171,7 @@
         {
             "step": "2",
             "title": "Cook Vegetables and Spices",
-            "description": "Heat oil in a kadai. Add cumin seeds, then onions, and sauté until golden. Add ginger-garlic paste, turmeric powder, and chopped tomatoes. Cook until tomatoes are soft."
+            "description": "Heat oil in a kadai. Add cumin seeds, then onions, and saut\u00c3\u00a9 until golden. Add ginger-garlic paste, turmeric powder, and chopped tomatoes. Cook until tomatoes are soft."
         },
         {
             "step": "3",

@@ -1,0 +1,204 @@
+{
+    "id": "Lamb_Rogan_Josh_Recipe",
+    "name": "Lamb Rogan Josh",
+    "origin": "India",
+    "history": "Rogan Josh is a classic dish from Kashmiri cuisine, tracing its roots back to Persia. It's a staple of Indian cuisine, known for its aromatic and rich flavors. Lamb Rogan Josh, in particular, is celebrated for its tender meat and spicy gravy.",
+    "description": "Lamb Rogan Josh is a flavorful curry made with tender pieces of lamb, simmered in a rich, aromatic sauce. The dish is characterized by its deep red color, traditionally from Kashmiri red chilies, and a blend of spices including cardamom, cinnamon, and bay leaves.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "60"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "80"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        },
+        {
+            "name": "pressure cooker or pot",
+            "description": "Optional, for faster cooking of the lamb.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "lamb",
+            "quantity": "500g",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato puree",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "3 tablespoons",
+            "weight": {
+                "value": "45",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "whole spices (cardamom, cloves, cinnamon, bay leaves)",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ground spices (coriander powder, cumin powder, red chili powder, turmeric powder, garam masala)",
+            "quantity": "as per taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "saffron",
+            "quantity": "a few",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Marinate the Lamb",
+            "description": "Marinate the lamb pieces in yogurt, salt, and some of the ground spices. Set aside for at least 1 hour or overnight in the refrigerator."
+        },
+        {
+            "step": "2",
+            "title": "Cook Onions and Spices",
+            "description": "Heat oil or ghee in a pan. Add whole spices and saut\u00c3\u00a9 until fragrant. Add onions and cook until golden. Stir in ginger-garlic paste."
+        },
+        {
+            "step": "3",
+            "title": "Add Lamb and Simmer",
+            "description": "Add the marinated lamb to the pan and cook on high heat for a few minutes. Add tomato puree, remaining ground spices, and water. Bring to a boil, then simmer until the lamb is tender."
+        },
+        {
+            "step": "4",
+            "title": "Final Touches",
+            "description": "Once the lamb is cooked and the gravy has thickened, adjust seasoning. Optionally, add saffron for flavor and color."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Garnish with chopped coriander. Serve hot with rice or naan."
+        }
+    ],
+    "nutrition": {
+        "calories": "600 per serving",
+        "carbohydrates": "20g",
+        "protein": "40g",
+        "fat": "40g",
+        "fiber": "3g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "For a richer flavor, use ghee instead of oil.",
+        "Ensure the lamb is marinated well for tenderness."
+    ],
+    "variations": [
+        "Add cream or coconut milk for a creamier texture.",
+        "Replace lamb with beef or chicken for a different version of the dish."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until hot."
+    ],
+    "presentationTips": [
+        "Serve in a traditional Indian serving dish.",
+        "Garnish with a sprinkle of garam masala or fresh herbs for added aroma."
+    ],
+    "keywords": [
+        "Lamb Rogan Josh",
+        "Indian Curry",
+        "Kashmiri Dish"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

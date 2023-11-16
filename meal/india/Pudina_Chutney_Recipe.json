@@ -1,0 +1,179 @@
+{
+    "id": "Pudina_Chutney_Recipe",
+    "name": "Pudina Chutney",
+    "origin": "India",
+    "history": "Pudina Chutney, also known as Mint Chutney, is a staple in Indian cuisine. It's known for its refreshing taste and is commonly used in various Indian snacks and meals. The chutney is made from fresh mint leaves and various spices.",
+    "description": "Pudina Chutney is a flavorful and refreshing condiment made from fresh mint leaves, combined with coriander leaves, green chilies, lemon juice, and spices. It's a versatile chutney that pairs well with snacks, sandwiches, and main dishes.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "10"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "blender or food processor",
+            "description": "For grinding the ingredients into a paste.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "mint leaves",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2-3",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "ginger",
+            "quantity": "1 inch piece",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garlic cloves",
+            "quantity": "1-2",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "4",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Ingredients",
+            "description": "Wash the mint and coriander leaves thoroughly. Roughly chop the green chilies, ginger, and garlic if using."
+        },
+        {
+            "step": "2",
+            "title": "Blend the Ingredients",
+            "description": "In a blender or food processor, combine the mint leaves, coriander leaves, green chilies, ginger, garlic, cumin seeds, lemon juice, salt, and sugar if using. Add a little water and blend to a smooth paste."
+        },
+        {
+            "step": "3",
+            "title": "Adjust Consistency",
+            "description": "If the chutney is too thick, add a little more water and blend again. Adjust the seasoning as per your taste."
+        },
+        {
+            "step": "4",
+            "title": "Serve or Store",
+            "description": "Serve the Pudina Chutney fresh or store it in an airtight container in the refrigerator."
+        }
+    ],
+    "nutrition": {
+        "calories": "20 per serving",
+        "carbohydrates": "4g",
+        "protein": "1g",
+        "fat": "0.5g",
+        "fiber": "1g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Use fresh mint leaves for the best flavor.",
+        "Adjust the amount of green chilies based on your spice preference."
+    ],
+    "variations": [
+        "Add yogurt to make a creamy version of the chutney.",
+        "Include tamarind pulp for a tangy twist."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3-4 days.",
+        "instructions": "Store in an airtight container to retain freshness."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in a small bowl with a garnish of mint leaves.",
+        "Accompany with snacks like samosas or pakoras."
+    ],
+    "keywords": [
+        "Pudina Chutney",
+        "Mint Chutney",
+        "Indian Condiment"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

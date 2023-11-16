@@ -258,45 +258,49 @@ def replace_ingredients(json_obj, grocery_map):
     except Exception as e:
         return None
 
-grocery_map = {
-    'all-purpose flour': ['all-purpose flour', 'whole wheat flour', 'gram flour'],
-    'dry yeast': ['dry yeast'],
-    'sugar': ['sugar'],
-    'salt': ['salt'],
-    'yogurt': ['yogurt'],
-    'water': ['water'],
-    'butter': ['butter', 'ghee'],
-    'coriander leaves': ['coriander leaves', 'cilantro'],
-    'milk': ['milk'],
-    'garlic': ['garlic'],
-    'baking powder': ['baking powder'],
-    'baking soda': ['baking soda'],
-    'oil': ['oil', 'sesame seeds'],
-    'sesame seeds': ['sesame seeds'],
-    'carom seeds': ['carom seeds'],
-    'turmeric powder': ['turmeric powder'],
-    'chili powder': ['chili powder'],
-    'onion': ['onion'],
-    'mint leaves': ['mint leaves'],
-    'green chili': ['green chili'],
-    'cumin seeds': ['cumin seeds'],
-    'potato': ['potato'],
-    'garam masala': ['garam masala']
-}
 
 
+def normalize_ingredient(ingredient):
+    # Convert to lowercase
+    ingredient = ingredient.lower()
+
+    # Handle common plural forms
+    if ingredient.endswith('oes'):
+        ingredient = ingredient[:-2]
+    elif ingredient.endswith('s'):
+        ingredient = ingredient[:-1]
+
+    # Additional normalization rules can be added here as needed
+
+    return ingredient
 
 
 
 itemList = getItemList()
-printJsonData()
+#printJsonData()
+
+normalized_mapping = {item: normalize_ingredient(item) for item in itemList}
+
+normalized_ingredients = [normalize_ingredient(ing) for ing in itemList]
+ingredient_counts = {}
+for ingredient in normalized_ingredients:
+    ingredient_counts[ingredient] = ingredient_counts.get(ingredient, 0) + 1
+
+
+duplicates = [ingredient for ingredient, count in ingredient_counts.items() if count > 1]
 
 
 
 
-#print(itemList)
+newList = []
 for each in itemList:
-    #print(each)
-    pass
+    normalized_item = normalized_mapping[each]
+    if normalized_item not in newList:
+        newList.append(normalized_item)
+
+# Now newList contains unique, normalized items
+print("Unique normalized list:", newList)
+
+
 
 
