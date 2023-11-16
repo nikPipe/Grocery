@@ -1,0 +1,146 @@
+{
+    "id": "Badam_Milk_Recipe",
+    "name": "Badam Milk",
+    "origin": "India",
+    "history": "Badam Milk is a traditional Indian beverage, rich in flavor and nutrients. It's often consumed for its health benefits, as almonds are a good source of vitamins, minerals, and healthy fats. It's a popular choice for festivals and cold winter nights.",
+    "description": "Badam Milk is a creamy and delicious drink made from milk, almonds, and sugar, flavored with cardamom and saffron. It's often garnished with chopped nuts and served hot or cold. This drink is not only tasty but also nutritious.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "25"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "blender",
+            "description": "For grinding the almonds.",
+            "imageURL": ""
+        },
+        {
+            "name": "saucepan",
+            "description": "For boiling the milk.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "milk",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "almonds",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "25",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cardamom powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "saffron strands",
+            "quantity": "a few",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "nuts",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Almond Paste",
+            "description": "Grind the blanched almonds to a fine paste using a little milk."
+        },
+        {
+            "step": "2",
+            "title": "Boil Milk",
+            "description": "In a saucepan, bring the milk to a boil. Add the almond paste, sugar, cardamom powder, and saffron strands. Reduce the heat and simmer for 10-15 minutes, stirring occasionally."
+        },
+        {
+            "step": "3",
+            "title": "Garnish and Serve",
+            "description": "Pour the Badam Milk into serving glasses. Garnish with chopped nuts. Serve hot or chilled, as preferred."
+        }
+    ],
+    "nutrition": {
+        "calories": "180 per serving",
+        "carbohydrates": "18g",
+        "protein": "8g",
+        "fat": "9g",
+        "fiber": "1g",
+        "sugar": "17g"
+    },
+    "tips": [
+        "Soak the almonds in hot water for easy peeling.",
+        "Adjust the sweetness according to your preference."
+    ],
+    "variations": [
+        "For a vegan version, use almond milk or other plant-based milk.",
+        "Add rose water for a floral fragrance."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Gently reheat in a saucepan over low heat or in a microwave."
+    ],
+    "presentationTips": [
+        "Serve in traditional Indian glassware for an authentic experience.",
+        "Garnish with a sprinkle of ground cardamom or saffron strands for added elegance."
+    ],
+    "keywords": [
+        "Badam Milk",
+        "Almond Milk Beverage",
+        "Indian Sweet Drink"
+    ],
+    "allergens": [
+        "Nuts",
+        "Dairy"
+    ]
+}

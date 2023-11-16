@@ -1,0 +1,170 @@
+{
+    "id": "Mushroom_Rice_Recipe",
+    "name": "Mushroom Rice",
+    "origin": "Global",
+    "history": "Mushroom Rice, a dish enjoyed worldwide, varies in preparation across different cultures. It typically involves cooking rice with mushrooms and various herbs and spices. It's appreciated for its earthy flavors and can be served as a main or side dish.",
+    "description": "Mushroom Rice is a delicious and easy-to-make dish featuring saut\u00c3\u00a9ed mushrooms mixed with cooked rice and flavored with garlic, onions, and herbs. It's a versatile dish that can be served as a hearty main course or as a complementary side.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the rice and mushrooms.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mushrooms",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garlic",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "butter",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "parsley",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black pepper",
+            "quantity": "to taste",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Rice",
+            "description": "Wash the rice thoroughly and drain. In a pan, bring vegetable stock or water to a boil, add the rice, reduce heat, cover, and simmer until the rice is cooked and all liquid is absorbed."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Mushrooms",
+            "description": "In a separate pan, heat butter or olive oil. Add chopped onions and garlic, and saut\u00c3\u00a9 until translucent. Add the sliced mushrooms and cook until they are soft and browned."
+        },
+        {
+            "step": "3",
+            "title": "Combine Rice and Mushrooms",
+            "description": "Mix the cooked mushrooms with the cooked rice. Add chopped thyme or parsley, salt, and black pepper to taste."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Mushroom Rice hot, garnished with more herbs if desired."
+        }
+    ],
+    "nutrition": {
+        "calories": "350 per serving",
+        "carbohydrates": "65g",
+        "protein": "8g",
+        "fat": "7g",
+        "fiber": "4g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Use a variety of mushrooms for more depth of flavor.",
+        "Ensure the rice is not overcooked to maintain the texture of the dish."
+    ],
+    "variations": [
+        "Add a splash of white wine while cooking the mushrooms for an extra flavor boost.",
+        "Incorporate other vegetables like bell peppers or peas for additional color and nutrition."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat in a microwave or on the stove until warm."
+    ],
+    "presentationTips": [
+        "Serve in a decorative bowl, topped with a sprig of fresh thyme or parsley.",
+        "Pair with a light salad or a protein of your choice for a complete meal."
+    ],
+    "keywords": [
+        "Mushroom Rice",
+        "Rice Dish",
+        "Vegetarian Meal"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

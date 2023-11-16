@@ -1,7 +1,4 @@
 
-
-
-
 class mealClass():
     def __init__(self, json):
         self.json = json
@@ -17,11 +14,6 @@ class mealClass():
         self.name = self.getName()
         self.menu = self.getMenu()
         self.dishDic = self.getDishes()
-
-
-
-
-
 
 
     def getName(self):

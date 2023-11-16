@@ -1,0 +1,227 @@
+{
+    "id": "Kadai_Paneer_Recipe",
+    "name": "Kadai Paneer",
+    "origin": "India",
+    "history": "Kadai Paneer is a popular North Indian dish, named after the 'Kadai' or wok in which it is cooked. It's known for its rich and spicy tomato-based sauce and is a favorite in restaurants and households alike.",
+    "description": "Kadai Paneer is a flavorful dish made with paneer (Indian cottage cheese), bell peppers, onions, tomatoes, and a blend of spices. The dish is often cooked in a Kadai, giving it a unique flavor and texture.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "kadai or wok",
+            "description": "For cooking the dish."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "paneer",
+            "quantity": "250 grams",
+            "weight": {
+                "value": "250",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green bell pepper",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red bell pepper",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onions",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomatoes",
+            "quantity": "3 medium",
+            "weight": {
+                "value": "300",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander seeds",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dry red chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "kasuri methi",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cilantro",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Dry Roast Spices",
+            "description": "Dry roast coriander seeds and dry red chilies. Grind them to make a coarse powder."
+        },
+        {
+            "step": "2",
+            "title": "Cook Vegetables and Spices",
+            "description": "Heat oil in a kadai. Add cumin seeds, then onions, and sauté until golden. Add ginger-garlic paste, turmeric powder, and chopped tomatoes. Cook until tomatoes are soft."
+        },
+        {
+            "step": "3",
+            "title": "Add Paneer and Bell Peppers",
+            "description": "Add the paneer cubes, green and red bell peppers, and the ground spice mixture. Cook for a few minutes."
+        },
+        {
+            "step": "4",
+            "title": "Final Seasoning",
+            "description": "Add salt, garam masala, and kasuri methi. Add water if needed to adjust the consistency. Cook until everything is well combined."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with naan or roti."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "20g",
+        "protein": "15g",
+        "fat": "20g",
+        "fiber": "5g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Cut paneer and bell peppers into equal-sized pieces for even cooking.",
+        "Roasting the spices enhances their flavor and aroma."
+    ],
+    "variations": [
+        "Add cream for a richer gravy.",
+        "Include other vegetables like mushrooms or peas for more variety."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat on the stove or in a microwave until warm."
+        }
+    ],
+    "presentationTips": [
+        "Serve in a traditional Indian serving dish for an authentic presentation.",
+        "Garnish with a sprinkle of fresh cilantro and a side of sliced onions."
+    ],
+    "keywords": [
+        "Kadai Paneer",
+        "Indian Paneer Dish",
+        "Spicy Cottage Cheese Curry"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}
