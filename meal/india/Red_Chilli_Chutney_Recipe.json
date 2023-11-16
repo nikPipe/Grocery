@@ -1,0 +1,162 @@
+{
+    "id": "Red_Chilli_Chutney_Recipe",
+    "name": "Red Chilli Chutney",
+    "origin": "India",
+    "history": "Red Chilli Chutney is a fiery and popular condiment in Indian cuisine. It is widely used across various regions of India with local variations. This chutney is known for its hot and spicy taste, making it a favorite for those who love spicy food.",
+    "description": "Red Chilli Chutney is a bold and spicy condiment made with dry red chilies, garlic, and a blend of spices. It's typically used to add heat and flavor to Indian snacks like dosas, idlis, and vadas, as well as main course dishes.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "5"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "15"
+        }
+    },
+    "mealtime": ["Breakfast", "Lunch", "Dinner", "Snack"],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For roasting the ingredients."
+        },
+        {
+            "name": "blender",
+            "description": "For grinding the chutney."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "dry red chilies",
+            "quantity": "10",
+            "weight": {
+                "value": "20",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garlic cloves",
+            "quantity": "4",
+            "weight": {
+                "value": "12",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tamarind paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Roast the Chilies",
+            "description": "Heat a pan and dry roast the red chilies for a couple of minutes. Set aside to cool."
+        },
+        {
+            "step": "2",
+            "title": "Blend the Chutney",
+            "description": "In a blender, combine the roasted red chilies, garlic, tamarind paste, and salt. Add a little water and blend to a smooth paste."
+        },
+        {
+            "step": "3",
+            "title": "Prepare the Tempering",
+            "description": "Heat oil in the pan. Add mustard seeds and curry leaves. When the mustard seeds start to crackle, remove from heat."
+        },
+        {
+            "step": "4",
+            "title": "Combine and Serve",
+            "description": "Pour the tempering over the blended chutney. Serve the Red Chilli Chutney with your favorite Indian snacks or meals."
+        }
+    ],
+    "nutrition": {
+        "calories": "40 per serving",
+        "carbohydrates": "6g",
+        "protein": "1g",
+        "fat": "2g",
+        "fiber": "1g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Adjust the number of chilies to control the spice level.",
+        "Be careful while handling dry red chilies, as they can be very spicy."
+    ],
+    "variations": [
+        "Add a small piece of jaggery or sugar to balance the heat.",
+        "You can add a bit of roasted peanuts or sesame seeds for a nutty flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Red Chilli Chutney is best served at room temperature and does not require reheating."
+        }
+    ],
+    "presentationTips": [
+        "Serve in a small, colorful bowl to enhance the vibrant red color.",
+        "Garnish with a sprig of curry leaf for added aroma and visual appeal."
+    ],
+    "keywords": [
+        "Red Chilli Chutney",
+        "Spicy Indian Condiment",
+        "Hot Chilli Relish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

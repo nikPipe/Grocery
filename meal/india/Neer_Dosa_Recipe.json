@@ -1,0 +1,137 @@
+{
+    "id": "Neer_Dosa_Recipe",
+    "name": "Neer Dosa",
+    "origin": "India",
+    "history": "Neer Dosa, a delicacy from Karnataka, India, literally translates to 'water dosa'. It's known for its simple ingredients and quick cooking time, making it a popular breakfast dish.",
+    "description": "Neer Dosa is a thin, lacy, and delicate crepe made from a batter of soaked rice, ground finely and mixed with water. This dosa doesn't require fermentation and is served with chutney or curry.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "25"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "blender or grinder",
+            "imageURL": "",
+            "description": "Used for grinding the rice to a fine batter."
+        },
+        {
+            "name": "non-stick skillet or tawa",
+            "imageURL": "",
+            "description": "Used for cooking the dosas."
+        },
+        {
+            "name": "ladle",
+            "imageURL": "",
+            "description": "Used for pouring the batter onto the skillet."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "2-3 cups",
+            "weight": {
+                "value": "480-720",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for greasing",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Batter",
+            "description": "Soak the rice in water for 2-3 hours. Drain and grind the rice with enough water to make a thin batter. The consistency should be watery. Add salt to taste."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Dosas",
+            "description": "Heat a non-stick skillet or tawa. Grease it lightly with oil. Pour a ladleful of batter and swirl the pan to spread it thinly. Cover and cook until the edges start to lift off. Neer dosa should be white and not browned."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Serve the Neer Dosa hot with coconut chutney, sambar, or any side dish of your choice."
+        }
+    ],
+    "nutrition": {
+        "calories": 80,
+        "carbohydrates": "17g",
+        "protein": "2g",
+        "fat": "1g",
+        "saturatedFat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "potassium": "30mg",
+        "fiber": "1g",
+        "sugar": "0g"
+    },
+    "tips": [
+        "The batter should be of a runny consistency for lace-like dosas.",
+        "Do not flip the dosa; it's cooked only on one side."
+    ],
+    "variations": [
+        "Add grated coconut or cooked rice to the batter for different textures.",
+        "Experiment with different types of rice for subtle flavor differences."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "The batter can be refrigerated for up to 1 day.",
+        "instructions": "Store the batter in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat dosas on a skillet until warm.",
+    "presentationTips": [
+        "Serve on a banana leaf with a variety of chutneys for an authentic experience."
+    ],
+    "keywords": [
+        "neer dosa",
+        "Karnataka cuisine",
+        "rice crepe"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

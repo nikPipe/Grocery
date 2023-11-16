@@ -1,0 +1,165 @@
+{
+    "id": "Dosa_Recipe",
+    "name": "Dosa",
+    "origin": "India",
+    "history": "Dosa is a traditional South Indian dish, particularly from Tamil Nadu, Karnataka, and Kerala. It's known for its thin, crispy texture and is commonly made from a fermented rice and lentil batter.",
+    "description": "Dosa is a thin, crispy pancake or crepe, originating from South India, made from a fermented batter of rice and black lentils. It's a staple dish in Indian cuisine, often served with chutney and sambar.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free",
+        "Vegan"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "720"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "blender or grinder",
+            "imageURL": "",
+            "description": "Used for grinding the rice and lentils into a fine batter."
+        },
+        {
+            "name": "non-stick skillet or traditional iron tawa",
+            "imageURL": "",
+            "description": "Used for cooking the dosa."
+        },
+        {
+            "name": "ladle",
+            "imageURL": "",
+            "description": "Used for pouring and spreading the batter."
+        },
+        {
+            "name": "spatula",
+            "imageURL": "",
+            "description": "Used for flipping and removing the dosa."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as required for batter",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for greasing and cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Soak and Grind",
+            "description": "Soak the rice, urad dal, and fenugreek seeds in water for 6-8 hours. Drain and grind them to a fine batter, adding water as required."
+        },
+        {
+            "step": "2",
+            "title": "Ferment the Batter",
+            "description": "Transfer the batter to a large bowl. Add salt and allow it to ferment in a warm place for 8-12 hours or until it doubles in size."
+        },
+        {
+            "step": "3",
+            "title": "Prepare Dosa",
+            "description": "Heat a non-stick skillet or tawa. Pour a ladleful of batter and spread it in a circular motion to make a thin crepe. Drizzle a little oil around the edges and cook until the dosa turns golden brown."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the dosa hot with chutney and sambar."
+        }
+    ],
+    "nutrition": {
+        "calories": 160,
+        "carbohydrates": "28g",
+        "protein": "4g",
+        "fat": "4g",
+        "saturatedFat": "1g",
+        "cholesterol": "0mg",
+        "sodium": "300mg",
+        "potassium": "100mg",
+        "fiber": "2g",
+        "sugar": "0g"
+    },
+    "tips": [
+        "Ensure the skillet or tawa is moderately hot; a sprinkle of water should sizzle right away.",
+        "Fermentation time may vary based on the climate; warmer climates ferment batter faster."
+    ],
+    "variations": [
+        "Masala Dosa: Fill with a potato mixture.",
+        "Rava Dosa: Made with semolina and rice flour, without fermentation."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "The batter can be stored in the refrigerator for up to 2 days.",
+        "instructions": "Store the batter in an airtight container and refrigerate."
+    },
+    "reheatingInstructions": "Reheat dosas on a skillet until crisp.",
+    "presentationTips": [
+        "Serve with a variety of chutneys and sambar for an authentic experience."
+    ],
+    "keywords": [
+        "dosa",
+        "Indian crepe",
+        "rice and lentil pancake"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

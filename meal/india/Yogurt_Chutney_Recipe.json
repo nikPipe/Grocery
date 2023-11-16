@@ -1,0 +1,153 @@
+{
+    "id": "Yogurt_Chutney_Recipe",
+    "name": "Yogurt Chutney",
+    "origin": "India",
+    "history": "Yogurt Chutney, also known as Dahi Chutney, is a common accompaniment in Indian cuisine. This chutney is a blend of yogurt with herbs and spices, offering a cool and refreshing flavor. It's often served with biryanis, kebabs, and various snacks.",
+    "description": "Yogurt Chutney is a creamy and flavorful condiment made with yogurt, mint, coriander, and a blend of spices. It's known for its cooling properties and is perfect for balancing the heat of spicy dishes.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "10"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner", "Snack"],
+    "equipment": [
+        {
+            "name": "blender or food processor",
+            "description": "For blending the ingredients."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "yogurt",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mint leaves",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chaat masala",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "4",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Blend Ingredients",
+            "description": "In a blender or food processor, combine yogurt, mint leaves, coriander leaves, green chili, cumin powder, chaat masala, salt, and sugar. Blend until smooth."
+        },
+        {
+            "step": "2",
+            "title": "Adjust Consistency",
+            "description": "If the chutney is too thick, add a little water and blend again to achieve the desired consistency."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Serve the Yogurt Chutney chilled with snacks like tikkas, kebabs, or as a side with biryanis."
+        }
+    ],
+    "nutrition": {
+        "calories": "60 per serving",
+        "carbohydrates": "8g",
+        "protein": "3g",
+        "fat": "2g",
+        "fiber": "1g",
+        "sugar": "4g"
+    },
+    "tips": [
+        "Use fresh herbs for the best flavor.",
+        "Adjust the amount of green chili according to your spice preference."
+    ],
+    "variations": [
+        "Add a small piece of ginger for an extra zing.",
+        "Include a spoonful of roasted peanut powder for a nutty flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Yogurt Chutney is best served cold and does not require reheating."
+        }
+    ],
+    "presentationTips": [
+        "Serve in a small bowl with a mint leaf garnish.",
+        "Pair with a colorful array of snacks for a visually appealing presentation."
+    ],
+    "keywords": [
+        "Yogurt Chutney",
+        "Dahi Chutney",
+        "Indian Yogurt Dip"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

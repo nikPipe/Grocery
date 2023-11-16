@@ -1,0 +1,204 @@
+{
+    "id": "Mor_Kuzhambu_Recipe",
+    "name": "Mor Kuzhambu",
+    "origin": "India",
+    "history": "Mor Kuzhambu is a traditional South Indian dish, particularly popular in Tamil Nadu and Kerala. It's similar to the North Indian Kadhi and is made using yogurt and coconut, making it a comforting and tangy dish.",
+    "description": "Mor Kuzhambu is a yogurt-based curry enriched with coconut and spiced with green chilies and cumin. It typically includes vegetables like okra or ash gourd, offering a perfect balance of tangy, creamy, and spicy flavors.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "40"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "blender",
+            "description": "For grinding the coconut mixture."
+        },
+        {
+            "name": "pan",
+            "description": "For cooking the curry."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "yogurt",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "grated coconut",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "okra",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Coconut Paste",
+            "description": "Grind the grated coconut, green chilies, and cumin seeds into a smooth paste."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Vegetables",
+            "description": "In a pan, heat a little oil and cook the okra or ash gourd with turmeric and salt until they are soft."
+        },
+        {
+            "step": "3",
+            "title": "Combine Ingredients",
+            "description": "Add the coconut paste to the cooked vegetables. Mix well and cook for a few minutes."
+        },
+        {
+            "step": "4",
+            "title": "Add Yogurt",
+            "description": "Lower the heat and add the beaten yogurt to the pan. Stir continuously until the mixture is warm but not boiling."
+        },
+        {
+            "step": "5",
+            "title": "Temper the Spices",
+            "description": "In a small pan, heat the remaining oil. Add mustard seeds and fenugreek seeds. When they start to splutter, add curry leaves and pour this over the curry."
+        },
+        {
+            "step": "6",
+            "title": "Serve",
+            "description": "Serve the Mor Kuzhambu hot with rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "180 per serving",
+        "carbohydrates": "15g",
+        "protein": "5g",
+        "fat": "10g",
+        "fiber": "3g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Ensure not to boil the curry after adding yogurt to prevent it from curdling.",
+        "You can adjust the amount of green chilies based on your preferred spice level."
+    ],
+    "variations": [
+        "Add different vegetables like pumpkin or brinjal for variation.",
+        "For a no-onion no-garlic version, simply skip these ingredients."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh. Can be refrigerated for 1 day.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat gently on the stove over low heat, stirring frequently."
+        }
+    ],
+    "presentationTips": [
+        "Garnish with a sprig of curry leaves for a fresh look.",
+        "Serve in a traditional ceramic bowl for an authentic presentation."
+    ],
+    "keywords": [
+        "Mor Kuzhambu",
+        "South Indian Yogurt Curry",
+        "Tangy Coconut Gravy"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

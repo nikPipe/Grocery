@@ -1,0 +1,137 @@
+{
+    "id": "Filter_Coffee_Recipe",
+    "name": "South Indian Filter Coffee",
+    "origin": "India",
+    "history": "South Indian Filter Coffee, also known as 'Kapi', is a popular beverage in Southern India. It is known for its unique brewing method using a metal filter and its strong, frothy texture.",
+    "description": "Filter Coffee is a strong, milky coffee brewed with a special Indian filter. It's typically made with fresh roasted and ground coffee beans, mixed with chicory, and served hot with a distinct froth.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "5"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "15"
+        }
+    },
+    "mealtime": ["Breakfast", "Snack"],
+    "equipment": [
+        {
+            "name": "South Indian coffee filter",
+            "description": "A metal device used for brewing the coffee."
+        },
+        {
+            "name": "saucepan",
+            "description": "For boiling milk."
+        },
+        {
+            "name": "coffee mug or tumbler",
+            "description": "For serving the coffee."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "coffee powder",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "20",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "milk",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Brew the Coffee",
+            "description": "Add the coffee powder to the filter compartment. Pour hot water over it and cover. Let the coffee brew for about 7-10 minutes. The decoction (concentrated coffee) will collect in the bottom compartment."
+        },
+        {
+            "step": "2",
+            "title": "Boil the Milk",
+            "description": "Meanwhile, boil the milk in a saucepan. You can add sugar to the milk as per your taste."
+        },
+        {
+            "step": "3",
+            "title": "Mix Coffee and Milk",
+            "description": "In a coffee mug or tumbler, add the brewed coffee decoction as per your taste (usually about 1/4 of the cup). Fill the rest of the mug with the boiled milk."
+        },
+        {
+            "step": "4",
+            "title": "Froth the Coffee",
+            "description": "To create froth, pour the coffee back and forth between the mug and another container from a height. Do this a few times until the coffee is frothy."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the coffee hot in the mug or tumbler. Enjoy the rich and frothy South Indian Filter Coffee."
+        }
+    ],
+    "nutrition": {
+        "calories": "100 per serving",
+        "carbohydrates": "12g",
+        "protein": "4g",
+        "fat": "4g",
+        "fiber": "0g",
+        "sugar": "8g"
+    },
+    "tips": [
+        "Adjust the amount of coffee decoction and milk according to your taste preference.",
+        "The key to a good filter coffee is the quality of the coffee powder and the brewing time."
+    ],
+    "variations": [
+        "For a vegan option, use almond milk or soy milk.",
+        "Try adding spices like cardamom or ginger for a flavored twist."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh.",
+        "instructions": "It's not recommended to store brewed coffee for long periods."
+    },
+    "reheatingInstructions": [
+        "Reheat only the milk if necessary and then mix with the coffee decoction."
+    ],
+    "presentationTips": [
+        "Serve in a traditional brass or stainless steel tumbler and saucer.",
+        "Garnish with a sprinkle of cocoa powder for a decorative touch."
+    ],
+    "keywords": [
+        "Filter Coffee",
+        "South Indian Beverage",
+        "Traditional Indian Coffee"
+    ],
+    "allergens": [
+        "Milk"
+    ]
+}

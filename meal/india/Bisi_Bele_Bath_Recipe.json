@@ -1,0 +1,241 @@
+{
+    "id": "Bisi_Bele_Bath_Recipe",
+    "name": "Bisi Bele Bath",
+    "origin": "India",
+    "history": "Bisi Bele Bath is a traditional Kannadiga dish from Karnataka, India. Its name literally means 'hot lentil rice' in Kannada. It's a hearty dish made from rice, lentils, vegetables, and a unique spice blend.",
+    "description": "Bisi Bele Bath is a flavorful, spicy, and slightly tangy rice-based dish that combines rice, lentils (toor dal), assorted vegetables, and a special Bisi Bele Bath masala. It's often served with ghee, fried cashews, and accompanied by potato chips or papad.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "40"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "60"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pressure cooker",
+            "description": "For cooking rice and lentils."
+        },
+        {
+            "name": "pan",
+            "description": "For sautéing vegetables and spices."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "toor dal",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tamarind pulp",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carrots, chopped",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green beans, chopped",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green peas",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "40",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "bell pepper, chopped",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Bisi Bele Bath masala",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "jaggery or brown sugar",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dried red chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida (hing)",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee or oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as required",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Cook Rice and Lentils",
+            "description": "Wash the rice and toor dal thoroughly. In a pressure cooker, cook them with enough water until they are soft and mushy. You can also add a pinch of turmeric powder for color."
+        },
+        {
+            "step": "2",
+            "title": "Prepare Vegetables",
+            "description": "Clean and chop the vegetables into bite-sized pieces. Boil them in water with a little salt until they are cooked but not mushy. Drain and set aside."
+        },
+        {
+            "step": "3",
+            "title": "Make the Bisi Bele Bath Masala",
+            "description": "In a pan, dry roast the spices for the Bisi Bele Bath masala until aromatic. Cool and grind them into a fine powder. This masala can be prepared in advance and stored in an airtight container."
+        },
+        {
+            "step": "4",
+            "title": "Combine Ingredients",
+            "description": "In a large pot or the same pressure cooker, mix the cooked rice and dal with the boiled vegetables. Add tamarind pulp, Bisi Bele Bath masala, jaggery, and salt. Add water to adjust the consistency to a thick but pourable mixture."
+        },
+        {
+            "step": "5",
+            "title": "Temper the Dish",
+            "description": "In a small pan, heat ghee or oil. Add mustard seeds, dried red chilies, curry leaves, and asafoetida. When the mustard seeds start to splutter, pour this tempering over the rice mixture."
+        },
+        {
+            "step": "6",
+            "title": "Simmer the Bisi Bele Bath",
+            "description": "Simmer the Bisi Bele Bath on low heat for 10-15 minutes, stirring occasionally. The dish should have a porridge-like consistency."
+        },
+        {
+            "step": "7",
+            "title": "Serve",
+            "description": "Serve the Bisi Bele Bath hot, garnished with fried cashews or additional ghee, and accompanied by potato chips or papad."
+        }
+    ],
+    "nutrition": {
+        "calories": "350 per serving",
+        "carbohydrates": "60g",
+        "protein": "10g",
+        "fat": "10g",
+        "fiber": "5g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Adjust the amount of Bisi Bele Bath masala and tamarind to suit your taste.",
+        "The dish should be moist and flavorful, so don't hesitate to add more water if it seems too thick."
+    ],
+    "variations": [
+        "Add cashews or peanuts for a crunchy texture.",
+        "Include other vegetables like pumpkin or brinjal for added flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat on the stove or in a microwave, adding a little water if needed to maintain consistency."
+        }
+    ],
+    "presentationTips": [
+        "Serve in a traditional earthen pot for an authentic feel.",
+        "Garnish with fresh coriander leaves and a wedge of lemon."
+    ],
+    "keywords": [
+        "Bisi Bele Bath",
+        "Karnataka Cuisine",
+        "Rice and Lentil Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

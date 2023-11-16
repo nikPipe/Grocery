@@ -1,0 +1,162 @@
+{
+    "id": "Podi_Dosa_Recipe",
+    "name": "Podi Dosa",
+    "origin": "India",
+    "history": "Podi Dosa is a popular South Indian dish that combines the traditional dosa with a spicy and flavorful podi (spice mix). It's a favorite for its unique taste and the kick of heat from the podi.",
+    "description": "Podi Dosa is a crispy crepe made from fermented rice and lentil batter, coated with a spicy and aromatic powder known as 'dosa podi' or 'gunpowder'. It is typically served with chutney and sambar.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20 (excluding soaking and fermentation time)"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50 (excluding soaking and fermentation time)"
+        }
+    },
+    "mealtime": ["Breakfast", "Dinner"],
+    "equipment": [
+        {
+            "name": "griddle or tawa",
+            "description": "For cooking the dosas."
+        },
+        {
+            "name": "blender or grinder",
+            "description": "For grinding the batter and podi."
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For fermenting the batter."
+        },
+        {
+            "name": "spatula",
+            "description": "For spreading and flipping the dosas."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "parboiled rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal",
+            "quantity": "1/3 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dosa podi",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "for grinding and adjusting batter consistency",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Dosa Batter",
+            "description": "Soak the parboiled rice, urad dal, and fenugreek seeds in water for at least 6 hours or overnight. Drain the water and grind the mixture in a blender or grinder to make a smooth batter. Add water gradually to achieve a pourable consistency. The batter should be slightly thick and not runny. Allow the batter to ferment in a warm place for 8-10 hours or until it doubles in volume."
+        },
+        {
+            "step": "2",
+            "title": "Making Podi Dosa",
+            "description": "Heat a griddle or tawa over medium heat. Once hot, pour a ladleful of the fermented batter onto the center of the griddle. Quickly spread the batter in a circular motion using the back of the ladle to form a thin crepe. Sprinkle a generous amount of dosa podi (spice mix) over the dosa. Drizzle ghee or oil around the edges and on top of the dosa."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Dosa",
+            "description": "Cook the dosa until the underside turns golden brown and the dosa is crisp. Flip the dosa and cook for another minute on the other side if desired, or serve it crisp side up."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Fold the dosa and remove it from the griddle. Serve hot with your choice of chutney and sambar. Repeat with the remaining batter to make more dosas."
+        }
+    ],
+    "nutrition": {
+        "calories": "290 per serving",
+        "carbohydrates": "45g",
+        "protein": "7g",
+        "fat": "9g",
+        "fiber": "3g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Ensure the batter is well fermented for the best taste and texture.",
+        "Adjust the amount of dosa podi according to your spice preference."
+    ],
+    "variations": [
+        "Add chopped onions or grated coconut on top of the podi for added texture and flavor.",
+        "Experiment with different types of podi, like peanut podi or sesame podi, for variety."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Batter can be refrigerated for up to 2 days.",
+        "instructions": "Store the batter in an airtight container in the refrigerator. Stir well before using."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat the dosa on a hot griddle for a few minutes until warm and crispy."
+        }
+    ],
+    "presentationTips": [
+        "Serve on a banana leaf with a dollop of ghee on top for a traditional presentation.",
+        "Garnish with a side of fresh coriander leaves or a slice of lemon."
+    ],
+    "keywords": [
+        "Podi Dosa",
+        "Spicy Dosa",
+        "South Indian Breakfast"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

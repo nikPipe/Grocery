@@ -1,0 +1,196 @@
+{
+    "id": "Uttapam_Recipe",
+    "name": "Uttapam",
+    "origin": "India",
+    "history": "Uttapam is a South Indian dish similar to a pancake or dosa. It is a popular breakfast item, traditionally made with a fermented batter of rice and urad dal.",
+    "description": "Uttapam is a thick pancake, with toppings like tomatoes, onions, capsicums, and green chilies cooked right into the batter. It is usually served with a variety of chutneys and sambar.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15 (excluding soaking and fermentation time)"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45 (excluding soaking and fermentation time)"
+        }
+    },
+    "mealtime": ["Breakfast"],
+    "equipment": [
+        {
+            "name": "griddle or tawa",
+            "description": "For cooking the uttapams."
+        },
+        {
+            "name": "blender or grinder",
+            "description": "For grinding the batter."
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For fermenting the batter."
+        },
+        {
+            "name": "spatula",
+            "description": "For flipping the uttapams."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "parboiled rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal",
+            "quantity": "1/3 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onions",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomatoes",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "capsicum",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Batter",
+            "description": "Soak the parboiled rice, urad dal, and fenugreek seeds in water for at least 6 hours or overnight. Drain and grind them into a smooth batter using a blender or grinder, adding water as needed. The consistency should be slightly thick. Transfer the batter to a large mixing bowl, cover, and let it ferment in a warm place for 8-10 hours or until it doubles in size."
+        },
+        {
+            "step": "2",
+            "title": "Prepare the Toppings",
+            "description": "Finely chop the onions, tomatoes, green chilies, capsicum, and coriander leaves. Set aside to use as toppings for the uttapam."
+        },
+        {
+            "step": "3",
+            "title": "Make the Uttapam",
+            "description": "Heat a griddle or tawa over medium heat. Lightly oil the surface. Pour a ladleful of the fermented batter onto the griddle and gently spread it to form a thick pancake. Do not spread it too thin."
+        },
+        {
+            "step": "4",
+            "title": "Add Toppings",
+            "description": "Sprinkle a portion of the chopped onions, tomatoes, green chilies, capsicum, and coriander leaves over the top of the uttapam. Press them lightly into the batter. Drizzle a little oil around the edges."
+        },
+        {
+            "step": "5",
+            "title": "Cook the Uttapam",
+            "description": "Cook the uttapam until the bottom turns golden brown and crispy. Flip it carefully and cook for an additional 1-2 minutes, allowing the toppings to get slightly cooked."
+        },
+        {
+            "step": "6",
+            "title": "Serve",
+            "description": "Serve the uttapam hot with coconut chutney or sambar. Repeat with the remaining batter and toppings to make more uttapams."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "45g",
+        "protein": "8g",
+        "fat": "10g",
+        "fiber": "4g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Ensure the batter is fermented well for the best texture and taste.",
+        "Vary the toppings according to your preference for different flavors."
+    ],
+    "variations": [
+        "Add grated carrots or beetroot for a nutritious twist.",
+        "Experiment with different chutneys like mint or tamarind for variety."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Batter can be refrigerated for up to 2 days.",
+        "instructions": "Store the batter in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat the uttapam on a hot griddle for a few minutes until warm and crispy."
+        }
+    ],
+    "presentationTips": [
+        "Serve on a traditional banana leaf for an authentic South Indian experience.",
+        "Garnish with a wedge of lime and a sprinkle of fresh coriander."
+    ],
+    "keywords": [
+        "Uttapam",
+        "South Indian Pancake",
+        "Savory Indian Breakfast"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

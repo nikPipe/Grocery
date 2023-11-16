@@ -1,0 +1,203 @@
+{
+    "id": "Puli_Kuzhambu_Recipe",
+    "name": "Puli Kuzhambu",
+    "origin": "India",
+    "history": "Puli Kuzhambu is a traditional tamarind-based curry from Tamil Nadu. This dish is a staple in South Indian households, known for its tangy and spicy flavor profile. It typically features a variety of vegetables and spices.",
+    "description": "Puli Kuzhambu is a tangy and spicy South Indian curry made with tamarind, a variety of vegetables such as okra, eggplant, and drumsticks, and a rich blend of spices. It's often served with rice and is cherished for its depth of flavor.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "tamarind paste",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "okra",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "eggplant",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "drumstick",
+            "quantity": "1",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sambar powder",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dried red chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Tamarind Water",
+            "description": "Soak the tamarind paste in warm water, extract the juice, and set aside."
+        },
+        {
+            "step": "2",
+            "title": "Fry the Vegetables",
+            "description": "Heat sesame oil in a pan. Add mustard seeds, fenugreek seeds, dried red chilies, and asafoetida. Once the mustard seeds start to splutter, add the vegetables and fry lightly."
+        },
+        {
+            "step": "3",
+            "title": "Add Tamarind Water and Spices",
+            "description": "Pour the tamarind water into the pan. Add sambar powder, curry leaves, and salt. Bring to a boil and then simmer until the vegetables are cooked."
+        },
+        {
+            "step": "4",
+            "title": "Simmer the Kuzhambu",
+            "description": "Reduce the heat and let the kuzhambu simmer until it thickens to a desired consistency."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the Puli Kuzhambu hot with steamed rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "160 per serving",
+        "carbohydrates": "20g",
+        "protein": "3g",
+        "fat": "8g",
+        "fiber": "4g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Adjust the amount of sambar powder and red chilies to suit your taste preferences.",
+        "Simmer the kuzhambu on low heat to enhance the flavors."
+    ],
+    "variations": [
+        "Try different vegetables like pumpkin or bitter gourd for a change in flavor.",
+        "Add a pinch of jaggery for a hint of sweetness."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat on the stove over medium heat until warm."
+        }
+    ],
+    "presentationTips": [
+        "Garnish with fresh curry leaves for added aroma.",
+        "Serve in a traditional earthenware pot for an authentic South Indian experience."
+    ],
+    "keywords": [
+        "Puli Kuzhambu",
+        "Tamarind Curry",
+        "South Indian Tangy Stew"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

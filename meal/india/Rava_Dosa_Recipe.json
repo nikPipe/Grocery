@@ -1,0 +1,203 @@
+{
+    "id": "Rava_Dosa_Recipe",
+    "name": "Rava Dosa",
+    "origin": "India",
+    "history": "Rava Dosa, a variant of the popular South Indian dosa, is made using semolina (rava) and is known for its crispy texture. Unlike traditional dosa, it doesn't require fermentation.",
+    "description": "Rava Dosa is a thin, crispy, and lacy crepe made from a batter of semolina, rice flour, and all-purpose flour. It's often flavored with spices and herbs, making it a delightful treat.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "5"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "15"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "non-stick skillet or griddle",
+            "imageURL": "",
+            "description": "Used for cooking the dosa."
+        },
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "Used for preparing the batter."
+        },
+        {
+            "name": "ladle",
+            "imageURL": "",
+            "description": "Used for pouring the batter onto the skillet."
+        },
+        {
+            "name": "spatula",
+            "imageURL": "",
+            "description": "Used for flipping and removing the dosa."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "semolina",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "90",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "rice",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "45",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "all-purpose flour",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "40",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black pepper",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "a few",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as required for batter",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Batter",
+            "description": "In a mixing bowl, combine semolina, rice flour, all-purpose flour, cumin seeds, black pepper, curry leaves, and salt. Add water gradually to form a batter of pouring consistency. Let it rest for 10 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Add Vegetables",
+            "description": "Stir in the chopped onions and green chili into the batter."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Rava Dosa",
+            "description": "Heat a non-stick skillet. Pour a ladleful of batter and spread it evenly to form a thin pancake. Drizzle oil around the edges and cook until the dosa is golden and crisp. Flip and cook for another minute."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Rava Dosa hot with coconut chutney and sambar."
+        }
+    ],
+    "nutrition": {
+        "calories": 180,
+        "carbohydrates": "30g",
+        "protein": "4g",
+        "fat": "5g",
+        "saturatedFat": "1g",
+        "cholesterol": "0mg",
+        "sodium": "250mg",
+        "potassium": "100mg",
+        "fiber": "2g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "The batter should be thin and of pouring consistency for crispy dosas.",
+        "Cook on a medium-high flame for the best texture."
+    ],
+    "variations": [
+        "Add grated carrots or finely chopped coriander for a different flavor.",
+        "Experiment with various toppings like paneer or cheese."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Rava Dosa batter can be refrigerated for up to 1 day.",
+        "instructions": "Store the batter in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat dosas on a skillet until crisp.",
+    "presentationTips": [
+        "Serve on a banana leaf with a side of assorted chutneys for an authentic experience."
+    ],
+    "keywords": [
+        "rava dosa",
+        "Indian crepe",
+        "semolina pancake"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "id": "Set_Dosa_Recipe",
+    "name": "Set Dosa",
+    "origin": "India",
+    "history": "Set Dosa is a popular breakfast dish from Karnataka, India. It's known for its soft, fluffy texture and is typically served in sets of three, hence the name 'Set Dosa'.",
+    "description": "Set Dosa is a type of soft, thick, and spongy pancake made from a fermented batter of rice and lentils. They are smaller in size compared to regular dosas and are served in sets with chutney and sambar.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "blender or grinder",
+            "imageURL": "",
+            "description": "Used for grinding the batter."
+        },
+        {
+            "name": "non-stick skillet or tawa",
+            "imageURL": "",
+            "description": "Used for cooking the dosas."
+        },
+        {
+            "name": "ladle",
+            "imageURL": "",
+            "description": "Used for pouring the batter onto the skillet."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "rice",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "poha",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed for batter",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for greasing",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Batter",
+            "description": "Soak the parboiled rice, raw rice, urad dal, poha, and fenugreek seeds in water for 4-6 hours. Drain and grind them into a smooth batter, adding water as needed. Add sugar and salt to the batter and allow it to ferment overnight."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Dosas",
+            "description": "Heat a non-stick skillet or tawa. Grease lightly with oil. Pour a ladleful of batter and spread it slightly. Cook until the dosa is fluffy and holes appear on the surface. Flip and cook the other side if desired."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Serve the Set Dosas hot with coconut chutney, sambar, or any side dish of your choice."
+        }
+    ],
+    "nutrition": {
+        "calories": 180,
+        "carbohydrates": "35g",
+        "protein": "6g",
+        "fat": "2g",
+        "saturatedFat": "0g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "potassium": "100mg",
+        "fiber": "2g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "Ensure the batter is fermented well for the best texture.",
+        "Cook on a medium flame for even browning and cooking."
+    ],
+    "variations": [
+        "Try adding grated vegetables or spices to the batter for different flavors.",
+        "Experiment with different types of lentils for subtle variations in taste."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Dosa batter can be refrigerated for up to 2 days.",
+        "instructions": "Store batter in an airtight container in the refrigerator. Reheat dosas on a skillet for best texture."
+    },
+    "reheatingInstructions": "Reheat dosas on a skillet until warm.",
+    "presentationTips": [
+        "Serve on a plate with a side of colorful chutneys and garnish with fresh herbs."
+    ],
+    "keywords": [
+        "set dosa",
+        "South Indian pancake",
+        "fermented rice batter"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

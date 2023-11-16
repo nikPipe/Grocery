@@ -1,0 +1,95 @@
+{
+    "id": "Elaneer_Recipe",
+    "name": "Elaneer (Tender Coconut Water)",
+    "origin": "India",
+    "history": "Elaneer, or tender coconut water, is a popular natural beverage in India and other tropical regions. It is known for its hydrating properties and is often consumed for its health benefits.",
+    "description": "Elaneer is the clear liquid inside young green coconuts. It's a refreshing and hydrating drink, rich in nutrients and electrolytes. It's often enjoyed as is or can be used as a base for various beverages and cocktails.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free", "Paleo", "Keto"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "5"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "5"
+        }
+    },
+    "mealtime": ["Anytime"],
+    "equipment": [
+        {
+            "name": "knife",
+            "description": "For opening the tender coconut."
+        },
+        {
+            "name": "straw",
+            "description": "Optional, for drinking."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "tender coconut",
+            "quantity": "1",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Select Tender Coconut",
+            "description": "Choose a fresh tender coconut. The younger coconuts have more water and are sweeter compared to the older ones, which have thicker flesh."
+        },
+        {
+            "step": "2",
+            "title": "Open the Coconut",
+            "description": "Use a sharp knife to carefully cut open the top of the tender coconut. You can make a hole large enough to insert a straw or cut it more widely to access the coconut water and flesh."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Insert a straw into the coconut and enjoy the refreshing coconut water. You can also use a spoon to scoop out the tender coconut flesh and eat it."
+        }
+    ],
+    "nutrition": {
+        "calories": "45 per coconut",
+        "carbohydrates": "11g",
+        "protein": "2g",
+        "fat": "0g",
+        "fiber": "3g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Store unopened tender coconuts in a cool place and consume them as soon as possible for the best taste.",
+        "You can also chill the coconut in a refrigerator before serving for a refreshing cold drink."
+    ],
+    "variations": [
+        "Mix with other fruit juices or add to smoothies for a tropical flavor.",
+        "Use tender coconut water as a base for making cocktails or mocktails."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately after opening.",
+        "instructions": "Unopened tender coconuts can be stored at room temperature for a few days."
+    },
+    "reheatingInstructions": [
+        "Not applicable."
+    ],
+    "presentationTips": [
+        "Serve in the coconut shell itself for an authentic and eco-friendly presentation.",
+        "Garnish with a slice of lime or a sprig of mint for added freshness."
+    ],
+    "keywords": [
+        "Elaneer",
+        "Tender Coconut Water",
+        "Natural Hydration"
+    ],
+    "allergens": [
+        "None"
+    ]
+}
