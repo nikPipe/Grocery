@@ -1,0 +1,148 @@
+{
+    "id": "Halwa_Recipe",
+    "name": "Halwa",
+    "origin": "India",
+    "history": "Halwa is a dense, sweet confection that originated in the Middle East and Central Asia and later became popular in India. It has many variations based on the ingredients used.",
+    "description": "Halwa is a sweet, dense treat commonly made with flour, semolina, or vegetables like carrots or pumpkins, cooked with ghee, sugar, and often flavored with cardamom or saffron.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": ["Dessert"],
+    "equipment": [
+        {
+            "name": "heavy-bottomed pan",
+            "description": "For cooking the halwa."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "ghee",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "semolina",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "3/4 cup",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "milk",
+            "quantity": "3 cups",
+            "weight": {
+                "value": "720",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cardamom powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "nuts and raisins",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "saffron strands",
+            "quantity": "a few",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Roast the Semolina or Flour",
+            "description": "Heat ghee in a heavy-bottomed pan. Add semolina or flour and roast on low heat until it turns golden brown and aromatic."
+        },
+        {
+            "step": "2",
+            "title": "Make Sugar Syrup",
+            "description": "In a separate pan, heat water or milk with sugar until the sugar dissolves completely. Add cardamom powder and saffron, if using."
+        },
+        {
+            "step": "3",
+            "title": "Combine and Cook",
+            "description": "Slowly add the sugar syrup to the roasted semolina or flour, stirring continuously to avoid lumps. Cook until the mixture thickens and leaves the sides of the pan."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Garnish the halwa with nuts and raisins. Serve hot or at room temperature."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "45g",
+        "protein": "5g",
+        "fat": "12g",
+        "fiber": "1g",
+        "sugar": "30g"
+    },
+    "tips": [
+        "Constant stirring is crucial to prevent the halwa from sticking to the pan and ensure even cooking.",
+        "Adjust the sweetness by varying the amount of sugar."
+    ],
+    "variations": [
+        "Carrot Halwa: Substitute semolina with grated carrots and follow the same process.",
+        "Pumpkin Halwa: Use grated pumpkin for a seasonal variation."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container and reheat before serving, if desired."
+    },
+    "reheatingInstructions": [
+        "Reheat gently on the stove or in the microwave, adding a little ghee if it has dried out."
+    ],
+    "presentationTips": [
+        "Serve in a decorative bowl and garnish with a sprinkle of cardamom powder or saffron strands.",
+        "Serve with a dollop of cream for an extra rich flavor."
+    ],
+    "keywords": [
+        "Halwa",
+        "Indian Sweet",
+        "Dense Dessert"
+    ],
+    "allergens": [
+        "Dairy, Nuts"
+    ]
+}

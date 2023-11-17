@@ -1,0 +1,189 @@
+{
+    "id": "Batata_Vada_Recipe",
+    "name": "Batata Vada",
+    "origin": "India",
+    "history": "Batata Vada, originating in Maharashtra, India, is a popular street food and snack. It's a savory, spicy potato fritter that's a staple in Marathi cuisine and has gained popularity across India.",
+    "description": "Batata Vada consists of a spicy potato filling encased in a gram flour batter and deep-fried until golden and crispy. It's often served with green chutney or sandwiched in a bun (Vada Pav).",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": ["Snack"],
+    "equipment": [
+        {
+            "name": "frying pan",
+            "description": "For deep-frying the vadas."
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the batter and filling."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "potatoes",
+            "quantity": "2 large",
+            "weight": {
+                "value": "400",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "8-10",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "gram flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "red chili powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for deep frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Potato Filling",
+            "description": "Heat oil in a pan. Add mustard seeds, green chilies, curry leaves, turmeric powder, and salt. Add the mashed potatoes and mix well. Set aside to cool."
+        },
+        {
+            "step": "2",
+            "title": "Make the Batter",
+            "description": "In a bowl, mix gram flour, red chili powder, asafoetida, and water to make a smooth, thick batter."
+        },
+        {
+            "step": "3",
+            "title": "Shape the Vadas",
+            "description": "Divide the potato mixture into equal portions. Shape each into a ball."
+        },
+        {
+            "step": "4",
+            "title": "Deep Fry the Vadas",
+            "description": "Heat oil in a frying pan. Dip each potato ball in the batter, ensuring it's evenly coated. Deep fry until golden and crispy."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the Batata Vadas hot with green chutney or sandwiched in a bun as Vada Pav."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per vada",
+        "carbohydrates": "25g",
+        "protein": "3g",
+        "fat": "10g",
+        "fiber": "2g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "The batter should be thick enough to coat the potato balls.",
+        "Fry on medium heat to ensure the vadas are cooked evenly without burning."
+    ],
+    "variations": [
+        "Aloo Bonda: Use a similar filling but make the batter with rice flour for a different texture.",
+        "Masala Vada: Add chopped onions and garlic to the potato mixture for extra flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best eaten fresh but can be stored in the refrigerator for up to 2 days.",
+        "instructions": "Reheat in an oven or on a pan until crispy before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat in a preheated oven at 180°C (350°F) for about 10 minutes or until crispy."
+    ],
+    "presentationTips": [
+        "Serve on a plate lined with paper to absorb excess oil.",
+        "Garnish with freshly chopped coriander leaves and sliced onions."
+    ],
+    "keywords": [
+        "Batata Vada",
+        "Indian Snack",
+        "Potato Fritter"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

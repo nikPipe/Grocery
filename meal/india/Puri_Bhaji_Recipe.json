@@ -1,0 +1,226 @@
+{
+    "id": "Puri_Bhaji_Recipe",
+    "name": "Puri Bhaji",
+    "origin": "India",
+    "history": "Puri Bhaji is a classic Indian dish, popular as a breakfast and snack item. It consists of fluffy, deep-fried breads (Puris) served with a spiced potato curry (Bhaji).",
+    "description": "Puri Bhaji is a delightful combination of crispy and golden deep-fried Indian breads, paired with a flavorful potato-based curry. It's a favorite in many Indian households and is often enjoyed on special occasions.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "deep frying pan",
+            "imageURL": "",
+            "description": "Used for frying the puris."
+        },
+        {
+            "name": "pan",
+            "imageURL": "",
+            "description": "Used for cooking the bhaji."
+        },
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "Used for preparing the puri dough."
+        },
+        {
+            "name": "rolling pin",
+            "imageURL": "",
+            "description": "Used for rolling out the puris."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "whole wheat flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as required for dough",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for deep frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "potatoes",
+            "quantity": "4 medium",
+            "weight": {
+                "value": "400",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Puri Dough",
+            "description": "In a mixing bowl, combine whole wheat flour, salt, and enough water to form a stiff dough. Knead well, cover, and set aside for 15-20 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Make the Bhaji",
+            "description": "Boil, peel, and roughly mash the potatoes. Heat oil in a pan, add mustard seeds, cumin seeds, chopped onions, green chilies, and saut\u00c3\u00a9 until onions are translucent. Add turmeric, coriander powder, garam masala, mashed potatoes, and salt. Cook for a few minutes. Add lemon juice and garnish with coriander."
+        },
+        {
+            "step": "3",
+            "title": "Roll and Fry Puris",
+            "description": "Divide the dough into small balls. Roll each ball into a small circle. Heat oil in a deep frying pan and fry the puris until they puff up and turn golden brown."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the hot puris with the flavorful bhaji on the side."
+        }
+    ],
+    "nutrition": {
+        "calories": 300,
+        "carbohydrates": "45g",
+        "protein": "6g",
+        "fat": "12g",
+        "saturatedFat": "2g",
+        "cholesterol": "0mg",
+        "sodium": "500mg",
+        "potassium": "400mg",
+        "fiber": "6g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "The puri dough should be stiff to ensure that puris puff up when fried.",
+        "Fry the puris on medium heat to get them crispy and prevent them from absorbing too much oil."
+    ],
+    "variations": [
+        "Add different vegetables like peas or carrots to the bhaji for variation.",
+        "Experiment with spices in the bhaji according to taste preferences."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Puri Bhaji is best enjoyed fresh. However, the bhaji can be stored in the refrigerator for up to 2 days.",
+        "instructions": "Store the bhaji in an airtight container and reheat before serving. Puris should be consumed immediately after frying."
+    },
+    "reheatingInstructions": "Reheat the bhaji on the stove or in a microwave. Puris are not suitable for reheating as they lose their texture.",
+    "presentationTips": [
+        "Serve on a plate with a side of fresh salad or raita."
+    ],
+    "keywords": [
+        "puri bhaji",
+        "Indian breakfast",
+        "fried bread with potato curry"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

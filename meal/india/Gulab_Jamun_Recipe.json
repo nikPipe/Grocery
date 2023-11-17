@@ -1,0 +1,185 @@
+{
+    "id": "Gulab_Jamun_Recipe",
+    "name": "Gulab Jamun",
+    "origin": "India",
+    "history": "Gulab Jamun, a classic Indian sweet, is believed to have originated from a Persian dish. It became popular in the Indian subcontinent during the Mughal era.",
+    "description": "Gulab Jamun is a delectable dessert made from milk solids, kneaded into a dough, shaped into balls, and deep-fried until golden brown. These balls are then soaked in a fragrant sugar syrup flavored with cardamom and rose water.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "40"
+        }
+    },
+    "mealtime": ["Dessert"],
+    "equipment": [
+        {
+            "name": "frying pan",
+            "description": "For deep-frying the jamuns."
+        },
+        {
+            "name": "saucepan",
+            "description": "For making the syrup."
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "milk powder",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "all-purpose flour",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "baking powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "milk",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "400",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cardamom pods",
+            "quantity": "4-5",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "rose water",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for deep-frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Make the Dough",
+            "description": "In a mixing bowl, combine milk powder, all-purpose flour, and baking powder. Add melted ghee or butter and mix. Gradually add warm milk to form a soft dough."
+        },
+        {
+            "step": "2",
+            "title": "Shape the Jamuns",
+            "description": "Divide the dough into small balls, ensuring there are no cracks on the surface."
+        },
+        {
+            "step": "3",
+            "title": "Prepare the Syrup",
+            "description": "In a saucepan, dissolve sugar in water and bring to a boil. Add cardamom pods and simmer until the syrup thickens slightly. Stir in rose water."
+        },
+        {
+            "step": "4",
+            "title": "Fry the Jamuns",
+            "description": "Heat oil in a frying pan. Deep-fry the jamuns on low heat until they are dark golden brown. Remove and drain excess oil."
+        },
+        {
+            "step": "5",
+            "title": "Soak in Syrup",
+            "description": "While still warm, immerse the fried jamuns in the syrup. Let them soak for at least 2 hours before serving."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "50g",
+        "protein": "5g",
+        "fat": "10g",
+        "fiber": "1g",
+        "sugar": "40g"
+    },
+    "tips": [
+        "Ensure the jamuns are smooth without cracks to prevent breaking while frying.",
+        "The syrup should be warm, not hot, when adding the fried jamuns."
+    ],
+    "variations": [
+        "Kala Jamun: Add some cocoa powder to the dough for a darker color and rich taste.",
+        "Stuffed Jamun: Fill the dough balls with a mixture of nuts and saffron before frying."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be stored in the refrigerator for up to 5 days.",
+        "instructions": "Keep in syrup in an airtight container."
+    },
+    "reheatingInstructions": [
+        "Serve at room temperature or slightly warmed."
+    ],
+    "presentationTips": [
+        "Serve in a decorative bowl, garnished with silver leaf or chopped nuts.",
+        "Accompany with a scoop of vanilla ice cream for a decadent dessert."
+    ],
+    "keywords": [
+        "Gulab Jamun",
+        "Indian Sweet",
+        "Deep-fried Dessert"
+    ],
+    "allergens": [
+        "Dairy, Gluten"
+    ]
+}

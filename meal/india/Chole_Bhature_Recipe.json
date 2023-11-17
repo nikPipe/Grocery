@@ -1,0 +1,208 @@
+{
+    "id": "Chole_Bhature_Recipe",
+    "name": "Chole Bhature",
+    "origin": "India",
+    "history": "Chole Bhature is a beloved North Indian dish, particularly from Punjab, known for its combination of spicy chickpeas (Chole) and deep-fried bread (Bhature).",
+    "description": "Chole Bhature is a delightful pairing of spicy chickpeas curry and fluffy, deep-fried leavened bread. It's a popular breakfast and street food dish.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "deep frying pan",
+            "imageURL": "",
+            "description": "A pan used for deep frying foods."
+        },
+        {
+            "name": "pressure cooker",
+            "imageURL": "",
+            "description": "A cooking device used to cook foods quickly under steam pressure."
+        },
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "A bowl used for mixing ingredients."
+        },
+        {
+            "name": "rolling pin",
+            "imageURL": "",
+            "description": "A tool used for shaping and flattening dough."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "chickpeas",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "all-purpose flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "baking powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for frying",
+            "weight": {
+                "value": "As required",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Chole",
+            "description": "Soak chickpeas overnight. Cook them in a pressure cooker with salt and water until soft. In a separate pan, heat oil, add cumin seeds, onions, and ginger-garlic paste. Cook until onions are golden. Add tomatoes, chili powder, and garam masala. Cook until the oil separates. Add cooked chickpeas and simmer."
+        },
+        {
+            "step": "2",
+            "title": "Prepare Bhature Dough",
+            "description": "In a mixing bowl, combine all-purpose flour, yogurt, baking powder, and a pinch of salt. Add water gradually to form a soft dough. Cover and let it rest for a few hours."
+        },
+        {
+            "step": "3",
+            "title": "Roll and Fry Bhature",
+            "description": "Divide the dough into balls. Roll each ball into an oval shape. Heat oil in a deep frying pan. Deep fry each bhatura until puffed up and golden brown on both sides."
+        }
+    ],
+    "nutrition": {
+        "calories": 550,
+        "carbohydrates": "65g",
+        "protein": "15g",
+        "fat": "25g",
+        "saturatedFat": "5g",
+        "cholesterol": "15mg",
+        "sodium": "500mg",
+        "potassium": "400mg",
+        "fiber": "10g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "The dough for bhature should be soft and pliable.",
+        "Adding a pinch of sugar to the chole masala enhances the flavor.",
+        "Serve hot with sliced onions, lemon wedges, and green chutney."
+    ],
+    "variations": [
+        "Add paneer to the chole for a different twist.",
+        "Use whole wheat flour for a healthier bhature."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh, but chole can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": "Reheat chole on the stovetop or in a microwave. Bhature are best when fresh.",
+    "presentationTips": [
+        "Garnish chole with coriander leaves and serve with a side of pickles."
+    ],
+    "keywords": [
+        "chole bhature",
+        "Indian cuisine",
+        "Punjabi dish"
+    ],
+    "allergens": [
+        "Gluten",
+        "Dairy (if yogurt is used)"
+    ]
+}

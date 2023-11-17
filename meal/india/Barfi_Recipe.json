@@ -1,0 +1,157 @@
+{
+    "id": "Barfi_Recipe",
+    "name": "Barfi",
+    "origin": "India",
+    "history": "Barfi, also known as Burfi, is a dense milk-based sweet from the Indian subcontinent. It's a popular dessert and is often made during festivals and special occasions in India.",
+    "description": "Barfi is a smooth, dense confectionery made primarily from condensed milk and sugar, often flavored with fruits, nuts, and spices. It's typically cut into diamond or square shapes and sometimes garnished with edible silver leaf.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": ["Dessert"],
+    "equipment": [
+        {
+            "name": "heavy-bottomed pan",
+            "description": "For cooking the mixture."
+        },
+        {
+            "name": "flat tray or dish",
+            "description": "For setting the barfi."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "milk",
+            "quantity": "1 can",
+            "weight": {
+                "value": "400",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cardamom powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "almonds",
+            "quantity": "for garnishing",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+      {
+            "item": "pistachios",
+            "quantity": "for garnishing",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "edible silver leaf",
+            "quantity": "for garnishing",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Cook the Mixture",
+            "description": "In a heavy-bottomed pan, mix condensed milk, powdered sugar, and ghee. Cook over low heat, stirring continuously, until the mixture thickens."
+        },
+        {
+            "step": "2",
+            "title": "Add Flavorings",
+            "description": "Add cardamom powder to the mixture and mix well."
+        },
+        {
+            "step": "3",
+            "title": "Set the Barfi",
+            "description": "Pour the mixture into a greased flat tray or dish. Allow it to cool and set for a few hours."
+        },
+        {
+            "step": "4",
+            "title": "Cut and Garnish",
+            "description": "Once set, cut the barfi into diamond or square shapes. Garnish with chopped nuts and edible silver leaf, if desired."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the barfi as a dessert or sweet snack."
+        }
+    ],
+    "nutrition": {
+        "calories": "150 per piece",
+        "carbohydrates": "20g",
+        "protein": "3g",
+        "fat": "7g",
+        "fiber": "0g",
+        "sugar": "15g"
+    },
+    "tips": [
+        "Keep stirring the mixture while cooking to prevent it from sticking to the pan.",
+        "The consistency of the mixture is crucial; it should be thick enough to set but not too dry."
+    ],
+    "variations": [
+        "Coconut Barfi: Add grated coconut for a different flavor.",
+        "Chocolate Barfi: Mix in cocoa powder for a chocolate twist."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be stored at room temperature for up to a week.",
+        "instructions": "Store in an airtight container in a cool, dry place."
+    },
+    "reheatingInstructions": [
+        "Not applicable, as barfi is served at room temperature."
+    ],
+    "presentationTips": [
+        "Arrange the barfi pieces on a decorative plate for serving.",
+        "Garnish with a sprinkle of finely chopped nuts for a festive look."
+    ],
+    "keywords": [
+        "Barfi",
+        "Indian Sweet",
+        "Milk-based Dessert"
+    ],
+    "allergens": [
+        "Dairy, Nuts"
+    ]
+}

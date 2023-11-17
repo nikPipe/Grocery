@@ -1,0 +1,165 @@
+{
+    "id": "Shrikhand_Recipe",
+    "name": "Shrikhand",
+    "origin": "India",
+    "history": "Shrikhand is a traditional Indian sweet believed to have originated in the western states of Maharashtra and Gujarat. It's commonly made during festivals and is a part of Gujarati and Maharashtrian cuisine.",
+    "description": "Shrikhand is a creamy, yogurt-based dessert flavored with saffron, cardamom, and sugar, often garnished with nuts and fruits. It's known for its smooth texture and refreshing taste.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "20 plus chilling time"
+        }
+    },
+    "mealtime": ["Dessert"],
+    "equipment": [
+        {
+            "name": "muslin cloth",
+            "description": "For hanging the yogurt."
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For combining the ingredients."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "yogurt",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "saffron strands",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "milk",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cardamom powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "almonds",
+            "quantity": "for garnishing",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+      {
+            "item": "pistachios",
+            "quantity": "for garnishing",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fruits",
+            "quantity": "for garnishing",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Hung Yogurt",
+            "description": "Tie the yogurt in a muslin cloth and hang it for several hours to remove excess water and attain a thick, creamy consistency."
+        },
+        {
+            "step": "2",
+            "title": "Infuse Saffron",
+            "description": "Soak the saffron strands in warm milk for a few minutes until the milk takes on a yellow color."
+        },
+        {
+            "step": "3",
+            "title": "Mix Ingredients",
+            "description": "In a mixing bowl, combine the thick yogurt, powdered sugar, saffron-infused milk, and cardamom powder. Whisk until smooth and creamy."
+        },
+        {
+            "step": "4",
+            "title": "Chill",
+            "description": "Refrigerate the Shrikhand for a few hours until chilled."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Garnish with chopped nuts and fruits if desired. Serve chilled as a dessert."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per serving",
+        "carbohydrates": "30g",
+        "protein": "10g",
+        "fat": "5g",
+        "fiber": "0g",
+        "sugar": "28g"
+    },
+    "tips": [
+        "The key to perfect Shrikhand is in the consistency of the yogurt. It should be thick and creamy.",
+        "You can adjust the amount of sugar according to your taste preferences."
+    ],
+    "variations": [
+        "Mango Shrikhand: Add pureed mango for a fruity flavor.",
+        "Rose Shrikhand: Infuse the yogurt with rose water and garnish with rose petals."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Not applicable, as Shrikhand is served cold."
+    ],
+    "presentationTips": [
+        "Serve in individual bowls or glasses, layered with nuts and fruits for an attractive presentation.",
+        "Garnish with a few saffron strands on top for a luxurious touch."
+    ],
+    "keywords": [
+        "Shrikhand",
+        "Indian Yogurt Dessert",
+        "Saffron Sweet"
+    ],
+    "allergens": [
+        "Dairy, Nuts"
+    ]
+}

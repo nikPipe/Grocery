@@ -1,0 +1,153 @@
+{
+    "id": "Rasgulla_Recipe",
+    "name": "Rasgulla",
+    "origin": "India",
+    "history": "Rasgulla is believed to have originated in West Bengal and is a classic example of Indian milk-based sweets. It has been a part of Indian cuisine for centuries and is a staple in Bengali celebrations.",
+    "description": "Rasgulla is a soft, spongy ball made from chhena (an Indian cottage cheese) and semolina dough, cooked in a light sugar syrup. It's known for its delicate texture and sweet, milky flavor.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": ["Dessert"],
+    "equipment": [
+        {
+            "name": "large pot",
+            "description": "For boiling the milk and cooking the rasgullas."
+        },
+        {
+            "name": "muslin cloth",
+            "description": "For straining the chhena."
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For kneading the dough."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "milk",
+            "quantity": "1 liter",
+            "weight": {
+                "value": "1000",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "semolina",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "400",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "4 cups",
+            "weight": {
+                "value": "960",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cardamom powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Make the Chhena",
+            "description": "Boil the milk in a large pot. Once it comes to a boil, add lemon juice or vinegar to curdle the milk. Once the milk solids separate, strain through a muslin cloth."
+        },
+        {
+            "step": "2",
+            "title": "Knead the Dough",
+            "description": "Knead the chhena with semolina until it forms a smooth dough. Divide and shape into small, smooth balls."
+        },
+        {
+            "step": "3",
+            "title": "Prepare the Syrup",
+            "description": "In the same pot, dissolve sugar in water and bring it to a boil. Add cardamom powder for flavor."
+        },
+        {
+            "step": "4",
+            "title": "Cook the Rasgullas",
+            "description": "Gently drop the balls into the boiling syrup. Cook for about 10-15 minutes until they double in size and become spongy."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Remove the rasgullas from the syrup and let them cool. Serve chilled."
+        }
+    ],
+    "nutrition": {
+        "calories": "150 per serving",
+        "carbohydrates": "30g",
+        "protein": "5g",
+        "fat": "3g",
+        "fiber": "0g",
+        "sugar": "25g"
+    },
+    "tips": [
+        "Ensure the chhena is moisture-free before kneading to achieve the right texture.",
+        "While cooking, the rasgullas should have enough space to expand in the pot."
+    ],
+    "variations": [
+        "Ras Malai: Flatten the rasgullas and soak them in thickened, sweetened milk.",
+        "Flavored Rasgulla: Infuse the syrup with saffron or rose water for a different taste."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 5 days.",
+        "instructions": "Store in syrup in an airtight container."
+    },
+    "reheatingInstructions": [
+        "Not applicable, as rasgullas are served chilled."
+    ],
+    "presentationTips": [
+        "Serve in a bowl with some syrup and garnish with chopped pistachios or almonds.",
+        "For a festive touch, garnish with edible silver leaf (varq)."
+    ],
+    "keywords": [
+        "Rasgulla",
+        "Indian Sweet",
+        "Milk-based Dessert"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

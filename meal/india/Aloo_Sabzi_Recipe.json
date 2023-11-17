@@ -1,0 +1,184 @@
+{
+    "id": "Aloo_Sabzi_Recipe",
+    "name": "Aloo Sabzi",
+    "origin": "India",
+    "history": "Aloo Sabzi is a staple in Indian cuisine, with variations found across different regions. It's a versatile and simple dish that highlights the flavor of potatoes.",
+    "description": "Aloo Sabzi is a flavorful and hearty potato-based dish, often spiced with a mix of Indian spices. It's a simple yet satisfying dish that pairs well with bread or rice.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Vegetarian", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "cooking pot",
+            "description": "For boiling the potatoes."
+        },
+        {
+            "name": "frying pan",
+            "description": "For sautéing the spices and cooking the sabzi."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "potatoes",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "300",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chili powder",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "fresh cilantro, chopped",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Boil the Potatoes",
+            "description": "Peel and dice the potatoes. Boil them in a pot of water until they are tender but still hold their shape."
+        },
+        {
+            "step": "2",
+            "title": "Prepare the Spice Mix",
+            "description": "Heat oil in a frying pan. Add cumin seeds and mustard seeds. Once they start to crackle, add turmeric powder, coriander powder, garam masala, and red chili powder."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Sabzi",
+            "description": "Add the boiled potatoes to the spice mix. Season with salt and stir well. Cook for a few minutes until the potatoes are coated with the spices."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Garnish the Aloo Sabzi with chopped cilantro. Serve hot with bread or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per serving",
+        "carbohydrates": "35g",
+        "protein": "5g",
+        "fat": "5g",
+        "fiber": "4g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Adjust the amount of chili powder according to your preference for heat.",
+        "Adding a splash of lemon juice can enhance the flavors."
+    ],
+    "variations": [
+        "Dry Aloo Sabzi: Reduce the water for a less gravy-like consistency.",
+        "Aloo Sabzi with Peas: Add green peas during cooking for extra flavor and nutrition."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until hot."
+    ],
+    "presentationTips": [
+        "Serve in a traditional Indian serving dish for an authentic experience.",
+        "Pair with roti or naan bread for a complete meal."
+    ],
+    "keywords": [
+        "Aloo Sabzi",
+        "Indian Potato Dish",
+        "Vegetarian Cuisine"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

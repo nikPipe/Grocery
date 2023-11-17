@@ -38,6 +38,7 @@ def getIdFromDishList(name):
 def printNot(importName, val=12):
     file = os.listdir(os.path.dirname(importName.__file__))
     list_recepie = []
+    list_id = []
     for eachJson in file:
 
         if '.json' in eachJson:
@@ -55,6 +56,7 @@ def printNot(importName, val=12):
                                 if eacheachkey == 'default':
                                     if getIdFromDishList(str(eacheachvalue['id'])) == False:
                                         list_recepie.append(eacheachvalue['name'])
+                                        list_id.append(eacheachvalue['id'])
                                         #print(eacheachvalue)
                                     pass
                                 else:
@@ -62,10 +64,11 @@ def printNot(importName, val=12):
                                         if getIdFromDishList(str(eacheachvalue[each])) == False:
                                             #print(each, '>>>', str(eacheachvalue[each]))
                                             list_recepie.append(each)
+                                            list_id.append(str(eacheachvalue[each]))
                                         pass
 
     #print(list_recepie)
-    return list_recepie
+    return list_recepie, list_id
 
 def findRecipe(name):
     filePath = os.path.join(os.path.dirname(india.__file__))
@@ -76,13 +79,10 @@ def findRecipe(name):
         for eachFile in files:
             if '.json' in eachFile:
                 path = os.path.join(root, eachFile)
-                #path = os.path.join(os.path.dirname(root), eachFile)
                 json_data = open(path).read()
                 data = json.loads(json_data)
-                if name in data['name']:
-                    print(data['id'])
-                    print(data['name'])
-                    find_val = True
+                if data['id'].lower() == name.lower():
+                    pass
 
     return find_val
 
@@ -94,7 +94,7 @@ def findRecipe(name):
 
 
 
-list_recepie = printNot(breakfast, 1)
+list_recepie, list_id = printNot(breakfast, 2)
 for each in list_recepie:
     print(each)
 

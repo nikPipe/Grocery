@@ -1,0 +1,153 @@
+{
+    "id": "Ladoo_Recipe",
+    "name": "Ladoo",
+    "origin": "India",
+    "history": "Ladoo, a traditional Indian sweet, has been a part of Indian cuisine for centuries. It's a versatile sweet that comes in many varieties, each region in India having its own version.",
+    "description": "Ladoo is a spherical sweet treat made from various flours, ghee, and sugar. It's often flavored with cardamom, nuts, and sometimes coconut, and is a popular offering in religious ceremonies and festivals.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": ["Dessert"],
+    "equipment": [
+        {
+            "name": "heavy-bottomed pan",
+            "description": "For roasting the flour and making the sweet mixture."
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For combining ingredients."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "gram flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cardamom powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "almonds",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+      {
+            "item": "cashews",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+
+        {
+            "item": "raisins",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Roast the Gram Flour",
+            "description": "Heat ghee in a heavy-bottomed pan. Add gram flour and roast on low heat until it changes color and emits a nutty fragrance."
+        },
+        {
+            "step": "2",
+            "title": "Make the Ladoo Mixture",
+            "description": "Remove from heat and let it cool slightly. Add powdered sugar, cardamom powder, chopped nuts, and raisins. Mix well."
+        },
+        {
+            "step": "3",
+            "title": "Shape the Ladoos",
+            "description": "Once the mixture is cool enough to handle, shape it into small, round balls (ladoos)."
+        },
+        {
+            "step": "4",
+            "title": "Serve or Store",
+            "description": "Serve the ladoos immediately, or store them in an airtight container once they are completely cool."
+        }
+    ],
+    "nutrition": {
+        "calories": "100 per ladoo",
+        "carbohydrates": "15g",
+        "protein": "2g",
+        "fat": "4g",
+        "fiber": "1g",
+        "sugar": "10g"
+    },
+    "tips": [
+        "Ensure constant stirring while roasting the flour to avoid burning.",
+        "The mixture should be warm when shaping the ladoos to hold their form."
+    ],
+    "variations": [
+        "Coconut Ladoo: Add grated coconut to the mixture for a different flavor.",
+        "Boondi Ladoo: Use fried boondi instead of gram flour as the base."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be stored at room temperature for up to 1 week.",
+        "instructions": "Store in an airtight container in a cool, dry place."
+    },
+    "reheatingInstructions": [
+        "Not applicable, as ladoos are served at room temperature."
+    ],
+    "presentationTips": [
+        "Arrange the ladoos on a decorative plate or tray for serving.",
+        "Garnish with a sprinkle of chopped nuts or edible silver leaf (varq) for a festive look."
+    ],
+    "keywords": [
+        "Ladoo",
+        "Indian Sweet",
+        "Festive Dessert"
+    ],
+    "allergens": [
+        "Dairy, Nuts"
+    ]
+}

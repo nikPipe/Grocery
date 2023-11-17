@@ -1,0 +1,180 @@
+{
+    "id": "Maddur_Vada_Recipe",
+    "name": "Maddur Vada",
+    "origin": "India",
+    "history": "Maddur Vada is a popular snack from Karnataka, named after the town of Maddur. It's known for its unique texture and flavor, combining elements of a crispy and a soft snack.",
+    "description": "Maddur Vada is a savory fried snack made from a mixture of rice flour, semolina, and all-purpose flour, flavored with onions, curry leaves, and spices. It's crispy on the outside and soft inside.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": [
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "frying pan",
+            "description": "For deep frying the vadas.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "semolina",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "90",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "all-purpose flour",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves, chopped",
+            "quantity": "few",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "hot water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for deep frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, combine rice flour, semolina, all-purpose flour, onions, green chilies, curry leaves, cumin seeds, and salt. Add hot water gradually and knead into a stiff dough."
+        },
+        {
+            "step": "2",
+            "title": "Shape the Vadas",
+            "description": "Divide the dough into small balls. Flatten each ball into a disc shape."
+        },
+        {
+            "step": "3",
+            "title": "Fry the Vadas",
+            "description": "Heat oil in a frying pan. Fry the vadas until golden brown and crispy."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Maddur Vadas hot with chutney or ketchup."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "40g",
+        "protein": "5g",
+        "fat": "15g",
+        "fiber": "2g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Ensure the dough is not too moist; it should be stiff for the vadas to hold their shape.",
+        "Fry on medium heat for even cooking and to achieve a crispy texture."
+    ],
+    "variations": [
+        "Add grated vegetables like carrots or cabbage to the dough for a twist.",
+        "Experiment with different spices like asafoetida or garlic for added flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh but can be stored in an airtight container for up to 1 day.",
+        "instructions": "Store at room temperature and reheat in a microwave or on a stovetop."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on a stovetop until crispy.",
+    "presentationTips": [
+        "Serve on a platter garnished with sliced onion and lemon wedges.",
+        "Accompany with a colorful array of chutneys for dipping."
+    ],
+    "keywords": [
+        "Maddur Vada",
+        "Indian Snack",
+        "Fried Fritters"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

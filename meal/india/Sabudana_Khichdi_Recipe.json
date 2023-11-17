@@ -1,0 +1,203 @@
+{
+    "id": "Sabudana_Khichdi_Recipe",
+    "name": "Sabudana Khichdi",
+    "origin": "India",
+    "history": "Sabudana Khichdi is a traditional Indian dish commonly consumed during Hindu fasting periods. It originates from the state of Maharashtra but is popular across India.",
+    "description": "Sabudana Khichdi is a savory dish made from tapioca pearls (sabudana), typically seasoned with spices, peanuts, and sometimes potatoes. It's light yet filling and often eaten during fasting days.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "240"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "260"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "skillet",
+            "imageURL": "",
+            "description": "A pan used for saut\u00c3\u00a9ing and cooking the khichdi."
+        },
+        {
+            "name": "spatula",
+            "imageURL": "",
+            "description": "Used for stirring and mixing ingredients."
+        },
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "Used for soaking sabudana."
+        },
+        {
+            "name": "strainer",
+            "imageURL": "",
+            "description": "Used for draining soaked sabudana."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "sabudana",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "180",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "peanuts",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "8-10",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "potatoes",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "4",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Soak Sabudana",
+            "description": "Wash the sabudana under cold water until water runs clear. Soak it in water for 3-4 hours, or until the pearls swell up and turn soft."
+        },
+        {
+            "step": "2",
+            "title": "Roast Peanuts",
+            "description": "Dry roast peanuts in a skillet until they are crunchy. Cool them and coarsely grind."
+        },
+        {
+            "step": "3",
+            "title": "Prepare the Khichdi",
+            "description": "Heat ghee or oil in a skillet. Add cumin seeds, curry leaves, and chopped green chili. Saut\u00c3\u00a9 for a minute. Add diced potato and cook until tender. Add the soaked sabudana, roasted peanuts, salt, and sugar. Mix well and cook until the sabudana pearls become translucent."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Turn off the heat, add lemon juice, and mix. Garnish with chopped coriander leaves. Serve hot."
+        }
+    ],
+    "nutrition": {
+        "calories": 300,
+        "carbohydrates": "50g",
+        "protein": "5g",
+        "fat": "10g",
+        "saturatedFat": "3g",
+        "cholesterol": "10mg",
+        "sodium": "300mg",
+        "potassium": "250mg",
+        "fiber": "3g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Ensure the sabudana is soaked well, but not mushy.",
+        "Stir frequently while cooking to avoid sticking."
+    ],
+    "variations": [
+        "Add vegetables like green peas or carrots for a nutritious twist.",
+        "For a spicy version, increase the quantity of green chilies."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh, but can be refrigerated for up to 1 day.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on a stovetop with a little ghee.",
+    "presentationTips": [
+        "Serve with a side of yogurt or fresh coconut chutney."
+    ],
+    "keywords": [
+        "sabudana khichdi",
+        "tapioca pearl dish",
+        "Indian fasting recipe"
+    ],
+    "allergens": [
+        "Peanuts"
+    ]
+}

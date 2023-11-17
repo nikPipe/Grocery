@@ -1,0 +1,135 @@
+{
+    "id": "Black_Tea_Recipe",
+    "name": "Black Tea",
+    "origin": "Global",
+    "history": "Originating in China as far back as the mid-17th century, black tea has become one of the most popular beverages worldwide. It's known for its bold flavor and is the basis for many tea blends.",
+    "description": "Black Tea is a simple, strong, and robust beverage made from the leaves of the Camellia sinensis plant. It is enjoyed for its invigorating flavor and can be consumed plain or with additives like milk, sugar, or lemon.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Vegetarian", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "2"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "3"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "5"
+        }
+    },
+    "mealtime": ["Anytime"],
+    "equipment": [
+        {
+            "name": "kettle or saucepan",
+            "description": "For boiling water."
+        },
+        {
+            "name": "teapot or cup",
+            "description": "For steeping the tea."
+        },
+        {
+            "name": "strainer",
+            "description": "If using loose tea leaves."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "water",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "tea bag",
+            "quantity": "1 teaspoon or 1 bag",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "milk",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1 slice",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Boil Water",
+            "description": "Bring the water to a rolling boil in a kettle or saucepan."
+        },
+        {
+            "step": "2",
+            "title": "Steep the Tea",
+            "description": "Place the tea leaves or tea bag in a teapot or cup. Pour the boiling water over the tea. Let it steep for about 3 minutes, or to your preferred strength."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Strain the tea into a cup if you used loose leaves. Add milk, sugar, or a lemon slice if desired. Serve hot."
+        }
+    ],
+    "nutrition": {
+        "calories": "2 per serving",
+        "carbohydrates": "0g",
+        "protein": "0g",
+        "fat": "0g",
+        "fiber": "0g",
+        "sugar": "0g (unless sweeteners are added)"
+    },
+    "tips": [
+        "The steeping time can be adjusted depending on how strong you like your tea.",
+        "For a different flavor, try adding spices like cardamom or cinnamon."
+    ],
+    "variations": [
+        "Iced Black Tea: Cool the brewed tea and serve over ice for a refreshing drink.",
+        "Masala Chai: Boil tea with milk, sugar, and a blend of spices like ginger, cardamom, and cloves."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately, but can be stored in the refrigerator for up to 24 hours.",
+        "instructions": "Store in a covered container if refrigerating."
+    },
+    "reheatingInstructions": [
+        "Gently reheat in a microwave or on the stove, but do not boil."
+    ],
+    "presentationTips": [
+        "Serve in a clear glass or mug to showcase the color of the tea.",
+        "Garnish with a lemon slice or a sprig of mint for an elegant touch."
+    ],
+    "keywords": [
+        "Black Tea",
+        "Hot Beverage",
+        "Classic Tea"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

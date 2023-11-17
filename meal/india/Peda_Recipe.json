@@ -1,0 +1,141 @@
+{
+    "id": "Peda_Recipe",
+    "name": "Peda",
+    "origin": "India",
+    "history": "Peda is a popular Indian sweet that originated in the state of Uttar Pradesh. It is traditionally made with khoya and flavored with cardamom, making it a staple in Indian festivities and celebrations.",
+    "description": "Peda is a soft, fudge-like confection typically made from khoya (dried whole milk), sugar, and cardamom. These small, round sweets are often garnished with nuts like pistachios or almonds.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": ["Dessert"],
+    "equipment": [
+        {
+            "name": "heavy-bottomed pan",
+            "description": "For cooking the mixture."
+        },
+        {
+            "name": "spatula",
+            "description": "For stirring."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "khoya",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "250",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cardamom powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "pistachios",
+            "quantity": "for garnishing",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Khoya",
+            "description": "Grate or crumble the khoya into a heavy-bottomed pan."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Mixture",
+            "description": "Add sugar to the khoya and cook on a low flame. Stir continuously until the mixture thickens and starts to leave the sides of the pan."
+        },
+        {
+            "step": "3",
+            "title": "Add Flavors",
+            "description": "Add cardamom powder and ghee to the mixture. Mix well until combined."
+        },
+        {
+            "step": "4",
+            "title": "Shape the Pedas",
+            "description": "Let the mixture cool slightly. When it's cool enough to handle, shape into small, flat discs."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish each peda with chopped pistachios. Serve at room temperature."
+        }
+    ],
+    "nutrition": {
+        "calories": "100 per serving",
+        "carbohydrates": "15g",
+        "protein": "3g",
+        "fat": "4g",
+        "fiber": "0g",
+        "sugar": "10g"
+    },
+    "tips": [
+        "Ensure continuous stirring to prevent the mixture from sticking or burning.",
+        "If the mixture becomes too dry, add a little milk to adjust the consistency."
+    ],
+    "variations": [
+        "Chocolate Peda: Add cocoa powder to the mixture for a chocolate twist.",
+        "Coconut Peda: Mix in desiccated coconut for a different flavor and texture."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be stored in an airtight container at room temperature for up to 1 week.",
+        "instructions": "Store in a cool, dry place."
+    },
+    "reheatingInstructions": [
+        "Not applicable, as pedas are served at room temperature."
+    ],
+    "presentationTips": [
+        "Arrange pedas on a decorative platter, lined with a doily.",
+        "Serve with a cup of hot tea or coffee as a delightful snack or dessert."
+    ],
+    "keywords": [
+        "Peda",
+        "Indian Sweet",
+        "Milk Dessert"
+    ],
+    "allergens": [
+        "Dairy, Nuts"
+    ]
+}

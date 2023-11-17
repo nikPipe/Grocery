@@ -1,0 +1,218 @@
+{
+    "id": "Upma_Recipe",
+    "name": "Upma",
+    "origin": "India",
+    "history": "Upma, originating from South India, is a popular breakfast dish made from semolina or coarse rice flour. It is known for its ease of preparation and versatility.",
+    "description": "Upma is a savory porridge-like dish made from semolina, seasoned with spices, and often includes vegetables like carrots, peas, and green beans.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "saucepan",
+            "imageURL": "",
+            "description": "Used for cooking the Upma."
+        },
+        {
+            "name": "spatula",
+            "imageURL": "",
+            "description": "Used for stirring the Upma."
+        },
+        {
+            "name": "measuring cups and spoons",
+            "imageURL": "",
+            "description": "Used for measuring ingredients."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "semolina",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "180",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "80",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "8-10",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger",
+            "quantity": "1 inch piece",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carrots",
+            "quantity": "1/2 cup, diced",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "peas",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green beans",
+            "quantity": "1/4 cup, chopped",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "500",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Roast Semolina",
+            "description": "Dry roast the semolina in a saucepan until it turns light golden and aromatic. Set aside."
+        },
+        {
+            "step": "2",
+            "title": "Temper Spices",
+            "description": "In the same pan, heat ghee or oil. Add mustard seeds, cumin seeds, and curry leaves. Once they splutter, add green chili, ginger, and onion. Saut\u00c3\u00a9 until the onion turns translucent."
+        },
+        {
+            "step": "3",
+            "title": "Cook Vegetables",
+            "description": "Add diced carrots, peas, and chopped green beans to the pan. Saut\u00c3\u00a9 for a few minutes. Then add water and salt, bringing it to a boil."
+        },
+        {
+            "step": "4",
+            "title": "Make Upma",
+            "description": "Slowly add the roasted semolina to the boiling water, stirring continuously. Cook until the water is absorbed and the upma is cooked to your desired consistency."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the upma hot, garnished with additional curry leaves or grated coconut if desired."
+        }
+    ],
+    "nutrition": {
+        "calories": 350,
+        "carbohydrates": "60g",
+        "protein": "10g",
+        "fat": "10g",
+        "saturatedFat": "3g",
+        "cholesterol": "0mg",
+        "sodium": "600mg",
+        "potassium": "300mg",
+        "fiber": "4g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Stir continuously while adding semolina to prevent lumps.",
+        "The consistency of upma can be adjusted by varying the amount of water."
+    ],
+    "variations": [
+        "Add roasted nuts for a crunchy texture.",
+        "Incorporate other vegetables like bell peppers or tomatoes for different flavors."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Upma can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on the stove with a little water to maintain moisture.",
+    "presentationTips": [
+        "Garnish with fresh coriander and a squeeze of lemon juice for added flavor."
+    ],
+    "keywords": [
+        "upma",
+        "South Indian breakfast",
+        "semolina dish"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

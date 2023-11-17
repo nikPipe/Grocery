@@ -5,7 +5,7 @@
     "main": {
       "default": {"name": "Bread Pakora", "id": "Bread_Pakora_Recipe"},
       "variations": {
-        "Medu Vada": "Medu_Vada_Recipe",
+        "Medu Vada": "Maddur_Vada_Recipe",
         "Batata Vada": "Batata_Vada_Recipe",
         "Khaman Dhokla": "Khaman_Dhokla_Recipe",
         "Besan Chilla": "Besan_Chilla_Recipe",
@@ -22,7 +22,7 @@
         "Peanut Chutney": "Peanut_Chutney_Recipe",
         "Coriander Chutney": "Coriander_Chutney_Recipe",
         "Garlic Chutney": "Garlic_Chutney_Recipe",
-        "Red Chili Chutney": "Red_Chili_Chutney_Recipe",
+        "Red Chili Chutney": "Red_Chilli_Chutney_Recipe",
         "Curd": "Curd_Recipe",
         "Pickle": "Pickle_Recipe",
         "Masala Aloo": "Masala_Aloo_Recipe",

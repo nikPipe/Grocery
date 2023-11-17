@@ -1,0 +1,148 @@
+{
+    "id": "Kheer_Recipe",
+    "name": "Kheer",
+    "origin": "India",
+    "history": "Kheer, also known as Payasam in South India, is an ancient Indian dessert, with references dating back to ancient texts. It is a staple in Indian cuisine and is often served during festivals and celebrations.",
+    "description": "Kheer is a creamy and delicious rice pudding made with rice, milk, sugar, and flavored with cardamom, nuts, and raisins. It's a comforting dessert, loved for its simplicity and rich taste.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "40"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": ["Dessert"],
+    "equipment": [
+        {
+            "name": "heavy-bottomed pot",
+            "description": "For cooking the kheer."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "basmati rice",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "milk",
+            "quantity": "1 liter",
+            "weight": {
+                "value": "1000",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cardamom pods",
+            "quantity": "3-4",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "raisins",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "20",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "almonds",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "20",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "saffron strands",
+            "quantity": "a few",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Rinse the Rice",
+            "description": "Rinse the basmati rice under cold water until the water runs clear. Drain well."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Kheer",
+            "description": "In a heavy-bottomed pot, combine the rinsed rice and milk. Bring to a boil, then reduce the heat to low and simmer. Stir frequently to prevent sticking."
+        },
+        {
+            "step": "3",
+            "title": "Add Flavorings",
+            "description": "Once the rice is cooked and the milk has thickened, add sugar, crushed cardamom pods, raisins, and almonds. If using, add saffron strands for color and flavor."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Cook until the mixture reaches a creamy consistency. Remove from heat and let it cool slightly. Serve warm or chilled, garnished with additional nuts or dried fruits."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per serving",
+        "carbohydrates": "45g",
+        "protein": "8g",
+        "fat": "5g",
+        "fiber": "1g",
+        "sugar": "25g"
+    },
+    "tips": [
+        "Stirring constantly is key to preventing the rice from sticking to the bottom of the pot.",
+        "For a vegan version, substitute dairy milk with almond or coconut milk."
+    ],
+    "variations": [
+        "Apple Kheer: Add grated apple during cooking for a fruity twist.",
+        "Chocolate Kheer: Stir in cocoa powder or melted chocolate for a chocolatey version."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container and refrigerate. Stir well before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat gently on the stove or in the microwave, adding a little milk if needed to adjust consistency."
+    ],
+    "presentationTips": [
+        "Serve in individual bowls garnished with a sprinkle of ground cardamom or saffron strands.",
+        "Garnish with a few almond slices and a mint leaf for a decorative touch."
+    ],
+    "keywords": [
+        "Kheer",
+        "Indian Rice Pudding",
+        "Dessert"
+    ],
+    "allergens": [
+        "Dairy, Nuts"
+    ]
+}

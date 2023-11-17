@@ -9,7 +9,7 @@
         "Upma": "Upma_Recipe",
         "Idli": "Idli_Recipe",
         "Dosa": "Dosa_Recipe",
-        "Poori Bhaji": "Poori_Bhaji_Recipe",
+        "Poori Bhaji": "Puri_Bhaji_Recipe",
         "Rava Dosa": "Rava_Dosa_Recipe",
         "Sabudana Khichdi": "Sabudana_Khichdi_Recipe",
         "Masala Dosa": "Masala_Dosa_Recipe",
@@ -19,13 +19,13 @@
     "side": {
       "default": {"name": "Coconut Chutney", "id": "Coconut_Chutney_Recipe"},
       "variations": {
-        "Sambhar": "Sambhar_Recipe",
+        "Sambhar": "Sambar_Recipe",
         "Mint Chutney": "Mint_Chutney_Recipe",
         "Tomato Chutney": "Tomato_Chutney_Recipe",
         "Green Chutney": "Green_Chutney_Recipe",
         "Tamarind Chutney": "Tamarind_Chutney_Recipe",
         "Mixed Pickle": "Mixed_Pickle_Recipe",
-        "Yogurt": "Yogurt_Recipe",
+        "Yogurt": "Curd_Recipe",
         "Aloo Sabzi": "Aloo_Sabzi_Recipe",
         "Chana Masala": "Chana_Masala_Recipe"
       }

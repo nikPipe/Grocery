@@ -1,0 +1,190 @@
+{
+    "id": "Rasmalai_Recipe",
+    "name": "Rasmalai",
+    "origin": "India",
+    "history": "Rasmalai, originally from Bengal, is a beloved Indian dessert. It's a relatively modern addition to the Indian sweets repertoire, gaining popularity for its delicate flavors and creamy texture.",
+    "description": "Rasmalai consists of soft paneer balls (chhena) soaked in malai (clotted cream) flavored with cardamom and saffron. It's known for its rich, creamy taste and melt-in-the-mouth texture.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": ["Dessert"],
+    "equipment": [
+        {
+            "name": "large pot",
+            "description": "For boiling the milk and cooking the paneer balls."
+        },
+        {
+            "name": "muslin cloth",
+            "description": "For straining the chhena."
+        },
+        {
+            "name": "saucepan",
+            "description": "For preparing the flavored milk."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "milk",
+            "quantity": "1 liter for chhena",
+            "weight": {
+                "value": "1000",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "for boiling chhena balls",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 cup for syrup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "milk",
+            "quantity": "1 liter for malai",
+            "weight": {
+                "value": "1000",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1/4 cup for malai",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cardamom powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "saffron strands",
+            "quantity": "a few",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "pistachios",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "almonds",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Make the Chhena",
+            "description": "Boil 1 liter of milk. Add vinegar or lemon juice to curdle it. Once curdled, strain the milk solids (chhena) using a muslin cloth."
+        },
+        {
+            "step": "2",
+            "title": "Prepare Chhena Balls",
+            "description": "Knead the chhena to make a smooth dough. Divide and shape into small, flat balls."
+        },
+        {
+            "step": "3",
+            "title": "Boil in Sugar Syrup",
+            "description": "Prepare a syrup with water and 1 cup of sugar. Boil the chhena balls in the syrup until they double in size."
+        },
+        {
+            "step": "4",
+            "title": "Prepare the Malai",
+            "description": "In another pot, boil 1 liter of milk, reducing it to half. Add 1/4 cup of sugar, cardamom powder, and saffron. Simmer until it thickens."
+        },
+        {
+            "step": "5",
+            "title": "Soak the Chhena",
+            "description": "Place the cooked chhena balls in the thickened milk (malai). Let them soak for a few hours in the refrigerator."
+        },
+        {
+            "step": "6",
+            "title": "Garnish and Serve",
+            "description": "Serve the rasmalai chilled, garnished with chopped pistachios and almonds."
+        }
+    ],
+    "nutrition": {
+        "calories": "350 per serving",
+        "carbohydrates": "40g",
+        "protein": "15g",
+        "fat": "15g",
+        "fiber": "1g",
+        "sugar": "35g"
+    },
+    "tips": [
+        "Ensure the chhena is not over-kneaded; it should be just smooth enough to form balls.",
+        "The malai should be thick enough to coat the back of a spoon."
+    ],
+    "variations": [
+        "Rose Rasmalai: Add rose water and a few drops of rose essence for a floral flavor.",
+        "Kesar Rasmalai: Increase the amount of saffron for a rich saffron flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be stored in the refrigerator for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Not applicable, as rasmalai is served chilled."
+    ],
+    "presentationTips": [
+        "Serve in individual bowls, garnished with dried rose petals for an elegant touch.",
+        "Pair with a hot beverage like masala chai for a delightful contrast."
+    ],
+    "keywords": [
+        "Rasmalai",
+        "Indian Dessert",
+        "Paneer Sweet"
+    ],
+    "allergens": [
+        "Dairy, Nuts"
+    ]
+}
