@@ -5,7 +5,9 @@
     "history": "Veg Handi is a traditional Indian dish cooked in a 'Handi,' a deep and wide-mouthed cooking vessel. It's known for its rich, creamy texture and the blend of spices and vegetables.",
     "description": "Veg Handi is a delicious mix of various vegetables cooked in a creamy gravy. The dish combines a variety of spices and ingredients to create a rich and flavorful curry, often served with Indian bread or rice.",
     "servings": "1",
-    "dietTypes": ["Vegetarian"],
+    "dietTypes": [
+        "Vegetarian"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +22,10 @@
             "value": "50"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "handi or heavy-bottomed pot",
@@ -205,13 +210,13 @@
         },
         {
             "step": "2",
-            "title": "Sauté Onions and Spices",
-            "description": "Heat oil in a handi or heavy-bottomed pot. Add cumin seeds and let them splutter. Then, add the finely chopped onions and sauté until they turn translucent. Stir in the ginger-garlic paste and sauté for another minute."
+            "title": "Saut\u00c3\u00a9 Onions and Spices",
+            "description": "Heat oil in a handi or heavy-bottomed pot. Add cumin seeds and let them splutter. Then, add the finely chopped onions and saut\u00c3\u00a9 until they turn translucent. Stir in the ginger-garlic paste and saut\u00c3\u00a9 for another minute."
         },
         {
             "step": "3",
             "title": "Add Vegetables and Spices",
-            "description": "Add the prepared vegetables to the pot. Sprinkle turmeric powder, coriander powder, red chili powder, and salt over the vegetables. Sauté for 5-7 minutes."
+            "description": "Add the prepared vegetables to the pot. Sprinkle turmeric powder, coriander powder, red chili powder, and salt over the vegetables. Saut\u00c3\u00a9 for 5-7 minutes."
         },
         {
             "step": "4",

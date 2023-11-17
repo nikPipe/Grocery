@@ -5,7 +5,10 @@
     "history": "Peanut Chutney is a popular condiment in South Indian cuisine, particularly in Andhra Pradesh and Tamil Nadu. It's made from roasted peanuts and is known for its creamy texture and nutty flavor. This chutney is a common accompaniment to breakfast items like idli and dosa.",
     "description": "Peanut Chutney is a smooth and flavorful dip made from roasted peanuts, combined with spices, tamarind, and garlic. It's a versatile chutney that complements various South Indian dishes, adding a rich and nutty dimension to meals.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,12 @@
             "value": "20"
         }
     },
-    "mealtime": ["Breakfast", "Lunch", "Dinner", "Snack"],
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner",
+        "Snack"
+    ],
     "equipment": [
         {
             "name": "pan",

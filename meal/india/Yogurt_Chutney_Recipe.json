@@ -5,7 +5,10 @@
     "history": "Yogurt Chutney, also known as Dahi Chutney, is a common accompaniment in Indian cuisine. This chutney is a blend of yogurt with herbs and spices, offering a cool and refreshing flavor. It's often served with biryanis, kebabs, and various snacks.",
     "description": "Yogurt Chutney is a creamy and flavorful condiment made with yogurt, mint, coriander, and a blend of spices. It's known for its cooling properties and is perfect for balancing the heat of spicy dishes.",
     "servings": "1",
-    "dietTypes": ["Vegetarian", "Gluten-Free"],
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,11 @@
             "value": "10"
         }
     },
-    "mealtime": ["Lunch", "Dinner", "Snack"],
+    "mealtime": [
+        "Lunch",
+        "Dinner",
+        "Snack"
+    ],
     "equipment": [
         {
             "name": "blender or food processor",

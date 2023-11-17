@@ -1,0 +1,125 @@
+{
+    "id": "Basic_Cooked_Rice_Recipe",
+    "name": "Basic Cooked Rice",
+    "origin": "Global",
+    "history": "Rice is a staple food in many cultures around the world. Its cultivation dates back thousands of years in multiple regions, including Asia, Africa, and the Americas.",
+    "description": "A simple and foundational recipe for cooking plain rice, which can be a base for various dishes or served as a side. It involves boiling rice in water until tender and fluffy.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Vegetarian", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "5"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "20"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "saucepan with lid",
+            "description": "For cooking the rice."
+        },
+        {
+            "name": "strainer",
+            "description": "For rinsing the rice before cooking."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Rinse the Rice",
+            "description": "Rinse the rice under cold water using a strainer until the water runs clear. This removes excess starch and prevents the rice from becoming sticky."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Rice",
+            "description": "In a saucepan, combine the rinsed rice, water, and a pinch of salt. Bring to a boil over medium-high heat."
+        },
+        {
+            "step": "3",
+            "title": "Simmer the Rice",
+            "description": "Once boiling, reduce the heat to low, cover the saucepan with a lid, and let the rice simmer for about 15 minutes, or until all the water is absorbed and the rice is tender."
+        },
+        {
+            "step": "4",
+            "title": "Rest and Fluff",
+            "description": "Remove the saucepan from heat and let it sit, covered, for 5 minutes. Then, fluff the rice with a fork to separate the grains."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the rice as a base for other dishes or as a side. It can be paired with a variety of sauces, vegetables, or proteins."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per serving",
+        "carbohydrates": "45g",
+        "protein": "4g",
+        "fat": "0.5g",
+        "fiber": "0.6g",
+        "sugar": "0.1g"
+    },
+    "tips": [
+        "For extra flavor, cook the rice in broth instead of water or add herbs and spices.",
+        "Leftover rice can be refrigerated and used in stir-fries or as a quick side dish."
+    ],
+    "variations": [
+        "Brown Rice: Use brown rice instead of white, but increase cooking time as needed.",
+        "Pilaf: Sauté rice with onions and garlic before boiling to add flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Refrigerate cooked rice in an airtight container and use within 3-4 days.",
+        "instructions": "Cool the rice quickly and refrigerate; reheat thoroughly before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat in a microwave or on the stove with a splash of water to add moisture back into the rice."
+    ],
+    "presentationTips": [
+        "Serve in a bowl or on a plate as a base for curries, stews, or stir-fries.",
+        "Garnish with chopped herbs for a fresh touch."
+    ],
+    "keywords": [
+        "Basic Rice",
+        "Staple Food",
+        "Simple Side Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

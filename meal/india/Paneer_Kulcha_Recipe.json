@@ -5,7 +5,9 @@
     "history": "Paneer Kulcha is a variation of the popular North Indian flatbread, Kulcha. Traditionally stuffed with spiced paneer (Indian cottage cheese), it's a favorite in many regions and is often enjoyed as a snack or a meal accompaniment.",
     "description": "Paneer Kulcha is a soft and fluffy flatbread stuffed with a spiced paneer filling. It's typically cooked on a tawa and can be served with chutney, curry, or enjoyed on its own.",
     "servings": "1",
-    "dietTypes": ["Vegetarian"],
+    "dietTypes": [
+        "Vegetarian"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +22,12 @@
             "value": "45"
         }
     },
-    "mealtime": ["Breakfast", "Lunch", "Dinner", "Snack"],
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner",
+        "Snack"
+    ],
     "equipment": [
         {
             "name": "mixing bowl",

@@ -5,7 +5,11 @@
     "history": "Chana Salad, made with chickpeas (chana), is a popular dish in Indian cuisine. It's known for its health benefits and is often enjoyed as a light meal or a nutritious side dish.",
     "description": "Chana Salad is a refreshing and healthy salad made with boiled chickpeas, fresh vegetables, and a blend of spices. It's a perfect balance of protein, fiber, and flavors, making it a popular choice for a healthy meal.",
     "servings": "1",
-    "dietTypes": ["Vegetarian", "Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +24,11 @@
             "value": "15"
         }
     },
-    "mealtime": ["Lunch", "Dinner", "Snack"],
+    "mealtime": [
+        "Lunch",
+        "Dinner",
+        "Snack"
+    ],
     "equipment": [
         {
             "name": "mixing bowl",

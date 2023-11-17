@@ -5,7 +5,10 @@
     "history": "Coriander Chutney, also known as Dhania Chutney, is a staple in Indian cuisine. This chutney is made from fresh coriander leaves and is known for its vibrant green color and refreshing taste. It's a versatile condiment used in various Indian dishes.",
     "description": "Coriander Chutney is a fresh and tangy condiment made from coriander leaves, green chilies, lemon juice, and a variety of spices. It's a popular accompaniment to snacks like samosas, sandwiches, and dosas, adding a burst of flavor to any dish.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,12 @@
             "value": "10"
         }
     },
-    "mealtime": ["Breakfast", "Lunch", "Dinner", "Snack"],
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner",
+        "Snack"
+    ],
     "equipment": [
         {
             "name": "blender",

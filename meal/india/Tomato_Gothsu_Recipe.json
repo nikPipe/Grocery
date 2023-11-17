@@ -5,7 +5,10 @@
     "history": "Tomato Gothsu is a popular South Indian dish, often served as an accompaniment with idli, dosa, or pongal. It originates from Tamil Nadu and is known for its simplicity and tangy flavor, primarily derived from tomatoes.",
     "description": "Tomato Gothsu is a tangy and mildly spiced dish made primarily with tomatoes, along with a simple tempering of spices. It's a smooth, soup-like dish that pairs well with various South Indian breakfast items and is favored for its easy preparation and comforting taste.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,10 @@
             "value": "30"
         }
     },
-    "mealtime": ["Breakfast", "Lunch"],
+    "mealtime": [
+        "Breakfast",
+        "Lunch"
+    ],
     "equipment": [
         {
             "name": "pan",

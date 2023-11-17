@@ -5,7 +5,9 @@
     "history": "Podi Dosa is a popular South Indian dish that combines the traditional dosa with a spicy and flavorful podi (spice mix). It's a favorite for its unique taste and the kick of heat from the podi.",
     "description": "Podi Dosa is a crispy crepe made from fermented rice and lentil batter, coated with a spicy and aromatic powder known as 'dosa podi' or 'gunpowder'. It is typically served with chutney and sambar.",
     "servings": "1",
-    "dietTypes": ["Vegetarian"],
+    "dietTypes": [
+        "Vegetarian"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +22,10 @@
             "value": "50 (excluding soaking and fermentation time)"
         }
     },
-    "mealtime": ["Breakfast", "Dinner"],
+    "mealtime": [
+        "Breakfast",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "griddle or tawa",

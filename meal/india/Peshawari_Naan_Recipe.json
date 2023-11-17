@@ -5,7 +5,9 @@
     "history": "Peshawari Naan is a sweet, stuffed naan originating from the Peshawar region of Pakistan. It's a popular variation of naan bread in Indian and Pakistani cuisines, known for its rich filling of dried fruits and nuts.",
     "description": "Peshawari Naan is a delicately sweet and nutty bread, stuffed with a mixture of dried fruits and nuts. It's typically baked in a tandoor or oven, resulting in a soft, fluffy bread with a crispy exterior and a rich, flavorful filling.",
     "servings": "1",
-    "dietTypes": ["Vegetarian"],
+    "dietTypes": [
+        "Vegetarian"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +22,10 @@
             "value": "45"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "mixing bowl",

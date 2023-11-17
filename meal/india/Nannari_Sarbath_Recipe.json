@@ -5,7 +5,10 @@
     "history": "Nannari Sarbath is a traditional South Indian beverage, particularly popular in Tamil Nadu and Kerala. It's made from the roots of the Nannari plant (Sarsaparilla), known for its cooling properties and health benefits, especially in the summer.",
     "description": "Nannari Sarbath is a refreshing drink prepared from Nannari syrup, which is made by boiling the roots of the Nannari plant with water and sugar. This drink is often served chilled with lemon juice and is known for its unique flavor and cooling effect.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,9 @@
             "value": "10"
         }
     },
-    "mealtime": ["Anytime"],
+    "mealtime": [
+        "Anytime"
+    ],
     "equipment": [
         {
             "name": "mixing glass or jar",
@@ -29,7 +34,7 @@
     ],
     "ingredients": [
         {
-            "item": "Nannari syrup",
+            "item": "nannari syrup",
             "quantity": "3 tablespoons",
             "weight": {
                 "value": "45",

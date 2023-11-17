@@ -5,7 +5,9 @@
     "history": "Ghee Roast Dosa is a popular South Indian dish known for its rich aroma and flavor, imparted by ghee (clarified butter). It's a favorite in many Indian households and restaurants.",
     "description": "Ghee Roast Dosa is a thin, crisp dosa cooked with ghee, giving it a distinct flavor and golden color. It's typically enjoyed with chutney and sambar.",
     "servings": "1",
-    "dietTypes": ["Vegetarian"],
+    "dietTypes": [
+        "Vegetarian"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +22,10 @@
             "value": "45 (excluding soaking and fermentation time)"
         }
     },
-    "mealtime": ["Breakfast", "Dinner"],
+    "mealtime": [
+        "Breakfast",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "griddle or tawa",

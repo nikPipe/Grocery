@@ -5,7 +5,10 @@
     "history": "Ginger Chutney, also known as Allam Pachadi, is a popular condiment in South Indian cuisine. It is particularly favored in Andhra Pradesh and Telangana. This chutney is known for its bold and spicy flavor, with ginger as the main ingredient.",
     "description": "Ginger Chutney is a spicy and tangy condiment made primarily from fresh ginger, tamarind, and jaggery. It is often accompanied by dishes such as idli, dosa, and vada. The chutney has a unique taste, balancing the sharpness of ginger with the sweetness of jaggery.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,12 @@
             "value": "35"
         }
     },
-    "mealtime": ["Breakfast", "Lunch", "Dinner", "Snack"],
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner",
+        "Snack"
+    ],
     "equipment": [
         {
             "name": "pan",
@@ -145,13 +153,13 @@
         },
         {
             "step": "2",
-            "title": "Sauté the Ginger",
-            "description": "In the same pan, add another teaspoon of oil and sauté the ginger until aromatic."
+            "title": "Saut\u00c3\u00a9 the Ginger",
+            "description": "In the same pan, add another teaspoon of oil and saut\u00c3\u00a9 the ginger until aromatic."
         },
         {
             "step": "3",
             "title": "Grind the Mixture",
-            "description": "In a blender, combine the roasted ingredients, sautéed ginger, tamarind paste, jaggery, asafoetida, and salt. Grind to a smooth paste, adding water as needed."
+            "description": "In a blender, combine the roasted ingredients, saut\u00c3\u00a9ed ginger, tamarind paste, jaggery, asafoetida, and salt. Grind to a smooth paste, adding water as needed."
         },
         {
             "step": "4",

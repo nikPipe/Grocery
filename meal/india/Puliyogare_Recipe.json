@@ -5,7 +5,10 @@
     "history": "Puliyogare, also known as Tamarind Rice, is a traditional South Indian dish particularly popular in Karnataka and Tamil Nadu. It's known for its tangy and spicy flavor, and it's often served during festivals and as prasadam in temples.",
     "description": "Puliyogare is a flavorful rice dish made with cooked rice, tamarind extract, and a specific Puliyogare masala comprising spices and peanuts. It's a balance of sour, sweet, and spicy flavors and is often enjoyed as a meal on its own.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,10 @@
             "value": "50"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "pan",
@@ -57,7 +63,7 @@
             }
         },
         {
-            "item": "Puliyogare masala",
+            "item": "puliyogare masala",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "30",
@@ -138,7 +144,7 @@
         {
             "step": "2",
             "title": "Prepare Tamarind Mixture",
-            "description": "In a pan, heat sesame oil. Add mustard seeds, asafoetida, dry red chilies, curry leaves, and peanuts. Sauté until the peanuts are roasted. Then add tamarind paste, Puliyogare masala, jaggery, and salt. Cook until the mixture thickens."
+            "description": "In a pan, heat sesame oil. Add mustard seeds, asafoetida, dry red chilies, curry leaves, and peanuts. Saut\u00c3\u00a9 until the peanuts are roasted. Then add tamarind paste, Puliyogare masala, jaggery, and salt. Cook until the mixture thickens."
         },
         {
             "step": "3",

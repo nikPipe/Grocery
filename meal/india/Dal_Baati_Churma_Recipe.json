@@ -1,0 +1,269 @@
+{
+    "id": "Dal_Baati_Churma_Recipe",
+    "name": "Dal Baati Churma",
+    "origin": "India",
+    "history": "Dal Baati Churma is a classic Rajasthani dish. It's a combination of spicy dal (lentil curry), baati (hard wheat rolls), and churma (sweetened crushed baati).",
+    "description": "This dish features three key components: dal made from mixed lentils, baati which are baked wheat rolls, and churma, a sweet dish made by crushing the baati and mixing it with ghee and sugar.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "60"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "90"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "oven",
+            "description": "For baking the baati."
+        },
+        {
+            "name": "pressure cooker",
+            "description": "For cooking the dal."
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough and dal mixture."
+        },
+        {
+            "name": "grinder or mortar and pestle",
+            "description": "For making the churma."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "toor dal",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "moong dal",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chana dal",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "masoor dal",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "whole wheat flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "semolina",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "baking powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "crushed baati",
+            "quantity": "from baked baatis",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "powdered sugar",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida (hing)",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dried red chilies",
+            "quantity": "2-3",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Dal",
+            "description": "Cook the mixed lentils with turmeric powder, salt, and water in a pressure cooker until soft. Prepare a tadka (tempering) with spices and add it to the cooked dal."
+        },
+        {
+            "step": "2",
+            "title": "Make Baati Dough",
+            "description": "Mix whole wheat flour, semolina, ghee, baking powder, and salt. Add water to knead into a stiff dough. Divide into small balls and bake in an oven until golden brown."
+        },
+        {
+            "step": "3",
+            "title": "Prepare Churma",
+            "description": "Crush the baked baatis into a fine mixture. Add ghee and powdered sugar to the crushed baatis and mix well."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the hot dal with baatis and sweet churma on the side. Typically, baatis are broken into pieces and dipped in ghee before eating with dal."
+        }
+    ],
+    "nutrition": {
+        "calories": "600 per serving",
+        "carbohydrates": "80g",
+        "protein": "20g",
+        "fat": "20g",
+        "fiber": "10g",
+        "sugar": "20g"
+    },
+    "tips": [
+        "Ensure the dal is not too watery; it should have a thick consistency.",
+        "The baatis should be crisp on the outside and soft on the inside."
+    ],
+    "variations": [
+        "Add different types of lentils to the dal for variation.",
+        "For churma, you can add nuts and dry fruits for added texture and flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Baatis and churma can be stored for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat the dal and baatis separately on a stove or in a microwave."
+    ],
+    "presentationTips": [
+        "Serve in traditional earthenware for an authentic feel.",
+        "Garnish the dal with fresh coriander and accompany with slices of onion and lemon."
+    ],
+    "keywords": [
+        "Dal Baati Churma",
+        "Rajasthani Cuisine",
+        "Indian Traditional Dish"
+    ],
+    "allergens": [
+        "Gluten, Dairy"
+    ]
+}

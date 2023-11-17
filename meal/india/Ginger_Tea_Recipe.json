@@ -1,0 +1,128 @@
+{
+    "id": "Ginger_Tea_Recipe",
+    "name": "Ginger Tea",
+    "origin": "Global",
+    "history": "Ginger tea has roots in various cultures around the world, known for its medicinal properties. It's been used for centuries in Asian, Indian, and Arabic herbal traditions.",
+    "description": "Ginger tea is a simple yet invigorating beverage made from fresh ginger root. It's known for its pungent and spicy flavor and is often consumed for its health benefits, including soothing an upset stomach and reducing inflammation.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Vegetarian", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "5"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "15"
+        }
+    },
+    "mealtime": ["Anytime"],
+    "equipment": [
+        {
+            "name": "saucepan",
+            "description": "For boiling the water and brewing the tea."
+        },
+        {
+            "name": "strainer",
+            "description": "For straining the tea."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "ginger",
+            "quantity": "1-inch piece",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "honey",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Ginger",
+            "description": "Peel the ginger root and slice it thinly. This increases the surface area and maximizes the flavor extraction."
+        },
+        {
+            "step": "2",
+            "title": "Boil the Water",
+            "description": "In a saucepan, bring the water to a boil. Add the sliced ginger to the boiling water."
+        },
+        {
+            "step": "3",
+            "title": "Simmer",
+            "description": "Reduce the heat and let the ginger simmer in the water for about 10 minutes. This allows the ginger to infuse the water with its flavor and beneficial properties."
+        },
+        {
+            "step": "4",
+            "title": "Strain and Serve",
+            "description": "Strain the ginger slices from the water and pour the tea into a cup. Add honey or sugar and lemon juice if desired, to enhance the flavor."
+        }
+    ],
+    "nutrition": {
+        "calories": "10 per serving",
+        "carbohydrates": "2g",
+        "protein": "0g",
+        "fat": "0g",
+        "fiber": "0g",
+        "sugar": "1g (if honey or sugar is added)"
+    },
+    "tips": [
+        "For a stronger tea, simmer the ginger for a longer time.",
+        "Adding a pinch of black pepper can enhance ginger's health benefits."
+    ],
+    "variations": [
+        "Ginger Green Tea: Add a green tea bag during the last few minutes of simmering.",
+        "Iced Ginger Tea: Chill the brewed tea and serve over ice for a refreshing drink."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in a sealed container and reheat or serve chilled."
+    },
+    "reheatingInstructions": [
+        "Reheat gently on the stove or in a microwave, avoiding boiling."
+    ],
+    "presentationTips": [
+        "Serve in a clear mug to display the color of the tea.",
+        "Garnish with a slice of lemon or a sprig of mint for an elegant touch."
+    ],
+    "keywords": [
+        "Ginger Tea",
+        "Herbal Tea",
+        "Health Beverage"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

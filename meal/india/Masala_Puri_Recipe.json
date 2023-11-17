@@ -1,0 +1,168 @@
+{
+    "id": "Masala_Puri_Recipe",
+    "name": "Masala Puri",
+    "origin": "India",
+    "history": "Masala Puri is a popular snack in Indian cuisine, known for its spicy and flavorful taste. It's a variation of the classic puri, infused with spices.",
+    "description": "Masala Puri is a deep-fried Indian bread made from whole wheat flour and a blend of spices. It's crispy, flaky, and typically enjoyed with chutneys, curries, or as a snack.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough."
+        },
+        {
+            "name": "rolling pin",
+            "description": "For rolling out the puris."
+        },
+        {
+            "name": "deep frying pan or kadai",
+            "description": "For deep frying the puris."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "whole wheat flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ajwain",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for deep frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, combine the whole wheat flour, ajwain, red chili powder, turmeric powder, asafoetida, and salt. Gradually add water and knead to form a stiff dough. Let the dough rest for 15-20 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Roll and Cut the Puris",
+            "description": "Divide the dough into small portions. Roll each portion into a ball and then flatten it using a rolling pin to form a small, round puri."
+        },
+        {
+            "step": "3",
+            "title": "Deep Fry the Puris",
+            "description": "Heat oil in a deep frying pan or kadai. Once hot, slide the rolled puris into the oil. Fry them until they puff up and turn golden brown on both sides. Remove from oil and place on absorbent paper to remove excess oil."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Masala Puris hot as a snack or with a side of chutney, curry, or pickles."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "35g",
+        "protein": "5g",
+        "fat": "15g",
+        "fiber": "4g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "Ensure the oil is hot enough before frying the puris for them to puff up properly.",
+        "Do not overcrowd the pan while frying; fry the puris in batches."
+    ],
+    "variations": [
+        "Add different spices like garam masala or cumin powder for varied flavors.",
+        "Try using multigrain flour for a healthier version."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be stored in an airtight container for up to a week.",
+        "instructions": "Store in a cool, dry place."
+    },
+    "reheatingInstructions": [
+        "Reheat in an oven or on a pan for a few minutes until crisp."
+    ],
+    "presentationTips": [
+        "Serve on a colorful platter with a variety of chutneys for dipping.",
+        "Garnish with fresh coriander leaves or sliced onions for a fresh look."
+    ],
+    "keywords": [
+        "Masala Puri",
+        "Indian Snack",
+        "Spiced Flatbread"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

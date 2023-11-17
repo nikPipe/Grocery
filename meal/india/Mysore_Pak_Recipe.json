@@ -5,7 +5,9 @@
     "history": "Mysore Pak is a classic Indian sweet originating from Mysore, Karnataka. It was first created in the royal kitchens of the Mysore Palace. This rich sweet is made from gram flour, ghee, and sugar, known for its melt-in-the-mouth texture.",
     "description": "Mysore Pak is a popular South Indian sweet characterized by its dense yet crumbly texture. The sweet is made by cooking gram flour and sugar syrup in generous amounts of ghee, resulting in a deliciously aromatic and rich treat.",
     "servings": "1",
-    "dietTypes": ["Vegetarian"],
+    "dietTypes": [
+        "Vegetarian"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +22,9 @@
             "value": "45"
         }
     },
-    "mealtime": ["Dessert"],
+    "mealtime": [
+        "Dessert"
+    ],
     "equipment": [
         {
             "name": "heavy-bottomed pan",

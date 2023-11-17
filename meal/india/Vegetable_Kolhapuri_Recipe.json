@@ -5,7 +5,9 @@
     "history": "Vegetable Kolhapuri is a spicy and flavorful dish from the Kolhapur region in Maharashtra, India. Known for its fiery and bold flavors, it is a popular dish in Maharashtrian cuisine.",
     "description": "Vegetable Kolhapuri is a vibrant mix of vegetables cooked in a spicy masala. The dish includes a variety of vegetables and is spiced with a special Kolhapuri masala, making it a rich and hearty meal.",
     "servings": "1",
-    "dietTypes": ["Vegetarian"],
+    "dietTypes": [
+        "Vegetarian"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +22,10 @@
             "value": "50"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "pot",
@@ -105,7 +110,7 @@
             }
         },
         {
-            "item": "Kolhapuri masala",
+            "item": "kolhapuri masala",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "30",
@@ -188,8 +193,8 @@
     "instructions": [
         {
             "step": "1",
-            "title": "Sauté Vegetables",
-            "description": "Heat oil in a pot. Add cumin seeds, onions, and ginger-garlic paste. Sauté until onions turn golden. Add all the chopped vegetables and stir well."
+            "title": "Saut\u00c3\u00a9 Vegetables",
+            "description": "Heat oil in a pot. Add cumin seeds, onions, and ginger-garlic paste. Saut\u00c3\u00a9 until onions turn golden. Add all the chopped vegetables and stir well."
         },
         {
             "step": "2",

@@ -1,0 +1,205 @@
+{
+    "id": "Poha_Recipe",
+    "name": "Poha",
+    "origin": "India",
+    "history": "Poha is a traditional Indian breakfast dish made from flattened rice. It's popular for its lightness and quick preparation time.",
+    "description": "Poha is a nutritious snack prepared from flattened rice, seasoned with onions, mustard seeds, and a variety of spices and herbs.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "25"
+        }
+    },
+    "mealtime": [
+        "Breakfast"
+    ],
+    "equipment": [
+        {
+            "name": "skillet",
+            "imageURL": "",
+            "description": "A flat-bottomed pan used for frying, searing, and browning foods."
+        },
+        {
+            "name": "knife",
+            "imageURL": "",
+            "description": "Used for chopping vegetables."
+        },
+        {
+            "name": "cutting board",
+            "imageURL": "",
+            "description": "A durable board on which to place ingredients for cutting."
+        },
+        {
+            "name": "measuring cups and spoons",
+            "imageURL": "",
+            "description": "Used for accurately measuring ingredients."
+        },
+        {
+            "name": "colander",
+            "imageURL": "",
+            "description": "A bowl-shaped kitchen utensil with holes for draining liquids from food, used here for rinsing poha."
+        },
+        {
+            "name": "spatula",
+            "imageURL": "",
+            "description": "A broad, flat, flexible blade used to mix, spread, and lift material."
+        },
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "A bowl used for mixing ingredients."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "flattened rice",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "40",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1/4 cup, chopped",
+            "weight": {
+                "value": "25",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "1, chopped",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "4-5",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "as needed",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "1 tablespoon, chopped",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1/2 tablespoon",
+            "weight": {
+                "value": "8",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Ingredients",
+            "description": "Chop the onion, green chili, and coriander leaves. Measure out all other ingredients and have them ready."
+        },
+        {
+            "step": "2",
+            "title": "Rinse and Soften Poha",
+            "description": "Gently rinse the flattened rice in cold water until it softens. Drain the water and set it aside."
+        },
+        {
+            "step": "3",
+            "title": "Temper Spices",
+            "description": "Heat oil in the skillet, add mustard seeds. Once they start crackling, add chopped onions, green chilies, and curry leaves. Cook until onions are soft."
+        },
+        {
+            "step": "4",
+            "title": "Cook Poha",
+            "description": "Add turmeric powder and salt to the skillet. Then, mix in the softened poha. Stir gently and cook for 3-4 minutes."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Remove from heat. Add chopped coriander leaves and lemon juice. Mix gently and serve."
+        }
+    ],
+    "nutrition": {
+        "calories": 270,
+        "carbohydrates": "45g",
+        "protein": "6g",
+        "fat": "7g",
+        "saturatedFat": "3g",
+        "cholesterol": "0mg",
+        "sodium": "400mg",
+        "potassium": "300mg",
+        "fiber": "3g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Rinsing poha just until it softens is crucial, as over-soaking can make it mushy.",
+        "Adjust green chilies to suit your spice preference."
+    ],
+    "variations": [
+        "Add vegetables like peas, carrots, or potatoes for added nutrition."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Poha is best consumed fresh but can be refrigerated for up to 1 day. Reheat before serving.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on a stovetop until warm.",
+    "presentationTips": [
+        "Garnish with sev or freshly grated coconut for added flavor."
+    ],
+    "keywords": [
+        "poha",
+        "flattened rice",
+        "Indian breakfast"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

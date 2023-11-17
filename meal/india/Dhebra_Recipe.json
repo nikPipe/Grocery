@@ -1,0 +1,196 @@
+{
+    "id": "Dhebra_Recipe",
+    "name": "Dhebra",
+    "origin": "India",
+    "history": "Dhebra is a popular snack from the Gujarati cuisine, known for its nutritious value as it is made using millet flour and fresh fenugreek leaves.",
+    "description": "Dhebra is a type of Indian bread similar to paratha, made from millet flour (bajra) mixed with fresh fenugreek leaves (methi), spices, and yogurt. It's typically enjoyed as a tea-time snack or for breakfast.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough."
+        },
+        {
+            "name": "rolling pin",
+            "description": "For rolling out the dhebras."
+        },
+        {
+            "name": "griddle or tawa",
+            "description": "For cooking the dhebras."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "bajra flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek leaves",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "green chili paste",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger paste",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, combine bajra flour, chopped fenugreek leaves, yogurt, green chili paste, ginger paste, turmeric powder, coriander powder, cumin seeds, asafoetida, and salt. Gradually add water and knead to form a soft dough."
+        },
+        {
+            "step": "2",
+            "title": "Roll and Cook the Dhebras",
+            "description": "Divide the dough into small balls. Flatten each ball and roll it into a circle using a rolling pin. Heat a griddle or tawa and cook each dhebra with a little oil until it turns golden brown on both sides."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Serve the dhebras hot with chutney, yogurt, or pickles. They can also be enjoyed with a cup of tea."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per dhebra",
+        "carbohydrates": "30g",
+        "protein": "6g",
+        "fat": "6g",
+        "fiber": "4g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "The dough should be soft and pliable for the best results.",
+        "Adjust the amount of green chili and spices as per your taste."
+    ],
+    "variations": [
+        "Add grated vegetables like carrot or cabbage for a nutritious twist.",
+        "Experiment with different leafy greens like spinach or kale instead of fenugreek leaves."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh, but can be stored for up to a day.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat on a tawa or in a microwave for a few seconds until warm."
+    ],
+    "presentationTips": [
+        "Serve on a traditional Indian thali along with other Gujarati dishes.",
+        "Garnish with a side of fresh salad or lemon wedges."
+    ],
+    "keywords": [
+        "Dhebra",
+        "Gujarati Snack",
+        "Millet Flatbread"
+    ],
+    "allergens": [
+        "Gluten, Dairy"
+    ]
+}

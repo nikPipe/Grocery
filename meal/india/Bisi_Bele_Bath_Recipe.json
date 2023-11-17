@@ -5,7 +5,9 @@
     "history": "Bisi Bele Bath is a traditional Kannadiga dish from Karnataka, India. Its name literally means 'hot lentil rice' in Kannada. It's a hearty dish made from rice, lentils, vegetables, and a unique spice blend.",
     "description": "Bisi Bele Bath is a flavorful, spicy, and slightly tangy rice-based dish that combines rice, lentils (toor dal), assorted vegetables, and a special Bisi Bele Bath masala. It's often served with ghee, fried cashews, and accompanied by potato chips or papad.",
     "servings": "1",
-    "dietTypes": ["Vegetarian"],
+    "dietTypes": [
+        "Vegetarian"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +22,10 @@
             "value": "60"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "pressure cooker",
@@ -28,7 +33,7 @@
         },
         {
             "name": "pan",
-            "description": "For sautéing vegetables and spices."
+            "description": "For saut\u00c3\u00a9ing vegetables and spices."
         }
     ],
     "ingredients": [
@@ -89,7 +94,7 @@
             }
         },
         {
-            "item": "Bisi Bele Bath masala",
+            "item": "bisi bele bath masala",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "30",

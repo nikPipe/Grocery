@@ -1,0 +1,36 @@
+{
+  "name": "Indian Snack Selection",
+  "id": 7,
+  "menu": {
+    "snack": {
+      "default": {"name": "Baked Masala Peanuts", "id": "Baked_Masala_Peanuts_Recipe"},
+      "variations": {
+        "Ragi Chips": "Ragi_Chips_Recipe",
+        "Mixed Vegetable Cutlets": "Mixed_Vegetable_Cutlets_Recipe",
+        "Chana Chaat": "Chana_Chaat_Recipe",
+        "Kale Pakora": "Kale_Pakora_Recipe",
+        "Quinoa Dhokla": "Quinoa_Dhokla_Recipe",
+        "Corn Bhel": "Corn_Bhel_Recipe",
+        "Sweet Potato Tikki": "Sweet_Potato_Tikki_Recipe",
+        "Soya Kebab": "Soya_Kebab_Recipe",
+        "Puffed Rice Salad": "Puffed_Rice_Salad_Recipe",
+        "Grilled Paneer Sandwich": "Grilled_Paneer_Sandwich_Recipe"
+      }
+    },
+    "side": {
+      "default": {"name": "Green Chilli Thecha", "id": "Green_Chilli_Thecha_Recipe"},
+      "variations": {
+        "Kachumber Salad": "Kachumber_Salad_Recipe",
+        "Mango Mint Chutney": "Mango_Mint_Chutney_Recipe",
+        "Beetroot Raita": "Beetroot_Raita_Recipe",
+        "Masala Papad": "Masala_Papad_Recipe",
+        "Pudina Chutney": "Pudina_Chutney_Recipe",
+        "Carrot Peanut Salad": "Carrot_Peanut_Salad_Recipe",
+        "Lime Pickle": "Lime_Pickle_Recipe",
+        "Spiced Buttermilk": "Spiced_Buttermilk_Recipe",
+        "Chilli Garlic Sauce": "Chilli_Garlic_Sauce_Recipe",
+        "Tamarind Date Chutney": "Tamarind_Date_Chutney_Recipe"
+      }
+    }
+  }
+}

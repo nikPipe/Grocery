@@ -167,7 +167,9 @@
         "shelfLife": "Akki Roti is best enjoyed fresh but can be stored for up to 1 day.",
         "instructions": "Store in an airtight container and reheat on a tawa before serving."
     },
-    "reheatingInstructions": "Reheat on a tawa or in a microwave until warm.",
+    "reheatingInstructions": [
+        "Reheat on a tawa or in a microwave until warm."
+    ],
     "presentationTips": [
         "Garnish with a sprinkle of grated coconut or serve with a slice of lemon."
     ],

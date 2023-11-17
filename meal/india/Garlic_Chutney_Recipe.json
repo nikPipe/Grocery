@@ -5,7 +5,10 @@
     "history": "Garlic Chutney, also known as Lahsun Ki Chutney, is a popular condiment in Indian cuisine. It's especially common in the western states of India. This chutney is known for its bold flavor, primarily made from fresh garlic cloves and various spices.",
     "description": "Garlic Chutney is a spicy and flavorful condiment made with fresh garlic, red chilies, and a mix of other spices. It is often used in Indian street foods and as an accompaniment to main dishes, adding a pungent and spicy kick.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,12 @@
             "value": "15"
         }
     },
-    "mealtime": ["Breakfast", "Lunch", "Dinner", "Snack"],
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner",
+        "Snack"
+    ],
     "equipment": [
         {
             "name": "pan",

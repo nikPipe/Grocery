@@ -5,7 +5,10 @@
     "history": "Kootu is a staple dish in South Indian cuisine, particularly in Tamil Nadu and Kerala. It's a type of stew that combines lentils and vegetables, seasoned with a blend of spices and coconut. Kootu is known for its nutritious value and is often served with rice.",
     "description": "Kootu is a hearty and wholesome South Indian dish made with lentils, a variety of vegetables like pumpkin, bottle gourd, and snake gourd, and a spiced coconut paste. It's a semi-solid dish, rich in flavors and textures, typically served with rice or as a side dish.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,10 @@
             "value": "50"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "pot",

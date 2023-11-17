@@ -5,7 +5,10 @@
     "history": "Rasam is a traditional South Indian soup, originating from Tamil Nadu. It's known for its tangy and spicy flavor and is typically made with tamarind juice, tomatoes, and a variety of spices. It's a staple in South Indian meals and has several regional variations.",
     "description": "Rasam is a flavorful South Indian soup made with a base of tamarind juice or tomato, pepper, and other spices. It's light, tangy, and often served as an appetizer or with rice. Rasam is not only delicious but also considered beneficial for digestion.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,10 @@
             "value": "35"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "pot",

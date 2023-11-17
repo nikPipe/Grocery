@@ -1,0 +1,36 @@
+{
+  "name": "Indian Snack Collection",
+  "id": 9,
+  "menu": {
+    "snack": {
+      "default": {"name": "Mini Rava Uttapam", "id": "Mini_Rava_Uttapam_Recipe"},
+      "variations": {
+        "Bhel Puri": "Bhel_Puri_Recipe",
+        "Crispy Corn Chaat": "Crispy_Corn_Chaat_Recipe",
+        "Sabudana Vada": "Sabudana_Vada_Recipe",
+        "Dahi Puri": "Dahi_Puri_Recipe",
+        "Stuffed Mushroom Caps": "Stuffed_Mushroom_Caps_Recipe",
+        "Khaman Dhokla": "Khaman_Dhokla_Recipe",
+        "Veggie Sev Puri": "Veggie_Sev_Puri_Recipe",
+        "Paneer Pakora": "Paneer_Pakora_Recipe",
+        "Masala Papdi": "Masala_Papdi_Recipe",
+        "Mixed Veg Pakora": "Mixed_Veg_Pakora_Recipe"
+      }
+    },
+    "side": {
+      "default": {"name": "Cilantro Mint Chutney", "id": "Cilantro_Mint_Chutney_Recipe"},
+      "variations": {
+        "Spicy Garlic Chutney": "Spicy_Garlic_Chutney_Recipe",
+        "Cucumber Carrot Salad": "Cucumber_Carrot_Salad_Recipe",
+        "Sweet Imli Chutney": "Sweet_Imli_Chutney_Recipe",
+        "Onion Tomato Raita": "Onion_Tomato_Raita_Recipe",
+        "Pickled Green Chillies": "Pickled_Green_Chillies_Recipe",
+        "Coconut Garlic Chutney": "Coconut_Garlic_Chutney_Recipe",
+        "Mixed Bean Salad": "Mixed_Bean_Salad_Recipe",
+        "Roasted Pepper Salsa": "Roasted_Pepper_Salsa_Recipe",
+        "Spicy Peanut Chutney": "Spicy_Peanut_Chutney_Recipe",
+        "Green Mango Salad": "Green_Mango_Salad_Recipe"
+      }
+    }
+  }
+}

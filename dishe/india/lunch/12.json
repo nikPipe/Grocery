@@ -7,29 +7,27 @@
       "variations": {
         "Missi Roti": "Missi_Roti_Recipe",
         "Makki Ki Roti": "Makki_Ki_Roti_Recipe",
-        "Bejad Roti": 170,
+        "Bejad Roti": "Bejad_Roti_Recipe",
         "Jowar Roti": "Jowar_Roti_Recipe",
-        "Ker Sangri Paratha": 172,
+        "Ker Sangri Paratha": "Ker_Sangri_Paratha_Recipe",
         "Phulka": "Phulka_Recipe",
-        "Masala Puri": 174,
+        "Masala Puri": "Masala_Puri_Recipe",
         "Methi Thepla": "Methi_Thepla_Recipe",
-        "Dhebra": 176,
-        "Gatte Ki Sabzi": 177
+        "Dhebra": "Dhebra_Recipe"
       }
     },
     "curry": {
-      "default": {"name": "Dal Baati Churma", "id": 267},
+      "default": {"name": "Dal Baati Churma", "id": "Dal_Baati_Churma_Recipe"},
       "variations": {
-        "Gatte Ki Sabzi": 268,
-        "Kadhi": 269,
-        "Panchmel Dal": 270,
-        "Ker Sangri": 271,
-        "Govind Gatte": 272,
-        "Papad Ki Sabzi": 273,
-        "Rajasthani Kadhi": 274,
-        "Aloo Mangodi": 275,
-        "Mangodi Ki Sabzi": 276,
-        "Chana Dal Parantha": 277
+        "Gatte Ki Sabzi": "Gatte_Ki_Sabzi_Recipe",
+        "Kadhi": "Kadhi_Recipe",
+        "Panchmel Dal": "Panchmel_Dal_Recipe",
+        "Ker Sangri": "Ker_Sangri_Recipe",
+        "Govind Gatte": "Govind_Gatte_Recipe",
+        "Papad Ki Sabzi": "Papad_Ki_Sabzi_Recipe",
+        "Rajasthani Kadhi": "Rajasthani_Kadhi_Recipe",
+        "Aloo Mangodi": "Aloo_Mangodi_Recipe",
+        "Mangodi Ki Sabzi": "Mangodi_Ki_Sabzi_Recipe"
       }
     },
     "side": {
@@ -41,39 +39,39 @@
         "Raita": "Raita_Recipe",
         "Kachumber Salad": "Kachumber_Salad_Recipe",
         "Mint Chutney": "Mint_Chutney_Recipe",
-        "Mirchi Bada": 374,
-        "Pyaaz Kachori": 375,
+        "Mirchi Bada": "Mirchi_Bada_Recipe",
+        "Pyaaz Kachori": "Pyaaz_Kachori_Recipe",
         "Dahi Bhalla": "Dahi_Bhalla_Recipe",
         "Gobi Manchurian": "Gobi_Manchurian_Recipe"
       }
     },
     "rice": {
-      "default": {"name": "Khichdi", "id": 467},
+      "default": {"name": "Khichdi", "id": "Khichdi_Recipe"},
       "variations": {
-        "Gatte Ka Pulao": 468,
+        "Gatte Ka Pulao": "Gatte_Ka_Pulao_Recipe",
         "Jeera Rice": "Jeera_Rice_Recipe",
         "Vegetable Biryani": "Vegetable_Biryani_Recipe",
-        "Kabuli": 471,
-        "Plain Rice": 472,
+        "Kabuli": "Kabuli_Recipe",
+        "Plain Rice": "Basic_Cooked_Rice_Recipe",
         "Saffron Rice": "Saffron_Rice_Recipe",
         "Lemon Rice": "Lemon_Rice_Recipe",
-        "Curry Rice": 475,
+        "Curry Rice": "Curry_Rice_Recipe",
         "Tamarind Rice": "Tamarind_Rice_Recipe",
         "Coconut Rice": "Coconut_Rice_Recipe"
       }
     },
     "drink": {
-      "default": {"name": "Chaas", "id": 567},
+      "default": {"name": "Chaas", "id": "Buttermilk_Recipe"},
       "variations": {
-        "Masala Chaas": 568,
-        "Kesar Milk": 569,
+        "Masala Chaas": "Masala_Chaas_Recipe",
+        "Kesar Milk": "Kesar_Milk_Recipe",
         "Nimbu Pani": "Nimbu_Pani_Recipe",
         "Masala Tea": "Masala_Chai_Recipe",
-        "Ginger Tea": 572,
+        "Ginger Tea": "Ginger_Tea_Recipe",
         "Jaljeera": "Jal_Jeera_Recipe",
         "Rose Sherbat": "Rose_Sherbet_Recipe",
-        "Fruit Punch": 575,
-        "Kokum Sherbat": 576,
+        "Fruit Punch": "Fruit_Punch_Recipe",
+        "Kokum Sherbat": "Kokum_Sherbet_Recipe",
         "Sugarcane Juice": "Sugarcane_Juice_Recipe"
       }
     }

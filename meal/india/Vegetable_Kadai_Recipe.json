@@ -5,7 +5,9 @@
     "history": "Vegetable Kadai is a popular Indian dish known for its rich and aromatic gravy. It's traditionally cooked in a 'Kadai,' a type of wok commonly used in Indian cooking.",
     "description": "Vegetable Kadai is a vibrant and flavorful curry made with a mix of vegetables, cooked in a spicy tomato-based sauce and garnished with fresh herbs. It's a versatile dish that pairs well with rice or Indian breads.",
     "servings": "1",
-    "dietTypes": ["Vegetarian"],
+    "dietTypes": [
+        "Vegetarian"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +22,10 @@
             "value": "50"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "kadai or wok",
@@ -133,7 +138,7 @@
             }
         },
         {
-            "item": "Kasuri methi",
+            "item": "kasuri methi",
             "quantity": "1 teaspoon",
             "weight": {
                 "value": "2",
@@ -182,7 +187,7 @@
         {
             "step": "2",
             "title": "Cook the Vegetables",
-            "description": "Heat oil in a kadai or wok. Add cumin seeds and let them splutter. Add the chopped onions and sauté until they turn golden brown. Add ginger-garlic paste and stir for a minute."
+            "description": "Heat oil in a kadai or wok. Add cumin seeds and let them splutter. Add the chopped onions and saut\u00c3\u00a9 until they turn golden brown. Add ginger-garlic paste and stir for a minute."
         },
         {
             "step": "3",

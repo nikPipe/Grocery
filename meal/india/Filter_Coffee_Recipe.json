@@ -5,7 +5,9 @@
     "history": "South Indian Filter Coffee, also known as 'Kapi', is a popular beverage in Southern India. It is known for its unique brewing method using a metal filter and its strong, frothy texture.",
     "description": "Filter Coffee is a strong, milky coffee brewed with a special Indian filter. It's typically made with fresh roasted and ground coffee beans, mixed with chicory, and served hot with a distinct froth.",
     "servings": "1",
-    "dietTypes": ["Vegetarian"],
+    "dietTypes": [
+        "Vegetarian"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +22,10 @@
             "value": "15"
         }
     },
-    "mealtime": ["Breakfast", "Snack"],
+    "mealtime": [
+        "Breakfast",
+        "Snack"
+    ],
     "equipment": [
         {
             "name": "South Indian coffee filter",

@@ -1,0 +1,184 @@
+{
+    "id": "Mirchi_Bada_Recipe",
+    "name": "Mirchi Bada",
+    "origin": "India",
+    "history": "Mirchi Bada is a traditional snack from Rajasthan, India. It's a popular street food known for its spicy and savory flavors, typically made with large green chili peppers stuffed with spiced potato filling.",
+    "description": "Mirchi Bada consists of large green chilies stuffed with a spicy potato mixture, coated in gram flour batter, and deep-fried until golden. It's crispy on the outside, with a soft and flavorful interior.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": ["Snack"],
+    "equipment": [
+        {
+            "name": "frying pan",
+            "description": "For deep frying."
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the batter and filling."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "green chilies",
+            "quantity": "4-5",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "potato",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "400",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "gram flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for deep frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Filling",
+            "description": "Mix the mashed potatoes with cumin seeds, red chili powder, turmeric powder, asafoetida, chopped coriander leaves, and salt. Slit the green chilies and stuff them with this potato mixture."
+        },
+        {
+            "step": "2",
+            "title": "Make the Batter",
+            "description": "In a bowl, mix gram flour with water, a pinch of salt, and a little red chili powder to form a smooth batter."
+        },
+        {
+            "step": "3",
+            "title": "Fry the Mirchi Badas",
+            "description": "Heat oil in a frying pan. Dip the stuffed chilies in the batter, ensuring they are well coated, and deep fry them until golden and crisp."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Drain the Mirchi Badas on paper towels to remove excess oil. Serve hot with chutney or ketchup."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "35g",
+        "protein": "6g",
+        "fat": "16g",
+        "fiber": "5g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Choose large chilies that are not very spicy for a balanced flavor.",
+        "The batter should be neither too thick nor too thin to coat the chilies well."
+    ],
+    "variations": [
+        "Add finely chopped onions or grated cheese to the potato filling for a different taste.",
+        "Experiment with different types of chilies for varying levels of heat."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh. Not recommended for extended storage.",
+        "instructions": "If needed, store in an airtight container in the refrigerator and reheat in an oven or air fryer for best results."
+    },
+    "reheatingInstructions": [
+        "Reheat in an oven or air fryer until crisp."
+    ],
+    "presentationTips": [
+        "Serve on a platter with a side of mint or tamarind chutney.",
+        "Garnish with fresh coriander leaves or slices of lime for added freshness."
+    ],
+    "keywords": [
+        "Mirchi Bada",
+        "Indian Snack",
+        "Rajasthani Street Food"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

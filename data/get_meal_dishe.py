@@ -4,7 +4,7 @@ from dishe.india import lunch
 from meal import india
 import os, json
 
-
+from meal import india
 
 
 
@@ -37,6 +37,17 @@ def getIndiaLunchdish():
             luchDataList.append(data)
 
     return luchDataList
+
+
+def getAllMeal():
+    file = getFileNameFromImportedModule(india)
+    mealList = []
+    for each in os.listdir(file):
+        if each.endswith('.json'):
+            data = readjsonFile(file+'/'+each)
+            mealList.append(data)
+    return mealList
+
 
 
 

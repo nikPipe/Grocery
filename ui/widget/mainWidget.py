@@ -48,11 +48,11 @@ class mainWidget(QMainWindow):
         #HOME TAB
         tabWidget.addTab(self.home_widget, "Home")
         tabWidget.addTab(self.meal_widget, "Meal")
-        tabWidget.addTab(self.recepie_widget, "Recepie")
+        tabWidget.addTab(self.recepie_widget, "Dish")
         tabWidget.addTab(self.shopping_widget, "Shopping")
         tabWidget.addTab(self.profile_widget, "Profile")
 
-        tabWidget.setCurrentIndex(2)
+        tabWidget.setCurrentIndex(3)
 
 
 

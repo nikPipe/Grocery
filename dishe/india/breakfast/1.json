@@ -1,0 +1,62 @@
+{
+  "name": "Indian Vegetarian Breakfast Menu",
+  "id": 1,
+  "menu": {
+    "main": {
+      "default": {"name": "Aloo Paratha", "id": "Aloo_Paratha_Recipe"},
+      "variations": {
+        "Poha": "Poha_Recipe",
+        "Upma": "Upma_Recipe",
+        "Idli": "Idli_Recipe",
+        "Dosa": "Dosa_Recipe",
+        "Poori Bhaji": "Poori_Bhaji_Recipe",
+        "Rava Dosa": "Rava_Dosa_Recipe",
+        "Sabudana Khichdi": "Sabudana_Khichdi_Recipe",
+        "Masala Dosa": "Masala_Dosa_Recipe",
+        "Chole Bhature": "Chole_Bhature_Recipe"
+      }
+    },
+    "side": {
+      "default": {"name": "Coconut Chutney", "id": "Coconut_Chutney_Recipe"},
+      "variations": {
+        "Sambhar": "Sambhar_Recipe",
+        "Mint Chutney": "Mint_Chutney_Recipe",
+        "Tomato Chutney": "Tomato_Chutney_Recipe",
+        "Green Chutney": "Green_Chutney_Recipe",
+        "Tamarind Chutney": "Tamarind_Chutney_Recipe",
+        "Mixed Pickle": "Mixed_Pickle_Recipe",
+        "Yogurt": "Yogurt_Recipe",
+        "Aloo Sabzi": "Aloo_Sabzi_Recipe",
+        "Chana Masala": "Chana_Masala_Recipe"
+      }
+    },
+    "beverage": {
+      "default": {"name": "Masala Chai", "id": "Masala_Chai_Recipe"},
+      "variations": {
+        "Filter Coffee": "Filter_Coffee_Recipe",
+        "Lassi": "Lassi_Recipe",
+        "Milk": "Milk_Recipe",
+        "Buttermilk": "Buttermilk_Recipe",
+        "Ginger Tea": "Ginger_Tea_Recipe",
+        "Black Tea": "Black_Tea_Recipe",
+        "Green Tea": "Green_Tea_Recipe",
+        "Lemonade": "Lemonade_Recipe",
+        "Orange Juice": "Orange_Juice_Recipe"
+      }
+    },
+    "sweet": {
+      "default": {"name": "Jalebi", "id": "Jalebi_Recipe"},
+      "variations": {
+        "Gulab Jamun": "Gulab_Jamun_Recipe",
+        "Rasgulla": "Rasgulla_Recipe",
+        "Kheer": "Kheer_Recipe",
+        "Halwa": "Halwa_Recipe",
+        "Rasmalai": "Rasmalai_Recipe",
+        "Barfi": "Barfi_Recipe",
+        "Peda": "Peda_Recipe",
+        "Ladoo": "Ladoo_Recipe",
+        "Shrikhand": "Shrikhand_Recipe"
+      }
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+    "id": "Rajasthani_Kadhi_Recipe",
+    "name": "Rajasthani Kadhi",
+    "origin": "India",
+    "history": "Rajasthani Kadhi is a part of Rajasthani cuisine, known for its spicy and tangy taste. It differs from other regional variations of Kadhi in India due to its distinct preparation and flavor.",
+    "description": "This version of Kadhi is a yogurt-based curry made with gram flour, spices, and often includes pakoras (fried fritters). It's known for its comforting and tangy flavor, usually served with rice or chapati.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the yogurt mixture."
+        },
+        {
+            "name": "pan",
+            "description": "For cooking the kadhi."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "sour yogurt",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "250",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "gram flour",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1.25",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "10-12",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "3 cups",
+            "weight": {
+                "value": "720",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cilantro",
+            "quantity": "Variable",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Kadhi Mixture",
+            "description": "In a mixing bowl, whisk together sour yogurt, gram flour, turmeric powder, red chili powder, and water until smooth."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Tadka",
+            "description": "Heat ghee in a pan. Add mustard seeds, cumin seeds, fenugreek seeds, asafoetida, and curry leaves. Let them splutter."
+        },
+        {
+            "step": "3",
+            "title": "Simmer the Kadhi",
+            "description": "Add the yogurt mixture to the pan. Bring to a boil, then simmer on low heat for about 30 minutes, stirring occasionally. Season with salt."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Garnish with fresh cilantro. Serve hot with rice or chapati."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per serving",
+        "carbohydrates": "20g",
+        "protein": "8g",
+        "fat": "10g",
+        "fiber": "2g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Make sure the kadhi is not too thick or thin; adjust the consistency with water.",
+        "Continuously stir the kadhi while cooking to prevent it from curdling."
+    ],
+    "variations": [
+        "Add pakoras (fried gram flour fritters) to the kadhi for a heartier dish.",
+        "For a spicier kadhi, increase the amount of red chili powder."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave, stirring occasionally."
+    ],
+    "presentationTips": [
+        "Serve in a traditional Indian serving bowl, garnished with cilantro.",
+        "Accompany with a side of steamed basmati rice or warm flatbread."
+    ],
+    "keywords": [
+        "Rajasthani Kadhi",
+        "Indian Yogurt Curry",
+        "Vegetarian Dish"
+    ],
+    "allergens": [
+        "Dairy, Gluten (if served with bread)"
+    ]
+}

@@ -1,0 +1,193 @@
+{
+    "id": "Papad_Ki_Sabzi_Recipe",
+    "name": "Papad Ki Sabzi",
+    "origin": "India",
+    "history": "Papad Ki Sabzi is a unique dish from the desert state of Rajasthan. It's a creative use of papadum, a type of Indian flatbread, made into a curry, often prepared in regions with scarce fresh vegetables.",
+    "description": "This dish is a quick and flavorful curry made using papadums (thin, crispy Indian flatbreads) as the main ingredient. The papadums are broken into pieces and cooked in a tangy yogurt-based gravy with spices.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the sabzi."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "papadums",
+            "quantity": "2-3",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "250",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "gram flour)",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cilantro",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Yogurt Mixture",
+            "description": "Whisk together yogurt, gram flour, turmeric powder, red chili powder, and a little water to make a smooth mixture."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Spices",
+            "description": "Heat oil in a pan. Add cumin seeds, mustard seeds, and asafoetida. Once they splutter, pour in the yogurt mixture."
+        },
+        {
+            "step": "3",
+            "title": "Simmer the Curry",
+            "description": "Bring the mixture to a boil, then reduce the heat and simmer until it thickens. Season with salt."
+        },
+        {
+            "step": "4",
+            "title": "Add the Papadums",
+            "description": "Break the papadums into pieces and add them to the curry. Cook for an additional 2-3 minutes."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Garnish with fresh cilantro. Serve hot with rice or Indian bread."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per serving",
+        "carbohydrates": "25g",
+        "protein": "6g",
+        "fat": "8g",
+        "fiber": "2g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Do not overcook the papadums in the curry to maintain their texture.",
+        "Adjust the amount of red chili powder according to your spice preference."
+    ],
+    "variations": [
+        "Add chopped tomatoes or onions for extra flavor.",
+        "For a different taste, try using different types of papadums."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh, but can be refrigerated for up to 1 day.",
+        "instructions": "Store in an airtight container and reheat gently before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave, being careful not to overheat."
+    ],
+    "presentationTips": [
+        "Serve in a traditional Indian serving dish, garnished with fresh cilantro.",
+        "Pair with warm, buttered roti or steamed rice for a comforting meal."
+    ],
+    "keywords": [
+        "Papad Ki Sabzi",
+        "Rajasthani Cuisine",
+        "Indian Vegetarian Dish"
+    ],
+    "allergens": [
+        "Dairy, Gluten (if served with bread)"
+    ]
+}

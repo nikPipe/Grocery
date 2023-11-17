@@ -1,0 +1,170 @@
+{
+    "id": "Ker_Sangri_Paratha_Recipe",
+    "name": "Ker Sangri Paratha",
+    "origin": "India",
+    "history": "Ker Sangri Paratha is a unique dish from the Rajasthan region of India, combining the traditional flavors of ker sangri (a desert vegetable) with the staple Indian flatbread, paratha.",
+    "description": "This paratha is made by incorporating a spicy and tangy mix of ker sangri, a desert vegetable popular in Rajasthani cuisine, into the dough. The parathas are pan-fried to achieve a perfect blend of crispy and soft textures.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough and ker sangri mixture."
+        },
+        {
+            "name": "rolling pin",
+            "description": "For rolling out the parathas."
+        },
+        {
+            "name": "frying pan or tawa",
+            "description": "For cooking the parathas."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "whole wheat flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ker sangri",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "amchur",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Ker Sangri Mixture",
+            "description": "Soak the dried ker sangri in water for about 2 hours. Drain and mix with red chili powder, coriander powder, amchur, and salt."
+        },
+        {
+            "step": "2",
+            "title": "Make the Dough",
+            "description": "In a mixing bowl, combine the whole wheat flour with the ker sangri mixture. Gradually add water and knead to form a soft dough."
+        },
+        {
+            "step": "3",
+            "title": "Roll and Cook the Parathas",
+            "description": "Divide the dough into equal portions. Roll each portion into a ball and then flatten it using a rolling pin to form a round paratha. Heat a pan or tawa and cook each paratha with a little oil until golden brown on both sides."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Ker Sangri Parathas hot, accompanied by yogurt, pickle, or any curry of your choice."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per paratha",
+        "carbohydrates": "35g",
+        "protein": "6g",
+        "fat": "9g",
+        "fiber": "5g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Ensure the ker sangri is well soaked and softened before using.",
+        "Adjust the spices as per your taste preference."
+    ],
+    "variations": [
+        "Add finely chopped onions or garlic to the dough for additional flavor.",
+        "Experiment with other Rajasthani spices for different variations."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh, but can be stored for up to 1 day.",
+        "instructions": "Store in an airtight container at room temperature."
+    },
+    "reheatingInstructions": [
+        "Reheat on a pan for a few minutes until warm."
+    ],
+    "presentationTips": [
+        "Serve on a traditional Indian thali for an authentic presentation.",
+        "Garnish with fresh coriander leaves or a side of fresh salad."
+    ],
+    "keywords": [
+        "Ker Sangri Paratha",
+        "Rajasthani Cuisine",
+        "Indian Flatbread"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

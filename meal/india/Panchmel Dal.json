@@ -1,0 +1,224 @@
+{
+    "id": "Panchmel_Dal_Recipe",
+    "name": "Panchmel Dal",
+    "origin": "India",
+    "history": "Panchmel Dal, also known as Panchkuti Dal, is a staple in Rajasthani cuisine. It's a combination of five different lentils, making it a rich and nutritious dish.",
+    "description": "This dal is a flavorful blend of five types of lentils, cooked with various spices. It's known for its unique taste and is commonly served with Indian bread or rice.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pressure cooker",
+            "description": "For cooking the lentils."
+        },
+        {
+            "name": "pan",
+            "description": "For preparing the tadka (tempering)."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "toor dal",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "moong dal",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chana dal",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "masoor dal",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "dry red chilies",
+            "quantity": "1-2",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garlic cloves",
+            "quantity": "1-2",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "500",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cilantro",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Cook the Lentils",
+            "description": "Rinse all the lentils and soak them for 30 minutes. Drain and transfer to a pressure cooker. Add turmeric powder, salt, and water. Cook until the lentils are soft and mushy."
+        },
+        {
+            "step": "2",
+            "title": "Prepare the Tadka",
+            "description": "Heat ghee in a pan. Add mustard seeds, cumin seeds, asafoetida, dry red chilies, chopped garlic, and grated ginger. Sauté until they start to crackle and the garlic turns golden brown."
+        },
+        {
+            "step": "3",
+            "title": "Combine and Simmer",
+            "description": "Pour the tadka over the cooked lentils. Stir well and simmer for a few minutes. Adjust the consistency by adding water if needed."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with rice or Indian bread."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "40g",
+        "protein": "15g",
+        "fat": "10g",
+        "fiber": "8g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Ensure the lentils are well-cooked for a creamy texture.",
+        "The tadka (tempering) is crucial for flavor, so don't rush it."
+    ],
+    "variations": [
+        "Add chopped onions and tomatoes to the tadka for a different flavor profile.",
+        "For a vegan version, use oil instead of ghee."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be stored in the refrigerator for up to 3 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave, adding a little water if the dal has thickened."
+    ],
+    "presentationTips": [
+        "Serve in a traditional bowl, garnished with fresh cilantro.",
+        "Accompany with a slice of lemon or lime for extra zest."
+    ],
+    "keywords": [
+        "Panchmel Dal",
+        "Indian Lentil Curry",
+        "Rajasthani Cuisine"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

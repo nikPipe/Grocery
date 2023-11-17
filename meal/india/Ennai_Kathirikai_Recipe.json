@@ -5,7 +5,10 @@
     "history": "Ennai Kathirikai is a traditional South Indian dish originating from Tamil Nadu. It's a popular curry made with small brinjals, commonly known as eggplants, which are stuffed with a spicy mixture and simmered in tamarind gravy.",
     "description": "Ennai Kathirikai is a flavorful brinjal (eggplant) curry where the brinjals are slit and stuffed with a spicy masala, then cooked in a tangy tamarind sauce. This dish is famous for its distinct flavors and is often served with rice.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,10 @@
             "value": "50"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "pan",
@@ -152,7 +158,7 @@
         {
             "step": "4",
             "title": "Cook the Brinjals",
-            "description": "Heat oil in a pan. Add mustard seeds, urad dal, fenugreek seeds, dry red chilies, asafoetida, and curry leaves. Add the stuffed brinjals and sauté gently."
+            "description": "Heat oil in a pan. Add mustard seeds, urad dal, fenugreek seeds, dry red chilies, asafoetida, and curry leaves. Add the stuffed brinjals and saut\u00c3\u00a9 gently."
         },
         {
             "step": "5",

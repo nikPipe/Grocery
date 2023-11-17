@@ -5,7 +5,10 @@
     "history": "Tomato Chutney is a popular condiment in Indian cuisine, known for its tangy and spicy flavor. It's a versatile accompaniment that pairs well with many Indian dishes like dosas, idlis, and chapatis. Each region in India has its own version of this chutney.",
     "description": "Tomato Chutney is a tangy and spicy condiment made with tomatoes, onions, and a variety of spices. It's a staple in Indian households and is often prepared fresh. This chutney adds a flavorful kick to meals and snacks.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,12 @@
             "value": "30"
         }
     },
-    "mealtime": ["Breakfast", "Lunch", "Dinner", "Snack"],
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner",
+        "Snack"
+    ],
     "equipment": [
         {
             "name": "pan",
@@ -116,8 +124,8 @@
     "instructions": [
         {
             "step": "1",
-            "title": "Sauté Onions and Spices",
-            "description": "Heat oil in a pan. Add mustard seeds, urad dal, curry leaves, and garlic. Once the mustard seeds start to crackle, add onions and green chilies. Sauté until onions turn translucent."
+            "title": "Saut\u00c3\u00a9 Onions and Spices",
+            "description": "Heat oil in a pan. Add mustard seeds, urad dal, curry leaves, and garlic. Once the mustard seeds start to crackle, add onions and green chilies. Saut\u00c3\u00a9 until onions turn translucent."
         },
         {
             "step": "2",

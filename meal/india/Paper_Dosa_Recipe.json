@@ -5,7 +5,9 @@
     "history": "Paper Dosa is a thinner and crisper version of the traditional South Indian dosa. It is known for its large size, thin texture, and light weight, resembling a sheet of paper.",
     "description": "Paper Dosa is an ultra-thin and crisp dosa made from a fermented rice and lentil batter. It's larger and thinner than regular dosas and is often served as a wrap with various fillings.",
     "servings": "1",
-    "dietTypes": ["Vegetarian"],
+    "dietTypes": [
+        "Vegetarian"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +22,10 @@
             "value": "50"
         }
     },
-    "mealtime": ["Breakfast", "Dinner"],
+    "mealtime": [
+        "Breakfast",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "large griddle or tawa",

@@ -1,0 +1,62 @@
+{
+  "name": "Indian Street Food Breakfast Menu",
+  "id": 4,
+  "menu": {
+    "main": {
+      "default": {"name": "Samosa", "id": "Samosa_Recipe"},
+      "variations": {
+        "Aloo Tikki": "Aloo_Tikki_Recipe",
+        "Vada Pav": "Vada_Pav_Recipe",
+        "Pav Bhaji": "Pav_Bhaji_Recipe",
+        "Bhel Puri": "Bhel_Puri_Recipe",
+        "Pani Puri": "Pani_Puri_Recipe",
+        "Ragda Patties": "Ragda_Patties_Recipe",
+        "Momos": "Momos_Recipe",
+        "Kachori": "Kachori_Recipe",
+        "Dahi Puri": "Dahi_Puri_Recipe"
+      }
+    },
+    "side": {
+      "default": {"name": "Mint Chutney", "id": "Mint_Chutney_Recipe"},
+      "variations": {
+        "Tamarind Chutney": "Tamarind_Chutney_Recipe",
+        "Green Chilli Chutney": "Green_Chilli_Chutney_Recipe",
+        "Garlic Chutney": "Garlic_Chutney_Recipe",
+        "Onion Salad": "Onion_Salad_Recipe",
+        "Masala Peanuts": "Masala_Peanuts_Recipe",
+        "Pickle": "Pickle_Recipe",
+        "Mixed Vegetable Salad": "Mixed_Vegetable_Salad_Recipe",
+        "Raita": "Raita_Recipe",
+        "Sev": "Sev_Recipe"
+      }
+    },
+    "beverage": {
+      "default": {"name": "Masala Chai", "id": "Masala_Chai_Recipe"},
+      "variations": {
+        "Filter Coffee": "Filter_Coffee_Recipe",
+        "Lemon Tea": "Lemon_Tea_Recipe",
+        "Cutting Chai": "Cutting_Chai_Recipe",
+        "Sulaimani Tea": "Sulaimani_Tea_Recipe",
+        "Badam Milk": "Badam_Milk_Recipe",
+        "Ginger Tea": "Ginger_Tea_Recipe",
+        "Black Coffee": "Black_Coffee_Recipe",
+        "Hot Lemon Water": "Hot_Lemon_Water_Recipe",
+        "Buttermilk": "Buttermilk_Recipe"
+      }
+    },
+    "dessert": {
+      "default": {"name": "Gulab Jamun", "id": "Gulab_Jamun_Recipe"},
+      "variations": {
+        "Rasmalai": "Rasmalai_Recipe",
+        "Jalebi": "Jalebi_Recipe",
+        "Rabdi": "Rabdi_Recipe",
+        "Kaju Katli": "Kaju_Katli_Recipe",
+        "Kalakand": "Kalakand_Recipe",
+        "Peda": "Peda_Recipe",
+        "Besan Laddu": "Besan_Laddu_Recipe",
+        "Barfi": "Barfi_Recipe",
+        "Malpua": "Malpua_Recipe"
+      }
+    }
+  }
+}

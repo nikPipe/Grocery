@@ -1,0 +1,90 @@
+{
+  "name": "Indian Fusion Dinner Menu",
+  "id": 4,
+  "menu": {
+    "starter": {
+      "default": {"name": "Pani Puri", "id": "Pani_Puri_Recipe"},
+      "variations": {
+        "Keema Pav": "Keema_Pav_Recipe",
+        "Momos": "Momos_Recipe",
+        "Gobi Manchurian": "Gobi_Manchurian_Recipe",
+        "Mirchi Bajji": "Mirchi_Bajji_Recipe",
+        "Pav Bhaji": "Pav_Bhaji_Recipe",
+        "Dahi Vada": "Dahi_Vada_Recipe",
+        "Masala Vada": "Masala_Vada_Recipe",
+        "Chicken Lollipop": "Chicken_Lollipop_Recipe",
+        "Paneer 65": "Paneer_65_Recipe"
+      }
+    },
+    "main_course": {
+      "default": {"name": "Chicken Tikka Masala", "id": "Chicken_Tikka_Masala_Recipe"},
+      "variations": {
+        "Goan Fish Curry": "Goan_Fish_Curry_Recipe",
+        "Veg Kolhapuri": "Veg_Kolhapuri_Recipe",
+        "Hyderabadi Biryani": "Hyderabadi_Biryani_Recipe",
+        "Kerala Prawn Curry": "Kerala_Prawn_Curry_Recipe",
+        "Paneer Lababdar": "Paneer_Lababdar_Recipe",
+        "Laal Maas": "Laal_Maas_Recipe",
+        "Saag Meat": "Saag_Meat_Recipe",
+        "Vegetable Jalfrezi": "Vegetable_Jalfrezi_Recipe",
+        "Dum Aloo": "Dum_Aloo_Recipe"
+      }
+    },
+    "side_dish": {
+      "default": {"name": "Jeera Rice", "id": "Jeera_Rice_Recipe"},
+      "variations": {
+        "Dal Fry": "Dal_Fry_Recipe",
+        "Chana Masala": "Chana_Masala_Recipe",
+        "Rajma": "Rajma_Recipe",
+        "Aloo Methi": "Aloo_Methi_Recipe",
+        "Baingan Ka Bharta": "Baingan_Ka_Bharta_Recipe",
+        "Kadhi": "Kadhi_Recipe",
+        "Navratan Korma": "Navratan_Korma_Recipe",
+        "Palak Paneer": "Palak_Paneer_Recipe",
+        "Mushroom Masala": "Mushroom_Masala_Recipe"
+      }
+    },
+    "bread": {
+      "default": {"name": "Butter Naan", "id": "Butter_Naan_Recipe"},
+      "variations": {
+        "Garlic Naan": "Garlic_Naan_Recipe",
+        "Tandoori Roti": "Tandoori_Roti_Recipe",
+        "Roomali Roti": "Roomali_Roti_Recipe",
+        "Aloo Paratha": "Aloo_Paratha_Recipe",
+        "Onion Kulcha": "Onion_Kulcha_Recipe",
+        "Akki Roti": "Akki_Roti_Recipe",
+        "Missi Roti": "Missi_Roti_Recipe",
+        "Bhatura": "Bhatura_Recipe",
+        "Phulka": "Phulka_Recipe"
+      }
+    },
+    "dessert": {
+      "default": {"name": "Kulfi", "id": "Kulfi_Recipe"},
+      "variations": {
+        "Gajar Ka Halwa": "Gajar_Ka_Halwa_Recipe",
+        "Mango Shrikhand": "Mango_Shrikhand_Recipe",
+        "Rabri": "Rabri_Recipe",
+        "Sandesh": "Sandesh_Recipe",
+        "Peda": "Peda_Recipe",
+        "Basundi": "Basundi_Recipe",
+        "Ras Malai": "Ras_Malai_Recipe",
+        "Kaju Katli": "Kaju_Katli_Recipe",
+        "Sohan Papdi": "Sohan_Papdi_Recipe"
+      }
+    },
+    "beverage": {
+      "default": {"name": "Chai", "id": "Chai_Recipe"},
+      "variations": {
+        "Masala Tea": "Masala_Tea_Recipe",
+        "Lassi": "Lassi_Recipe",
+        "Rose Milk": "Rose_Milk_Recipe",
+        "Jal Jeera": "Jal_Jeera_Recipe",
+        "Badam Milk": "Badam_Milk_Recipe",
+        "Falooda": "Falooda_Recipe",
+        "Nimbu Pani": "Nimbu_Pani_Recipe",
+        "Kokum Sherbet": "Kokum_Sherbet_Recipe",
+        "Buttermilk": "Buttermilk_Recipe"
+      }
+    }
+  }
+}

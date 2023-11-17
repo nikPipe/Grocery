@@ -1,0 +1,211 @@
+{
+    "id": "Aloo_Mangodi_Recipe",
+    "name": "Aloo Mangodi",
+    "origin": "India",
+    "history": "Aloo Mangodi is a traditional dish from North India, particularly popular in Rajasthani and Gujarati cuisines. It combines sun-dried lentil dumplings (mangodi) with potatoes (aloo) in a flavorful curry.",
+    "description": "This dish is made with mangodi, small sun-dried lentil dumplings, and potatoes, cooked in a spicy and tangy gravy. It's a hearty and comforting dish, often served with rice or Indian bread.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "40"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "mangodi",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "40",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "potato",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cilantro",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Fry the Mangodi",
+            "description": "Heat oil in a pan, add the mangodi, and fry until they turn golden brown. Remove and set aside."
+        },
+        {
+            "step": "2",
+            "title": "Prepare the Curry",
+            "description": "In the same pan, add cumin seeds, mustard seeds, and asafoetida. Once they crackle, add chopped onions and ginger-garlic paste. Sauté until onions are golden."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Vegetables",
+            "description": "Add the pureed tomatoes, turmeric powder, red chili powder, and coriander powder. Cook until the oil separates. Then add diced potatoes, fried mangodi, water, and salt. Simmer until the potatoes are cooked."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Once the potatoes and mangodi are tender and the curry has thickened, garnish with chopped cilantro. Serve hot with rice or roti."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per serving",
+        "carbohydrates": "30g",
+        "protein": "6g",
+        "fat": "12g",
+        "fiber": "5g",
+        "sugar": "4g"
+    },
+    "tips": [
+        "Fry mangodi on a medium flame to avoid burning.",
+        "The curry should have a medium consistency, not too thick or thin."
+    ],
+    "variations": [
+        "Add green peas or other vegetables for more nutrition.",
+        "Experiment with spices like garam masala for a different flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave, adding a little water if necessary."
+    ],
+    "presentationTips": [
+        "Serve in a bowl, garnished with fresh cilantro, alongside warm Indian bread."
+    ],
+    "keywords": [
+        "Aloo Mangodi",
+        "Indian Curry",
+        "Vegetarian Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

@@ -5,18 +5,29 @@
     "history": "Elaneer, or tender coconut water, is a popular natural beverage in India and other tropical regions. It is known for its hydrating properties and is often consumed for its health benefits.",
     "description": "Elaneer is the clear liquid inside young green coconuts. It's a refreshing and hydrating drink, rich in nutrients and electrolytes. It's often enjoyed as is or can be used as a base for various beverages and cocktails.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free", "Paleo", "Keto"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free",
+        "Paleo",
+        "Keto"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
             "value": "5"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
         },
         "totalTime": {
             "unit": "Minute",
             "value": "5"
         }
     },
-    "mealtime": ["Anytime"],
+    "mealtime": [
+        "Anytime"
+    ],
     "equipment": [
         {
             "name": "knife",

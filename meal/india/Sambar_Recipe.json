@@ -5,7 +5,10 @@
     "history": "Sambar is a staple in South Indian cuisine, believed to have originated in the Tamil Nadu region. It's a lentil-based vegetable stew or chowder, flavored with tamarind and a special blend of spices and herbs, known as sambar powder.",
     "description": "Sambar is a flavorful and nutritious South Indian dish made with lentils, a variety of vegetables like carrots, potatoes, eggplant, drumsticks, and pumpkin, tamarind, and a unique blend of spices. It's commonly served with rice, dosa, idli, or vada, and is cherished for its tangy and savory taste.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,10 @@
             "value": "50"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "pot or pressure cooker",
@@ -183,7 +189,7 @@
         {
             "step": "3",
             "title": "Temper the Spices",
-            "description": "In a pan, heat oil. Add mustard seeds, fenugreek seeds, dried red chilies, curry leaves, and asafetida. Sauté until the mustard seeds start to splutter."
+            "description": "In a pan, heat oil. Add mustard seeds, fenugreek seeds, dried red chilies, curry leaves, and asafetida. Saut\u00c3\u00a9 until the mustard seeds start to splutter."
         },
         {
             "step": "4",

@@ -5,7 +5,10 @@
     "history": "Puli Kuzhambu is a traditional tamarind-based curry from Tamil Nadu. This dish is a staple in South Indian households, known for its tangy and spicy flavor profile. It typically features a variety of vegetables and spices.",
     "description": "Puli Kuzhambu is a tangy and spicy South Indian curry made with tamarind, a variety of vegetables such as okra, eggplant, and drumsticks, and a rich blend of spices. It's often served with rice and is cherished for its depth of flavor.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,10 @@
             "value": "50"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "pan",

@@ -1,0 +1,139 @@
+{
+    "id": "Masala_Chaas_Recipe",
+    "name": "Masala Chaas",
+    "origin": "India",
+    "history": "Masala Chaas, also known as spiced buttermilk, is a popular traditional Indian beverage. It is especially favored in the hot summer months for its cooling properties.",
+    "description": "Masala Chaas is a savory yogurt-based drink blended with spices and herbs. It's light, refreshing, and aids in digestion, making it a perfect accompaniment to Indian meals or as a standalone drink.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "5"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "5"
+        }
+    },
+    "mealtime": ["Anytime"],
+    "equipment": [
+        {
+            "name": "blender",
+            "description": "For blending the ingredients."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "plain yogurt",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "250",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "roasted cumin powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black salt (kala namak)",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1.25",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mint leaves",
+            "quantity": "a handful",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ice cubes",
+            "quantity": "optional",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Blend the Ingredients",
+            "description": "In a blender, combine the yogurt, water, roasted cumin powder, black salt, mint leaves, and regular salt. Blend until smooth."
+        },
+        {
+            "step": "2",
+            "title": "Chill",
+            "description": "Add ice cubes to the blender and pulse a few times if you prefer a chilled drink."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Pour the Masala Chaas into glasses and serve immediately. It can be garnished with a sprig of mint or a sprinkle of cumin powder."
+        }
+    ],
+    "nutrition": {
+        "calories": "60 per serving",
+        "carbohydrates": "6g",
+        "protein": "4g",
+        "fat": "2g",
+        "fiber": "0g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Adjust the amount of water to achieve your desired consistency.",
+        "For a different flavor profile, try adding other herbs like cilantro or spices like ginger."
+    ],
+    "variations": [
+        "Sweet Chaas: Omit the spices and add a bit of sugar or honey for a sweet version.",
+        "Fruit-Infused Chaas: Blend in fruits like mango or strawberry for a fruity twist."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh, but can be stored in the refrigerator for up to a day.",
+        "instructions": "Store in a covered container and stir well before serving."
+    },
+    "reheatingInstructions": [
+        "Not applicable, as Masala Chaas is served chilled."
+    ],
+    "presentationTips": [
+        "Serve in tall glasses with ice cubes for a refreshing look.",
+        "Garnish with a mint leaf or a sprinkle of roasted cumin powder on top."
+    ],
+    "keywords": [
+        "Masala Chaas",
+        "Indian Buttermilk Drink",
+        "Spiced Yogurt Beverage"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

@@ -5,7 +5,10 @@
     "history": "Onion Chutney is a widely used condiment in Indian cuisine, known for its rich and savory flavor. It's a staple in many Indian households and varies in taste and texture across different regions of the country.",
     "description": "Onion Chutney is a tangy and spicy condiment made with onions, tomatoes, tamarind, and a variety of spices. It's commonly served with South Indian dishes like dosas and idlis but can also be used as a spread or dip.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,11 +23,16 @@
             "value": "25"
         }
     },
-    "mealtime": ["Breakfast", "Lunch", "Dinner", "Snack"],
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner",
+        "Snack"
+    ],
     "equipment": [
         {
             "name": "pan",
-            "description": "For sautéing ingredients."
+            "description": "For saut\u00c3\u00a9ing ingredients."
         },
         {
             "name": "blender",
@@ -116,8 +124,8 @@
     "instructions": [
         {
             "step": "1",
-            "title": "Sauté Onions and Tomatoes",
-            "description": "Heat oil in a pan. Add mustard seeds, urad dal, dry red chilies, and curry leaves. When the mustard seeds start to splutter, add the garlic and onions. Sauté until onions turn translucent, then add the tomatoes and cook until soft."
+            "title": "Saut\u00c3\u00a9 Onions and Tomatoes",
+            "description": "Heat oil in a pan. Add mustard seeds, urad dal, dry red chilies, and curry leaves. When the mustard seeds start to splutter, add the garlic and onions. Saut\u00c3\u00a9 until onions turn translucent, then add the tomatoes and cook until soft."
         },
         {
             "step": "2",

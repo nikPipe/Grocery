@@ -1,0 +1,156 @@
+{
+    "id": "Kokum_Sherbet_Recipe",
+    "name": "Kokum Sherbet",
+    "origin": "India",
+    "history": "Kokum Sherbet is a traditional drink from the Western coast of India, particularly popular in the Konkan region. Made from the kokum fruit, it's known for its cooling properties and health benefits.",
+    "description": "Kokum Sherbet is a refreshing and tangy beverage made from kokum fruit, known for its digestive and cooling properties. It's a sweet and sour drink, often flavored with spices and sweeteners.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Vegetarian", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "5"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "15"
+        }
+    },
+    "mealtime": ["Anytime"],
+    "equipment": [
+        {
+            "name": "bowl",
+            "description": "For soaking the kokum."
+        },
+        {
+            "name": "saucepan",
+            "description": "For boiling the mixture."
+        },
+        {
+            "name": "strainer",
+            "description": "For straining the sherbet."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "kokum",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black salt",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1.25",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "mint leaves",
+            "quantity": "for garnishing",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ice cubes",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Soak the Kokum",
+            "description": "Soak the kokum in 1 cup of water for about 1 hour until it softens."
+        },
+        {
+            "step": "2",
+            "title": "Prepare the Sherbet",
+            "description": "In a saucepan, combine the soaked kokum along with its water, sugar, cumin powder, and black salt. Bring the mixture to a boil, then simmer for 5 minutes."
+        },
+        {
+            "step": "3",
+            "title": "Strain and Chill",
+            "description": "Strain the mixture to remove the kokum pieces. Allow the sherbet to cool, then refrigerate until chilled."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Kokum Sherbet over ice, garnished with mint leaves."
+        }
+    ],
+    "nutrition": {
+        "calories": "80 per serving",
+        "carbohydrates": "20g",
+        "protein": "0g",
+        "fat": "0g",
+        "fiber": "0g",
+        "sugar": "19g"
+    },
+    "tips": [
+        "Adjust the amount of sugar based on your preference for sweetness.",
+        "You can add a pinch of cardamom powder for an additional flavor dimension."
+    ],
+    "variations": [
+        "Kokum Mojito: Add soda and a splash of lime juice to the sherbet before serving.",
+        "Spicy Kokum Sherbet: Include a few slices of ginger while boiling for a spicy kick."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be stored in the refrigerator for up to 3 days.",
+        "instructions": "Keep in a covered container and stir well before serving."
+    },
+    "reheatingInstructions": [
+        "Not applicable, as Kokum Sherbet is served cold."
+    ],
+    "presentationTips": [
+        "Serve in tall glasses with a colorful straw for a fun look.",
+        "Garnish with a sprig of mint or a slice of lemon for an extra touch of freshness."
+    ],
+    "keywords": [
+        "Kokum Sherbet",
+        "Indian Beverage",
+        "Summer Drink"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

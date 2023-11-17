@@ -1,0 +1,201 @@
+{
+    "id": "Mangodi_Ki_Sabzi_Recipe",
+    "name": "Mangodi Ki Sabzi",
+    "origin": "India",
+    "history": "Mangodi Ki Sabzi is a staple dish in various parts of India, especially in Rajasthan. Made from sun-dried lentil dumplings (mangodi), it's a creative way to utilize preserved food in areas with limited vegetable availability.",
+    "description": "This dish involves cooking mangodi, small sun-dried lentil dumplings, in a spicy and tangy gravy. It's a flavorsome and hearty dish, often served with rice or Indian bread.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "25"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the sabzi."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "mangodi",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 small",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cilantro",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Fry the Mangodi",
+            "description": "Heat oil in a pan and fry the mangodi until they turn golden brown. Remove and set aside."
+        },
+        {
+            "step": "2",
+            "title": "Prepare the Masala",
+            "description": "In the same pan, add cumin seeds. Once they crackle, add the chopped onions and ginger-garlic paste. Sauté until the onions are translucent."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Gravy",
+            "description": "Add the pureed tomatoes, turmeric powder, coriander powder, red chili powder, and salt. Cook until the oil starts separating from the masala."
+        },
+        {
+            "step": "4",
+            "title": "Add the Mangodi",
+            "description": "Add the fried mangodi to the masala along with water. Bring to a boil, then simmer until the mangodi are cooked and the gravy thickens."
+        },
+        {
+            "step": "5",
+            "title": "Finalize and Serve",
+            "description": "Sprinkle garam masala and garnish with chopped cilantro. Serve hot with rice or Indian bread."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per serving",
+        "carbohydrates": "30g",
+        "protein": "6g",
+        "fat": "12g",
+        "fiber": "5g",
+        "sugar": "4g"
+    },
+    "tips": [
+        "Ensure the mangodi are fried to a golden brown to enhance their flavor.",
+        "Adjust the consistency of the gravy to your preference by adding more or less water."
+    ],
+    "variations": [
+        "Add vegetables like peas or carrots for a nutritious twist.",
+        "Experiment with different types of mangodi for variety."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave, adding a little water if needed."
+    ],
+    "presentationTips": [
+        "Serve in a traditional bowl, garnished with cilantro.",
+        "Accompany with freshly made chapati or steamed rice."
+    ],
+    "keywords": [
+        "Mangodi Ki Sabzi",
+        "Indian Lentil Curry",
+        "Vegetarian Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

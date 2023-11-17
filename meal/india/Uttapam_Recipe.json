@@ -5,7 +5,9 @@
     "history": "Uttapam is a South Indian dish similar to a pancake or dosa. It is a popular breakfast item, traditionally made with a fermented batter of rice and urad dal.",
     "description": "Uttapam is a thick pancake, with toppings like tomatoes, onions, capsicums, and green chilies cooked right into the batter. It is usually served with a variety of chutneys and sambar.",
     "servings": "1",
-    "dietTypes": ["Vegetarian"],
+    "dietTypes": [
+        "Vegetarian"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +22,9 @@
             "value": "45 (excluding soaking and fermentation time)"
         }
     },
-    "mealtime": ["Breakfast"],
+    "mealtime": [
+        "Breakfast"
+    ],
     "equipment": [
         {
             "name": "griddle or tawa",

@@ -1,0 +1,90 @@
+{
+  "name": "South Indian Dinner Extravaganza",
+  "id": 6,
+  "menu": {
+    "starter": {
+      "default": {"name": "Medu Vada", "id": "Medu_Vada_Recipe"},
+      "variations": {
+        "Masala Vada": "Masala_Vada_Recipe",
+        "Idli": "Idli_Recipe",
+        "Uttapam": "Uttapam_Recipe",
+        "Paniyaram": "Paniyaram_Recipe",
+        "Rasam Vada": "Rasam_Vada_Recipe",
+        "Bonda": "Bonda_Recipe",
+        "Onion Pakoda": "Onion_Pakoda_Recipe",
+        "Murukku": "Murukku_Recipe",
+        "Banana Chips": "Banana_Chips_Recipe"
+      }
+    },
+    "main_course": {
+      "default": {"name": "Dosa", "id": "Dosa_Recipe"},
+      "variations": {
+        "Sambar": "Sambar_Recipe",
+        "Rava Dosa": "Rava_Dosa_Recipe",
+        "Chicken Chettinad": "Chicken_Chettinad_Recipe",
+        "Fish Moilee": "Fish_Moilee_Recipe",
+        "Kerala Parotta": "Kerala_Parotta_Recipe",
+        "Bisi Bele Bath": "Bisi_Bele_Bath_Recipe",
+        "Hyderabadi Biryani": "Hyderabadi_Biryani_Recipe",
+        "Kerala Beef Fry": "Kerala_Beef_Fry_Recipe",
+        "Lemon Rice": "Lemon_Rice_Recipe"
+      }
+    },
+    "side_dish": {
+      "default": {"name": "Coconut Chutney", "id": "Coconut_Chutney_Recipe"},
+      "variations": {
+        "Tomato Chutney": "Tomato_Chutney_Recipe",
+        "Mint Chutney": "Mint_Chutney_Recipe",
+        "Tamarind Chutney": "Tamarind_Chutney_Recipe",
+        "Kerala Style Sambar": "Kerala_Style_Sambar_Recipe",
+        "Rasam": "Rasam_Recipe",
+        "Eggplant Curry": "Eggplant_Curry_Recipe",
+        "Avial": "Avial_Recipe",
+        "Kadala Curry": "Kadala_Curry_Recipe",
+        "Cabbage Thoran": "Cabbage_Thoran_Recipe"
+      }
+    },
+    "rice": {
+      "default": {"name": "Ghee Rice", "id": "Ghee_Rice_Recipe"},
+      "variations": {
+        "Curd Rice": "Curd_Rice_Recipe",
+        "Tomato Rice": "Tomato_Rice_Recipe",
+        "Tamarind Rice": "Tamarind_Rice_Recipe",
+        "Coconut Rice": "Coconut_Rice_Recipe",
+        "Lemon Rice": "Lemon_Rice_Recipe",
+        "Mango Rice": "Mango_Rice_Recipe",
+        "Puliyodarai": "Puliyodarai_Recipe",
+        "Kanji": "Kanji_Recipe",
+        "Pulihora": "Pulihora_Recipe"
+      }
+    },
+    "dessert": {
+      "default": {"name": "Payasam", "id": "Payasam_Recipe"},
+      "variations": {
+        "Mysore Pak": "Mysore_Pak_Recipe",
+        "Rava Kesari": "Rava_Kesari_Recipe",
+        "Palada Pradhaman": "Palada_Pradhaman_Recipe",
+        "Halwa": "Halwa_Recipe",
+        "Unniyappam": "Unniyappam_Recipe",
+        "Jigarthanda": "Jigarthanda_Recipe",
+        "Elaneer Payasam": "Elaneer_Payasam_Recipe",
+        "Ada Pradhaman": "Ada_Pradhaman_Recipe",
+        "Parippu Pradhaman": "Parippu_Pradhaman_Recipe"
+      }
+    },
+    "beverage": {
+      "default": {"name": "Filter Coffee", "id": "Filter_Coffee_Recipe"},
+      "variations": {
+        "Masala Chai": "Masala_Chai_Recipe",
+        "Sulaimani Tea": "Sulaimani_Tea_Recipe",
+        "Buttermilk": "Buttermilk_Recipe",
+        "Rasam": "Rasam_Recipe",
+        "Nannari Sharbat": "Nannari_Sharbat_Recipe",
+        "Badam Milk": "Badam_Milk_Recipe",
+        "Tender Coconut Water": "Tender_Coconut_Water_Recipe",
+        "Lassi": "Lassi_Recipe",
+        "Neer Mor": "Neer_Mor_Recipe"
+      }
+    }
+  }
+}

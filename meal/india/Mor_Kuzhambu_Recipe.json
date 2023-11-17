@@ -5,7 +5,10 @@
     "history": "Mor Kuzhambu is a traditional South Indian dish, particularly popular in Tamil Nadu and Kerala. It's similar to the North Indian Kadhi and is made using yogurt and coconut, making it a comforting and tangy dish.",
     "description": "Mor Kuzhambu is a yogurt-based curry enriched with coconut and spiced with green chilies and cumin. It typically includes vegetables like okra or ash gourd, offering a perfect balance of tangy, creamy, and spicy flavors.",
     "servings": "1",
-    "dietTypes": ["Vegetarian", "Gluten-Free"],
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,10 @@
             "value": "40"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "blender",

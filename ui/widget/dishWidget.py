@@ -1,3 +1,5 @@
+from functools import partial
+
 from ui.import_module import *
 from ui.sampleWidget import sample_widget_template
 from data import help
@@ -90,11 +92,14 @@ class dishWidget(QWidget):
 
         self.dishList = self.help_class.getDishList(self.countryComboBox.currentText())
 
+        self.dishList_val = {}
+
         for each in self.dishList:
-            checkbox = self.sample_widget.checkbox()
-            checkbox.stateChanged.connect(lambda: self.dishListCheckBox(checkbox))
-            checkbox.setText(each)
-            containerLayout.addWidget(checkbox)
+            self.dishList_val[each] = self.sample_widget.checkbox()
+            self.dishList_val[each].stateChanged.connect(partial(self.dishListCheckBox, self.dishList_val[each]))
+            #dishList_val[each].stateChanged.connect(lambda: self.dishListCheckBox(dishList_val[each]))
+            self.dishList_val[each].setText(each)
+            containerLayout.addWidget(self.dishList_val[each])
         return widget
 
 
@@ -219,6 +224,11 @@ class dishWidget(QWidget):
         :param checkbox:
         :return:
         '''
+
+
+
+
+
         if checkbox.isChecked():
             country = self.countryComboBox.currentText()
             dish = checkbox.text()

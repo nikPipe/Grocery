@@ -5,7 +5,10 @@
     "history": "Mango Rice, also known as Mavinkayi Chitranna in Karnataka, is a traditional South Indian dish. It is especially popular in regions where mangoes are abundantly available. This dish combines the tanginess of raw mangoes with aromatic spices and rice.",
     "description": "Mango Rice is a vibrant and flavorful dish made with grated raw mangoes, rice, and a tempering of mustard seeds, chilies, and curry leaves. It's a delightful mix of sour, spicy, and savory flavors, often enjoyed during the mango season.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,10 @@
             "value": "35"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "pan",
@@ -143,7 +149,7 @@
         {
             "step": "3",
             "title": "Combine Rice with Mango",
-            "description": "Add the grated mango to the pan and sauté for a few minutes. Then mix in the cooked rice and salt, ensuring the rice is evenly coated."
+            "description": "Add the grated mango to the pan and saut\u00c3\u00a9 for a few minutes. Then mix in the cooked rice and salt, ensuring the rice is evenly coated."
         },
         {
             "step": "4",

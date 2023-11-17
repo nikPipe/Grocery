@@ -5,7 +5,9 @@
     "history": "Jigarthanda is a popular beverage in Madurai, Tamil Nadu. The name translates to 'cool heart' in English. This drink was brought to Madurai by the Mughals and has since become a regional specialty, especially famous during the hot summer months.",
     "description": "Jigarthanda is a refreshing and cooling drink made from milk, almond gum (badam pisin), sarsaparilla (nannari) syrup, and reduced milk ice cream known as 'kadal paasi'. It's sweet, rich, and known for its cooling properties.",
     "servings": "1",
-    "dietTypes": ["Vegetarian"],
+    "dietTypes": [
+        "Vegetarian"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +22,9 @@
             "value": "25"
         }
     },
-    "mealtime": ["Anytime"],
+    "mealtime": [
+        "Anytime"
+    ],
     "equipment": [
         {
             "name": "glass",

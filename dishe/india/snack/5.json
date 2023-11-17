@@ -1,0 +1,36 @@
+{
+  "name": "Indian Snack Delights",
+  "id": 10,
+  "menu": {
+    "snack": {
+      "default": {"name": "Oats and Vegetable Tikki", "id": "Oats_and_Vegetable_Tikki_Recipe"},
+      "variations": {
+        "Spicy Roasted Lotus Seeds": "Spicy_Roasted_Lotus_Seeds_Recipe",
+        "Baked Masala Corn": "Baked_Masala_Corn_Recipe",
+        "Curried Peanuts": "Curried_Peanuts_Recipe",
+        "Mixed Sprout Chaat": "Mixed_Sprout_Chaat_Recipe",
+        "Paneer Stuffed Chilies": "Paneer_Stuffed_Chilies_Recipe",
+        "Multigrain Mathri": "Multigrain_Mathri_Recipe",
+        "Baked Banana Chips": "Baked_Banana_Chips_Recipe",
+        "Spiced Okra Fries": "Spiced_Okra_Fries_Recipe",
+        "Herbed Puffed Rice": "Herbed_Puffed_Rice_Recipe",
+        "Vegetable Momos": "Vegetable_Momos_Recipe"
+      }
+    },
+    "side": {
+      "default": {"name": "Spiced Yogurt Dip", "id": "Spiced_Yogurt_Dip_Recipe"},
+      "variations": {
+        "Tangy Mint Chutney": "Tangy_Mint_Chutney_Recipe",
+        "Peanut Coriander Dip": "Peanut_Coriander_Dip_Recipe",
+        "Spicy Tomato Salsa": "Spicy_Tomato_Salsa_Recipe",
+        "Curd Chili Pickle": "Curd_Chilli_Pickle_Recipe",
+        "Garlic Chutney": "Garlic_Chutney_Recipe",
+        "Mixed Vegetable Raita": "Mixed_Vegetable_Raita_Recipe",
+        "Tamarind Chutney": "Tamarind_Chutney_Recipe",
+        "Green Apple Chutney": "Green_Apple_Chutney_Recipe",
+        "Red Chili Garlic Chutney": "Red_Chili_Garlic_Chutney_Recipe",
+        "Mango Mustard Dip": "Mango_Mustard_Dip_Recipe"
+      }
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+    "id": "Gatte_Ki_Sabzi_Recipe",
+    "name": "Gatte Ki Sabzi",
+    "origin": "India",
+    "history": "Originating from Rajasthan, Gatte Ki Sabzi is a beloved dish in Indian cuisine, known for its use of gram flour dumplings in a flavorful yogurt-based gravy.",
+    "description": "Gatte Ki Sabzi is a delicious curry made from gram flour (besan) dumplings, cooked in a tangy and spicy yogurt gravy. It's a staple in Rajasthani meals, often served with rice or roti.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the gatte dough."
+        },
+        {
+            "name": "saucepan",
+            "description": "For boiling the gatte."
+        },
+        {
+            "name": "pan",
+            "description": "For making the sabzi (curry)."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "gram flour",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chili powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.25",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cilantro ",
+            "quantity": "for garnishing",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Gatte",
+            "description": "Mix gram flour, turmeric powder, red chili powder, coriander powder, salt, and a little ghee or oil. Add yogurt and knead into a stiff dough. Form the dough into cylindrical shapes, boil in water until they float to the top, and then cut into bite-sized pieces."
+        },
+        {
+            "step": "2",
+            "title": "Make the Curry",
+            "description": "Heat ghee in a pan. Add mustard seeds, cumin seeds, and asafoetida. Once they splutter, add the prepared gatte, water, and additional spices. Cook until the gravy thickens."
+        },
+        {
+            "step": "3",
+            "title": "Finalize and Serve",
+            "description": "Once the gatte are cooked and the gravy has reached the desired consistency, garnish with fresh cilantro. Serve hot with rice or roti."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "35g",
+        "protein": "10g",
+        "fat": "15g",
+        "fiber": "6g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "The dough for gatte should be stiff and not too soft.",
+        "Adjust the amount of water in the curry as per the desired consistency."
+    ],
+    "variations": [
+        "Add chopped onions and tomatoes to the curry for extra flavor.",
+        "Experiment with different spices like garam masala or amchur (dry mango powder) for a variation in taste."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until warm."
+    ],
+    "presentationTips": [
+        "Serve in a traditional Indian serving dish, garnished with cilantro.",
+        "Pair with Indian bread like chapati or naan for a complete meal."
+    ],
+    "keywords": [
+        "Gatte Ki Sabzi",
+        "Rajasthani Cuisine",
+        "Indian Vegetarian Dish"
+    ],
+    "allergens": [
+        "Dairy, Gluten"
+    ]
+}

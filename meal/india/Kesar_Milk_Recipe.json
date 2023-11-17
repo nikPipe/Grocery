@@ -1,0 +1,140 @@
+{
+    "id": "Kesar_Milk_Recipe",
+    "name": "Kesar Milk",
+    "origin": "India",
+    "history": "Kesar Milk, also known as Saffron Milk, is a traditional Indian drink. It's cherished for its health benefits and is often consumed during festivals and special occasions.",
+    "description": "Kesar Milk is a warm, soothing beverage made with milk infused with saffron (kesar), and often sweetened. It's known for its rich aroma and health benefits, including improved digestion and relaxation.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "5"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "20"
+        }
+    },
+    "mealtime": ["Anytime"],
+    "equipment": [
+        {
+            "name": "saucepan",
+            "description": "For boiling the milk."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "milk",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "saffron strands",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1-2 teaspoons",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cardamom powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1.25",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "almonds",
+            "quantity": "for garnishing",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "pistachios",
+            "quantity": "for garnishing",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Infuse the Saffron",
+            "description": "Soak the saffron strands in a tablespoon of warm milk for a few minutes to release their color and aroma."
+        },
+        {
+            "step": "2",
+            "title": "Boil the Milk",
+            "description": "In a saucepan, bring the milk to a boil. Reduce the heat and simmer."
+        },
+        {
+            "step": "3",
+            "title": "Add Ingredients",
+            "description": "Add the soaked saffron along with its milk, sugar, and cardamom powder to the boiling milk. Simmer for another 10 minutes, stirring occasionally."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Pour the Kesar Milk into a cup and garnish with chopped almonds and pistachios. Serve warm."
+        }
+    ],
+    "nutrition": {
+        "calories": "150 per serving",
+        "carbohydrates": "15g",
+        "protein": "8g",
+        "fat": "7g",
+        "fiber": "0g",
+        "sugar": "12g"
+    },
+    "tips": [
+        "The longer you soak the saffron, the more pronounced its color and flavor will be.",
+        "Adjust the amount of sugar based on your taste preferences."
+    ],
+    "variations": [
+        "Vegan Kesar Milk: Use almond milk or coconut milk instead of dairy milk.",
+        "Masala Milk: Add a mix of ground nuts and spices like fennel for a different flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat gently before consuming."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave, stirring well."
+    ],
+    "presentationTips": [
+        "Serve in traditional Indian glasses or clay cups for an authentic experience.",
+        "Garnish with a few strands of saffron on top for a luxurious touch."
+    ],
+    "keywords": [
+        "Kesar Milk",
+        "Saffron Milk",
+        "Indian Beverage"
+    ],
+    "allergens": [
+        "Dairy, Nuts"
+    ]
+}

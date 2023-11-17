@@ -1,0 +1,36 @@
+{
+  "name": "Indian Snack Fiesta",
+  "id": 8,
+  "menu": {
+    "snack": {
+      "default": {"name": "Baked Karela Chips", "id": "Baked_Karela_Chips_Recipe"},
+      "variations": {
+        "Spiced Roasted Makhana": "Spiced_Roasted_Makhana_Recipe",
+        "Grilled Vegetable Skewers": "Grilled_Vegetable_Skewers_Recipe",
+        "Murmura Upma": "Murmura_Upma_Recipe",
+        "Beetroot and Peanut Kebab": "Beetroot_and_Peanut_Kebab_Recipe",
+        "Moong Dal Chilla": "Moong_Dal_Chilla_Recipe",
+        "Aloo Chaat": "Aloo_Chaat_Recipe",
+        "Paneer Bhurji Toast": "Paneer_Bhurji_Toast_Recipe",
+        "Soya Chunk Cutlet": "Soya_Chunk_Cutlet_Recipe",
+        "Curd Sandwich": "Curd_Sandwich_Recipe",
+        "Veggie Poha Rolls": "Veggie_Poha_Rolls_Recipe"
+      }
+    },
+    "side": {
+      "default": {"name": "Hari Chutney", "id": "Hari_Chutney_Recipe"},
+      "variations": {
+        "Spiced Tomato Relish": "Spiced_Tomato_Relish_Recipe",
+        "Yogurt Mint Sauce": "Yogurt_Mint_Sauce_Recipe",
+        "Shredded Carrot Salad": "Shredded_Carrot_Salad_Recipe",
+        "Quick Lemon Achaar": "Quick_Lemon_Achaar_Recipe",
+        "Coriander Peanut Chutney": "Coriander_Peanut_Chutney_Recipe",
+        "Radish Cucumber Salad": "Radish_Cucumber_Salad_Recipe",
+        "Spicy Green Garlic Chutney": "Spicy_Green_Garlic_Chutney_Recipe",
+        "Tangy Tamarind Dip": "Tangy_Tamarind_Dip_Recipe",
+        "Raw Mango Salsa": "Raw_Mango_Salsa_Recipe",
+        "Roasted Bell Pepper Hummus": "Roasted_Bell_Pepper_Hummus_Recipe"
+      }
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+    "id": "Fruit_Punch_Recipe",
+    "name": "Fruit Punch",
+    "origin": "Global",
+    "history": "Fruit punch has origins in the 17th century with sailors and traders in the West Indies, combining fruit juices with rum. Today, it's a popular non-alcoholic beverage made with a mix of fruit juices.",
+    "description": "Fruit Punch is a vibrant and refreshing drink made by blending a variety of fruit juices. It's often served at parties and gatherings and is loved for its sweet and fruity flavors.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Vegetarian", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "10"
+        }
+    },
+    "mealtime": ["Anytime"],
+    "equipment": [
+        {
+            "name": "large pitcher or bowl",
+            "description": "For mixing the punch."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "orange juice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "pineapple juice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "apple juice",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "lemon juice",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "strawberries",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "orange",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sparkling water",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "ice cubes",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Mix the Juices",
+            "description": "In a large pitcher or bowl, combine the orange juice, pineapple juice, apple juice, and lemon juice. Stir well. Add sugar if desired, adjusting to taste."
+        },
+        {
+            "step": "2",
+            "title": "Add Sparkle",
+            "description": "Just before serving, add sparkling water or ginger ale to the juice mixture for a fizzy effect."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Add ice cubes to glasses. Pour the fruit punch over the ice and garnish with slices of strawberries, oranges, and lemons."
+        }
+    ],
+    "nutrition": {
+        "calories": "120 per serving",
+        "carbohydrates": "30g",
+        "protein": "1g",
+        "fat": "0g",
+        "fiber": "0.5g",
+        "sugar": "28g"
+    },
+    "tips": [
+        "Chill the juices beforehand for a refreshing and cool punch.",
+        "Experiment with different combinations of fruit juices to find your preferred flavor profile."
+    ],
+    "variations": [
+        "Tropical Punch: Use tropical fruits like mango and guava juice for a tropical twist.",
+        "Alcoholic Version: Add a splash of rum or vodka for an adult version."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh, but can be refrigerated for up to 1 day.",
+        "instructions": "Store in a sealed container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Not applicable, as fruit punch is served cold."
+    ],
+    "presentationTips": [
+        "Serve in a large, clear bowl to showcase the colorful fruits.",
+        "Add a decorative umbrella or straw for a fun and festive look."
+    ],
+    "keywords": [
+        "Fruit Punch",
+        "Party Drink",
+        "Refreshing Beverage"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

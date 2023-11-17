@@ -1,0 +1,197 @@
+{
+    "id": "Pyaaz_Kachori_Recipe",
+    "name": "Pyaaz Kachori",
+    "origin": "India",
+    "history": "Pyaaz Kachori, originating from Rajasthan, is a well-loved snack in Indian cuisine. It's particularly famous as a street food and is known for its spicy onion filling.",
+    "description": "Pyaaz Kachori is a crispy deep-fried pastry filled with a spicy mixture of onions, potatoes, and various spices. It's a flavorful snack often served with chutney.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": ["Snack"],
+    "equipment": [
+        {
+            "name": "frying pan",
+            "description": "For deep frying the kachoris."
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough and filling."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "all-purpose flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onions",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "potatoes",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chilies",
+            "quantity": "1-2",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fennel seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "amchur",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for deep frying, plus 2 tablespoons for the dough",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "Mix all-purpose flour with salt and 2 tablespoons of oil. Add water gradually and knead into a stiff dough. Cover and set aside."
+        },
+        {
+            "step": "2",
+            "title": "Make the Filling",
+            "description": "Heat oil in a pan, add cumin seeds, fennel seeds, and green chilies. Add onions and sauté until golden. Mix in mashed potatoes, garam masala, red chili powder, amchur, and salt."
+        },
+        {
+            "step": "3",
+            "title": "Assemble the Kachoris",
+            "description": "Divide the dough into small balls. Roll each into a small circle, place a portion of the filling in the center, and seal it. Flatten it slightly to form a kachori."
+        },
+        {
+            "step": "4",
+            "title": "Deep Fry",
+            "description": "Heat oil in a deep pan and fry the kachoris on medium heat until golden brown and crisp."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the hot Pyaaz Kachoris with chutney or ketchup."
+        }
+    ],
+    "nutrition": {
+        "calories": "350 per serving",
+        "carbohydrates": "40g",
+        "protein": "6g",
+        "fat": "18g",
+        "fiber": "4g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Ensure the dough is stiff for the kachoris to be crispy.",
+        "Do not overcrowd the pan while frying to maintain even cooking."
+    ],
+    "variations": [
+        "Add peas or paneer to the filling for a different flavor.",
+        "Experiment with spices like coriander powder or ajwain (carom seeds) in the dough."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh. Can be stored for 1 day.",
+        "instructions": "Store in an airtight container at room temperature."
+    },
+    "reheatingInstructions": [
+        "Reheat in an oven or air fryer for best results."
+    ],
+    "presentationTips": [
+        "Serve on a platter garnished with sliced onions and a wedge of lemon.",
+        "Pair with a tangy mint or tamarind chutney for added flavor."
+    ],
+    "keywords": [
+        "Pyaaz Kachori",
+        "Indian Snack",
+        "Rajasthani Street Food"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

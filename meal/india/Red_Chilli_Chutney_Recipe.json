@@ -5,7 +5,10 @@
     "history": "Red Chilli Chutney is a fiery and popular condiment in Indian cuisine. It is widely used across various regions of India with local variations. This chutney is known for its hot and spicy taste, making it a favorite for those who love spicy food.",
     "description": "Red Chilli Chutney is a bold and spicy condiment made with dry red chilies, garlic, and a blend of spices. It's typically used to add heat and flavor to Indian snacks like dosas, idlis, and vadas, as well as main course dishes.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,12 @@
             "value": "15"
         }
     },
-    "mealtime": ["Breakfast", "Lunch", "Dinner", "Snack"],
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner",
+        "Snack"
+    ],
     "equipment": [
         {
             "name": "pan",

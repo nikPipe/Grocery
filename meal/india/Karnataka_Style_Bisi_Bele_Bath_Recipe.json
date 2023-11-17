@@ -5,7 +5,9 @@
     "history": "Bisi Bele Bath is a classic dish from Karnataka, characterized by its unique flavor profile combining rice, lentils, vegetables, and a special spice mix known as Bisi Bele Bath powder.",
     "description": "This version of Bisi Bele Bath is a hearty, nutritious, and flavorsome meal. It blends rice, toor dal, and a medley of vegetables with the authentic spice mix, offering a quintessential taste of Karnataka cuisine.",
     "servings": "1",
-    "dietTypes": ["Vegetarian"],
+    "dietTypes": [
+        "Vegetarian"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +22,10 @@
             "value": "60"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "pressure cooker",
@@ -28,7 +33,7 @@
         },
         {
             "name": "pan",
-            "description": "For sautéing vegetables and spices."
+            "description": "For saut\u00c3\u00a9ing vegetables and spices."
         }
     ],
     "ingredients": [
@@ -89,7 +94,7 @@
             }
         },
         {
-            "item": "Bisi Bele Bath masala",
+            "item": "bisi bele bath masala",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "30",

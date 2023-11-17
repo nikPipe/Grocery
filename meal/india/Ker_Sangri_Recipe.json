@@ -1,0 +1,192 @@
+{
+    "id": "Ker_Sangri_Recipe",
+    "name": "Ker Sangri",
+    "origin": "India",
+    "history": "Ker Sangri is a traditional dish from Rajasthan, known for its unique combination of ker berries and sangri beans. It's a desert delicacy, typically prepared in dry regions.",
+    "description": "Ker Sangri is a dry curry made from ker berries and sangri beans, cooked with a variety of spices. It's known for its tangy and spicy flavor, often served as a side dish with roti or rice.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the dish."
+        },
+        {
+            "name": "bowl",
+            "description": "For soaking ker and sangri."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "ker berries",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sangri beans",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "amchur",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cilantro",
+            "quantity": "for garnishing",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Ker and Sangri",
+            "description": "Soak ker and sangri in water overnight or for at least 4-5 hours. Drain and wash thoroughly."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Ingredients",
+            "description": "Heat oil in a pan. Add cumin seeds and asafoetida. Once they crackle, add the ker and sangri. Cook for a few minutes."
+        },
+        {
+            "step": "3",
+            "title": "Add Spices and Simmer",
+            "description": "Add turmeric powder, coriander powder, red chili powder, and salt. Mix well. Add a little water and let it simmer until the ker and sangri are cooked and the flavors are well combined."
+        },
+        {
+            "step": "4",
+            "title": "Finalize and Serve",
+            "description": "Stir in amchur powder. Garnish with fresh cilantro. Serve hot with roti or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "150 per serving",
+        "carbohydrates": "20g",
+        "protein": "4g",
+        "fat": "7g",
+        "fiber": "5g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Ensure ker and sangri are well soaked to reduce cooking time.",
+        "Adjust the amount of red chili powder as per your spice preference."
+    ],
+    "variations": [
+        "Add chopped onions and tomatoes for a different flavor.",
+        "For a tangier taste, increase the amount of amchur."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until warm."
+    ],
+    "presentationTips": [
+        "Serve in a traditional bowl, garnished with coriander leaves.",
+        "Pair with warm flatbread or steamed rice."
+    ],
+    "keywords": [
+        "Ker Sangri",
+        "Rajasthani Cuisine",
+        "Indian Vegetarian Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

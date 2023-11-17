@@ -5,7 +5,10 @@
     "history": "Vatha Kuzhambu is a traditional Tamil Nadu dish known for its tangy and spicy taste. It is a tamarind-based stew that typically features sun-dried vegetables like 'vathal' along with a variety of spices, embodying the essence of South Indian cuisine.",
     "description": "Vatha Kuzhambu is a flavorful South Indian gravy made with tamarind, sun-dried vegetables (vathal), and a special blend of spices. It's typically served with rice and is loved for its unique combination of sourness from the tamarind and heat from the spices.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,10 @@
             "value": "45"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "pan",

@@ -1,0 +1,156 @@
+{
+    "id": "Khichdi_Recipe",
+    "name": "Khichdi",
+    "origin": "India",
+    "history": "Khichdi is an ancient Indian dish dating back centuries. It's considered one of the first comfort foods and is known for its simplicity and health benefits.",
+    "description": "Khichdi is a nourishing and easily digestible dish made with rice and lentils, often cooked with mild spices. It's a staple comfort food across India, typically served with ghee, yogurt, or pickle.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "40"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pressure cooker or pot",
+            "description": "For cooking the khichdi."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "moong dal (split green gram)",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida (hing)",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee or oil",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "3 cups",
+            "weight": {
+                "value": "720",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Ingredients",
+            "description": "Rinse the rice and moong dal thoroughly. Soak them in water for about 30 minutes, then drain."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Khichdi",
+            "description": "In a pressure cooker or pot, heat ghee or oil. Add cumin seeds and asafoetida. Once the seeds crackle, add the rice and dal mixture. Add turmeric powder, salt, and water."
+        },
+        {
+            "step": "3",
+            "title": "Simmer",
+            "description": "Close the pressure cooker and cook until the rice and dal are soft and mushy (about 3-4 whistles on medium heat). If using a pot, simmer until the consistency is porridge-like."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve hot, garnished with a dollop of ghee. Accompany with yogurt or pickle."
+        }
+    ],
+    "nutrition": {
+        "calories": "350 per serving",
+        "carbohydrates": "60g",
+        "protein": "15g",
+        "fat": "5g",
+        "fiber": "3g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "The consistency of khichdi can be adjusted by varying the amount of water.",
+        "For added flavor, include vegetables like peas, carrots, or spinach."
+    ],
+    "variations": [
+        "Try different types of lentils or a mixture for variation.",
+        "Spice it up with ginger, garlic, or green chilies."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave, adding a little water if it has thickened."
+    ],
+    "presentationTips": [
+        "Serve in a bowl, topped with a spoonful of ghee and a side of pickles or yogurt.",
+        "Garnish with fresh cilantro for a touch of color."
+    ],
+    "keywords": [
+        "Khichdi",
+        "Indian Comfort Food",
+        "Rice and Lentil Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

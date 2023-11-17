@@ -1,0 +1,154 @@
+{
+    "id": "Bejad_Roti_Recipe",
+    "name": "Bejad Roti",
+    "origin": "India",
+    "history": "Bejad Roti is a traditional Indian flatbread originating from the Rajasthan region. It's known for its nutritious value, being made from a mix of whole grain flours.",
+    "description": "Bejad Roti is a healthier version of the regular roti or Indian flatbread. It is typically made from a combination of wheat flour and millet flour, offering a rich, nutty flavor and a hearty texture.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "5"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "20"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "rolling pin",
+            "description": "For rolling out the dough."
+        },
+        {
+            "name": "flat pan or griddle",
+            "description": "For cooking the roti."
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "wheat flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "jowar flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "bajra flour",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "ghee",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, combine wheat flour, jowar flour, bajra flour, and salt. Gradually add water and knead to form a smooth and pliable dough."
+        },
+        {
+            "step": "2",
+            "title": "Roll the Rotis",
+            "description": "Divide the dough into equal portions. Roll each portion into a ball and then flatten it using a rolling pin to form a thin, round roti."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Roti",
+            "description": "Heat a flat pan or griddle on medium heat. Place the rolled-out roti on the pan and cook until small bubbles appear. Flip and cook the other side, applying ghee or oil as needed."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Bejad Roti hot, ideally with a vegetarian or non-vegetarian curry, dal, or any Indian side dish of your choice."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per roti",
+        "carbohydrates": "50g",
+        "protein": "8g",
+        "fat": "4g",
+        "fiber": "6g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "Ensure the dough is neither too soft nor too stiff for the best results.",
+        "You can add a pinch of ajwain (carom seeds) to the dough for added flavor."
+    ],
+    "variations": [
+        "Mix in finely chopped herbs like cilantro or mint for a flavorful twist.",
+        "Experiment with different flour ratios to suit your taste and dietary needs."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh, but can be stored for a day in an airtight container.",
+        "instructions": "Reheat on a pan or in a microwave before serving if stored."
+    },
+    "reheatingInstructions": [
+        "Reheat on a pan for a minute on each side or in a microwave for 20-30 seconds."
+    ],
+    "presentationTips": [
+        "Serve on a traditional Indian thali for an authentic experience.",
+        "Garnish with a side of sliced onions and lemon wedges."
+    ],
+    "keywords": [
+        "Bejad Roti",
+        "Indian Flatbread",
+        "Multigrain Roti"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

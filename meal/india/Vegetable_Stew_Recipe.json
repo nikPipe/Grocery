@@ -5,7 +5,10 @@
     "history": "Vegetable Stew is a popular dish in South Indian cuisine, especially in Kerala. Influenced by the region's abundant use of coconut, this stew is known for its creamy texture and aromatic spices. It's often served with appam or rice.",
     "description": "Vegetable Stew is a light, coconut milk-based stew filled with a variety of vegetables like carrots, potatoes, green beans, and peas. It's delicately spiced with whole spices and curry leaves, making it both flavorful and comforting.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,10 @@
             "value": "50"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "pot",
@@ -128,13 +134,13 @@
     "instructions": [
         {
             "step": "1",
-            "title": "Sauté Onions and Spices",
-            "description": "Heat coconut oil in a pot. Add the whole spices, ginger, green chilies, curry leaves, and onions. Sauté until the onions are translucent."
+            "title": "Saut\u00c3\u00a9 Onions and Spices",
+            "description": "Heat coconut oil in a pot. Add the whole spices, ginger, green chilies, curry leaves, and onions. Saut\u00c3\u00a9 until the onions are translucent."
         },
         {
             "step": "2",
             "title": "Add Vegetables",
-            "description": "Add the chopped carrots, potatoes, green beans, and peas to the pot. Sauté for a few minutes."
+            "description": "Add the chopped carrots, potatoes, green beans, and peas to the pot. Saut\u00c3\u00a9 for a few minutes."
         },
         {
             "step": "3",

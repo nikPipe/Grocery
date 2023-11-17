@@ -44,11 +44,6 @@ class mealClass():
         self.keywords = self.keywords()
         self.allergens = self.getallergens()
 
-
-
-
-
-
     def getId(self):
         return self.json['id']
 
@@ -175,8 +170,6 @@ class mealClass():
                     each[key] = value
         return self.json
 
-
-
     def prinCommand(self):
 
         print(f"this is id: {self.id}")
@@ -216,7 +209,6 @@ class mealClass():
         print('-' * 50)
         print(f"{self.allergens}")
 
-
 def getItemList():
     list_item = []
     for each in list_dir:
@@ -240,7 +232,18 @@ def printJsonData():
 
             mealClass_.prinCommand()
 
-            print('\n\n\n')
+
+
+        val = input('Press Enter to continue...')
+        print('\n\n\n')
+
+
+
+
+
+
+
+
 
 
 def replace_ingredients(json_obj, grocery_map):
@@ -253,12 +256,9 @@ def replace_ingredients(json_obj, grocery_map):
                 if item in value:
                     ingredient['item'] = key
                     break  # Stop searching once a match is found
-
         return json_obj
     except Exception as e:
         return None
-
-
 
 def normalize_ingredient(ingredient):
     # Convert to lowercase
@@ -271,16 +271,14 @@ def normalize_ingredient(ingredient):
         ingredient = ingredient[:-1]
 
     # Additional normalization rules can be added here as needed
-
     return ingredient
-
-
 
 itemList = getItemList()
 
-print(sorted(itemList))
+#print(sorted(itemList))
 for each in sorted(itemList):
-    print(each)
+    #print(each)
+    pass
 
 
 
@@ -295,18 +293,13 @@ for ingredient in normalized_ingredients:
 
 
 duplicates = [ingredient for ingredient, count in ingredient_counts.items() if count > 1]
+#print("Duplicates:", duplicates)
+#print(sorted(itemList))
 
 
-
-
-newList = []
-for each in itemList:
-    normalized_item = normalized_mapping[each]
-    if normalized_item not in newList:
-        newList.append(normalized_item)
 
 # Now newList contains unique, normalized items
-print("Unique normalized list:", newList)
+#print("Unique normalized list:", newList)
 
 
 

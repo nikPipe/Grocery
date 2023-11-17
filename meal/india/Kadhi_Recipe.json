@@ -1,0 +1,186 @@
+{
+    "id": "Kadhi_Recipe",
+    "name": "Kadhi",
+    "origin": "India",
+    "history": "Kadhi is a beloved dish in Indian cuisine, varying in style across regions. It's known for its creamy texture and tangy taste, made primarily from yogurt and gram flour.",
+    "description": "Kadhi is a yogurt-based curry, thickened with gram flour and seasoned with spices. Often accompanied by pakoras (fried fritters), it's a comfort food served with rice or roti.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For blending the yogurt and flour."
+        },
+        {
+            "name": "pan",
+            "description": "For cooking the kadhi."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "yogurt",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "250",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "gram flour",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "6-8",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chilies",
+            "quantity": "1-2",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "3 cups",
+            "weight": {
+                "value": "720",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cilantro",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Yogurt Mixture",
+            "description": "In a mixing bowl, whisk together the yogurt, gram flour, turmeric powder, and water until smooth."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Kadhi",
+            "description": "In a pan, heat some oil and add mustard seeds, cumin seeds, asafoetida, curry leaves, slit green chilies, and grated ginger. Once they start spluttering, pour in the yogurt mixture. Bring to a boil and then simmer on low heat for about 20-30 minutes, stirring occasionally."
+        },
+        {
+            "step": "3",
+            "title": "Finalize and Serve",
+            "description": "Once the kadhi has thickened and has a creamy consistency, season with salt. Garnish with fresh cilantro. Serve hot with rice or as a soup."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per serving",
+        "carbohydrates": "20g",
+        "protein": "8g",
+        "fat": "10g",
+        "fiber": "2g",
+        "sugar": "8g"
+    },
+    "tips": [
+        "Consistently stir the kadhi while cooking to avoid curdling.",
+        "Adjust the consistency of the kadhi by adding water if it becomes too thick."
+    ],
+    "variations": [
+        "Add pakoras (fried gram flour fritters) to the kadhi for a more filling dish.",
+        "Experiment with different spices like fenugreek seeds or dried red chilies for variation."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat gently on the stove or in a microwave, stirring frequently."
+    ],
+    "presentationTips": [
+        "Serve in a deep bowl, garnished with coriander leaves, accompanied by rice or warm flatbread."
+    ],
+    "keywords": [
+        "Kadhi",
+        "Indian Yogurt Curry",
+        "Vegetarian Dish"
+    ],
+    "allergens": [
+        "Dairy, Gluten (if served with bread)"
+    ]
+}

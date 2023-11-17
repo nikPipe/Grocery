@@ -5,7 +5,9 @@
     "history": "Plain Dosa is a staple in South Indian cuisine. It's a type of thin pancake made from a fermented batter of rice and lentils, known for its crisp texture and unique taste.",
     "description": "Plain Dosa is a versatile and popular South Indian dish. It's a thin, crisp pancake made from a fermented rice and lentil batter and is typically served with chutney and sambar.",
     "servings": "1",
-    "dietTypes": ["Vegetarian"],
+    "dietTypes": [
+        "Vegetarian"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +22,10 @@
             "value": "45 (excluding soaking and fermentation time)"
         }
     },
-    "mealtime": ["Breakfast", "Dinner"],
+    "mealtime": [
+        "Breakfast",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "griddle or tawa",

@@ -5,7 +5,10 @@
     "history": "Avial is a traditional dish from the South Indian state of Kerala, but it's also popular in Tamil Nadu and Karnataka. It's believed to have been invented by Bhima, one of the Pandava brothers from the Indian epic Mahabharata, during their exile.",
     "description": "Avial is a thick mixture of vegetables and coconut, seasoned with coconut oil and curry leaves. This dish is characterized by its variety of vegetables, subtle flavors, and the use of coconut and curd, which give it a creamy texture.",
     "servings": "1",
-    "dietTypes": ["Vegetarian", "Gluten-Free"],
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,10 @@
             "value": "40"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "pot",

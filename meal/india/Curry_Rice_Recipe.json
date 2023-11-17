@@ -1,0 +1,161 @@
+{
+    "id": "Curry_Rice_Recipe",
+    "name": "Curry Rice",
+    "origin": "Global",
+    "history": "Curry Rice combines the elements of Indian spices with the staple grain, rice. This dish is popular in various cuisines worldwide, each adding its unique twist to the curry flavor.",
+    "description": "Curry Rice is a simple yet delicious dish made with rice cooked in a blend of curry spices. It's often accompanied by vegetables or meat and is known for its vibrant color and rich flavor.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "saucepan",
+            "description": "For cooking the rice."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "Basmati rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 small",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garlic",
+            "quantity": "1 clove",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry powder",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Sauté Onions and Garlic",
+            "description": "Heat oil in a saucepan over medium heat. Add the chopped onion and garlic, and sauté until they are soft and translucent."
+        },
+        {
+            "step": "2",
+            "title": "Add Spices",
+            "description": "Stir in the curry powder and turmeric, cooking for a minute until fragrant."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Rice",
+            "description": "Add the Basmati rice to the saucepan, stirring to coat the rice in the spices. Pour in the vegetable broth or water, and add salt to taste."
+        },
+        {
+            "step": "4",
+            "title": "Simmer the Rice",
+            "description": "Bring the mixture to a boil, then reduce the heat to low. Cover and simmer for 18-20 minutes, or until the rice is tender and the liquid is absorbed."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Fluff the rice with a fork and serve hot. This curry rice can be enjoyed on its own or as a base for other dishes."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "55g",
+        "protein": "6g",
+        "fat": "5g",
+        "fiber": "2g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Adjust the amount of curry powder to suit your taste preferences.",
+        "For added nutrition, mix in vegetables like peas or carrots during cooking."
+    ],
+    "variations": [
+        "Coconut Curry Rice: Use coconut milk instead of water for a creamy version.",
+        "Spicy Curry Rice: Add chopped chilies or red pepper flakes for extra heat."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat in a microwave or on the stove with a splash of water to maintain moisture."
+    ],
+    "presentationTips": [
+        "Serve in a bowl, garnished with fresh herbs or sliced green onions.",
+        "Accompany with a side of yogurt or a simple salad for a balanced meal."
+    ],
+    "keywords": [
+        "Curry Rice",
+        "Flavored Rice",
+        "Easy Side Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

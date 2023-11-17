@@ -1,0 +1,36 @@
+{
+  "name": "South Indian Dinner Extravaganza",
+  "id": 1,
+  "menu": {
+    "snack": {
+      "default": {"name": "Baked Spinach and Dal Vadas", "id": "Baked_Spinach_and_Dal_Vadas_Recipe"},
+      "variations": {
+        "Roasted Chickpeas": "Roasted_Chickpeas_Recipe",
+        "Cucumber Peanut Salad": "Cucumber_Peanut_Salad_Recipe",
+        "Sprouted Moong Salad": "Sprouted_Moong_Salad_Recipe",
+        "Baked Samosa": "Baked_Samosa_Recipe",
+        "Millet Cutlets": "Millet_Cutlets_Recipe",
+        "Vegetable Poha": "Vegetable_Poha_Recipe",
+        "Stuffed Capsicum": "Stuffed_Capsicum_Recipe",
+        "Paneer Tikka": "Paneer_Tikka_Recipe",
+        "Fruit Chaat": "Fruit_Chaat_Recipe",
+        "Oats Idli": "Oats_Idli_Recipe"
+      }
+    },
+    "side": {
+      "default": {"name": "Mint Yogurt Dip", "id": "Mint_Yogurt_Dip_Recipe"},
+      "variations": {
+        "Coconut Chutney": "Coconut_Chutney_Recipe",
+        "Tomato Onion Salad": "Tomato_Onion_Salad_Recipe",
+        "Lemon Pickle": "Lemon_Pickle_Recipe",
+        "Spicy Tamarind Sauce": "Spicy_Tamarind_Sauce_Recipe",
+        "Cucumber Raita": "Cucumber_Raita_Recipe",
+        "Coriander Chutney": "Coriander_Chutney_Recipe",
+        "Sweet Mango Chutney": "Sweet_Mango_Chutney_Recipe",
+        "Mixed Vegetable Pickle": "Mixed_Vegetable_Pickle_Recipe",
+        "Peanut Chutney": "Peanut_Chutney_Recipe",
+        "Garlic Red Chilli Chutney": "Garlic_Red_Chilli_Chutney_Recipe"
+      }
+    }
+  }
+}

@@ -1,0 +1,192 @@
+{
+    "id": "Gatte_Ka_Pulao_Recipe",
+    "name": "Gatte Ka Pulao",
+    "origin": "India",
+    "history": "Gatte Ka Pulao, also known as Ram Pulao, is a Rajasthani dish. It combines the flavors of Gatte (gram flour dumplings) with the fragrant Basmati rice, embodying the essence of Rajasthani cuisine.",
+    "description": "This dish features cooked Basmati rice mixed with spicy and flavorful Gatte (gram flour dumplings), seasoned with traditional Indian spices. It's a delightful blend of textures and flavors.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "saucepan",
+            "description": "For cooking the rice."
+        },
+        {
+            "name": "pan",
+            "description": "For making the gatte and sautéing the spices."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "Basmati rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "gram flour",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed for cooking rice and gatte",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cilantro",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Gatte",
+            "description": "Mix gram flour, yogurt, turmeric powder, red chili powder, coriander powder, salt, and a little oil to form a dough. Roll into thin cylinders and boil in water until they float to the top. Cut into small pieces."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Rice",
+            "description": "Wash the Basmati rice and cook it until it's almost done. Drain any excess water."
+        },
+        {
+            "step": "3",
+            "title": "Make the Pulao",
+            "description": "Heat oil in a pan, add cumin seeds. Once they splutter, add the boiled gatte and sauté for a few minutes. Add the cooked rice, garam masala, and adjust salt. Mix gently."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Garnish the Gatte Ka Pulao with chopped cilantro. Serve hot with raita or any side dish of your choice."
+        }
+    ],
+    "nutrition": {
+        "calories": "400 per serving",
+        "carbohydrates": "70g",
+        "protein": "10g",
+        "fat": "10g",
+        "fiber": "4g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Ensure the gatte are not overcooked; they should be firm.",
+        "Fluff the rice gently to avoid breaking the grains."
+    ],
+    "variations": [
+        "Add vegetables like peas or carrots to the pulao for extra nutrition.",
+        "Experiment with different spices or herbs for variety in flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave, adding a little water if needed."
+    ],
+    "presentationTips": [
+        "Serve in a decorative serving dish, garnished with fresh cilantro.",
+        "Pair with a cooling raita or a tangy side salad."
+    ],
+    "keywords": [
+        "Gatte Ka Pulao",
+        "Indian Rice Dish",
+        "Rajasthani Cuisine"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

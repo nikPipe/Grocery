@@ -1,0 +1,232 @@
+{
+    "id": "Govind_Gatte_Recipe",
+    "name": "Govind Gatte",
+    "origin": "India",
+    "history": "Govind Gatte, a special variation of the traditional Rajasthani gatte, is known for its rich stuffing and flavorful gravy. It's a popular dish in Rajasthani cuisine, named after a deity.",
+    "description": "Govind Gatte, also known as Shahi Gatte, are gram flour dumplings stuffed with nuts and spices, cooked in a rich and creamy yogurt-based gravy. This dish is often served at special occasions and festivals.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "40"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "70"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For frying and cooking the dish."
+        },
+        {
+            "name": "bowl",
+            "description": "For mixing the ingredients."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "gram flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "125",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cashews, chopped",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "almonds, chopped",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "pistachios, chopped",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "raisins",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "20",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chilies",
+            "quantity": "1-2",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as required",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cilantro",
+            "quantity": "Variable",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Gatte",
+            "description": "Mix gram flour, spices, salt, and a little oil. Add yogurt and knead into a firm dough. Make a well in the center of each dough portion, stuff with mixed nuts and raisins, and roll into cylindrical shapes."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Gatte",
+            "description": "Boil water in a pan and cook the stuffed gatte until they float to the top. Remove, cool, and cut into pieces."
+        },
+        {
+            "step": "3",
+            "title": "Make the Gravy",
+            "description": "Heat oil in a pan. Add cumin seeds, asafoetida, and remaining spices. Add water and salt, bring to a boil, then simmer to form a gravy."
+        },
+        {
+            "step": "4",
+            "title": "Combine and Serve",
+            "description": "Add the gatte pieces to the gravy and cook for a few minutes. Garnish with cilantro and serve with rice or roti."
+        }
+    ],
+    "nutrition": {
+        "calories": "350 per serving",
+        "carbohydrates": "40g",
+        "protein": "10g",
+        "fat": "18g",
+        "fiber": "6g",
+        "sugar": "10g"
+    },
+    "tips": [
+        "The dough should be firm to hold the stuffing without breaking.",
+        "Fry the gatte on medium heat to ensure they are cooked evenly."
+    ],
+    "variations": [
+        "Add paneer or potato to the stuffing for a different flavor.",
+        "Experiment with the gravy by adding tomato puree or cream."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be stored in the refrigerator for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until warm."
+    ],
+    "presentationTips": [
+        "Serve in a decorative bowl, garnished with fresh cilantro.",
+        "Pair with warm, buttered flatbread for a hearty meal."
+    ],
+    "keywords": [
+        "Govind Gatte",
+        "Rajasthani Cuisine",
+        "Indian Vegetarian Dish"
+    ],
+    "allergens": [
+        "Gluten, Nuts, Dairy"
+    ]
+}

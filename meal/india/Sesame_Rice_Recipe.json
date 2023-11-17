@@ -5,7 +5,10 @@
     "history": "Sesame Rice, known as Ellu Sadam in Tamil Nadu, is a traditional South Indian dish. It's particularly popular in Tamil Nadu and Karnataka. This dish is often prepared during festivals and auspicious occasions, with sesame seeds being the star ingredient.",
     "description": "Sesame Rice is a flavorful and aromatic dish made with roasted sesame seeds, spices, and cooked rice. It's known for its nutty flavor and is often eaten as a main course or a side dish. Sesame seeds add a unique taste and are believed to have health benefits.",
     "servings": "1",
-    "dietTypes": ["Vegan", "Gluten-Free"],
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +23,10 @@
             "value": "25"
         }
     },
-    "mealtime": ["Lunch", "Dinner"],
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
     "equipment": [
         {
             "name": "pan",
@@ -119,7 +125,7 @@
         {
             "step": "3",
             "title": "Prepare Tempering",
-            "description": "Heat oil in the same pan. Add mustard seeds, urad dal, dry red chilies, asafoetida, and curry leaves. Sauté until the dal turns golden brown."
+            "description": "Heat oil in the same pan. Add mustard seeds, urad dal, dry red chilies, asafoetida, and curry leaves. Saut\u00c3\u00a9 until the dal turns golden brown."
         },
         {
             "step": "4",

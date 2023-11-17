@@ -5,7 +5,9 @@
     "history": "Onion Dosa is a variation of the classic South Indian dosa. It incorporates onions, adding a delicious crunch and sweetness to the traditional crepe-like dish.",
     "description": "Onion Dosa is a savory crepe made from a fermented batter of rice and lentils, topped with finely chopped onions and spices. It's a popular breakfast or snack item in South Indian cuisine.",
     "servings": "1",
-    "dietTypes": ["Vegetarian"],
+    "dietTypes": [
+        "Vegetarian"
+    ],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -20,7 +22,10 @@
             "value": "50 (excluding soaking and fermentation time)"
         }
     },
-    "mealtime": ["Breakfast", "Snack"],
+    "mealtime": [
+        "Breakfast",
+        "Snack"
+    ],
     "equipment": [
         {
             "name": "griddle or tawa",
