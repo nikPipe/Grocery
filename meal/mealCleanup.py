@@ -251,6 +251,34 @@ def replace_ingredients(json_obj, grocery_map):
     except Exception as e:
         return None
 
+def getDieTypes():
+    diet = []
+    for each in list_dir:
+        if '.json' in each:
+            data = read_json_file(path + '/' + each)
+            mealClass_ = mealClass(data)
+            dietTypes = mealClass_.getdietTypes()
+            for each in dietTypes:
+                if each not in diet:
+                    diet.append(each)
+
+    return diet
+
+def get_mealtime():
+    mealtime = []
+    for each in list_dir:
+        if '.json' in each:
+            data = read_json_file(path + '/' + each)
+            mealClass_ = mealClass(data)
+            mealtime_ = mealClass_.getmealtime()
+            for each in mealtime_:
+                if each not in mealtime:
+                    mealtime.append(each)
+
+    return mealtime
+
+
+
 def normalize_ingredient(ingredient):
     # Convert to lowercase
     ingredient = ingredient.lower()
@@ -269,6 +297,30 @@ def getServingNumber(json_obj):
         return json_obj['servings']['number']
     except Exception as e:
         return None
+
+itemList = getItemList()
+
+#print(sorted(itemList))
+for each in sorted(itemList):
+    #print(each)
+    pass
+
+#dietList = getDieTypes()
+#mealtimeList = get_mealtime()
+#print(dietList)
+#print(mealtimeList)
+
+
+def converimagetotext():
+    path ="C:/Users/Admin/Desktop/Nikheel/GroceryMain/Grocery/meal/india/Achari_Salad_Recipe.jpg"
+    import pytesseract
+    from PIL import Image
+    #pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+    img = Image.open(path)
+    text = pytesseract.image_to_string(img)
+    print(text)
+
+converimagetotext()
 
 
 

@@ -1,5 +1,5 @@
-from ui.widget import mainWidget
-from ui.import_module import *
+from ui_old.widget import mainWidget
+from ui_old.import_module import *
 
 
 #widget = mainWidget.MainWidget()

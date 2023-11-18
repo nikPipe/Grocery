@@ -1,7 +1,7 @@
 from functools import partial
 
-from ui.import_module import *
-from ui.sampleWidget import sample_widget_template
+from ui_old.import_module import *
+from ui_old.sampleWidget import sample_widget_template
 from data import help
 import json
 from collections import OrderedDict

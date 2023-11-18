@@ -1,11 +1,11 @@
-from ui.import_module import *
-from ui.sampleWidget import sample_widget_template
+from ui_old.import_module import *
+from ui_old.sampleWidget import sample_widget_template
 
-from ui.widget import homeWidget
-from ui.widget import mealWidget
-from ui.widget import dishWidget
-from ui.widget import shoppingWidget
-from ui.widget import profileWidget
+from ui_old.widget import homeWidget
+from ui_old.widget import mealWidget
+from ui_old.widget import dishWidget
+from ui_old.widget import shoppingWidget
+from ui_old.widget import profileWidget
 
 
 class mainWidget(QMainWindow):

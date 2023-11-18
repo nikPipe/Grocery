@@ -119,3 +119,10 @@ class Help():
         ]
 
         return countries
+
+    def clearLayout(self, layout):
+        # Remove all child widgets from the layout
+        for i in reversed(range(layout.count())):
+            widget = layout.itemAt(i).widget()
+            if widget is not None:
+                widget.deleteLater()  # Remove and delete the widget

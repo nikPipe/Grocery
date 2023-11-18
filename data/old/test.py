@@ -3,8 +3,8 @@ import traceback
 path = 'C:/Users/Admin/Desktop/Nikheel/Grocery/meal/India/meal'
 import sys, os, json
 
-from ui.import_module import *
-from ui.sampleWidget import sample_widget_template
+from ui_old.import_module import *
+from ui_old.sampleWidget import sample_widget_template
 
 
 

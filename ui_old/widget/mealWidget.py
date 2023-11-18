@@ -1,5 +1,5 @@
-from ui.import_module import *
-from ui.sampleWidget import sample_widget_template
+from ui_old.import_module import *
+from ui_old.sampleWidget import sample_widget_template
 import json
 from data import get_meal_dishe
 from meal import mealCleanup
@@ -46,6 +46,7 @@ class mealWidget(QWidget):
         '''
         allMeal = self.meal_dishe.getAllMeal()
         for each in allMeal:
+            print(each)
             mealClass = self.meal_cleanup.mealClass(each)
 
 
