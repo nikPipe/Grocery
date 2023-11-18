@@ -1,0 +1,169 @@
+{
+    "id": "Boondi_Raita_Recipe",
+    "name": "Boondi Raita",
+    "origin": "India",
+    "history": "Boondi Raita is a traditional Indian dish often served as a side in meals. It originates from the Indian subcontinent and combines boondi, tiny fried balls made from chickpea flour, with spiced yogurt. It's cherished for its blend of textures and flavors.",
+    "description": "Boondi Raita is a refreshing and flavorful yogurt-based dish featuring boondi, small, crispy, deep-fried balls made of gram flour (besan). The boondi is soaked in spiced yogurt, making it a delightful combination of creamy and crunchy textures.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "10"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For combining the ingredients.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "yogurt",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "boondi",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chaat masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mint leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Yogurt",
+            "description": "Whisk the yogurt in a mixing bowl until smooth. If it's too thick, add a little water or milk to adjust the consistency."
+        },
+        {
+            "step": "2",
+            "title": "Add Spices to Yogurt",
+            "description": "Add cumin powder, red chili powder, chaat masala, black salt, and regular salt to the yogurt. Mix well."
+        },
+        {
+            "step": "3",
+            "title": "Incorporate Boondi",
+            "description": "Just before serving, add the boondi to the spiced yogurt and mix gently. Allow it to sit for a few minutes so the boondi can soak up the yogurt."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped coriander leaves and mint leaves, if using. Serve the Boondi Raita chilled as a side dish."
+        }
+    ],
+    "nutrition": {
+        "calories": "150 per serving",
+        "carbohydrates": "15g",
+        "protein": "5g",
+        "fat": "8g",
+        "fiber": "1g",
+        "sugar": "8g"
+    },
+    "tips": [
+        "Soak the boondi in warm water and squeeze out the excess water for a softer texture.",
+        "Adjust the amount of spices according to your taste preferences."
+    ],
+    "variations": [
+        "Add finely chopped onions, tomatoes, or cucumber for a refreshing twist.",
+        "For a sweet version, skip the savory spices and add sugar or sweetened boondi."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh. Can be refrigerated for up to 1 day.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in a decorative bowl, garnished with a sprig of mint or edible flowers.",
+        "Accompany with other Indian dishes for a complete meal."
+    ],
+    "keywords": [
+        "Boondi Raita",
+        "Yogurt Side Dish",
+        "Indian Cuisine"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "id": "Patiala_Chicken_Recipe",
+    "name": "Patiala Chicken",
+    "origin": "India",
+    "history": "Patiala Chicken, originating from the city of Patiala in Punjab, India, reflects the rich culinary traditions of the region. This dish is known for its creamy texture and robust flavors, often featuring in festive and celebratory meals.",
+    "description": "Patiala Chicken is a creamy, indulgent curry made with succulent chicken pieces cooked in a rich gravy of tomatoes, cream, and a blend of aromatic spices. It's characterized by its velvety texture and vibrant flavor, often garnished with butter or cream.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "40"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "60"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "chicken",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "3 medium",
+            "weight": {
+                "value": "300",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cream",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "kasuri methi",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "butter",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Cook the Onion and Tomato Base",
+            "description": "Heat oil and butter in a pan. Add onions and ginger-garlic paste, saut\u00c3\u00a9ing until golden. Mix in turmeric, red chili powder, coriander powder, and garam masala."
+        },
+        {
+            "step": "2",
+            "title": "Add Chicken and Yogurt",
+            "description": "Add chicken pieces to the pan, browning them evenly. Stir in yogurt and cook until the chicken is almost done."
+        },
+        {
+            "step": "3",
+            "title": "Simmer with Tomato Puree",
+            "description": "Add tomato puree to the pan. Season with salt and simmer until the chicken is tender and the sauce thickens."
+        },
+        {
+            "step": "4",
+            "title": "Finish with Cream and Kasuri Methi",
+            "description": "Stir in cream and kasuri methi. Cook for a few more minutes."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with naan, roti, or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "650 per serving",
+        "carbohydrates": "20g",
+        "protein": "45g",
+        "fat": "45g",
+        "fiber": "4g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Use full-fat yogurt for a richer curry.",
+        "Adjust the level of spices to suit your taste preferences."
+    ],
+    "variations": [
+        "Add green bell peppers or mushrooms for additional flavors and textures.",
+        "For a healthier version, substitute cream with coconut milk."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a traditional Indian serving dish, garnished with a swirl of cream.",
+        "Pair with a side of pickled onions or a fresh salad."
+    ],
+    "keywords": [
+        "Patiala Chicken",
+        "Creamy Indian Chicken Curry",
+        "Rich Punjabi Chicken Dish"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

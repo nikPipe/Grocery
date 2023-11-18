@@ -1,0 +1,200 @@
+{
+    "id": "Paneer_Paratha_Recipe",
+    "name": "Paneer Paratha",
+    "origin": "India",
+    "history": "Paneer Paratha is a popular dish in Indian cuisine, particularly in North India. It's a flatbread filled with spiced paneer (Indian cottage cheese).",
+    "description": "Paneer Paratha is a delicious, nutritious Indian flatbread filled with seasoned paneer. It's typically enjoyed as a breakfast dish or a snack, often served with yogurt, pickles, or chutney.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "Used for preparing the dough and the paneer filling.",
+            "imageURL": ""
+        },
+        {
+            "name": "rolling pin",
+            "description": "Used for rolling out the parathas.",
+            "imageURL": ""
+        },
+        {
+            "name": "skillet or tawa",
+            "description": "Used for cooking the parathas.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "whole wheat flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed for dough",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "paneer",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 small",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger",
+            "quantity": "1 inch piece",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, mix the whole wheat flour and water to form a soft dough. Knead well and let it rest."
+        },
+        {
+            "step": "2",
+            "title": "Make the Paneer Filling",
+            "description": "Combine crumbled paneer, onion, green chilies, ginger, coriander leaves, cumin powder, garam masala, and salt. Mix thoroughly."
+        },
+        {
+            "step": "3",
+            "title": "Stuff and Roll the Parathas",
+            "description": "Divide the dough into equal portions. Roll each portion, fill with the paneer mixture, seal, and roll again."
+        },
+        {
+            "step": "4",
+            "title": "Cook the Parathas",
+            "description": "Heat a skillet or tawa. Cook each paratha with oil or ghee until both sides are golden brown."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve hot with yogurt, butter, or a tangy pickle."
+        }
+    ],
+    "nutrition": {
+        "calories": "350 per serving",
+        "carbohydrates": "45g",
+        "protein": "12g",
+        "fat": "15g",
+        "fiber": "6g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Ensure the paneer filling is well-spiced for the best flavor.",
+        "Be gentle while rolling to prevent the filling from oozing out."
+    ],
+    "variations": [
+        "Add grated vegetables to the paneer filling for extra nutrition.",
+        "Experiment with different spices or herbs for varied flavors."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be stored in the refrigerator for up to 2 days.",
+        "instructions": "Store in an airtight container and reheat on a skillet before serving."
+    },
+    "reheatingInstructions": "Reheat on a skillet or in a microwave until warm.",
+    "presentationTips": [
+        "Serve on a decorative plate with a side of green chutney and fresh salad."
+    ],
+    "keywords": [
+        "Paneer Paratha",
+        "Indian cuisine",
+        "stuffed flatbread"
+    ],
+    "allergens": [
+        "Gluten",
+        "Dairy"
+    ]
+}

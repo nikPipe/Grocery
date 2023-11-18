@@ -1,0 +1,186 @@
+{
+    "id": "Mango_Chutney_Recipe",
+    "name": "Mango Chutney",
+    "origin": "India",
+    "history": "Mango Chutney, a staple in Indian cuisine, has roots dating back centuries. This sweet and tangy condiment is made using mangoes, a fruit native to South Asia. It's a versatile accompaniment to many dishes and reflects the rich culinary diversity of the region.",
+    "description": "Mango Chutney is a sweet and spicy condiment made from ripe or unripe mangoes, sugar, vinegar, and a variety of spices. It's a perfect blend of flavors and is commonly used as a side with Indian meals or as a spread.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "saucepan",
+            "description": "For cooking the chutney.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "ripe mangoes",
+            "quantity": "2 large",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "apple cider vinegar",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "ginger",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garlic",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "raisins",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "40",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chili flakes",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cinnamon stick",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cloves",
+            "quantity": "4",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Cook Mangoes",
+            "description": "In a saucepan, combine the mangoes, sugar, and apple cider vinegar. Cook over medium heat until the sugar dissolves."
+        },
+        {
+            "step": "2",
+            "title": "Add Spices and Simmer",
+            "description": "Add ginger, garlic, raisins, red chili flakes, cinnamon stick, cloves, and salt. Bring to a boil, then reduce heat and simmer until the mixture thickens and becomes syrupy."
+        },
+        {
+            "step": "3",
+            "title": "Cool and Store",
+            "description": "Remove from heat and let the chutney cool. Discard the cinnamon stick and cloves. Transfer the chutney to a jar for storage."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the mango chutney with Indian bread, curries, or as a spread on sandwiches."
+        }
+    ],
+    "nutrition": {
+        "calories": "100 per serving",
+        "carbohydrates": "25g",
+        "protein": "1g",
+        "fat": "0g",
+        "fiber": "2g",
+        "sugar": "22g"
+    },
+    "tips": [
+        "Adjust the amount of sugar based on the sweetness of the mangoes.",
+        "The chutney thickens as it cools, so don't overcook it."
+    ],
+    "variations": [
+        "Add a dash of nutmeg or cardamom for extra flavor.",
+        "Include diced onions or bell peppers for added texture."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 weeks.",
+        "instructions": "Store in a clean, airtight jar in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in a small bowl or jar with a spoon for easy serving.",
+        "Garnish with a mint leaf or a sprinkle of sesame seeds for a decorative touch."
+    ],
+    "keywords": [
+        "Mango Chutney",
+        "Sweet and Spicy Condiment",
+        "Indian Relish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "id": "Mango_Pickle_Recipe",
+    "name": "Mango Pickle",
+    "origin": "India",
+    "history": "Mango Pickle, known as 'Aam ka Achaar' in Hindi, is a staple in Indian households. Made from raw mangoes, it is a traditional way to preserve the tangy flavor of mangoes in a spicy, savory condiment that lasts for months.",
+    "description": "Mango Pickle is made by marinating diced raw mangoes in a mix of aromatic spices, salt, and oil. This pickle is known for its bold, tangy, and spicy taste and is commonly served as a side dish with Indian meals.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "jar",
+            "description": "For storing the pickle.",
+            "imageURL": ""
+        },
+        {
+            "name": "bowl",
+            "description": "For mixing ingredients.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "raw mangoes",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "400",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "3 tablespoons",
+            "weight": {
+                "value": "45",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard oil",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "vinegar",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Mangoes",
+            "description": "Wash and dry the raw mangoes. Dice them into small pieces, discarding the seed. Ensure the mango pieces are completely dry."
+        },
+        {
+            "step": "2",
+            "title": "Mix Spices with Mangoes",
+            "description": "In a large bowl, combine the diced mangoes with mustard seeds powder, fenugreek seeds powder, asafoetida, turmeric powder, red chili powder, and salt. Mix well to coat the mangoes evenly."
+        },
+        {
+            "step": "3",
+            "title": "Add Oil and Vinegar",
+            "description": "Pour mustard oil and vinegar over the spiced mangoes. Stir thoroughly to ensure all the pieces are well coated with the oil and spices."
+        },
+        {
+            "step": "4",
+            "title": "Store the Pickle",
+            "description": "Transfer the pickle mixture to a clean, dry jar. Seal the jar tightly. Let the pickle sit in a warm place for about 10 days for the flavors to develop."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Once the mango pickle is matured, it's ready to be served as an accompaniment to various Indian dishes."
+        }
+    ],
+    "nutrition": {
+        "calories": "60 per tablespoon",
+        "carbohydrates": "6g",
+        "protein": "1g",
+        "fat": "4g",
+        "fiber": "1g",
+        "sugar": "4g"
+    },
+    "tips": [
+        "Make sure the mangoes and jar are completely dry to prevent spoilage.",
+        "The pickle's flavor enhances over time. Store it in a cool, dry place."
+    ],
+    "variations": [
+        "Add garlic or ginger for additional flavors.",
+        "Adjust the spice levels to suit your taste."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be stored for up to a year in a cool, dry place.",
+        "instructions": "Use a dry, clean spoon for serving. Keep the jar tightly closed."
+    },
+    "reheatingInstructions": "No reheating required.",
+    "presentationTips": [
+        "Serve in a small bowl or directly from the jar.",
+        "Accompany with a platter of Indian bread and curries."
+    ],
+    "keywords": [
+        "Mango Pickle",
+        "Aam ka Achaar",
+        "Indian Pickle"
+    ],
+    "allergens": [
+        "Mustard"
+    ]
+}

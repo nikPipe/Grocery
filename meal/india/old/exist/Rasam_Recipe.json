@@ -1,0 +1,220 @@
+{
+    "id": "Rasam_Recipe",
+    "name": "Rasam",
+    "origin": "India",
+    "history": "Rasam is a traditional South Indian soup, originating from Tamil Nadu. It's known for its tangy and spicy flavor and is typically made with tamarind juice, tomatoes, and a variety of spices. It's a staple in South Indian meals and has several regional variations.",
+    "description": "Rasam is a flavorful South Indian soup made with a base of tamarind juice or tomato, pepper, and other spices. It's light, tangy, and often served as an appetizer or with rice. Rasam is not only delicious but also considered beneficial for digestion.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pot",
+            "description": "For cooking the rasam."
+        },
+        {
+            "name": "pan",
+            "description": "For the tempering."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "tamarind paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomatoes",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "rasam powder",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black pepper",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garlic cloves",
+            "quantity": "4",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dried red chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "4 cups",
+            "weight": {
+                "value": "960",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Tamarind Water",
+            "description": "Soak tamarind paste in 1 cup of warm water, extract the juice, and discard the pulp."
+        },
+        {
+            "step": "2",
+            "title": "Cook Tomatoes and Spices",
+            "description": "In a pot, add the tamarind water, chopped tomatoes, rasam powder, crushed black pepper, and cumin seeds. Bring to a boil and simmer until the tomatoes are soft."
+        },
+        {
+            "step": "3",
+            "title": "Prepare the Tempering",
+            "description": "In a pan, heat oil. Add mustard seeds, dried red chilies, crushed garlic, and asafetida. When the mustard seeds start to splutter, add the curry leaves."
+        },
+        {
+            "step": "4",
+            "title": "Combine and Simmer",
+            "description": "Add the tempering to the pot. Add remaining water and salt. Simmer for 5-10 minutes."
+        },
+        {
+            "step": "5",
+            "title": "Finish with Coriander",
+            "description": "Turn off the heat and add chopped coriander leaves."
+        },
+        {
+            "step": "6",
+            "title": "Serve",
+            "description": "Serve hot as a soup or with rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "80 per serving",
+        "carbohydrates": "10g",
+        "protein": "2g",
+        "fat": "4g",
+        "fiber": "2g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Adjust the amount of rasam powder and black pepper to suit your taste.",
+        "Ensure the tomatoes are well cooked for a smoother texture."
+    ],
+    "variations": [
+        "Add cooked lentils for a heartier version.",
+        "Include a small piece of jaggery to balance the tanginess."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat on the stove or in a microwave until hot."
+        }
+    ],
+    "presentationTips": [
+        "Garnish with fresh coriander leaves for added flavor and visual appeal.",
+        "Serve in a traditional earthen pot for an authentic presentation."
+    ],
+    "keywords": [
+        "Rasam",
+        "South Indian Soup",
+        "Tamarind Soup"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

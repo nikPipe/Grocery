@@ -1,0 +1,229 @@
+{
+    "id": "Mushroom_Biryani_Recipe",
+    "name": "Mushroom Biryani",
+    "origin": "India",
+    "history": "Mushroom Biryani is a variant of the classic Indian biryani, which traditionally uses meat. This version uses mushrooms as the main ingredient, making it a popular choice among vegetarians. It's known for its rich flavors and aromatic spices.",
+    "description": "Mushroom Biryani is a flavorful and aromatic rice dish made with basmati rice, mushrooms, and a blend of biryani spices. It's cooked in a layered method, where the spiced mushrooms are layered with partially cooked rice and then steamed together.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "40"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "60"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "large pot",
+            "description": "For cooking the biryani.",
+            "imageURL": ""
+        },
+        {
+            "name": "frying pan",
+            "description": "For preparing the mushroom mixture.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mushrooms",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mint leaves",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "biryani masala",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "saffron strands",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Rice",
+            "description": "Wash and soak basmati rice for 30 minutes. Cook the rice until it's 70% done. Drain and set aside."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Mushrooms",
+            "description": "Heat oil in a frying pan. Add onions and saut\u00c3\u00a9 until golden brown. Add ginger-garlic paste and green chilies. Stir in the mushrooms, tomatoes, mint, coriander leaves, yogurt, biryani masala, turmeric, red chili powder, and salt. Cook until the mushrooms are tender."
+        },
+        {
+            "step": "3",
+            "title": "Layer the Biryani",
+            "description": "In a large pot, layer the cooked mushrooms and rice. Sprinkle the saffron milk over the top layer. Cover and cook on a low flame for 20 minutes."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Gently fluff the biryani before serving. Serve hot with raita or a side dish of your choice."
+        }
+    ],
+    "nutrition": {
+        "calories": "450 per serving",
+        "carbohydrates": "70g",
+        "protein": "10g",
+        "fat": "15g",
+        "fiber": "5g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Make sure the rice is not fully cooked when boiling, as it will cook further with the mushrooms.",
+        "Use fresh, firm mushrooms for the best texture."
+    ],
+    "variations": [
+        "Add fried onions on top for added flavor.",
+        "Incorporate vegetables like peas or carrots for a more nutritious dish."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on a stove until hot.",
+    "presentationTips": [
+        "Serve in a decorative serving dish, garnished with fresh herbs.",
+        "Pair with a variety of accompaniments like cucumber raita or papad."
+    ],
+    "keywords": [
+        "Mushroom Biryani",
+        "Indian Rice Dish",
+        "Vegetarian Biryani"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

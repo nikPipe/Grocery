@@ -1,0 +1,122 @@
+{
+    "id": "Orange_Juice_Recipe",
+    "name": "Orange Juice",
+    "origin": "Global",
+    "history": "Orange Juice is a staple beverage around the world, particularly popular as a breakfast drink. Originating from oranges, which have been cultivated since ancient times, orange juice is valued for its refreshing taste and health benefits.",
+    "description": "Orange Juice is a refreshing and nutritious drink made by squeezing or pressing the fresh pulp of oranges. It's known for its bright flavor, high vitamin C content, and is often consumed fresh for the best taste and nutritional value.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegan",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "10"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "juicer or citrus press",
+            "description": "For extracting juice from the oranges.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "oranges",
+            "quantity": "4-5 medium",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ice cubes",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Oranges",
+            "description": "Roll the oranges on a flat surface to loosen the juice. Cut them in half and remove any seeds."
+        },
+        {
+            "step": "2",
+            "title": "Extract the Juice",
+            "description": "Using a juicer or citrus press, squeeze the juice from the oranges. Strain the juice to remove any pulp, if desired."
+        },
+        {
+            "step": "3",
+            "title": "Sweeten (Optional)",
+            "description": "If desired, add sugar or honey to sweeten the juice and stir well."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Pour the orange juice into glasses, over ice cubes if preferred. Serve immediately for the freshest taste."
+        }
+    ],
+    "nutrition": {
+        "calories": "80 per serving",
+        "carbohydrates": "19g",
+        "protein": "1g",
+        "fat": "0g",
+        "fiber": "0g",
+        "sugar": "14g"
+    },
+    "tips": [
+        "Use ripe and sweet oranges for the best flavor.",
+        "Avoid over-squeezing the pulp, as it can make the juice bitter."
+    ],
+    "variations": [
+        "Mix with other fruit juices like apple or carrot for a different flavor.",
+        "Add a pinch of salt or a splash of lemon juice for an enhanced taste."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. Can be refrigerated for up to 24 hours.",
+        "instructions": "Store in a sealed container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in clear glasses to showcase the vibrant color of the juice.",
+        "Garnish with an orange slice or a sprig of mint."
+    ],
+    "keywords": [
+        "Orange Juice",
+        "Fresh Juice",
+        "Citrus Beverage"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "id": "Matar_Paneer_Recipe",
+    "name": "Matar Paneer",
+    "origin": "India",
+    "history": "Matar Paneer is a popular dish in North Indian cuisine. It's a staple in many Indian households, combining the richness of paneer (cottage cheese) with the freshness of green peas.",
+    "description": "Matar Paneer is a creamy and flavorful curry made with paneer cubes and green peas, simmered in a tomato-based sauce. This dish is seasoned with a blend of aromatic Indian spices, making it a delightful vegetarian option.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "paneer",
+            "quantity": "250 grams",
+            "weight": {
+                "value": "250",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green peas",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Saut\u00c3\u00a9 Onions and Spices",
+            "description": "Heat oil in a pan. Add cumin seeds and let them splutter. Add onions and ginger-garlic paste, cooking until onions turn golden."
+        },
+        {
+            "step": "2",
+            "title": "Add Tomatoes and Dry Spices",
+            "description": "Add pureed tomatoes, turmeric powder, coriander powder, red chili powder, and salt. Cook until the oil starts to separate."
+        },
+        {
+            "step": "3",
+            "title": "Cook Peas and Paneer",
+            "description": "Add green peas and a little water. Cover and cook until the peas are tender. Then add paneer cubes and cook for a few more minutes."
+        },
+        {
+            "step": "4",
+            "title": "Finish with Garam Masala",
+            "description": "Sprinkle garam masala over the curry and mix well."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped coriander leaves. Serve hot with roti, naan, or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "400 per serving",
+        "carbohydrates": "30g",
+        "protein": "20g",
+        "fat": "20g",
+        "fiber": "6g",
+        "sugar": "8g"
+    },
+    "tips": [
+        "Fry the paneer cubes separately before adding to the curry for a golden texture.",
+        "Adjust the chili powder according to your spice preference."
+    ],
+    "variations": [
+        "Add cream for a richer gravy.",
+        "Include other vegetables like carrots or bell peppers for added nutrition."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a traditional Indian serving bowl, garnished with a lemon wedge.",
+        "Accompany with a side of cucumber raita."
+    ],
+    "keywords": [
+        "Matar Paneer",
+        "Indian Vegetarian Curry",
+        "Paneer with Peas"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

@@ -1,0 +1,224 @@
+{
+    "id": "Goan_Beef_Curry_Recipe",
+    "name": "Goan Beef Curry",
+    "origin": "India",
+    "history": "Goan Beef Curry is a flavorful dish from Goa, a coastal state in India known for its rich culinary heritage influenced by Portuguese cuisine. This curry combines Indian spices with the tanginess of vinegar, typical of Goan cuisine.",
+    "description": "Goan Beef Curry is a robust and spicy dish featuring tender pieces of beef simmered in a spicy and tangy sauce made with coconut, vinegar, and a variety of traditional Goan spices. It is often served with rice or Goan bread.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "60"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "90"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "beef",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coconut milk",
+            "quantity": "1 can (400 ml)",
+            "weight": {
+                "value": "400",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tamarind paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "vinegar",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Marinate the Beef",
+            "description": "Mix beef cubes with ginger-garlic paste, turmeric powder, red chili powder, coriander powder, cumin powder, and vinegar. Marinate for at least 2 hours or overnight."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Beef",
+            "description": "Heat oil in a pan. Add onions and saut\u00c3\u00a9 until golden. Add marinated beef and cook until browned."
+        },
+        {
+            "step": "3",
+            "title": "Simmer with Spices and Coconut Milk",
+            "description": "Add tomatoes, tamarind paste, garam masala, and salt. Pour in coconut milk and enough water to cover the beef. Bring to a boil, then simmer until the beef is tender."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with rice or Goan bread."
+        }
+    ],
+    "nutrition": {
+        "calories": "650 per serving",
+        "carbohydrates": "25g",
+        "protein": "45g",
+        "fat": "40g",
+        "fiber": "5g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Marinating the beef for a longer duration enhances the flavor.",
+        "Adjust the amount of red chili powder and vinegar to suit your taste."
+    ],
+    "variations": [
+        "Add potatoes or carrots for additional texture and flavor.",
+        "Substitute beef with lamb or chicken for a different version of the curry."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a traditional clay pot for an authentic look.",
+        "Pair with a side of tangy pickled vegetables."
+    ],
+    "keywords": [
+        "Goan Beef Curry",
+        "Spicy Indian Beef",
+        "Coconut Beef Curry"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

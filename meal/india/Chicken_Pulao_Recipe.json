@@ -1,0 +1,237 @@
+{
+    "id": "Chicken_Pulao_Recipe",
+    "name": "Chicken Pulao",
+    "origin": "India",
+    "history": "Chicken Pulao is a popular dish in South Asian cuisine, known for its aromatic flavors. It's a simpler and quicker alternative to Biryani, combining chicken, rice, and spices in a one-pot meal.",
+    "description": "Chicken Pulao is a flavorful rice dish cooked with marinated chicken, basmati rice, and a blend of spices. It's a hearty and comforting meal, often enjoyed with raita or salad, and is known for its ease of preparation and delicious taste.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "large pot",
+            "description": "For cooking the pulao.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "chicken",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "whole spices (cardamom, cloves, cinnamon stick, bay leaves)",
+            "quantity": "1 set",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "500",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mint leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Marinate the Chicken",
+            "description": "Marinate the chicken pieces with yogurt, turmeric powder, coriander powder, and salt. Set aside for at least 30 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Saut\u00c3\u00a9 Spices and Vegetables",
+            "description": "In a large pot, heat oil and add whole spices and cumin seeds. Once they splutter, add onions and saut\u00c3\u00a9 until golden. Add ginger-garlic paste and green chilies, and cook for a few minutes."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Chicken",
+            "description": "Add the marinated chicken and cook until it's half done. Add chopped tomatoes and cook until the chicken is fully cooked."
+        },
+        {
+            "step": "4",
+            "title": "Add Rice and Water",
+            "description": "Add washed and soaked basmati rice to the pot. Pour in water, bring to a boil, then reduce heat to simmer. Cover and cook until the rice is done."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish the Chicken Pulao with chopped cilantro and mint leaves. Serve hot with raita or salad."
+        }
+    ],
+    "nutrition": {
+        "calories": "400 per serving",
+        "carbohydrates": "45g",
+        "protein": "25g",
+        "fat": "15g",
+        "fiber": "3g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Marinating the chicken for a longer duration enhances the flavors.",
+        "Ensure the rice is not overcooked for the best texture."
+    ],
+    "variations": [
+        "Add vegetables like peas or carrots for a more nutritious meal.",
+        "Adjust the level of spices and chilies to suit your taste preferences."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on a stove until hot.",
+    "presentationTips": [
+        "Serve in a decorative serving dish to enhance the visual appeal.",
+        "Pair with various accompaniments like pickles and papad for a complete meal experience."
+    ],
+    "keywords": [
+        "Chicken Pulao",
+        "Indian Rice Dish",
+        "Spiced Chicken Rice"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

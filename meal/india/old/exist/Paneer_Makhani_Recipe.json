@@ -1,0 +1,199 @@
+{
+    "id": "Paneer_Makhani_Recipe",
+    "name": "Paneer Makhani",
+    "origin": "India",
+    "history": "Paneer Makhani, also known as Butter Paneer, is a classic dish from North Indian cuisine. It's a rich and creamy curry made with paneer (Indian cottage cheese) and a tomato-based sauce, popularized by its smooth texture and buttery flavor.",
+    "description": "Paneer Makhani is a delightful and creamy dish where paneer cubes are simmered in a smooth, buttery, tomato-based gravy. It's seasoned with a blend of aromatic spices, cream, and butter, resulting in a rich and flavorful curry.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "25"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "40"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        },
+        {
+            "name": "blender",
+            "description": "For blending the sauce.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "paneer",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "4 medium",
+            "weight": {
+                "value": "400",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "butter",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cream",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "kasuri methi",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "spices (garam masala, red chili powder, turmeric powder, coriander powder)",
+            "quantity": "as per taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "4",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Tomato-Onion Base",
+            "description": "Heat butter in a pan. Saut\u00c3\u00a9 onions until translucent. Add ginger-garlic paste and green chilies. Add chopped tomatoes and cook until soft. Blend into a smooth puree once cooled."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Gravy",
+            "description": "In the same pan, pour the tomato-onion puree. Add red chili powder, turmeric powder, coriander powder, and garam masala. Cook until the oil separates."
+        },
+        {
+            "step": "3",
+            "title": "Add Paneer and Cream",
+            "description": "Add paneer cubes, salt, and sugar to the gravy. Cook for a few minutes. Add cream and kasuri methi, simmer for another 5 minutes."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Paneer Makhani hot with naan, roti, or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "400 per serving",
+        "carbohydrates": "20g",
+        "protein": "15g",
+        "fat": "30g",
+        "fiber": "3g",
+        "sugar": "10g"
+    },
+    "tips": [
+        "Use ripe, red tomatoes for a sweeter and richer sauce.",
+        "Adjust the spice levels according to your preference."
+    ],
+    "variations": [
+        "Add cashew paste for a creamier texture.",
+        "For a vegan version, use tofu instead of paneer and plant-based cream."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until hot."
+    ],
+    "presentationTips": [
+        "Serve in a traditional Indian serving bowl.",
+        "Garnish with a swirl of cream and a sprinkle of chopped coriander."
+    ],
+    "keywords": [
+        "Paneer Makhani",
+        "Butter Paneer",
+        "Indian Curry"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

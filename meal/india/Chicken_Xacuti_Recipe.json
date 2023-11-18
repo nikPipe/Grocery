@@ -1,0 +1,253 @@
+{
+    "id": "Chicken_Xacuti_Recipe",
+    "name": "Chicken Xacuti",
+    "origin": "India",
+    "history": "Chicken Xacuti is a traditional Goan dish with Portuguese influence. It's renowned in the coastal state of Goa, India, for its complex flavors and the unique blend of spices, including the use of roasted coconut.",
+    "description": "Chicken Xacuti is a rich, spicy curry that's distinguished by its use of an array of spices along with coconut. The dish combines tender chicken pieces with a gravy made from a paste of roasted spices and coconut, offering a unique and aromatic flavor.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "45"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "75"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For roasting spices and cooking the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "chicken",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tamarind paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander seeds",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "poppy seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fennel seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cloves",
+            "quantity": "4",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cinnamon stick",
+            "quantity": "1 small piece",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black peppercorns",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dried red chilies",
+            "quantity": "3",
+            "weight": {
+                "value": "3",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "grated coconut",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Roast and Grind Spices",
+            "description": "Dry roast coriander seeds, cumin seeds, poppy seeds, fennel seeds, cloves, cinnamon, black peppercorns, dried red chilies, and grated coconut until aromatic. Cool and grind to a fine paste."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Chicken",
+            "description": "Heat oil in a pan. Add onions and cook until they turn golden brown. Add ginger-garlic paste, turmeric powder, and the ground spice paste. Cook for a few minutes."
+        },
+        {
+            "step": "3",
+            "title": "Add Chicken and Tomatoes",
+            "description": "Add chicken pieces, salt, and chopped tomatoes. Cook until chicken is browned."
+        },
+        {
+            "step": "4",
+            "title": "Simmer with Tamarind",
+            "description": "Add tamarind paste and water. Cover and simmer until the chicken is cooked and the gravy is thick."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with rice or Indian bread like roti or naan."
+        }
+    ],
+    "nutrition": {
+        "calories": "550 per serving",
+        "carbohydrates": "25g",
+        "protein": "40g",
+        "fat": "35g",
+        "fiber": "6g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Adjust the number of red chilies to control the spice level.",
+        "Make sure to roast the spices on a low flame to avoid burning."
+    ],
+    "variations": [
+        "Add potatoes or bell peppers for additional texture.",
+        "Substitute chicken with lamb or beef for a different flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a traditional Indian serving bowl, garnished with a lemon wedge.",
+        "Pair with a cooling side like cucumber raita or a simple salad."
+    ],
+    "keywords": [
+        "Chicken Xacuti",
+        "Goan Chicken Curry",
+        "Spicy Indian Chicken"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

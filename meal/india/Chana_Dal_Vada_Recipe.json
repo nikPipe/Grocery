@@ -1,0 +1,186 @@
+{
+    "id": "Chana_Dal_Vada_Recipe",
+    "name": "Chana Dal Vada",
+    "origin": "India",
+    "history": "Chana Dal Vada, also known as Bengal Gram Fritters, is a popular snack in South Indian cuisine. It is known for its crispy exterior and flavorful interior.",
+    "description": "Chana Dal Vada is a crispy, deep-fried snack made from soaked chana dal (Bengal gram) mixed with spices, herbs, and onions. It's often served with chutney as a snack or appetizer.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": [
+        "Snack",
+        "Appetizer"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For soaking and mixing the dal.",
+            "imageURL": ""
+        },
+        {
+            "name": "blender or grinder",
+            "description": "For grinding the dal mixture.",
+            "imageURL": ""
+        },
+        {
+            "name": "frying pan",
+            "description": "For deep frying the vadas.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "chana dal",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger",
+            "quantity": "1 inch piece",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "few",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for deep frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Soak and Grind Dal",
+            "description": "Soak the chana dal in water for 3-4 hours. Drain and grind it coarsely without using water."
+        },
+        {
+            "step": "2",
+            "title": "Prepare Vada Mixture",
+            "description": "In a bowl, mix the ground dal with chopped onions, green chilies, ginger, curry leaves, coriander leaves, cumin seeds, asafoetida, and salt."
+        },
+        {
+            "step": "3",
+            "title": "Shape and Fry Vadas",
+            "description": "Heat oil in a frying pan. Shape the mixture into small patties and deep fry until golden and crisp."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Chana Dal Vadas hot with coconut chutney or ketchup."
+        }
+    ],
+    "nutrition": {
+        "calories": "300",
+        "carbohydrates": "35g",
+        "protein": "10g",
+        "fat": "15g",
+        "fiber": "8g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Do not over-grind the dal; it should have some texture.",
+        "Ensure the oil is hot enough before frying for the best results."
+    ],
+    "variations": [
+        "Add grated vegetables like carrots or cabbage for a different taste.",
+        "Experiment with different herbs and spices for variety."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh but can be stored in the refrigerator for up to 1 day.",
+        "instructions": "Store in an airtight container and reheat before serving."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on a stovetop until crisp.",
+    "presentationTips": [
+        "Arrange on a platter with garnish of coriander leaves.",
+        "Accompany with slices of onion and lemon wedges."
+    ],
+    "keywords": [
+        "Chana Dal Vada",
+        "Indian Snack",
+        "Fritters"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

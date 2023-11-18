@@ -1,0 +1,248 @@
+{
+    "id": "Vegetable_Pulao_Recipe",
+    "name": "Vegetable Pulao",
+    "origin": "India",
+    "history": "Pulao, or pilaf, is a popular dish in Indian cuisine, with its roots tracing back to ancient times. It's a flavorful rice dish cooked with a variety of spices, vegetables, and sometimes meat, offering a complete and satisfying meal.",
+    "description": "Vegetable Pulao is a one-pot rice dish made with basmati rice, mixed vegetables, and a blend of aromatic spices. It's a versatile and easy-to-make dish, often flavored with whole spices like cardamom, cloves, and cinnamon for a fragrant and rich taste.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pot with lid",
+            "description": "For cooking the pulao.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carrot",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "peas",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green beans",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cauliflower",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cloves",
+            "quantity": "4",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cinnamon stick",
+            "quantity": "1 inch piece",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "bay leaves",
+            "quantity": "2",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Rice",
+            "description": "Rinse the basmati rice in cold water until the water runs clear. Soak the rice for 20 minutes, then drain."
+        },
+        {
+            "step": "2",
+            "title": "Saut\u00c3\u00a9 Spices and Vegetables",
+            "description": "Heat oil or ghee in a pot. Add cumin seeds and whole spices. Once they sizzle, add onions and saut\u00c3\u00a9 until golden. Add ginger-garlic paste, green chilies, and the mixed vegetables. Cook for a few minutes."
+        },
+        {
+            "step": "3",
+            "title": "Add Rice and Water",
+            "description": "Stir in the drained rice, turmeric powder, and garam masala. Add water and salt. Bring to a boil, then reduce the heat, cover, and simmer until the rice is cooked and the water is absorbed."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Garnish the pulao with chopped coriander leaves. Serve hot as a main dish or as a side."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per serving",
+        "carbohydrates": "40g",
+        "protein": "4g",
+        "fat": "5g",
+        "fiber": "3g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Avoid stirring the rice too much while cooking to prevent it from breaking.",
+        "Adjust the quantity of water depending on the type of rice used."
+    ],
+    "variations": [
+        "Add paneer or cooked chicken for a protein-rich version.",
+        "Experiment with different vegetables like bell peppers or broccoli."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on a stovetop with a little added water.",
+    "presentationTips": [
+        "Serve in a large serving dish, fluffed with a fork.",
+        "Pair with raita, pickle, or a side salad for a complete meal."
+    ],
+    "keywords": [
+        "Vegetable Pulao",
+        "Indian Rice Dish",
+        "Spiced Rice with Vegetables"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

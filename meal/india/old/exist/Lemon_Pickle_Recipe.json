@@ -1,0 +1,168 @@
+{
+    "id": "Lemon_Pickle_Recipe",
+    "name": "Lemon Pickle",
+    "origin": "India",
+    "history": "Lemon Pickle, known as 'Nimbu ka Achar' in India, has been a traditional accompaniment in Indian meals for centuries. It's made by preserving lemons in spices and oil, and it's known for its tangy and often spicy flavor.",
+    "description": "Lemon Pickle is a tangy and spicy condiment made from lemons preserved in a mixture of oil, salt, spices like turmeric, red chili powder, and asafoetida. This pickle is a staple in Indian cuisine and is cherished for its ability to enhance the flavor of meals.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Day",
+            "value": "30"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "jar",
+            "description": "For storing and fermenting the pickle.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "lemons",
+            "quantity": "10",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "3 tablespoons",
+            "weight": {
+                "value": "45",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard oil",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Lemons",
+            "description": "Wash the lemons thoroughly. Cut them into quarters or smaller pieces, removing any seeds."
+        },
+        {
+            "step": "2",
+            "title": "Mix with Spices",
+            "description": "In a large bowl, mix the lemon pieces with salt, turmeric powder, red chili powder, asafoetida, ground mustard seeds, and ground fenugreek seeds."
+        },
+        {
+            "step": "3",
+            "title": "Store in a Jar",
+            "description": "Transfer the lemon mixture to a clean, dry jar. Pour mustard oil over the lemons until they are completely submerged."
+        },
+        {
+            "step": "4",
+            "title": "Ferment the Pickle",
+            "description": "Seal the jar and keep it in a warm place. Allow the pickle to ferment for about 30 days, shaking the jar every few days to mix the contents."
+        },
+        {
+            "step": "5",
+            "title": "Ready to Serve",
+            "description": "Once the lemons are tender and the flavors have blended, the pickle is ready to be served."
+        }
+    ],
+    "nutrition": {
+        "calories": "50 per serving",
+        "carbohydrates": "4g",
+        "protein": "0.5g",
+        "fat": "3.5g",
+        "fiber": "1g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Ensure the jar is sterilized before use to prevent any bacterial growth.",
+        "The pickle's taste will develop and improve over time."
+    ],
+    "variations": [
+        "Add different spices like nigella seeds or cloves for a unique flavor.",
+        "Adjust the level of spiciness by altering the amount of red chili powder."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be stored for up to 1 year if kept in a cool, dry place.",
+        "instructions": "Ensure the lemons are always submerged in oil and the jar is sealed tightly."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in a small traditional Indian pickle jar.",
+        "Accompany with Indian meals for an authentic experience."
+    ],
+    "keywords": [
+        "Lemon Pickle",
+        "Nimbu ka Achar",
+        "Indian Condiment"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

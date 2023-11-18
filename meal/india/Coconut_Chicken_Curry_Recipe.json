@@ -1,0 +1,208 @@
+{
+    "id": "Coconut_Chicken_Curry_Recipe",
+    "name": "Coconut Chicken Curry",
+    "origin": "India",
+    "history": "Coconut Chicken Curry is a popular dish in coastal regions of India, where coconut is abundant. This dish combines the rich flavors of coconut with traditional Indian spices, creating a creamy and aromatic curry.",
+    "description": "Coconut Chicken Curry is a flavorful Indian dish made with tender chicken pieces cooked in a creamy coconut milk-based sauce. The curry is infused with spices like turmeric, cumin, and coriander, offering a perfect blend of richness and warmth.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "40"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "60"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "chicken",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coconut milk",
+            "quantity": "1 can (400 ml)",
+            "weight": {
+                "value": "400",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Saut\u00c3\u00a9 Onions and Spices",
+            "description": "Heat oil in a pan. Add onions and ginger-garlic paste, cooking until onions are golden. Stir in turmeric powder, coriander powder, cumin powder, red chili powder, and garam masala."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Chicken",
+            "description": "Add chicken pieces to the pan. Cook until they start to brown."
+        },
+        {
+            "step": "3",
+            "title": "Add Tomatoes and Coconut Milk",
+            "description": "Stir in chopped tomatoes. Cook until soft. Add coconut milk and bring to a simmer. Cook until the chicken is tender."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with rice or Indian bread like roti or naan."
+        }
+    ],
+    "nutrition": {
+        "calories": "600 per serving",
+        "carbohydrates": "25g",
+        "protein": "45g",
+        "fat": "35g",
+        "fiber": "5g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Use full-fat coconut milk for a richer flavor and creamier texture.",
+        "Adjust the amount of red chili powder to control the spice level."
+    ],
+    "variations": [
+        "Add vegetables like bell peppers or peas for extra nutrition and color.",
+        "For a Thai twist, add lime juice and basil leaves towards the end of cooking."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a decorative bowl, garnished with a sprig of cilantro.",
+        "Pair with a side of cucumber salad or a tangy chutney."
+    ],
+    "keywords": [
+        "Coconut Chicken Curry",
+        "Creamy Indian Chicken",
+        "Spicy Coconut Curry"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

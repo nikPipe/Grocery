@@ -1,0 +1,144 @@
+{
+    "id": "Jigarthanda_Recipe",
+    "name": "Jigarthanda",
+    "origin": "India",
+    "history": "Jigarthanda is a popular beverage in Madurai, Tamil Nadu. The name translates to 'cool heart' in English. This drink was brought to Madurai by the Mughals and has since become a regional specialty, especially famous during the hot summer months.",
+    "description": "Jigarthanda is a refreshing and cooling drink made from milk, almond gum (badam pisin), sarsaparilla (nannari) syrup, and reduced milk ice cream known as 'kadal paasi'. It's sweet, rich, and known for its cooling properties.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "25"
+        }
+    },
+    "mealtime": ["Anytime"],
+    "equipment": [
+        {
+            "name": "glass",
+            "description": "For serving the drink."
+        },
+        {
+            "name": "pan",
+            "description": "For boiling the milk."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "milk",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "almond gum",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sarsaparilla syrup",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "reduced milk ice cream",
+            "quantity": "1 scoop",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Almond Gum",
+            "description": "Soak the almond gum in water overnight or until it swells up and becomes jelly-like."
+        },
+        {
+            "step": "2",
+            "title": "Boil Milk",
+            "description": "Boil the milk in a pan and add sugar to taste. Allow it to cool."
+        },
+        {
+            "step": "3",
+            "title": "Assemble the Drink",
+            "description": "In a glass, first add the swollen almond gum. Pour the cooled sweetened milk over it. Add the sarsaparilla syrup."
+        },
+        {
+            "step": "4",
+            "title": "Top with Ice Cream",
+            "description": "Top the drink with a scoop of reduced milk ice cream."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the Jigarthanda immediately for a refreshing and cooling experience."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per serving",
+        "carbohydrates": "30g",
+        "protein": "5g",
+        "fat": "7g",
+        "fiber": "0g",
+        "sugar": "28g"
+    },
+    "tips": [
+        "Make sure the milk is well boiled and cooled for the best taste.",
+        "Adjust the amount of nannari syrup according to your sweetness preference."
+    ],
+    "variations": [
+        "For a vegan version, use almond milk or soy milk instead of regular milk.",
+        "Add a sprinkle of chopped nuts for added texture."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately; not recommended for storage.",
+        "instructions": "Prepare fresh for each serving."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Jigarthanda is a cold beverage and does not require reheating."
+        }
+    ],
+    "presentationTips": [
+        "Serve in a tall glass with a long spoon.",
+        "Garnish with a sprig of mint or a slice of lemon for a refreshing look."
+    ],
+    "keywords": [
+        "Jigarthanda",
+        "Madurai Special Drink",
+        "Indian Summer Beverage"
+    ],
+    "allergens": [
+        "Dairy",
+        "Nuts"
+    ]
+}

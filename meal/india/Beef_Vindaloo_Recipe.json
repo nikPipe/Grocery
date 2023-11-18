@@ -1,0 +1,239 @@
+{
+    "id": "Beef_Vindaloo_Recipe",
+    "name": "Beef Vindaloo",
+    "origin": "India",
+    "history": "Vindaloo is a Goan dish with Portuguese origins. It's known for being a fiery and heavily spiced dish, often featuring vinegar and garlic, reflecting the Portuguese influence in Goa.",
+    "description": "Beef Vindaloo is a spicy, tangy curry made with marinated beef, cooked with a mixture of vinegar, garlic, and a blend of hot spices. It's a bold and flavorful dish, often enjoyed with rice or Indian bread.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "60"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "90"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "cooking pot",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        },
+        {
+            "name": "bowl",
+            "description": "For marinating the beef.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "beef",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "2 large",
+            "weight": {
+                "value": "300",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garlic",
+            "quantity": "6",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger",
+            "quantity": "1 inch piece",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dried red chilies",
+            "quantity": "4",
+            "weight": {
+                "value": "4",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "vinegar",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "tamarind paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Marinate the Beef",
+            "description": "Marinate the beef with half of the vinegar, salt, turmeric powder, and half of the minced garlic and ginger. Let it marinate for at least 2 hours or overnight."
+        },
+        {
+            "step": "2",
+            "title": "Prepare the Spice Mix",
+            "description": "Dry roast dried red chilies, cumin seeds, and mustard seeds. Grind them into a fine powder."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Beef",
+            "description": "Heat oil in a pot. Add onions, remaining garlic, and ginger. Saut\u00c3\u00a9 until golden. Add the marinated beef and cook on high heat for a few minutes."
+        },
+        {
+            "step": "4",
+            "title": "Add Spices and Liquids",
+            "description": "Add the ground spice mix, coriander powder, remaining vinegar, tamarind paste, jaggery, and water. Stir well."
+        },
+        {
+            "step": "5",
+            "title": "Simmer the Curry",
+            "description": "Bring the curry to a boil, then reduce heat and simmer until the beef is tender and the gravy is thick."
+        },
+        {
+            "step": "6",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped coriander leaves. Serve hot with rice or Indian breads."
+        }
+    ],
+    "nutrition": {
+        "calories": "500 per serving",
+        "carbohydrates": "20g",
+        "protein": "40g",
+        "fat": "30g",
+        "fiber": "4g",
+        "sugar": "10g"
+    },
+    "tips": [
+        "Marinating the beef for a longer time helps tenderize it and enhances the flavor.",
+        "Adjust the amount of vinegar and tamarind to balance the tanginess."
+    ],
+    "variations": [
+        "Add potatoes or peas to the curry for additional texture.",
+        "Substitute beef with lamb or chicken for a different version of the dish."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a clay pot for an authentic Indian dining experience.",
+        "Garnish with a lemon wedge and onion slices."
+    ],
+    "keywords": [
+        "Beef Vindaloo",
+        "Spicy Indian Curry",
+        "Goan Cuisine"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

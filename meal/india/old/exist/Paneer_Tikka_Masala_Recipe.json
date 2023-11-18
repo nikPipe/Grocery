@@ -1,0 +1,255 @@
+{
+    "id": "Paneer_Tikka_Masala_Recipe",
+    "name": "Paneer Tikka Masala",
+    "origin": "India",
+    "history": "Paneer Tikka Masala is a vegetarian adaptation of the popular Chicken Tikka Masala. It's a favorite in Indian cuisine, known for its rich and flavorful tomato-based sauce.",
+    "description": "Paneer Tikka Masala consists of grilled paneer (Indian cottage cheese) cubes in a creamy, spiced tomato sauce. The paneer is marinated in yogurt and spices before being grilled, adding depth to the dish.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "60"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "grill or skillet",
+            "description": "For grilling the paneer.",
+            "imageURL": ""
+        },
+        {
+            "name": "saucepan",
+            "description": "For preparing the sauce.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "paneer",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tandoori masala",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "3 medium",
+            "weight": {
+                "value": "300",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "heavy cream",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "butter",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Marinate the Paneer",
+            "description": "Mix paneer cubes with yogurt, ginger-garlic paste, tandoori masala, lemon juice, and salt. Marinate for at least 2 hours or overnight."
+        },
+        {
+            "step": "2",
+            "title": "Grill the Paneer",
+            "description": "Grill the marinated paneer until slightly charred. Alternatively, pan-fry in a skillet with a little oil."
+        },
+        {
+            "step": "3",
+            "title": "Prepare the Sauce",
+            "description": "Heat oil and butter in a saucepan. Add cumin seeds, onions, and cook until golden. Add tomato puree, turmeric, coriander, red chili powder, and salt. Cook until the oil begins to separate."
+        },
+        {
+            "step": "4",
+            "title": "Combine Paneer and Sauce",
+            "description": "Add the grilled paneer to the sauce. Add water to adjust the consistency and simmer for 10 minutes."
+        },
+        {
+            "step": "5",
+            "title": "Finish with Cream and Garam Masala",
+            "description": "Stir in cream and garam masala. Simmer for another 5 minutes."
+        },
+        {
+            "step": "6",
+            "title": "Serve",
+            "description": "Garnish with chopped coriander leaves. Serve hot with rice or naan."
+        }
+    ],
+    "nutrition": {
+        "calories": "550 per serving",
+        "carbohydrates": "25g",
+        "protein": "25g",
+        "fat": "35g",
+        "fiber": "4g",
+        "sugar": "10g"
+    },
+    "tips": [
+        "Marinating the paneer adds flavor and helps it to absorb the sauce better.",
+        "Cooking the sauce on low heat allows the spices to infuse their flavors."
+    ],
+    "variations": [
+        "Add vegetables like bell peppers or peas to the curry for extra nutrition.",
+        "Substitute cream with yogurt for a lighter version."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat gently on the stove or in a microwave.",
+    "presentationTips": [
+        "Serve in a traditional Indian serving dish, garnished with a dollop of cream and fresh coriander.",
+        "Accompany with a side of fresh salad or raita."
+    ],
+    "keywords": [
+        "Paneer Tikka Masala",
+        "Indian Vegetarian Curry",
+        "Spicy Paneer Dish"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

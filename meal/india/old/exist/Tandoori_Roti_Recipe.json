@@ -1,0 +1,146 @@
+{
+    "id": "Tandoori_Roti_Recipe",
+    "name": "Tandoori Roti",
+    "origin": "India",
+    "history": "Tandoori Roti is a traditional Indian bread that gets its name from the tandoor, a clay oven in which it is typically cooked. It's a popular accompaniment to Indian dishes, known for its smoky flavor and rustic texture.",
+    "description": "Tandoori Roti is a type of unleavened bread made from whole wheat flour. It's traditionally baked in a tandoor, giving it a distinct smoky flavor and crispy exterior. This bread is often served with curries, dals, and other Indian dishes.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "tandoor or oven",
+            "description": "For baking the roti. An oven can be used as a substitute for a tandoor.",
+            "imageURL": ""
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "rolling pin",
+            "description": "For rolling out the dough.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "whole wheat flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee",
+            "quantity": "for brushing",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, combine whole wheat flour, salt, and yogurt (if using). Gradually add water and knead to form a soft dough. Cover and let it rest for 15-20 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Roll the Rotis",
+            "description": "Divide the dough into equal portions. Roll each portion into a circle of medium thickness using a rolling pin."
+        },
+        {
+            "step": "3",
+            "title": "Cook in Tandoor or Oven",
+            "description": "Preheat the tandoor or oven. Place the rolled rotis inside and cook until they puff up and have golden brown spots. For an oven, use the highest temperature setting and cook on a preheated baking stone or tray."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Brush the cooked Tandoori Rotis with ghee or butter. Serve hot with your favorite Indian curry or dal."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per roti",
+        "carbohydrates": "40g",
+        "protein": "6g",
+        "fat": "2g",
+        "fiber": "6g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "The dough should be soft but not sticky for the best texture.",
+        "If cooking in an oven, a pizza stone can mimic the effects of a tandoor."
+    ],
+    "variations": [
+        "Add herbs like finely chopped cilantro or spices like carom seeds to the dough for extra flavor.",
+        "Experiment with different flours like multigrain or add bran for a healthier version."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh but can be stored in an airtight container for up to 24 hours.",
+        "instructions": "Reheat on a griddle or in the oven before serving."
+    },
+    "reheatingInstructions": "Reheat on a hot griddle or in the oven until warm.",
+    "presentationTips": [
+        "Serve on a traditional thali with accompaniments like chutneys or pickles.",
+        "Roll up with fillings like grilled vegetables or kebabs for a hearty wrap."
+    ],
+    "keywords": [
+        "Tandoori Roti",
+        "Indian Flatbread",
+        "Wheat Bread"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

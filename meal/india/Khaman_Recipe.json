@@ -1,0 +1,217 @@
+{
+    "id": "Khaman_Recipe",
+    "name": "Khaman",
+    "origin": "India",
+    "history": "Khaman, also known as Dhokla, is a popular snack from the Indian state of Gujarat, made from gram flour. It's known for its soft, fluffy texture and tangy taste.",
+    "description": "Khaman is a savory steamed cake made from gram flour (besan) and yogurt, seasoned with green chilies, ginger, and mustard seeds. It's light, spongy, and typically served with chutney.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "steamer",
+            "description": "Used for steaming the batter.",
+            "imageURL": ""
+        },
+        {
+            "name": "mixing bowl",
+            "description": "Used for preparing the batter.",
+            "imageURL": ""
+        },
+        {
+            "name": "pan",
+            "description": "Used for tempering.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "gram flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-green chili paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "baking soda",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for tempering",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sesame seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "few",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "grated coconut",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Batter",
+            "description": "In a mixing bowl, combine gram flour, yogurt, water, turmeric, sugar, ginger-green chili paste, and lemon juice to form a smooth batter. Let it rest for a few minutes."
+        },
+        {
+            "step": "2",
+            "title": "Steam the Khaman",
+            "description": "Just before steaming, add fruit salt or baking soda to the batter and mix gently. Pour the batter into a greased steaming tray and steam for 10-12 minutes."
+        },
+        {
+            "step": "3",
+            "title": "Prepare the Tempering",
+            "description": "Heat oil in a pan. Add mustard seeds, sesame seeds, and curry leaves. Once they splutter, pour the tempering over the steamed Khaman."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped coriander leaves and grated coconut. Serve warm with green chutney."
+        }
+    ],
+    "nutrition": {
+        "calories": "250",
+        "carbohydrates": "40g",
+        "protein": "10g",
+        "fat": "5g",
+        "fiber": "3g",
+        "sugar": "10g"
+    },
+    "tips": [
+        "The consistency of the batter should be neither too thick nor too thin.",
+        "Ensure the steamer is well-heated before placing the batter for an even and fluffy texture."
+    ],
+    "variations": [
+        "Add finely chopped spinach to the batter for a healthy twist.",
+        "Experiment with different types of tempering for varied flavors."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh but can be stored in the refrigerator for up to 1 day.",
+        "instructions": "Reheat in a steamer or microwave before serving."
+    },
+    "reheatingInstructions": "Reheat in a steamer or microwave until warm.",
+    "presentationTips": [
+        "Serve on a colorful plate with a side of mint or tamarind chutney."
+    ],
+    "keywords": [
+        "Khaman",
+        "Gujarati snack",
+        "Steamed cake"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

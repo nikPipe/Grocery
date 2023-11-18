@@ -1,0 +1,218 @@
+{
+    "id": "Dal_Makhani_Recipe",
+    "name": "Dal Makhani",
+    "origin": "India",
+    "history": "Dal Makhani is a popular dish from the Punjab region of India. It's a rich, creamy lentil dish, traditionally cooked slowly for a unique flavor.",
+    "description": "Dal Makhani is a creamy and buttery lentil curry made from whole black lentils and kidney beans. It is simmered with spices, tomato puree, cream, and butter for a rich and hearty dish.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Hour",
+            "value": "2"
+        },
+        "totalTime": {
+            "unit": "Hour",
+            "value": "2.33"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pressure cooker or large pot",
+            "description": "For cooking the lentils.",
+            "imageURL": ""
+        },
+        {
+            "name": "pan",
+            "description": "For preparing the masala.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "urad dal",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "kidney beans",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cream",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "butter",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Soak and Cook Lentils",
+            "description": "Soak urad dal and kidney beans overnight. Drain and cook in a pressure cooker until soft and mushy."
+        },
+        {
+            "step": "2",
+            "title": "Prepare the Masala",
+            "description": "Heat oil in a pan, add cumin seeds, and let them splutter. Add onions and cook until golden. Stir in ginger-garlic paste, tomato puree, red chili powder, and salt. Cook until the masala leaves oil."
+        },
+        {
+            "step": "3",
+            "title": "Simmer the Lentils",
+            "description": "Add the cooked lentils to the masala. Add water to adjust the consistency. Simmer on low heat for an hour, stirring occasionally."
+        },
+        {
+            "step": "4",
+            "title": "Finish with Cream and Butter",
+            "description": "Stir in cream and butter. Cook for another 10 minutes."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Garnish with chopped coriander leaves and serve hot with rice or naan."
+        }
+    ],
+    "nutrition": {
+        "calories": "400 per serving",
+        "carbohydrates": "45g",
+        "protein": "20g",
+        "fat": "20g",
+        "fiber": "15g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Ensure the lentils are cooked well for a creamy texture.",
+        "Simmering the dal for a longer time enhances the flavors."
+    ],
+    "variations": [
+        "Add kasuri methi (dried fenugreek leaves) for an additional flavor dimension.",
+        "Substitute cream with yogurt for a lighter version."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a traditional Indian serving bowl, garnished with a dollop of butter on top.",
+        "Accompany with a side of sliced onions and lemon wedges."
+    ],
+    "keywords": [
+        "Dal Makhani",
+        "Indian Lentil Curry",
+        "Vegetarian Dish"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

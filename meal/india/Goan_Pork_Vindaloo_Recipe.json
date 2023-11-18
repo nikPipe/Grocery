@@ -1,0 +1,229 @@
+{
+    "id": "Goan_Pork_Vindaloo_Recipe",
+    "name": "Goan Pork Vindaloo",
+    "origin": "India",
+    "history": "Goan Pork Vindaloo is a traditional dish from Goa, India, with Portuguese influences. The dish is known for its fiery hot and tangy flavor, originating from the Portuguese dish 'Carne de Vinha d'Alhos'.",
+    "description": "Goan Pork Vindaloo is a spicy and tangy curry made with pork marinated in vinegar and spices. This dish is characterized by its bold flavors, which include garlic, vinegar, and a blend of aromatic spices.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "60"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "90"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "pork",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garlic",
+            "quantity": "6",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger",
+            "quantity": "1 inch piece",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "vinegar",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "dried red chilies",
+            "quantity": "4",
+            "weight": {
+                "value": "4",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ground coriander",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Marinate the Pork",
+            "description": "Marinate the pork cubes with minced garlic, ginger, vinegar, dried red chilies, cumin seeds, mustard seeds, turmeric powder, ground coriander, sugar, and salt. Set aside for at least 2 hours or overnight."
+        },
+        {
+            "step": "2",
+            "title": "Saut\u00c3\u00a9 Onions",
+            "description": "Heat oil in a pan. Add onions and cook until golden."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Pork",
+            "description": "Add the marinated pork to the pan. Cook until the pork is browned on all sides."
+        },
+        {
+            "step": "4",
+            "title": "Simmer with Tomatoes",
+            "description": "Add chopped tomatoes to the pan. Add water to cover the pork. Bring to a boil, then reduce the heat and simmer until the pork is tender and the sauce has thickened."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with rice or Indian bread."
+        }
+    ],
+    "nutrition": {
+        "calories": "600 per serving",
+        "carbohydrates": "20g",
+        "protein": "45g",
+        "fat": "35g",
+        "fiber": "5g",
+        "sugar": "10g"
+    },
+    "tips": [
+        "Allow the pork to marinate for as long as possible for better flavor infusion.",
+        "Adjust the amount of dried red chilies according to your spice preference."
+    ],
+    "variations": [
+        "Add potatoes or bell peppers for additional texture.",
+        "For a less spicy version, reduce the amount of dried red chilies."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a traditional clay pot for an authentic presentation.",
+        "Pair with a side of cooling yogurt or raita."
+    ],
+    "keywords": [
+        "Goan Pork Vindaloo",
+        "Spicy Indian Pork Curry",
+        "Traditional Goan Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

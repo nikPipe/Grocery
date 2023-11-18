@@ -1,0 +1,266 @@
+{
+    "id": "Hyderabadi_Dum_Biryani_Recipe",
+    "name": "Hyderabadi Dum Biryani",
+    "origin": "India",
+    "history": "Hyderabadi Dum Biryani is a classic Indian rice dish originating from Hyderabad. It is a blend of Mughlai and Andhra Pradesh cuisines and is known for its rich and aromatic flavor, achieved through a special 'dum' cooking process.",
+    "description": "Hyderabadi Dum Biryani is a fragrant and flavorful dish made with marinated chicken, basmati rice, and a blend of spices. It is slow-cooked in a sealed pot ('dum' method), allowing the flavors to meld and infuse the rice and meat.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "60"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "90"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "large pot",
+            "description": "For cooking the biryani.",
+            "imageURL": ""
+        },
+        {
+            "name": "frying pan",
+            "description": "For marinating and cooking the chicken.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "chicken",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "rice",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "400",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "onions",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "4",
+            "weight": {
+                "value": "20",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mint leaves",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "biryani masala",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "saffron strands",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "4 tablespoons",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cardamom pods",
+            "quantity": "4",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cloves",
+            "quantity": "4",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cinnamon stick",
+            "quantity": "1 small piece",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "bay leaves",
+            "quantity": "2",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Marinate the Chicken",
+            "description": "Marinate the chicken with yogurt, fried onions, ginger-garlic paste, green chilies, mint, coriander leaves, lemon juice, biryani masala, turmeric, red chili powder, and salt. Let it marinate for at least 2 hours."
+        },
+        {
+            "step": "2",
+            "title": "Prepare Rice",
+            "description": "Wash and soak basmati rice for 30 minutes. Boil water with cardamom, cloves, cinnamon, and bay leaves. Add rice and cook until it's 70% done. Drain the rice."
+        },
+        {
+            "step": "3",
+            "title": "Layer the Biryani",
+            "description": "In a large pot, layer the marinated chicken and partially cooked rice. Sprinkle saffron milk, fried onions, mint, coriander leaves, and drizzle ghee over the top."
+        },
+        {
+            "step": "4",
+            "title": "Cook on Dum",
+            "description": "Seal the pot with a tight lid or dough. Cook on a low flame for about 40-45 minutes."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Gently fluff and mix the biryani. Serve hot with raita or salad."
+        }
+    ],
+    "nutrition": {
+        "calories": "500 per serving",
+        "carbohydrates": "55g",
+        "protein": "25g",
+        "fat": "20g",
+        "fiber": "4g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Marination is key for flavorful chicken.",
+        "Cooking on 'dum' allows the flavors to infuse deeply."
+    ],
+    "variations": [
+        "Try with different meats or a vegetarian version with mixed vegetables.",
+        "Experiment with different whole spices for varying flavors."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on a stove until hot.",
+    "presentationTips": [
+        "Garnish with boiled eggs or fried nuts for added richness.",
+        "Serve in a traditional handi for an authentic dining experience."
+    ],
+    "keywords": [
+        "Hyderabadi Dum Biryani",
+        "Indian Rice Dish",
+        "Spiced Chicken Biryani"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "id": "Kashmiri_Chicken_Recipe",
+    "name": "Kashmiri Chicken",
+    "origin": "India",
+    "history": "Kashmiri Chicken, also known as Chicken Yakhni, is a traditional dish from the Kashmir region of India. It is known for its aromatic and mild flavor, distinct from other Indian chicken curries due to the use of yogurt and specific spices.",
+    "description": "Kashmiri Chicken is a delicately spiced dish featuring tender chicken pieces in a rich, creamy sauce. The sauce is made with yogurt, saffron, fennel powder, and a blend of other spices, offering a unique and flavorful experience.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "40"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "60"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the chicken.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "chicken",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "onions",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fennel powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "saffron strands",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green cardamom pods",
+            "quantity": "4",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cinnamon stick",
+            "quantity": "1 small",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cloves",
+            "quantity": "4",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "bay leaf",
+            "quantity": "1",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Marinate the Chicken",
+            "description": "Mix chicken pieces with turmeric powder, garam masala, and a little salt. Set aside for 15-20 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Spices",
+            "description": "Heat oil in a pan. Add bay leaf, cardamom, cinnamon, and cloves. Once they start to sizzle, add sliced onions and cook until golden."
+        },
+        {
+            "step": "3",
+            "title": "Add Chicken and Yogurt",
+            "description": "Add the marinated chicken and ginger-garlic paste to the pan. Cook until chicken is browned. Reduce heat and add whisked yogurt gradually, stirring continuously."
+        },
+        {
+            "step": "4",
+            "title": "Simmer with Spices",
+            "description": "Add fennel powder, saffron, and a little water. Simmer until the chicken is cooked and the sauce thickens."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with rice or naan."
+        }
+    ],
+    "nutrition": {
+        "calories": "550 per serving",
+        "carbohydrates": "20g",
+        "protein": "45g",
+        "fat": "30g",
+        "fiber": "4g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Add yogurt slowly and stir continuously to prevent it from curdling.",
+        "Soak saffron in warm water for 10 minutes to release its flavor."
+    ],
+    "variations": [
+        "For a richer gravy, add cream or coconut milk towards the end.",
+        "Include vegetables like bell peppers or peas for a more wholesome dish."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a traditional Indian serving bowl.",
+        "Pair with a side of mint chutney or a fresh cucumber salad."
+    ],
+    "keywords": [
+        "Kashmiri Chicken",
+        "Indian Yogurt Chicken Curry",
+        "Aromatic Chicken Dish"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

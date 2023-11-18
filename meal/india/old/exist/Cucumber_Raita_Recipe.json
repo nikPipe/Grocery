@@ -1,0 +1,162 @@
+{
+    "id": "Cucumber_Raita_Recipe",
+    "name": "Cucumber Raita",
+    "origin": "India",
+    "history": "Cucumber Raita is a traditional Indian side dish, often served as a cooling accompaniment to spicy meals. It combines the freshness of cucumber with the creaminess of yogurt, embodying a balance of flavors typical in Indian cuisine.",
+    "description": "Cucumber Raita is a refreshing yogurt-based condiment made with grated cucumber, spices, and herbs. It's known for its cooling properties and is often served with biryani, pulao, or as a side with various Indian dishes.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "10"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For combining the ingredients.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "yogurt",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cucumber",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black pepper",
+            "quantity": "to taste",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mint leaves",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Cucumber",
+            "description": "Grate the cucumber. Optionally, squeeze out excess water if a thicker raita is desired."
+        },
+        {
+            "step": "2",
+            "title": "Mix Ingredients",
+            "description": "In a mixing bowl, combine the whisked yogurt, grated cucumber, cumin powder, red chili powder, salt, and black pepper."
+        },
+        {
+            "step": "3",
+            "title": "Add Herbs",
+            "description": "Stir in the chopped coriander and mint leaves, if using."
+        },
+        {
+            "step": "4",
+            "title": "Chill and Serve",
+            "description": "Refrigerate the raita for a while before serving. Serve chilled as a side dish."
+        }
+    ],
+    "nutrition": {
+        "calories": "60 per serving",
+        "carbohydrates": "6g",
+        "protein": "3g",
+        "fat": "2g",
+        "fiber": "1g",
+        "sugar": "4g"
+    },
+    "tips": [
+        "Use fresh, thick yogurt for the best texture and taste.",
+        "Adjust the spices according to your preference."
+    ],
+    "variations": [
+        "Add grated carrots or beetroot for a colorful variation.",
+        "Include a pinch of chaat masala for an extra tangy flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed the same day. Can be refrigerated for up to 24 hours.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in a small bowl garnished with a mint leaf or cumin seeds.",
+        "Accompany with a small spoon for easy serving."
+    ],
+    "keywords": [
+        "Cucumber Raita",
+        "Yogurt Side Dish",
+        "Indian Condiment"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

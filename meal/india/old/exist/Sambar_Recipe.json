@@ -1,0 +1,239 @@
+{
+    "id": "Sambar_Recipe",
+    "name": "Sambar",
+    "origin": "India",
+    "history": "Sambar is a staple in South Indian cuisine, believed to have originated in the Tamil Nadu region. It's a lentil-based vegetable stew or chowder, flavored with tamarind and a special blend of spices and herbs, known as sambar powder.",
+    "description": "Sambar is a flavorful and nutritious South Indian dish made with lentils, a variety of vegetables like carrots, potatoes, eggplant, drumsticks, and pumpkin, tamarind, and a unique blend of spices. It's commonly served with rice, dosa, idli, or vada, and is cherished for its tangy and savory taste.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pot or pressure cooker",
+            "description": "For cooking the lentils and vegetables."
+        },
+        {
+            "name": "pan",
+            "description": "For the tempering."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "toor dal",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carrots",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "potatoes",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "eggplant",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "drumsticks",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "pumpkin",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tamarind paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sambar powder",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dried red chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Cook the Lentils",
+            "description": "Rinse the toor dal thoroughly. Cook it in a pot or pressure cooker with enough water until soft and mushy."
+        },
+        {
+            "step": "2",
+            "title": "Prepare the Vegetables",
+            "description": "Chop the vegetables into bite-sized pieces. Add them to the cooked dal along with tamarind paste, sambar powder, turmeric, and salt. Cook until the vegetables are tender."
+        },
+        {
+            "step": "3",
+            "title": "Temper the Spices",
+            "description": "In a pan, heat oil. Add mustard seeds, fenugreek seeds, dried red chilies, curry leaves, and asafetida. Sauté until the mustard seeds start to splutter."
+        },
+        {
+            "step": "4",
+            "title": "Combine and Simmer",
+            "description": "Add the tempering to the cooked dal and vegetable mixture. Simmer for a few minutes."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the sambar hot with rice, dosa, idli, or vada."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per serving",
+        "carbohydrates": "40g",
+        "protein": "12g",
+        "fat": "6g",
+        "fiber": "10g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Adjust the consistency of the sambar by adding more or less water.",
+        "The flavor of sambar depends largely on the sambar powder used, so choose a good quality one."
+    ],
+    "variations": [
+        "Include different vegetables like okra, beans, or tomatoes for variation.",
+        "Add a spoonful of jaggery or sugar for a hint of sweetness."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2-3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat on the stove or in a microwave until hot."
+        }
+    ],
+    "presentationTips": [
+        "Garnish with fresh coriander leaves for added flavor and color.",
+        "Serve in a traditional Indian serving bowl for an authentic presentation."
+    ],
+    "keywords": [
+        "Sambar",
+        "South Indian Stew",
+        "Lentil Vegetable Soup"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

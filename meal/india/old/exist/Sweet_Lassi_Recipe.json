@@ -1,0 +1,140 @@
+{
+    "id": "Sweet_Lassi_Recipe",
+    "name": "Sweet Lassi",
+    "origin": "India",
+    "history": "Sweet Lassi is a popular traditional yogurt-based drink from the Indian subcontinent. It's a classic beverage known for its creamy, frothy texture, often enjoyed as a cooling refreshment or to balance the heat of spicy Indian meals.",
+    "description": "Sweet Lassi is a smooth, creamy drink made with yogurt, water or milk, and sugar. It's often flavored with cardamom or rosewater and is revered for its digestive properties and soothing, refreshing taste.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "5"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "5"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "blender",
+            "description": "For blending the ingredients.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "yogurt",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "25",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "milk",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cardamom powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ice cubes",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "rose water",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Blend Ingredients",
+            "description": "In a blender, combine the yogurt, sugar, water or milk, cardamom powder, and rose water if using. Blend until smooth and frothy."
+        },
+        {
+            "step": "2",
+            "title": "Adjust Consistency",
+            "description": "Add ice cubes to the blender and blend again. Adjust the consistency by adding more water or milk, if desired."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Pour the lassi into glasses and serve chilled. Optionally, garnish with a sprinkle of cardamom powder or chopped nuts."
+        }
+    ],
+    "nutrition": {
+        "calories": "180 per serving",
+        "carbohydrates": "22g",
+        "protein": "5g",
+        "fat": "7g",
+        "fiber": "0g",
+        "sugar": "21g"
+    },
+    "tips": [
+        "Adjust the amount of sugar to your taste. You can also use honey as a sweetener.",
+        "Use chilled yogurt and water/milk for an instantly cold lassi."
+    ],
+    "variations": [
+        "Experiment with different flavors by adding mango, banana, or other fruits.",
+        "For a vegan version, use plant-based yogurt and milk."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. Can be stored in the refrigerator for up to a day.",
+        "instructions": "Store in a covered container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in tall glasses with a straw.",
+        "Garnish with a light sprinkle of ground pistachios or almonds for an elegant touch."
+    ],
+    "keywords": [
+        "Sweet Lassi",
+        "Yogurt Drink",
+        "Indian Beverage"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

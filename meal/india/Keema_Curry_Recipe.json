@@ -1,0 +1,226 @@
+{
+    "id": "Keema_Curry_Recipe",
+    "name": "Keema Curry",
+    "origin": "India",
+    "history": "Keema Curry, originating from the Indian subcontinent, typically features minced meat cooked with spices. It's a versatile dish that's been adapted in various regions with their unique twists.",
+    "description": "Keema Curry is a savory and spicy dish made with minced meat (commonly lamb or beef), cooked in a richly spiced gravy with onions, tomatoes, and a variety of aromatic Indian spices.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "minced meat (lamb or beef)",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "frozen peas",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Saut\u00c3\u00a9 Onions and Spices",
+            "description": "Heat oil in a pan. Add cumin seeds and let them splutter. Add onions and ginger-garlic paste, cooking until onions turn golden."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Minced Meat",
+            "description": "Add minced meat to the pan. Cook until it changes color and is no longer pink."
+        },
+        {
+            "step": "3",
+            "title": "Add Spices and Tomatoes",
+            "description": "Add turmeric, coriander powder, red chili powder, and salt. Cook for a few minutes, then add chopped tomatoes. Cook until tomatoes are soft."
+        },
+        {
+            "step": "4",
+            "title": "Simmer the Curry",
+            "description": "Add water as needed to form a gravy. Bring to a boil, then simmer until the meat is cooked and the gravy is thick."
+        },
+        {
+            "step": "5",
+            "title": "Add Peas and Garam Masala",
+            "description": "Add frozen peas and garam masala to the curry. Cook for an additional 5-7 minutes."
+        },
+        {
+            "step": "6",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped coriander leaves. Serve hot with bread or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "550 per serving",
+        "carbohydrates": "20g",
+        "protein": "50g",
+        "fat": "30g",
+        "fiber": "5g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Use lean minced meat for a healthier version.",
+        "Adjust the amount of water depending on the desired consistency of the gravy."
+    ],
+    "variations": [
+        "Add a splash of cream for a richer gravy.",
+        "Include chopped potatoes for a heartier dish."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a traditional Indian serving bowl.",
+        "Accompany with a side of cucumber salad or raita."
+    ],
+    "keywords": [
+        "Keema Curry",
+        "Indian Minced Meat Dish",
+        "Spicy Curry"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

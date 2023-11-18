@@ -1,0 +1,204 @@
+{
+    "id": "Dahi_Bhalla_Recipe",
+    "name": "Dahi Bhalla",
+    "origin": "India",
+    "history": "Dahi Bhalla, also known as Dahi Vada, is a popular snack in Indian cuisine. It consists of fried lentil dumplings (vadas), soaked in thick yogurt (dahi) and topped with various spices and chutneys, offering a blend of creamy, tangy, and spicy flavors.",
+    "description": "Dahi Bhalla is a delightful Indian dish where soft vadas made from lentil batter are immersed in sweet and tangy yogurt, then garnished with savory spices, tangy tamarind chutney, and refreshing mint chutney. It's a favorite at festivals and celebrations.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": [
+        "Snack",
+        "Appetizer"
+    ],
+    "equipment": [
+        {
+            "name": "deep frying pan",
+            "description": "For frying the vadas.",
+            "imageURL": ""
+        },
+        {
+            "name": "blender",
+            "description": "For grinding the lentil batter.",
+            "imageURL": ""
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the yogurt mixture.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "urad dal",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chaat masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tamarind chutney",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "mint chutney",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for deep frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "for soaking vadas",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Vada Batter",
+            "description": "Grind the soaked urad dal into a smooth batter, adding very little water. The batter should be thick and fluffy. Add salt to taste."
+        },
+        {
+            "step": "2",
+            "title": "Fry the Vadas",
+            "description": "Heat oil in a deep frying pan. Drop spoonfuls of the batter into the hot oil and fry the vadas until golden brown. Remove and drain excess oil."
+        },
+        {
+            "step": "3",
+            "title": "Soak the Vadas",
+            "description": "Soak the fried vadas in warm water for about 20-30 minutes. Then, gently press the vadas to remove excess water and keep them aside."
+        },
+        {
+            "step": "4",
+            "title": "Prepare the Yogurt Mixture",
+            "description": "In a mixing bowl, whisk the yogurt with a little water to make it smooth. Add sugar if desired."
+        },
+        {
+            "step": "5",
+            "title": "Assemble the Dahi Bhalla",
+            "description": "Place the soaked vadas in the yogurt mixture. Sprinkle cumin powder, red chili powder, and chaat masala over the vadas. Drizzle with tamarind and mint chutney."
+        },
+        {
+            "step": "6",
+            "title": "Serve",
+            "description": "Serve the Dahi Bhalla chilled as a snack or appetizer."
+        }
+    ],
+    "nutrition": {
+        "calories": "120 per serving",
+        "carbohydrates": "15g",
+        "protein": "5g",
+        "fat": "5g",
+        "fiber": "2g",
+        "sugar": "4g (varies with sugar addition)"
+    },
+    "tips": [
+        "Soaking the vadas in water makes them soft and helps them absorb the yogurt better.",
+        "Adjust the spices and chutneys according to your taste preferences."
+    ],
+    "variations": [
+        "Add grated cucumber or boiled potatoes to the yogurt for additional texture.",
+        "Garnish with pomegranate seeds or sev (crispy noodle-like snack) for extra crunch."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. Can be refrigerated for up to 1 day.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "No reheating required.",
+    "presentationTips": [
+        "Serve in individual bowls, garnished with extra chutney and spices.",
+        "Accompany with a side of crispy papad or naan bread."
+    ],
+    "keywords": [
+        "Dahi Bhalla",
+        "Indian Yogurt Snack",
+        "Lentil Dumplings in Yogurt"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

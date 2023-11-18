@@ -237,15 +237,6 @@ def printJsonData():
         val = input('Press Enter to continue...')
         print('\n\n\n')
 
-
-
-
-
-
-
-
-
-
 def replace_ingredients(json_obj, grocery_map):
     try:
         # Iterate through ingredients in the JSON object
@@ -272,6 +263,18 @@ def normalize_ingredient(ingredient):
 
     # Additional normalization rules can be added here as needed
     return ingredient
+
+def getServingNumber(json_obj):
+    try:
+        return json_obj['servings']['number']
+    except Exception as e:
+        return None
+
+
+
+
+
+'''
 
 itemList = getItemList()
 
@@ -301,6 +304,6 @@ duplicates = [ingredient for ingredient, count in ingredient_counts.items() if c
 # Now newList contains unique, normalized items
 #print("Unique normalized list:", newList)
 
-
+'''
 
 

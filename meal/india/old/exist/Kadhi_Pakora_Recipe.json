@@ -1,0 +1,217 @@
+{
+    "id": "Kadhi_Pakora_Recipe",
+    "name": "Kadhi Pakora",
+    "origin": "India",
+    "history": "Kadhi Pakora, a popular North Indian dish, is part of the rich culinary heritage of India. It's a comfort food for many, combining the tangy taste of Kadhi with the delightful crunch of Pakoras.",
+    "description": "Kadhi Pakora is a creamy, yogurt-based curry with gram flour (besan) and spices, featuring deep-fried vegetable fritters (pakoras) soaked in it. It's known for its sour and savory flavor, often served with rice.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "40"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "70"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For making the kadhi and frying pakoras.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "yogurt",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "480",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "gram flour",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "spinach",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "potato",
+            "quantity": "1 small",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for frying",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Pakoras",
+            "description": "Mix onions, spinach, potatoes, a portion of gram flour, red chili powder, and salt. Add water to make a thick batter. Heat oil and deep-fry spoonfuls of the batter until golden. Drain and set aside."
+        },
+        {
+            "step": "2",
+            "title": "Make the Kadhi",
+            "description": "Whisk yogurt with the remaining gram flour, turmeric powder, and water to form a smooth mixture. Heat a little oil, add cumin seeds, fenugreek seeds, asafoetida, and crushed coriander seeds. Pour in the yogurt mixture and bring to a boil. Simmer until it thickens."
+        },
+        {
+            "step": "3",
+            "title": "Combine Pakoras with Kadhi",
+            "description": "Add the fried pakoras to the kadhi. Simmer for 5-10 minutes so the pakoras soak up some of the kadhi."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with steamed rice or Indian bread."
+        }
+    ],
+    "nutrition": {
+        "calories": "450 per serving",
+        "carbohydrates": "35g",
+        "protein": "15g",
+        "fat": "25g",
+        "fiber": "6g",
+        "sugar": "10g"
+    },
+    "tips": [
+        "Ensure the kadhi is not too runny or too thick; adjust the consistency with water as needed.",
+        "The pakoras should be crispy on the outside and soft inside."
+    ],
+    "variations": [
+        "Add different vegetables like cauliflower or bell peppers to the pakoras.",
+        "For a tangier kadhi, add a little tamarind paste or amchur (dry mango powder)."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a traditional Indian bowl, with a side of lemon wedges.",
+        "Pair with plain basmati rice or a simple jeera (cumin) rice."
+    ],
+    "keywords": [
+        "Kadhi Pakora",
+        "Indian Yogurt Curry",
+        "Vegetable Fritters in Yogurt Gravy"
+    ],
+    "allergens": [
+        "Dairy",
+        "Gluten"
+    ]
+}

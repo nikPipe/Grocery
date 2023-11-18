@@ -1,0 +1,251 @@
+{
+    "id": "Chicken_Korma_Recipe",
+    "name": "Chicken Korma",
+    "origin": "India",
+    "history": "Chicken Korma is a dish that originated from the Mughal era in India. It is known for its rich and creamy texture, a result of slow-cooking chicken in a mixture of spices, yogurt, and nuts.",
+    "description": "Chicken Korma is a luxurious curry made with tender chicken pieces simmered in a creamy sauce. The sauce typically includes yogurt, ground nuts, and a blend of fragrant spices like cardamom, cinnamon, and cloves.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "40"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "60"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "chicken",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ground almonds",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cardamom pods",
+            "quantity": "4",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cinnamon stick",
+            "quantity": "1 small",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cloves",
+            "quantity": "4",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cream",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Marinate the Chicken",
+            "description": "Mix the chicken pieces with yogurt, turmeric powder, coriander powder, cumin powder, and red chili powder. Marinate for at least 30 minutes or overnight."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Onions and Spices",
+            "description": "Heat oil in a pan. Add cardamom, cinnamon, and cloves. Once they start to sizzle, add onions and ginger-garlic paste. Cook until the onions are golden."
+        },
+        {
+            "step": "3",
+            "title": "Add the Chicken",
+            "description": "Add the marinated chicken to the pan. Cook until the chicken is browned on all sides."
+        },
+        {
+            "step": "4",
+            "title": "Simmer with Ground Almonds",
+            "description": "Add ground almonds and water. Bring to a boil, then simmer until the chicken is tender and the sauce has thickened."
+        },
+        {
+            "step": "5",
+            "title": "Finish with Cream and Garam Masala",
+            "description": "Stir in cream and garam masala. Cook for a few more minutes."
+        },
+        {
+            "step": "6",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with rice or Indian bread like naan or roti."
+        }
+    ],
+    "nutrition": {
+        "calories": "600 per serving",
+        "carbohydrates": "20g",
+        "protein": "45g",
+        "fat": "35g",
+        "fiber": "5g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Marinating the chicken for a longer period enhances the flavor.",
+        "Adjust the amount of chili powder to suit your spice tolerance."
+    ],
+    "variations": [
+        "Add vegetables like peas or bell peppers for added nutrition and color.",
+        "For a nut-free version, omit the ground almonds and use coconut milk instead."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a decorative bowl, topped with a swirl of cream or butter.",
+        "Pair with a tangy mint chutney or a side salad."
+    ],
+    "keywords": [
+        "Chicken Korma",
+        "Creamy Indian Chicken Curry",
+        "Rich Chicken Dish"
+    ],
+    "allergens": [
+        "Dairy",
+        "Nuts"
+    ]
+}

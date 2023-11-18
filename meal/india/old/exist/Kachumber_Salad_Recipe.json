@@ -1,0 +1,155 @@
+{
+    "id": "Kachumber_Salad_Recipe",
+    "name": "Kachumber Salad",
+    "origin": "India",
+    "history": "Kachumber Salad is a traditional Indian salad known for its simplicity and freshness. It typically includes chopped vegetables like cucumbers, tomatoes, and onions, seasoned with spices, and sometimes accompanied by lemon juice or vinegar.",
+    "description": "Kachumber Salad is a refreshing and crunchy salad made with a mix of diced cucumbers, tomatoes, onions, and green chilies. It's seasoned with salt, pepper, and often a dash of lemon juice, making it a perfect accompaniment to Indian meals.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "10"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For combining the ingredients.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "cucumbers",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black pepper",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Mix Vegetables",
+            "description": "In a mixing bowl, combine the chopped cucumbers, tomatoes, onions, and green chilies."
+        },
+        {
+            "step": "2",
+            "title": "Season the Salad",
+            "description": "Add the chopped coriander leaves, lemon juice, salt, and freshly ground black pepper to the bowl. Toss the ingredients well to ensure an even mix."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Serve the Kachumber Salad immediately, or refrigerate for a short time before serving to enhance the flavors."
+        }
+    ],
+    "nutrition": {
+        "calories": "30 per serving",
+        "carbohydrates": "6g",
+        "protein": "1g",
+        "fat": "0g",
+        "fiber": "2g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Use fresh and crisp vegetables for the best taste.",
+        "Adjust the amount of green chilies and lemon juice according to your preference."
+    ],
+    "variations": [
+        "Add grated carrots or beetroot for additional color and nutrition.",
+        "Sprinkle with chaat masala or cumin powder for an extra flavor kick."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh. Can be refrigerated for up to 1 day.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "No reheating required.",
+    "presentationTips": [
+        "Serve in a decorative salad bowl, garnished with extra coriander leaves.",
+        "Accompany with a slice of lemon or lime on the side."
+    ],
+    "keywords": [
+        "Kachumber Salad",
+        "Indian Cucumber Salad",
+        "Fresh Vegetable Salad"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

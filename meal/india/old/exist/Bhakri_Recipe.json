@@ -1,0 +1,138 @@
+{
+    "id": "Bhakri_Recipe",
+    "name": "Bhakri",
+    "origin": "India",
+    "history": "Bhakri is a traditional unleavened Indian bread, commonly consumed in western and central parts of India. It's known for its simplicity and is often made from millet, wheat, or rice flour, making it a staple in many Indian diets.",
+    "description": "Bhakri is a round flatbread, typically thicker than a chapati or roti. It's made using whole grain flour and is cooked on a griddle until it develops a crispy texture. Bhakri is often served with curries, chutney, or vegetables.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free (if using appropriate flour)"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "25"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "rolling pin",
+            "description": "For rolling the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "griddle or tawa",
+            "description": "For cooking the bhakri.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "whole wheat flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for brushing",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, combine the flour and salt. Gradually add water and knead to form a stiff dough. Let it rest for a few minutes."
+        },
+        {
+            "step": "2",
+            "title": "Roll the Bhakri",
+            "description": "Divide the dough into small balls. Using a rolling pin, roll each ball into a circle, thicker than a regular roti."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Bhakri",
+            "description": "Heat a griddle or tawa over medium heat. Place the rolled bhakri on the griddle. Cook each side until it gets a golden brown color. Optionally, brush with ghee or oil."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the bhakri hot with your choice of curry, dal, chutney, or vegetables."
+        }
+    ],
+    "nutrition": {
+        "calories": "80 per serving (varies based on size and ingredients)",
+        "carbohydrates": "17g",
+        "protein": "3g",
+        "fat": "1g",
+        "fiber": "2g",
+        "sugar": "0g"
+    },
+    "tips": [
+        "The dough should be kneaded well to make the bhakri soft.",
+        "Cooking on a low flame ensures even cooking and a crispy texture."
+    ],
+    "variations": [
+        "Add herbs or spices to the dough for additional flavor.",
+        "Use different types of flour like bajra (millet) or jowar (sorghum) for variety."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh. Can be stored for 1 day.",
+        "instructions": "Store in an airtight container at room temperature."
+    },
+    "reheatingInstructions": [
+        "Reheat on a griddle or in a microwave until warm."
+    ],
+    "presentationTips": [
+        "Serve on a traditional thali for an authentic experience.",
+        "Garnish with a side of pickles and a wedge of lemon."
+    ],
+    "keywords": [
+        "Bhakri",
+        "Indian Flatbread",
+        "Whole Wheat Bread"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

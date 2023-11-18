@@ -1,0 +1,156 @@
+{
+    "id": "Rumali_Roti_Recipe",
+    "name": "Rumali Roti",
+    "origin": "India",
+    "history": "Rumali Roti, which translates to 'handkerchief bread', is a thin, soft flatbread from Indian cuisine. Its name comes from its large size and thin, soft texture, resembling a handkerchief. It's a popular accompaniment in North Indian meals.",
+    "description": "Rumali Roti is known for its extremely thin and soft texture. It's made from a dough of wheat flour and all-purpose flour, and is traditionally cooked on an inverted wok, giving it a unique texture that's soft yet slightly crispy.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "rolling pin",
+            "description": "For rolling out the roti.",
+            "imageURL": ""
+        },
+        {
+            "name": "inverted wok or large skillet",
+            "description": "For cooking the roti.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "whole wheat flour",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "all-purpose flour",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "baking powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for kneading and cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, combine both types of flour, salt, and baking powder. Gradually add milk or water to form a soft dough. Knead well, adding a little oil or ghee. Let it rest for 20 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Roll Out the Roti",
+            "description": "Divide the dough into small balls. Using a rolling pin, roll out each ball as thinly as possible, almost translucent."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Roti",
+            "description": "Heat an inverted wok or large skillet. Place the rolled roti on it and cook for a few seconds until it puffs up. Flip and cook the other side briefly."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Fold the Rumali Roti like a handkerchief and serve hot with curries or kebabs."
+        }
+    ],
+    "nutrition": {
+        "calories": "80 per serving (varies based on size and oil used)",
+        "carbohydrates": "17g",
+        "protein": "2g",
+        "fat": "1g",
+        "fiber": "1g",
+        "sugar": "0g"
+    },
+    "tips": [
+        "The key to perfect Rumali Roti is rolling the dough as thin as possible.",
+        "Cooking quickly on high heat ensures the roti remains soft."
+    ],
+    "variations": [
+        "Add herbs or spices to the dough for additional flavor.",
+        "Try using different flour blends for a variation in texture."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh. Can be stored for a day when wrapped properly.",
+        "instructions": "Store in a cloth-lined container to retain softness."
+    },
+    "reheatingInstructions": [
+        "Reheat on a skillet or in a microwave until warm."
+    ],
+    "presentationTips": [
+        "Serve in a basket or traditional Indian copperware for an authentic look.",
+        "Accompany with a variety of dips and curries for a complete meal."
+    ],
+    "keywords": [
+        "Rumali Roti",
+        "Indian Flatbread",
+        "Thin Bread"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

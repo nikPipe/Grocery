@@ -1,0 +1,154 @@
+{
+    "id": "Garlic_Chutney_Recipe",
+    "name": "Garlic Chutney",
+    "origin": "India",
+    "history": "Garlic Chutney, also known as Lahsun Ki Chutney, is a popular condiment in Indian cuisine. It's especially common in the western states of India. This chutney is known for its bold flavor, primarily made from fresh garlic cloves and various spices.",
+    "description": "Garlic Chutney is a spicy and flavorful condiment made with fresh garlic, red chilies, and a mix of other spices. It is often used in Indian street foods and as an accompaniment to main dishes, adding a pungent and spicy kick.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "5"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "15"
+        }
+    },
+    "mealtime": ["Breakfast", "Lunch", "Dinner", "Snack"],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For roasting the ingredients."
+        },
+        {
+            "name": "blender or mortar and pestle",
+            "description": "For grinding the chutney."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "garlic cloves",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "40",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dry red chilies",
+            "quantity": "5",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tamarind paste",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Roast Ingredients",
+            "description": "Heat oil in a pan and roast the garlic cloves, dry red chilies, and cumin seeds until the garlic turns golden brown."
+        },
+        {
+            "step": "2",
+            "title": "Grind the Mixture",
+            "description": "Allow the roasted ingredients to cool. Add them to a blender or mortar and pestle along with tamarind paste, salt, and a little water. Grind to a smooth paste."
+        },
+        {
+            "step": "3",
+            "title": "Adjust Consistency",
+            "description": "Add more water if needed to reach the desired consistency of the chutney."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Garlic Chutney as an accompaniment to snacks or meals."
+        }
+    ],
+    "nutrition": {
+        "calories": "35 per serving",
+        "carbohydrates": "5g",
+        "protein": "1g",
+        "fat": "2g",
+        "fiber": "1g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "Adjust the number of chilies to control the spice level.",
+        "For a sweeter version, add a small amount of jaggery or sugar."
+    ],
+    "variations": [
+        "Add a handful of fresh coriander leaves for a herby twist.",
+        "Incorporate a small amount of coconut for a creamy texture."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Garlic Chutney is best served at room temperature and does not require reheating."
+        }
+    ],
+    "presentationTips": [
+        "Serve in a small bowl alongside a platter of snacks.",
+        "Garnish with a few curry leaves for added color and aroma."
+    ],
+    "keywords": [
+        "Garlic Chutney",
+        "Lahsun Ki Chutney",
+        "Spicy Indian Condiment"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

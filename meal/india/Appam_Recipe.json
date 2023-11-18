@@ -1,0 +1,166 @@
+{
+    "id": "Appam_Recipe",
+    "name": "Appam",
+    "origin": "India",
+    "history": "Appam is a traditional South Indian pancake made from fermented rice batter, originating from Kerala. It's known for its thin, crispy edges and soft, fluffy center.",
+    "description": "Appam is a lacy, bowl-shaped pancake made from a fermented batter of rice and coconut. It's typically served for breakfast or dinner with a variety of side dishes like stew, curry, or chutney.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "blender or grinder",
+            "imageURL": "",
+            "description": "Used for grinding the batter."
+        },
+        {
+            "name": "appam pan or skillet",
+            "imageURL": "",
+            "description": "Used for cooking the appam."
+        },
+        {
+            "name": "mixing bowl",
+            "imageURL": "",
+            "description": "Used for fermenting the batter."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "grated coconut",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "rice",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dry yeast",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "warm water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Soak and Grind",
+            "description": "Soak both types of rice in water for 4-6 hours. Drain and grind with grated coconut, cooked rice, and enough warm water to make a smooth batter."
+        },
+        {
+            "step": "2",
+            "title": "Ferment the Batter",
+            "description": "Mix sugar, dry yeast, and a little warm water. Let it sit until frothy. Add this to the rice batter, mix well, and allow it to ferment in a warm place for 8-12 hours until it doubles in size."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Appam",
+            "description": "Heat an appam pan. Pour a ladleful of batter into the pan, swirl it to spread the batter in a circular motion, cover, and cook until the edges are crispy and the center is fluffy."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Appam hot with vegetable stew, chicken curry, or coconut chutney."
+        }
+    ],
+    "nutrition": {
+        "calories": 150,
+        "carbohydrates": "30g",
+        "protein": "4g",
+        "fat": "2g",
+        "saturatedFat": "1g",
+        "cholesterol": "0mg",
+        "sodium": "200mg",
+        "potassium": "100mg",
+        "fiber": "2g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "Ensure the batter is fermented well for fluffy appams.",
+        "Swirling the pan helps to get the perfect lace-like edges."
+    ],
+    "variations": [
+        "Add a pinch of baking soda to the batter for extra fluffiness if needed.",
+        "Experiment with adding different types of fillings like egg or sweet coconut milk."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Appam batter can be refrigerated for up to 2 days.",
+        "instructions": "Store the batter in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat cooked appams on a pan until warm.",
+    "presentationTips": [
+        "Serve on a banana leaf for an authentic South Indian experience."
+    ],
+    "keywords": [
+        "appam",
+        "South Indian pancake",
+        "fermented rice batter"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

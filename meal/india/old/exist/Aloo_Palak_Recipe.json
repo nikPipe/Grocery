@@ -1,0 +1,228 @@
+{
+    "id": "Aloo_Palak_Recipe",
+    "name": "Aloo Palak",
+    "origin": "India",
+    "history": "Aloo Palak is a classic dish in Indian cuisine, combining potatoes ('Aloo') with spinach ('Palak'). This dish reflects the blend of agricultural produce and spices typical of Indian cooking, offering a nutritious and flavorful meal option.",
+    "description": "Aloo Palak is a healthy and savory dish made by cooking spinach and potatoes with a mixture of spices. It's a simple yet delicious vegetarian dish, often enjoyed with Indian bread or rice.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the dish.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "spinach",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "potatoes",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "300",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garlic",
+            "quantity": "3-4",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger",
+            "quantity": "1 inch",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Spinach and Potatoes",
+            "description": "Blanch the spinach leaves and then puree them. Boil the potatoes until they are just tender, then cube them."
+        },
+        {
+            "step": "2",
+            "title": "Saut\u00c3\u00a9 Aromatics and Spices",
+            "description": "Heat oil in a pan. Add cumin seeds, minced garlic, grated ginger, and green chilies. Saut\u00c3\u00a9 until fragrant. Add chopped onions and cook until they turn golden."
+        },
+        {
+            "step": "3",
+            "title": "Add Tomatoes and Spices",
+            "description": "Add chopped tomatoes, coriander powder, turmeric powder, and salt. Cook until tomatoes soften."
+        },
+        {
+            "step": "4",
+            "title": "Combine Spinach and Potatoes",
+            "description": "Add the spinach puree and boiled potato cubes to the pan. Mix well and cook for a few minutes."
+        },
+        {
+            "step": "5",
+            "title": "Finish with Garam Masala",
+            "description": "Sprinkle garam masala over the dish and mix. Cook for an additional minute."
+        },
+        {
+            "step": "6",
+            "title": "Garnish and Serve",
+            "description": "Garnish with fresh coriander leaves. Serve hot with roti, naan, or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per serving",
+        "carbohydrates": "30g",
+        "protein": "5g",
+        "fat": "7g",
+        "fiber": "6g",
+        "sugar": "4g"
+    },
+    "tips": [
+        "Ensure not to overcook the spinach to retain its vibrant green color.",
+        "Adjust the amount of green chilies based on your spice preference."
+    ],
+    "variations": [
+        "Add paneer cubes or chickpeas for added protein.",
+        "Experiment with other greens like kale or mustard greens for a different flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in the microwave until hot."
+    ],
+    "presentationTips": [
+        "Serve in a traditional Indian serving bowl for an authentic presentation.",
+        "Garnish with a dollop of fresh cream or yogurt for added richness."
+    ],
+    "keywords": [
+        "Aloo Palak",
+        "Spinach Potato Curry",
+        "Indian Vegetarian Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

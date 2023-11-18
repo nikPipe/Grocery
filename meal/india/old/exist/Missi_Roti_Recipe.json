@@ -1,0 +1,175 @@
+{
+    "id": "Missi_Roti_Recipe",
+    "name": "Missi Roti",
+    "origin": "India",
+    "history": "Missi Roti is a traditional North Indian flatbread made from a blend of flours. It originated in the Punjab region and is known for its nutritious value and unique flavor, which comes from the use of various spices and gram flour.",
+    "description": "Missi Roti is made from a mix of whole wheat and gram (chickpea) flour, seasoned with spices like turmeric, red chili powder, and ajwain (carom seeds). This flatbread is cooked on a griddle and often served with butter, curd, or pickles.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "40"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "rolling pin",
+            "description": "For rolling the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "flat griddle or tawa",
+            "description": "For cooking the rotis.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "whole wheat flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "gram flour",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carom seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cilantro",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 small",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a bowl, mix whole wheat flour, gram flour, ajwain, turmeric powder, red chili powder, and salt. Gradually add water and knead into a soft dough. Let it rest for 15 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Roll and Cook the Rotis",
+            "description": "Divide the dough into small balls. Mix in chopped cilantro and onion if desired. Roll each ball into a thin circle. Cook on a hot griddle, flipping and applying ghee or oil until both sides have golden brown spots."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Serve the hot missi rotis with butter, curd, or pickles."
+        }
+    ],
+    "nutrition": {
+        "calories": "120 per roti",
+        "carbohydrates": "20g",
+        "protein": "4g",
+        "fat": "3g",
+        "fiber": "3g",
+        "sugar": "2g"
+    },
+    "tips": [
+        "The dough should be well-kneaded for soft rotis.",
+        "Adding onion to the dough gives an extra flavor but is optional."
+    ],
+    "variations": [
+        "Experiment with other spices like cumin or coriander powder for different flavors.",
+        "Try different fillings like spiced potatoes or paneer for a stuffed version."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh but can be stored in an airtight container for up to 24 hours.",
+        "instructions": "Reheat on a griddle before serving if stored."
+    },
+    "reheatingInstructions": "Reheat on a hot griddle or tawa until warm and soft.",
+    "presentationTips": [
+        "Serve in a basket lined with a cloth to keep them warm.",
+        "Pair with a variety of chutneys and side dishes for a complete meal."
+    ],
+    "keywords": [
+        "Missi Roti",
+        "Indian Flatbread",
+        "Gram Flour Bread"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

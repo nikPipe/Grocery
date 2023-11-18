@@ -1,0 +1,228 @@
+{
+    "id": "Mushroom_Matar_Recipe",
+    "name": "Mushroom Matar",
+    "origin": "India",
+    "history": "Mushroom Matar is a popular dish in Indian cuisine, combining mushrooms and green peas in a flavorful curry. It's a versatile dish that can be found in home cooking and restaurants alike, often enjoyed with rice or Indian breads.",
+    "description": "Mushroom Matar is a delightful curry made with succulent mushrooms and sweet green peas, cooked in a rich and creamy tomato-based sauce. It is typically seasoned with traditional Indian spices, offering a perfect balance of flavors.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "mushrooms",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green peas",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cream",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cilantro",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Saut\u00c3\u00a9 Onions and Spices",
+            "description": "Heat oil in a pan. Add cumin seeds and let them splutter. Add onions and ginger-garlic paste. Saut\u00c3\u00a9 until the onions turn golden brown."
+        },
+        {
+            "step": "2",
+            "title": "Add Tomatoes and Dry Spices",
+            "description": "Add pureed tomatoes, turmeric powder, coriander powder, red chili powder, and salt. Cook until the oil separates from the masala."
+        },
+        {
+            "step": "3",
+            "title": "Cook Mushrooms and Peas",
+            "description": "Add the sliced mushrooms and green peas. Cook for a few minutes until the mushrooms are tender."
+        },
+        {
+            "step": "4",
+            "title": "Simmer the Curry",
+            "description": "Add water to get the desired consistency. Bring the curry to a boil, then simmer for 10 minutes."
+        },
+        {
+            "step": "5",
+            "title": "Finish with Garam Masala and Cream",
+            "description": "Add garam masala and cream or coconut milk (if using). Stir well and cook for another 2-3 minutes."
+        },
+        {
+            "step": "6",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with naan, roti, or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "200 per serving",
+        "carbohydrates": "15g",
+        "protein": "6g",
+        "fat": "12g",
+        "fiber": "4g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Adjust the amount of chili to control the spice level.",
+        "Use fresh mushrooms for the best flavor."
+    ],
+    "variations": [
+        "Add other vegetables like bell peppers or carrots for more nutrition.",
+        "For a vegan version, use coconut milk instead of cream."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until warm."
+    ],
+    "presentationTips": [
+        "Serve in a traditional Indian serving bowl for an authentic look.",
+        "Garnish with a lemon wedge or a sprinkle of fresh herbs."
+    ],
+    "keywords": [
+        "Mushroom Matar",
+        "Indian Curry",
+        "Vegetable Curry"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

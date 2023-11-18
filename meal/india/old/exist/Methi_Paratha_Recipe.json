@@ -1,0 +1,161 @@
+{
+    "id": "Methi_Paratha_Recipe",
+    "name": "Methi Paratha",
+    "origin": "India",
+    "history": "Methi Paratha, originating from the Indian subcontinent, is a traditional flatbread made with fenugreek leaves. It combines the nutritional benefits of fenugreek (methi) with the beloved preparation of paratha.",
+    "description": "Methi Paratha is a flavorful flatbread made by incorporating fresh or dried fenugreek leaves into whole wheat dough. The parathas are seasoned with spices and cooked on a griddle. They're known for their distinct taste and health benefits.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "40"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "rolling pin",
+            "description": "For rolling the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "flat griddle or tawa",
+            "description": "For cooking the parathas.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "whole wheat flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carom seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, combine whole wheat flour, chopped methi leaves, ajwain, turmeric powder, red chili powder, and salt. Gradually add water and knead into a soft dough. Let it rest for 15 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Roll and Cook the Parathas",
+            "description": "Divide the dough into equal portions. Roll each portion into a circle. Heat a griddle and cook each paratha with ghee or oil until both sides have golden brown spots."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Serve the hot methi parathas with yogurt, pickle, or any curry of your choice."
+        }
+    ],
+    "nutrition": {
+        "calories": "130 per paratha",
+        "carbohydrates": "22g",
+        "protein": "4g",
+        "fat": "3g",
+        "fiber": "4g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "The dough should be soft and pliable for the best results.",
+        "Adjust the spice levels according to your preference."
+    ],
+    "variations": [
+        "Add other greens like spinach or kale for a different flavor.",
+        "Stuff with spiced potatoes or paneer for a more filling meal."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh but can be stored in an airtight container for up to 24 hours.",
+        "instructions": "Reheat on a griddle before serving if stored."
+    },
+    "reheatingInstructions": "Reheat on a hot griddle or tawa until warm and soft.",
+    "presentationTips": [
+        "Serve in a basket lined with a cloth to keep them warm.",
+        "Pair with a variety of chutneys and curries for a complete meal."
+    ],
+    "keywords": [
+        "Methi Paratha",
+        "Indian Flatbread",
+        "Fenugreek Bread"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

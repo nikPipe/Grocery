@@ -1,0 +1,221 @@
+{
+    "id": "Chole_Recipe",
+    "name": "Chole (Chickpea Curry)",
+    "origin": "India",
+    "history": "Chole, also known as Chana Masala, is a popular dish in Indian cuisine, originating from the northern parts of India. It's a hearty and flavorful curry made with chickpeas and a blend of spices, often enjoyed with breads like Bhatura or Roti.",
+    "description": "Chole is a spicy and tangy curry made using chickpeas as the main ingredient. The dish is cooked in a tomato-based sauce and a mix of traditional Indian spices, including garam masala, cumin, and coriander, giving it a rich and robust flavor.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "40"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "60"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pressure cooker or pot",
+            "description": "For cooking the chickpeas.",
+            "imageURL": ""
+        },
+        {
+            "name": "pan",
+            "description": "For making the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "chickpeas",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Cook the Chickpeas",
+            "description": "Pressure cook the soaked chickpeas with salt and enough water until they are soft and cooked through."
+        },
+        {
+            "step": "2",
+            "title": "Prepare the Curry",
+            "description": "Heat oil in a pan. Add cumin seeds and let them splutter. Add chopped onions and saut\u00c3\u00a9 until golden brown. Stir in ginger-garlic paste and chopped green chilies."
+        },
+        {
+            "step": "3",
+            "title": "Add Spices and Tomatoes",
+            "description": "Add coriander powder, garam masala, turmeric, and red chili powder. Mix well. Add pureed tomatoes and cook until the oil separates."
+        },
+        {
+            "step": "4",
+            "title": "Combine with Chickpeas",
+            "description": "Add the cooked chickpeas to the curry. Add water to adjust the consistency. Simmer for 10-15 minutes."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped coriander leaves. Serve hot with Bhatura, Roti, or rice."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per serving",
+        "carbohydrates": "35g",
+        "protein": "10g",
+        "fat": "8g",
+        "fiber": "9g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Soaking the chickpeas overnight reduces cooking time and improves their texture.",
+        "Adjust the spice levels according to your taste preferences."
+    ],
+    "variations": [
+        "Add a squeeze of lemon juice for added tanginess.",
+        "Include other vegetables like potatoes or bell peppers for more variety."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stovetop or in a microwave until hot."
+    ],
+    "presentationTips": [
+        "Serve in a traditional Indian serving dish for an authentic experience.",
+        "Pair with a side of sliced onions and lemon wedges."
+    ],
+    "keywords": [
+        "Chole",
+        "Chickpea Curry",
+        "Indian Cuisine"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

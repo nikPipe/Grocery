@@ -1,0 +1,215 @@
+{
+    "id": "Baingan_Bharta_Recipe",
+    "name": "Baingan Bharta",
+    "origin": "India",
+    "history": "Baingan Bharta is a popular dish in various regions of India, particularly in Punjab. It's a vegetarian dish made with roasted eggplants, mashed and cooked with spices.",
+    "description": "Baingan Bharta is a smoky, spiced, mashed eggplant dish. The eggplants are roasted to infuse a smoky flavor, then mashed and cooked with onions, tomatoes, and a variety of aromatic Indian spices.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "oven or gas stove",
+            "description": "For roasting the eggplant.",
+            "imageURL": ""
+        },
+        {
+            "name": "pan",
+            "description": "For preparing the masala.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "large eggplant",
+            "quantity": "1",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Roast the Eggplant",
+            "description": "Roast the eggplant over an open flame or in an oven until the skin is charred and the inside is tender. Allow to cool, peel, and mash the flesh."
+        },
+        {
+            "step": "2",
+            "title": "Prepare the Masala",
+            "description": "Heat oil in a pan. Add cumin seeds, onions, ginger-garlic paste, and green chilies. Saut\u00c3\u00a9 until onions are golden."
+        },
+        {
+            "step": "3",
+            "title": "Add Spices and Tomatoes",
+            "description": "Add turmeric, coriander powder, red chili powder, and salt to the onions. Cook for a minute, then add tomatoes. Cook until the tomatoes are soft."
+        },
+        {
+            "step": "4",
+            "title": "Combine with Eggplant",
+            "description": "Add the mashed eggplant to the pan. Mix well with the masala and cook for a few minutes."
+        },
+        {
+            "step": "5",
+            "title": "Finish with Garam Masala",
+            "description": "Sprinkle garam masala over the mixture and cook for another minute."
+        },
+        {
+            "step": "6",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped coriander leaves. Serve hot with roti or naan."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per serving",
+        "carbohydrates": "30g",
+        "protein": "5g",
+        "fat": "12g",
+        "fiber": "9g",
+        "sugar": "10g"
+    },
+    "tips": [
+        "Ensure the eggplant is completely roasted to develop a smoky flavor.",
+        "Adjust the amount of green chilies and red chili powder to suit your spice preference."
+    ],
+    "variations": [
+        "Add peas or cubed potatoes for additional texture.",
+        "Substitute eggplant with zucchini for a different version."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a traditional Indian serving bowl, garnished with a lemon wedge.",
+        "Accompany with a side of cucumber raita or salad."
+    ],
+    "keywords": [
+        "Baingan Bharta",
+        "Indian Eggplant Curry",
+        "Smoky Eggplant Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

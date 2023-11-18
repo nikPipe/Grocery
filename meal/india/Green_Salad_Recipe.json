@@ -85,7 +85,7 @@
             }
         },
         {
-            "item": "parsley",
+            "item": "cilantro",
             "quantity": "1/4 cup",
             "weight": {
                 "value": "15",
@@ -93,7 +93,7 @@
             }
         },
         {
-            "item": "oil",
+            "item": "olive oil",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "30",

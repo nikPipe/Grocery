@@ -1,0 +1,213 @@
+{
+    "id": "Mango_Chicken_Curry_Recipe",
+    "name": "Mango Chicken Curry",
+    "origin": "India",
+    "history": "Mango Chicken Curry is a fusion dish that blends traditional Indian curry spices with the sweet flavor of mangoes. It's a modern twist on classic Indian cuisine, showcasing the versatility of mangoes in savory dishes.",
+    "description": "Mango Chicken Curry is a delightful combination of juicy chicken pieces simmered in a rich, aromatic sauce made from ripe mangoes, coconut milk, and a blend of spices. The dish is both sweet and spicy, offering a unique taste experience.",
+    "servings": "1",
+    "dietTypes": [
+        "Non-Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "40"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "60"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "chicken",
+            "quantity": "500 grams",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ripe mangoes",
+            "quantity": "2",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coconut milk",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Saut\u00c3\u00a9 Onions and Spices",
+            "description": "Heat oil in a pan. Add onions and ginger-garlic paste, cooking until onions are translucent. Stir in turmeric powder, coriander powder, cumin powder, and red chili powder."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Chicken",
+            "description": "Add chicken pieces to the pan. Cook until they start to brown."
+        },
+        {
+            "step": "3",
+            "title": "Add Mango Puree and Coconut Milk",
+            "description": "Mix in the mango puree and coconut milk. Season with salt. Bring to a simmer and cook until the chicken is tender."
+        },
+        {
+            "step": "4",
+            "title": "Finish with Garam Masala",
+            "description": "Stir in garam masala and cook for a few more minutes."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped cilantro. Serve hot with rice or Indian bread like naan or roti."
+        }
+    ],
+    "nutrition": {
+        "calories": "600 per serving",
+        "carbohydrates": "30g",
+        "protein": "40g",
+        "fat": "35g",
+        "fiber": "5g",
+        "sugar": "15g"
+    },
+    "tips": [
+        "Use ripe, sweet mangoes for the best flavor in the curry.",
+        "Adjust the amount of red chili powder to balance the sweetness of the mangoes."
+    ],
+    "variations": [
+        "Add vegetables like bell peppers or carrots for extra nutrition.",
+        "Substitute coconut milk with yogurt for a tangier flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a decorative bowl, garnished with a slice of fresh mango.",
+        "Pair with a cool, minty yogurt-based side dish."
+    ],
+    "keywords": [
+        "Mango Chicken Curry",
+        "Indian Sweet and Spicy Chicken",
+        "Tropical Chicken Curry"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

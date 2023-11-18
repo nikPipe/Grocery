@@ -1,0 +1,178 @@
+{
+    "id": "Tomato_Chutney_Recipe",
+    "name": "Tomato Chutney",
+    "origin": "India",
+    "history": "Tomato Chutney is a popular condiment in Indian cuisine, known for its tangy and spicy flavor. It's a versatile accompaniment that pairs well with many Indian dishes like dosas, idlis, and chapatis. Each region in India has its own version of this chutney.",
+    "description": "Tomato Chutney is a tangy and spicy condiment made with tomatoes, onions, and a variety of spices. It's a staple in Indian households and is often prepared fresh. This chutney adds a flavorful kick to meals and snacks.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": ["Breakfast", "Lunch", "Dinner", "Snack"],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For cooking the chutney."
+        },
+        {
+            "name": "blender",
+            "description": "For blending the ingredients."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "tomatoes",
+            "quantity": "4 medium",
+            "weight": {
+                "value": "400",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onions",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garlic cloves",
+            "quantity": "2",
+            "weight": {
+                "value": "6",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Sauté Onions and Spices",
+            "description": "Heat oil in a pan. Add mustard seeds, urad dal, curry leaves, and garlic. Once the mustard seeds start to crackle, add onions and green chilies. Sauté until onions turn translucent."
+        },
+        {
+            "step": "2",
+            "title": "Cook Tomatoes",
+            "description": "Add the chopped tomatoes and salt to the pan. Cook until the tomatoes are soft and mushy."
+        },
+        {
+            "step": "3",
+            "title": "Blend the Mixture",
+            "description": "Allow the mixture to cool. Then, blend it to a smooth consistency, adding a little water if needed."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Tomato Chutney with your favorite Indian snacks or meals."
+        }
+    ],
+    "nutrition": {
+        "calories": "70 per serving",
+        "carbohydrates": "9g",
+        "protein": "2g",
+        "fat": "3g",
+        "fiber": "2g",
+        "sugar": "4g"
+    },
+    "tips": [
+        "Adjust the number of green chilies to control the spice level.",
+        "Adding a small piece of tamarind can enhance the tanginess of the chutney."
+    ],
+    "variations": [
+        "Include a handful of fresh coriander leaves for a refreshing taste.",
+        "For a sweeter version, add a small amount of jaggery or sugar."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "If needed, gently reheat the chutney in a pan over low heat."
+        }
+    ],
+    "presentationTips": [
+        "Garnish with fresh curry leaves or coriander before serving.",
+        "Serve in a colorful ceramic bowl to enhance the visual appeal."
+    ],
+    "keywords": [
+        "Tomato Chutney",
+        "Indian Condiment",
+        "Spicy Tomato Relish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

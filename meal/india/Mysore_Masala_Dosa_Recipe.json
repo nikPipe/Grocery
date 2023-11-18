@@ -1,0 +1,225 @@
+{
+    "id": "Mysore_Masala_Dosa_Recipe",
+    "name": "Mysore Masala Dosa",
+    "origin": "India",
+    "history": "Mysore Masala Dosa is a variation of the classic Dosa, originating from the city of Mysore in Karnataka, India. It's renowned for its spicy red chutney layered inside the dosa.",
+    "description": "Mysore Masala Dosa is a crispy, rice and lentil crepe filled with a spicy red chutney and a savory potato filling. It's a staple in South Indian cuisine, known for its unique flavor and texture.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": ["Breakfast", "Lunch"],
+    "equipment": [
+        {
+            "name": "grinder or blender",
+            "description": "For grinding the dosa batter."
+        },
+        {
+            "name": "non-stick pan or griddle",
+            "description": "For cooking the dosa."
+        },
+        {
+            "name": "pan",
+            "description": "For making the potato filling and red chutney."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "parboiled rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal",
+            "quantity": "1/3 cup",
+            "weight": {
+                "value": "75",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "fenugreek seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dried red chilies",
+            "quantity": "4-5",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tamarind pulp",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garlic cloves",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "potatoes",
+            "quantity": "2 large",
+            "weight": {
+                "value": "400",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onions",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "8-10",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dosa Batter",
+            "description": "Soak rice, urad dal, and fenugreek seeds for 4-6 hours. Grind to a smooth batter, adding water as needed. Allow to ferment overnight."
+        },
+        {
+            "step": "2",
+            "title": "Make the Red Chutney",
+            "description": "Grind dried red chilies, tamarind pulp, garlic, and salt into a smooth paste. Set aside."
+        },
+        {
+            "step": "3",
+            "title": "Prepare the Potato Filling",
+            "description": "Heat oil in a pan. Add mustard seeds, curry leaves, and green chilies. Add onions and sauté. Mix in boiled potatoes, turmeric, and salt. Garnish with coriander leaves."
+        },
+        {
+            "step": "4",
+            "title": "Cook the Dosa",
+            "description": "Heat a non-stick pan. Pour a ladle of batter and spread thinly. Apply red chutney over it. Place some potato filling in the center and fold the dosa."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the Mysore Masala Dosa hot with coconut chutney and sambar."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per dosa",
+        "carbohydrates": "35g",
+        "protein": "6g",
+        "fat": "9g",
+        "fiber": "3g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "The consistency of the dosa batter is crucial for a crispy dosa.",
+        "The red chutney should be spicy and spread thinly."
+    ],
+    "variations": [
+        "Plain Mysore Dosa: Skip the potato filling for a simpler version.",
+        "Cheese Mysore Dosa: Add grated cheese to the filling for a cheesy twist."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "The batter can be stored in the refrigerator for up to 2 days.",
+        "instructions": "Store the batter in an airtight container and the potato filling separately."
+    },
+    "reheatingInstructions": [
+        "Reheat the potato filling in a microwave or on the stove. Cook fresh dosas for the best taste."
+    ],
+    "presentationTips": [
+        "Serve on a traditional banana leaf for an authentic experience.",
+        "Garnish with a sprinkle of chopped coriander on the potato filling."
+    ],
+    "keywords": [
+        "Mysore Masala Dosa",
+        "South Indian Cuisine",
+        "Spicy Crepe"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "id": "Moong_Dal_Chilla_Recipe",
+    "name": "Moong Dal Chilla",
+    "origin": "India",
+    "history": "Moong Dal Chilla, also known as Pesarattu in South India, is a traditional Indian pancake. It's made from split green gram and is a popular breakfast item.",
+    "description": "Moong Dal Chilla is a nutritious and delicious pancake made from ground moong dal (split green gram). It's typically spiced with ginger, green chilies, and onions, making it a flavorful and wholesome meal.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "25"
+        }
+    },
+    "mealtime": [
+        "Breakfast",
+        "Snack"
+    ],
+    "equipment": [
+        {
+            "name": "blender or grinder",
+            "description": "For grinding the dal.",
+            "imageURL": ""
+        },
+        {
+            "name": "non-stick pan or skillet",
+            "description": "For cooking the chilla.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "moong dal",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger",
+            "quantity": "1 inch piece",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 small",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "for cooking",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "fresh coriander leaves, chopped",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Batter",
+            "description": "Drain the soaked moong dal and grind it with ginger, green chilies, and water to make a smooth batter. Transfer to a bowl and add salt, chopped onions, and cumin seeds."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Chilla",
+            "description": "Heat a non-stick pan and grease it lightly with oil. Pour a ladleful of batter and spread it evenly. Cook on medium heat until the edges start to lift. Flip and cook the other side."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Serve the Moong Dal Chilla hot, garnished with chopped coriander leaves."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per serving",
+        "carbohydrates": "35g",
+        "protein": "15g",
+        "fat": "5g",
+        "fiber": "6g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "The consistency of the batter should be similar to pancake batter.",
+        "Cook the chilla on medium heat for even cooking and to prevent it from burning."
+    ],
+    "variations": [
+        "Add grated vegetables like carrots or spinach to the batter for added nutrition.",
+        "Experiment with different herbs and spices for variety."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Batter can be refrigerated for up to 1 day.",
+        "instructions": "Store the batter in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat cooked chillas on a skillet until warm.",
+    "presentationTips": [
+        "Serve with a side of mint-coriander chutney or yogurt."
+    ],
+    "keywords": [
+        "Moong Dal Chilla",
+        "Indian pancake",
+        "Green gram recipe"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

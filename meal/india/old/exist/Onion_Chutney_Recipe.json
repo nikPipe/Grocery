@@ -1,0 +1,173 @@
+{
+    "id": "Onion_Chutney_Recipe",
+    "name": "Onion Chutney",
+    "origin": "India",
+    "history": "Onion Chutney is a widely used condiment in Indian cuisine, known for its rich and savory flavor. It's a staple in many Indian households and varies in taste and texture across different regions of the country.",
+    "description": "Onion Chutney is a tangy and spicy condiment made with onions, tomatoes, tamarind, and a variety of spices. It's commonly served with South Indian dishes like dosas and idlis but can also be used as a spread or dip.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "25"
+        }
+    },
+    "mealtime": ["Breakfast", "Lunch", "Dinner", "Snack"],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For sautéing ingredients."
+        },
+        {
+            "name": "blender",
+            "description": "For grinding the chutney."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "onions",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomatoes",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tamarind paste",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chilies, dry",
+            "quantity": "3",
+            "weight": {
+                "value": "3",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garlic cloves",
+            "quantity": "2",
+            "weight": {
+                "value": "6",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Sauté Onions and Tomatoes",
+            "description": "Heat oil in a pan. Add mustard seeds, urad dal, dry red chilies, and curry leaves. When the mustard seeds start to splutter, add the garlic and onions. Sauté until onions turn translucent, then add the tomatoes and cook until soft."
+        },
+        {
+            "step": "2",
+            "title": "Blend the Mixture",
+            "description": "Allow the mixture to cool. Add tamarind paste and salt. Blend the mixture to a smooth consistency in a blender."
+        },
+        {
+            "step": "3",
+            "title": "Serve",
+            "description": "Serve the Onion Chutney with dosas, idlis, or as a dip for snacks."
+        }
+    ],
+    "nutrition": {
+        "calories": "50 per serving",
+        "carbohydrates": "7g",
+        "protein": "1g",
+        "fat": "2g",
+        "fiber": "1g",
+        "sugar": "4g"
+    },
+    "tips": [
+        "Adjust the amount of red chilies based on your desired spice level.",
+        "Adding a pinch of sugar can balance the tartness of the tomatoes."
+    ],
+    "variations": [
+        "Include a small piece of jaggery for a sweet and sour flavor.",
+        "Add a handful of fresh coriander leaves for a refreshing twist."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Onion Chutney is best served at room temperature and does not require reheating."
+        }
+    ],
+    "presentationTips": [
+        "Serve in a small bowl with a spoon for easy use.",
+        "Garnish with a sprig of curry leaf for added color and aroma."
+    ],
+    "keywords": [
+        "Onion Chutney",
+        "Indian Condiment",
+        "Spicy Onion Relish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

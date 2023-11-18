@@ -1,0 +1,138 @@
+{
+    "id": "Sugarcane_Juice_Recipe",
+    "name": "Sugarcane Juice",
+    "origin": "Global",
+    "history": "Sugarcane Juice is a popular drink in many parts of the world, especially in regions where sugarcane is cultivated. It's been consumed for centuries, known for its natural sweetness and refreshing qualities.",
+    "description": "Sugarcane Juice is a natural and refreshing drink extracted from sugarcane stalks. It's typically served chilled with a squeeze of lemon and a hint of ginger and mint, enhancing its flavor and making it a perfect beverage for hot days.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "10"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "sugarcane juicer",
+            "description": "For extracting juice from sugarcane.",
+            "imageURL": ""
+        },
+        {
+            "name": "glass",
+            "description": "For serving the juice.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "sugarcane stalks",
+            "quantity": "2",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "lemon",
+            "quantity": "1/2",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger, peeled",
+            "quantity": "1 inch piece",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mint leaves",
+            "quantity": "a few",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ice cubes",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Extract the Juice",
+            "description": "Run the peeled sugarcane stalks through a sugarcane juicer. Add a small piece of ginger and a few mint leaves to the juicer for added flavor."
+        },
+        {
+            "step": "2",
+            "title": "Add Lemon Juice",
+            "description": "Squeeze the juice of half a lemon into the extracted sugarcane juice. Stir well."
+        },
+        {
+            "step": "3",
+            "title": "Serve Chilled",
+            "description": "Pour the sugarcane juice over ice cubes in a glass. Serve immediately for maximum freshness and taste."
+        }
+    ],
+    "nutrition": {
+        "calories": "180 per serving",
+        "carbohydrates": "45g",
+        "protein": "0g",
+        "fat": "0g",
+        "fiber": "0g",
+        "sugar": "40g"
+    },
+    "tips": [
+        "Ensure the sugarcane is fresh and juicy for the best quality juice.",
+        "Adjust the amount of lemon, ginger, and mint according to your taste preferences."
+    ],
+    "variations": [
+        "Add a pinch of black salt or chaat masala for a savory twist.",
+        "Blend with other fruits like pineapple or orange for a mixed juice version."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. Sugarcane juice tends to oxidize and lose its flavor quickly.",
+        "instructions": "Not recommended for long-term storage."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in a tall glass with a straw.",
+        "Garnish with a slice of lemon or a sprig of mint for an appealing presentation."
+    ],
+    "keywords": [
+        "Sugarcane Juice",
+        "Natural Sweet Drink",
+        "Refreshing Beverage"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

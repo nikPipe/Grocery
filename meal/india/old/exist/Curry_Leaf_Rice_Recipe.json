@@ -1,0 +1,209 @@
+{
+    "id": "Curry_Leaf_Rice_Recipe",
+    "name": "Curry Leaf Rice",
+    "origin": "India",
+    "history": "Curry Leaf Rice, also known as Karivepaku Annam, is a South Indian dish that highlights the aromatic and flavorful curry leaf. It's a traditional recipe that transforms a simple ingredient into a delicious and fragrant rice dish.",
+    "description": "Curry Leaf Rice is a unique and flavorful dish made with cooked rice and a spiced curry leaf paste. The paste is a blend of fresh curry leaves, spices, and nuts, fried and ground to a coarse powder, then mixed with rice for a fragrant and savory dish.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian",
+        "Vegan",
+        "Gluten-Free"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For preparing the curry leaf paste.",
+            "imageURL": ""
+        },
+        {
+            "name": "spice grinder or mortar and pestle",
+            "description": "For grinding the spice mixture.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "400",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dal",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dry red chilies",
+            "quantity": "3",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "black peppercorns",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cashews",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "20",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tamarind paste",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Curry Leaf Paste",
+            "description": "Heat a tablespoon of oil in a pan. Add urad dal, chana dal, dry red chilies, black peppercorns, and cumin seeds. Fry until the dals turn golden. Add the curry leaves and fry until they are crisp. Cool and grind to a coarse powder."
+        },
+        {
+            "step": "2",
+            "title": "Temper the Spices",
+            "description": "In the same pan, heat the remaining oil. Add mustard seeds and let them splutter. Add asafoetida, cashews or peanuts (if using), and tamarind paste (if using). Fry for a minute."
+        },
+        {
+            "step": "3",
+            "title": "Mix with Rice",
+            "description": "Add the cooked rice to the pan. Sprinkle the ground curry leaf mixture and salt over the rice. Mix well until the rice is evenly coated with the spice mixture."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Curry Leaf Rice warm as a main dish or a side."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per serving",
+        "carbohydrates": "45g",
+        "protein": "5g",
+        "fat": "7g",
+        "fiber": "4g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "Ensure the curry leaves are fresh for the best flavor.",
+        "Adjust the amount of red chilies to control the spice level."
+    ],
+    "variations": [
+        "Add a squeeze of lemon juice for added tanginess.",
+        "Include grated coconut for a different texture and flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until warm."
+    ],
+    "presentationTips": [
+        "Serve in a traditional Indian serving bowl.",
+        "Garnish with a few fresh curry leaves for an authentic look."
+    ],
+    "keywords": [
+        "Curry Leaf Rice",
+        "Karivepaku Annam",
+        "Indian Flavored Rice"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

@@ -1,0 +1,210 @@
+{
+    "id": "Paneer_Kulcha_Recipe",
+    "name": "Paneer Kulcha",
+    "origin": "India",
+    "history": "Paneer Kulcha is a variation of the classic kulcha, a type of leavened flatbread that originated in the Indian subcontinent. It combines the soft texture of kulcha with a delicious stuffing of spiced paneer, making it a popular choice in Indian cuisine.",
+    "description": "Paneer Kulcha is a stuffed flatbread made with a soft dough and filled with a flavorful mixture of paneer (Indian cottage cheese), herbs, and spices. It is usually baked or cooked on a tawa (griddle) and often served with chutney or curry.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "mixing bowl",
+            "description": "For preparing the dough.",
+            "imageURL": ""
+        },
+        {
+            "name": "tawa or griddle",
+            "description": "For cooking the kulcha.",
+            "imageURL": ""
+        },
+        {
+            "name": "rolling pin",
+            "description": "For rolling out the dough.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "all-purpose flour",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yeast",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "4",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "paneer",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "40",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chili",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "spices (garam masala, cumin powder, red chili powder)",
+            "quantity": "as per taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Dough",
+            "description": "In a mixing bowl, combine flour, yeast or baking powder, sugar, and salt. Add yogurt and warm water to form a soft dough. Knead well, then add oil and knead again. Cover and let it rest for about 2 hours until the dough rises."
+        },
+        {
+            "step": "2",
+            "title": "Make Paneer Filling",
+            "description": "Mix crumbled paneer, onions, green chilies, coriander leaves, and spices in a bowl. Adjust salt and spices to taste."
+        },
+        {
+            "step": "3",
+            "title": "Stuff and Roll the Kulchas",
+            "description": "Divide the dough into small balls. Roll each ball into a small circle, place some paneer filling in the center, and seal it. Roll it again into a flat circular shape."
+        },
+        {
+            "step": "4",
+            "title": "Cook the Kulchas",
+            "description": "Heat a tawa or griddle. Place the rolled kulcha on it and cook until brown spots appear on both sides. Optionally, brush with butter or ghee."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve hot Paneer Kulchas with chutney or curry of your choice."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per kulcha",
+        "carbohydrates": "45g",
+        "protein": "10g",
+        "fat": "10g",
+        "fiber": "2g",
+        "sugar": "3g"
+    },
+    "tips": [
+        "The dough should be soft and pliable for the best texture.",
+        "You can adjust the filling ingredients according to your preference."
+    ],
+    "variations": [
+        "Add grated vegetables to the paneer filling for a nutritious twist.",
+        "Experiment with different spices in the dough for varied flavors."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed fresh. Can be stored for up to 1 day in the refrigerator.",
+        "instructions": "Store in an airtight container and reheat on a tawa before serving."
+    },
+    "reheatingInstructions": [
+        "Reheat on a tawa or in a microwave until warm."
+    ],
+    "presentationTips": [
+        "Serve on a traditional Indian platter with accompaniments.",
+        "Garnish with a side of sliced onions and lemon wedges."
+    ],
+    "keywords": [
+        "Paneer Kulcha",
+        "Stuffed Flatbread",
+        "Indian Cuisine"
+    ],
+    "allergens": [
+        "Dairy",
+        "Gluten"
+    ]
+}

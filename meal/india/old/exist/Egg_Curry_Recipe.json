@@ -1,0 +1,215 @@
+{
+    "id": "Egg_Curry_Recipe",
+    "name": "Egg Curry",
+    "origin": "India",
+    "history": "Egg Curry is a popular dish in various regions of India, each with its own version. It's a flavorful and protein-rich curry that's often a home-cooked favorite.",
+    "description": "Egg Curry consists of hard-boiled eggs simmered in a spicy and tangy tomato-based sauce. The sauce is typically seasoned with traditional Indian spices, making it a hearty and comforting dish.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "25"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "40"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pot",
+            "description": "For boiling the eggs.",
+            "imageURL": ""
+        },
+        {
+            "name": "pan",
+            "description": "For preparing the curry.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "eggs",
+            "quantity": "4",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onion",
+            "quantity": "1 large",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomato",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Boil the Eggs",
+            "description": "Boil the eggs until hard-boiled, then peel and set aside."
+        },
+        {
+            "step": "2",
+            "title": "Prepare the Curry Base",
+            "description": "Heat oil in a pan. Add cumin seeds and let them splutter. Add onions and cook until golden brown. Stir in ginger-garlic paste."
+        },
+        {
+            "step": "3",
+            "title": "Add Spices and Tomatoes",
+            "description": "Add turmeric powder, coriander powder, red chili powder, and salt. Cook for a minute. Add tomato puree and simmer until oil separates."
+        },
+        {
+            "step": "4",
+            "title": "Add Eggs to the Curry",
+            "description": "Add the boiled eggs to the curry. Pour in water and simmer for 10 minutes."
+        },
+        {
+            "step": "5",
+            "title": "Finish with Garam Masala",
+            "description": "Stir in garam masala and simmer for another 2 minutes."
+        },
+        {
+            "step": "6",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped coriander leaves. Serve hot with rice or Indian breads."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "15g",
+        "protein": "15g",
+        "fat": "20g",
+        "fiber": "3g",
+        "sugar": "5g"
+    },
+    "tips": [
+        "Prick the eggs with a fork before adding to the curry for better absorption of flavors.",
+        "Adjust the chili powder and garam masala according to your taste preference."
+    ],
+    "variations": [
+        "Add a splash of cream or coconut milk for a richer gravy.",
+        "Include potatoes or peas for additional texture and flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat on the stove or in a microwave until hot.",
+    "presentationTips": [
+        "Serve in a decorative bowl, garnished with a sprig of coriander.",
+        "Pair with a cooling cucumber raita or salad."
+    ],
+    "keywords": [
+        "Egg Curry",
+        "Indian Cuisine",
+        "Spicy Egg Dish"
+    ],
+    "allergens": [
+        "Eggs"
+    ]
+}

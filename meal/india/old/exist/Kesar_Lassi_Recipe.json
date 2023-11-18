@@ -1,0 +1,148 @@
+{
+    "id": "Kesar_Lassi_Recipe",
+    "name": "Kesar Lassi",
+    "origin": "India",
+    "history": "Kesar Lassi is a variant of the traditional Indian yogurt-based drink, lassi, enhanced with the luxurious addition of saffron (kesar). Originating from Punjab, lassi is a popular, cooling beverage enjoyed throughout India and has various flavors.",
+    "description": "Kesar Lassi is a creamy, rich yogurt drink flavored with saffron and cardamom. It's often sweetened with sugar and garnished with chopped nuts. This lassi is known for its aromatic flavor and is a refreshing treat, especially during hot weather.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "10"
+        }
+    },
+    "mealtime": [
+        "Any"
+    ],
+    "equipment": [
+        {
+            "name": "blender",
+            "description": "For blending the lassi.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "yogurt",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "milk",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "25",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "saffron strands",
+            "quantity": "a few",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cardamom powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chopped nuts (almonds, pistachios) for garnish",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ice cubes",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Soak Saffron",
+            "description": "Soak saffron strands in 2 tablespoons of warm milk for about 10 minutes to release their color and aroma."
+        },
+        {
+            "step": "2",
+            "title": "Blend Ingredients",
+            "description": "In a blender, combine yogurt, the remaining milk, sugar, the saffron-infused milk, and cardamom powder. Blend until smooth and creamy."
+        },
+        {
+            "step": "3",
+            "title": "Serve Chilled",
+            "description": "Pour the lassi into glasses. Add ice cubes if desired. Garnish with chopped nuts."
+        }
+    ],
+    "nutrition": {
+        "calories": "180 per serving",
+        "carbohydrates": "28g",
+        "protein": "8g",
+        "fat": "4g",
+        "fiber": "0g",
+        "sugar": "27g"
+    },
+    "tips": [
+        "Adjust the amount of sugar according to your taste.",
+        "For a vegan version, use plant-based yogurt and milk."
+    ],
+    "variations": [
+        "Add rose water for a floral twist.",
+        "Blend with fresh fruits like mango for a fruity variation."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately. Can be refrigerated for a few hours.",
+        "instructions": "Store in the refrigerator and stir well before serving."
+    },
+    "reheatingInstructions": [
+        "No reheating required."
+    ],
+    "presentationTips": [
+        "Serve in traditional Indian glassware or tall glasses.",
+        "Garnish with a saffron strand or a sprinkle of cardamom powder for an elegant touch."
+    ],
+    "keywords": [
+        "Kesar Lassi",
+        "Saffron Yogurt Drink",
+        "Indian Beverage"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

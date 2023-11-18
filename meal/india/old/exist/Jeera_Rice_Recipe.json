@@ -1,0 +1,181 @@
+{
+    "id": "Jeera_Rice_Recipe",
+    "name": "Jeera Rice",
+    "origin": "India",
+    "history": "Jeera Rice, a popular dish in Indian cuisine, is known for its simplicity and aromatic flavor. 'Jeera' is the Hindi word for cumin seeds, which are the key ingredient in this dish, giving it a distinctive taste and aroma.",
+    "description": "Jeera Rice is a fragrant rice dish made by cooking basmati rice with cumin seeds and other spices. It's a versatile side dish that pairs well with various Indian curries and gravies, offering a subtle yet flavorful experience.",
+    "servings": "1",
+    "dietTypes": [
+        "Vegetarian"
+    ],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": [
+        "Lunch",
+        "Dinner"
+    ],
+    "equipment": [
+        {
+            "name": "pot or rice cooker",
+            "description": "For cooking the rice.",
+            "imageURL": ""
+        },
+        {
+            "name": "frying pan",
+            "description": "For tempering the spices.",
+            "imageURL": ""
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "2 teaspoons",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "bay leaf",
+            "quantity": "1",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cinnamon stick",
+            "quantity": "1 small piece",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cloves",
+            "quantity": "2-3",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cardamom pods",
+            "quantity": "2",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "500",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Cook the Rice",
+            "description": "Wash the basmati rice until water runs clear. Soak in water for 20 minutes, then drain."
+        },
+        {
+            "step": "2",
+            "title": "Temper the Spices",
+            "description": "Heat ghee or oil in a frying pan. Add cumin seeds, bay leaf, cinnamon, cloves, and cardamom. Saut\u00c3\u00a9 until the cumin seeds splutter and the spices release their aroma."
+        },
+        {
+            "step": "3",
+            "title": "Combine Rice and Spices",
+            "description": "Add the drained rice to the pan with the tempered spices. Add salt and water. Bring to a boil, then reduce the heat and cover. Simmer until the rice is cooked and water is absorbed."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Fluff the rice gently. Garnish with chopped coriander leaves. Serve hot as a side dish with curries or dal."
+        }
+    ],
+    "nutrition": {
+        "calories": "350 per serving",
+        "carbohydrates": "70g",
+        "protein": "8g",
+        "fat": "6g",
+        "fiber": "2g",
+        "sugar": "1g"
+    },
+    "tips": [
+        "Soaking the rice beforehand helps in cooking it evenly.",
+        "Be careful not to break the rice grains while fluffing."
+    ],
+    "variations": [
+        "Add fried onions or mixed vegetables for additional flavor and texture.",
+        "Experiment with different whole spices for varying aromas."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on a stove until warm.",
+    "presentationTips": [
+        "Serve in a decorative bowl, garnished with extra spices or herbs.",
+        "Pair with a raita or a side of your choice for a complete meal."
+    ],
+    "keywords": [
+        "Jeera Rice",
+        "Cumin Flavored Rice",
+        "Indian Rice Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

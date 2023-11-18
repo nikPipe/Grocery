@@ -1,0 +1,194 @@
+{
+    "id": "Mango_Rice_Recipe",
+    "name": "Mango Rice",
+    "origin": "India",
+    "history": "Mango Rice, also known as Mavinkayi Chitranna in Karnataka, is a traditional South Indian dish. It is especially popular in regions where mangoes are abundantly available. This dish combines the tanginess of raw mangoes with aromatic spices and rice.",
+    "description": "Mango Rice is a vibrant and flavorful dish made with grated raw mangoes, rice, and a tempering of mustard seeds, chilies, and curry leaves. It's a delightful mix of sour, spicy, and savory flavors, often enjoyed during the mango season.",
+    "servings": "1",
+    "dietTypes": ["Vegan", "Gluten-Free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pan",
+            "description": "For preparing the tempering."
+        },
+        {
+            "name": "pot",
+            "description": "For cooking rice."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "rice",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "raw mango",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "150",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "mustard seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "urad dal",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "dry red chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "curry leaves",
+            "quantity": "1 sprig",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "asafoetida",
+            "quantity": "a pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "peanuts",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sesame oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as needed",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Cook Rice",
+            "description": "Cook the rice until it's fluffy. Spread it on a plate to cool."
+        },
+        {
+            "step": "2",
+            "title": "Prepare the Tempering",
+            "description": "Heat oil in a pan. Add mustard seeds, urad dal, dry red chilies, green chilies, curry leaves, asafoetida, and peanuts. Fry until the dal turns golden."
+        },
+        {
+            "step": "3",
+            "title": "Combine Rice with Mango",
+            "description": "Add the grated mango to the pan and sauté for a few minutes. Then mix in the cooked rice and salt, ensuring the rice is evenly coated."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Mango Rice hot or at room temperature. It pairs well with raita or papad."
+        }
+    ],
+    "nutrition": {
+        "calories": "320 per serving",
+        "carbohydrates": "55g",
+        "protein": "7g",
+        "fat": "9g",
+        "fiber": "3g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Choose firm and tangy raw mangoes for the best flavor.",
+        "Adjust the amount of green chilies to suit your spice preference."
+    ],
+    "variations": [
+        "Add a pinch of turmeric for color.",
+        "Incorporate a small amount of grated coconut for a unique flavor."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 2 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        {
+            "instruction": "Reheat gently in a microwave or on the stove with a little added water."
+        }
+    ],
+    "presentationTips": [
+        "Garnish with a sprig of fresh coriander.",
+        "Serve in a colorful bowl to enhance the visual appeal."
+    ],
+    "keywords": [
+        "Mango Rice",
+        "Mavinkayi Chitranna",
+        "Indian Rice Dish"
+    ],
+    "allergens": [
+        "Peanuts"
+    ]
+}
