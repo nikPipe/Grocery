@@ -1,0 +1,68 @@
+{
+  "name": "South Indian Snack",
+  "id": 10,
+  "mealtimes": ["snack"],
+  "origin": "India",
+  "menu": {
+    "savory_snacks": {
+      "default": {"name": "Medu Vada", "id": "Medu_Vada_Recipe"},
+      "variations": {
+        "Masala Dosa": "Masala_Dosa_Recipe",
+        "Uttapam": "Uttapam_Recipe",
+        "Idli": "Idli_Recipe",
+        "Paniyaram": "Paniyaram_Recipe",
+        "Bajji": "Bajji_Recipe",
+        "Murukku": "Murukku_Recipe",
+        "Samosa": "Samosa_Recipe",
+        "Kuzhi Paniyaram": "Kuzhi_Paniyaram_Recipe",
+        "Aloo Bonda": "Aloo_Bonda_Recipe",
+        "Rava Vada": "Rava_Vada_Recipe",
+        "Mysore Bonda": "Mysore_Bonda_Recipe",
+        "Puliyodarai": "Puliyodarai_Recipe",
+        "Kerala Parotta": "Kerala_Parotta_Recipe",
+        "Gobi 65": "Gobi_65_Recipe",
+        "Onion Pakoda": "Onion_Pakoda_Recipe"
+      }
+    },
+    "sweet_snacks": {
+      "default": {"name": "Mysore Pak", "id": "Mysore_Pak_Recipe"},
+      "variations": {
+        "Payasam": "Payasam_Recipe",
+        "Rava Kesari": "Rava_Kesari_Recipe",
+        "Sweet Pongal": "Sweet_Pongal_Recipe",
+        "Unniyappam": "Unniyappam_Recipe",
+        "Kaju Katli": "Kaju_Katli_Recipe",
+        "Palada Pradhaman": "Palada_Pradhaman_Recipe",
+        "Ellu Urundai": "Ellu_Urundai_Recipe",
+        "Obbattu": "Obbattu_Recipe",
+        "Ladoo": "Ladoo_Recipe",
+        "Jalebi": "Jalebi_Recipe",
+        "Halwa": "Halwa_Recipe",
+        "Boondi": "Boondi_Recipe",
+        "Badusha": "Badusha_Recipe",
+        "Coconut Burfi": "Coconut_Burfi_Recipe",
+        "Ada Pradhaman": "Ada_Pradhaman_Recipe"
+      }
+    },
+    "beverages": {
+      "default": {"name": "Filter Coffee", "id": "Filter_Coffee_Recipe"},
+      "variations": {
+        "Masala Chai": "Masala_Chai_Recipe",
+        "Buttermilk": "Buttermilk_Recipe",
+        "Sulaimani Tea": "Sulaimani_Tea_Recipe",
+        "Mango Lassi": "Mango_Lassi_Recipe",
+        "Rose Milk": "Rose_Milk_Recipe",
+        "Nannari Sarbath": "Nannari_Sarbath_Recipe",
+        "Jigarthanda": "Jigarthanda_Recipe",
+        "Elaneer": "Elaneer_Recipe",
+        "Badam Milk": "Badam_Milk_Recipe",
+        "Lemon Juice": "Lemon_Juice_Recipe",
+        "Panakam": "Panakam_Recipe",
+        "Kulukki Sarbath": "Kulukki_Sarbath_Recipe",
+        "Spiced Buttermilk": "Spiced_Buttermilk_Recipe",
+        "Green Tea": "Green_Tea_Recipe",
+        "Black Coffee": "Black_Coffee_Recipe"
+      }
+    }
+  }
+}

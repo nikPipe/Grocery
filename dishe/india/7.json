@@ -1,0 +1,88 @@
+{
+  "name": "West Indian Dinner",
+  "id": 7,
+  "mealtimes": ["dinner"],
+  "origin": "India",
+  "menu": {
+    "main_course": {
+      "default": {"name": "Pav Bhaji", "id": "Pav_Bhaji_Recipe"},
+      "variations": {
+        "Misal Pav": "Misal_Pav_Recipe",
+        "Gujarati Thali": "Gujarati_Thali_Recipe",
+        "Bombay Sandwich": "Bombay_Sandwich_Recipe",
+        "Dal Dhokli": "Dal_Dhokli_Recipe",
+        "Undhiyu": "Undhiyu_Recipe",
+        "Dabeli": "Dabeli_Recipe",
+        "Poha": "Poha_Recipe",
+        "Aloo Paratha": "Aloo_Paratha_Recipe",
+        "Vada Pav": "Vada_Pav_Recipe",
+        "Sev Tamatar": "Sev_Tamatar_Recipe",
+        "Khaman Dhokla": "Khaman_Dhokla_Recipe",
+        "Patra": "Patra_Recipe",
+        "Thepla": "Thepla_Recipe",
+        "Ragda Patties": "Ragda_Patties_Recipe",
+        "Srikhand": "Srikhand_Recipe"
+      }
+    },
+    "side_dishes": {
+      "default": {"name": "Kachumber Salad", "id": "Kachumber_Salad_Recipe"},
+      "variations": {
+        "Farsan": "Farsan_Recipe",
+        "Papad": "Papad_Recipe",
+        "Raita": "Raita_Recipe",
+        "Pickle": "Pickle_Recipe",
+        "Chutney": "Chutney_Recipe",
+        "Masala Peanuts": "Masala_Peanuts_Recipe",
+        "Sev": "Sev_Recipe",
+        "Dahi Bhalla": "Dahi_Bhalla_Recipe",
+        "Gathiya": "Gathiya_Recipe",
+        "Khakhra": "Khakhra_Recipe",
+        "Dahi Puri": "Dahi_Puri_Recipe",
+        "Mirchi Bajji": "Mirchi_Bajji_Recipe",
+        "Dhokla": "Dhokla_Recipe",
+        "Paneer Tikka": "Paneer_Tikka_Recipe",
+        "Bhakarwadi": "Bhakarwadi_Recipe"
+      }
+    },
+    "desserts": {
+      "default": {"name": "Shrikhand", "id": "Shrikhand_Recipe"},
+      "variations": {
+        "Gulab Jamun": "Gulab_Jamun_Recipe",
+        "Rasgulla": "Rasgulla_Recipe",
+        "Jalebi": "Jalebi_Recipe",
+        "Puran Poli": "Puran_Poli_Recipe",
+        "Basundi": "Basundi_Recipe",
+        "Kaju Katli": "Kaju_Katli_Recipe",
+        "Modak": "Modak_Recipe",
+        "Rabdi": "Rabdi_Recipe",
+        "Kopra Pak": "Kopra_Pak_Recipe",
+        "Kheer": "Kheer_Recipe",
+        "Gajar Halwa": "Gajar_Halwa_Recipe",
+        "Malpua": "Malpua_Recipe",
+        "Motichoor Ladoo": "Motichoor_Ladoo_Recipe",
+        "Besan Ladoo": "Besan_Ladoo_Recipe",
+        "Aamras": "Aamras_Recipe"
+      }
+    },
+    "beverages": {
+      "default": {"name": "Masala Chai", "id": "Masala_Chai_Recipe"},
+      "variations": {
+        "Lassi": "Lassi_Recipe",
+        "Nimbu Pani": "Nimbu_Pani_Recipe",
+        "Buttermilk": "Buttermilk_Recipe",
+        "Kokum Sharbat": "Kokum_Sharbat_Recipe",
+        "Mango Lassi": "Mango_Lassi_Recipe",
+        "Falooda": "Falooda_Recipe",
+        "Jaljeera": "Jaljeera_Recipe",
+        "Sugarcane Juice": "Sugarcane_Juice_Recipe",
+        "Sol Kadhi": "Sol_Kadhi_Recipe",
+        "Badam Milk": "Badam_Milk_Recipe",
+        "Coffee": "Coffee_Recipe",
+        "Piyush": "Piyush_Recipe",
+        "Aam Panna": "Aam_Panna_Recipe",
+        "Rose Milk": "Rose_Milk_Recipe",
+        "Kesar Pista Milk": "Kesar_Pista_Milk_Recipe"
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Indian Street Food",
+  "id": 9,
+  "mealtimes": ["snack", "lunch", "dinner"],
+  "origin": "India",
+  "menu": {
+    "chaat": {
+      "default": {"name": "Pani Puri", "id": "Pani_Puri_Recipe"},
+      "variations": {
+        "Bhel Puri": "Bhel_Puri_Recipe",
+        "Aloo Chaat": "Aloo_Chaat_Recipe",
+        "Sev Puri": "Sev_Puri_Recipe",
+        "Dahi Puri": "Dahi_Puri_Recipe",
+        "Ragda Patties": "Ragda_Patties_Recipe",
+        "Samosa Chaat": "Samosa_Chaat_Recipe",
+        "Kachori Chaat": "Kachori_Chaat_Recipe",
+        "Dahi Vada": "Dahi_Vada_Recipe",
+        "Pav Bhaji": "Pav_Bhaji_Recipe",
+        "Chole Bhature": "Chole_Bhature_Recipe",
+        "Pakora Chaat": "Pakora_Chaat_Recipe",
+        "Corn Chaat": "Corn_Chaat_Recipe",
+        "Fruit Chaat": "Fruit_Chaat_Recipe",
+        "Tikki Chaat": "Tikki_Chaat_Recipe",
+        "Paneer Chaat": "Paneer_Chaat_Recipe"
+      }
+    },
+    "grilled_and_fried": {
+      "default": {"name": "Vada Pav", "id": "Vada_Pav_Recipe"},
+      "variations": {
+        "Samosa": "Samosa_Recipe",
+        "Pakora": "Pakora_Recipe",
+        "Paneer Tikka": "Paneer_Tikka_Recipe",
+        "Momos": "Momos_Recipe",
+        "Kathi Roll": "Kathi_Roll_Recipe",
+        "Tandoori Chicken": "Tandoori_Chicken_Recipe",
+        "Fish Fry": "Fish_Fry_Recipe",
+        "Chicken 65": "Chicken_65_Recipe",
+        "Masala Dosa": "Masala_Dosa_Recipe",
+        "Egg Roll": "Egg_Roll_Recipe",
+        "Keema Pav": "Keema_Pav_Recipe",
+        "Chicken Lollipop": "Chicken_Lollipop_Recipe",
+        "Bhaji": "Bhaji_Recipe",
+        "Paneer Pakora": "Paneer_Pakora_Recipe",
+        "Gobi Manchurian": "Gobi_Manchurian_Recipe"
+      }
+    },
+    "sweets": {
+      "default": {"name": "Jalebi", "id": "Jalebi_Recipe"},
+      "variations": {
+        "Gulab Jamun": "Gulab_Jamun_Recipe",
+        "Rasgulla": "Rasgulla_Recipe",
+        "Kaju Katli": "Kaju_Katli_Recipe",
+        "Ladoo": "Ladoo_Recipe",
+        "Barfi": "Barfi_Recipe",
+        "Rasmalai": "Rasmalai_Recipe",
+        "Halwa": "Halwa_Recipe",
+        "Peda": "Peda_Recipe",
+        "Kheer": "Kheer_Recipe",
+        "Sohan Papdi": "Sohan_Papdi_Recipe",
+        "Chikki": "Chikki_Recipe",
+        "Rabri": "Rabri_Recipe",
+        "Besan Ladoo": "Besan_Ladoo_Recipe",
+        "Motichoor Ladoo": "Motichoor_Ladoo_Recipe",
+        "Sandesh": "Sandesh_Recipe"
+      }
+    },
+    "beverages": {
+      "default": {"name": "Masala Chai", "id": "Masala_Chai_Recipe"},
+      "variations": {
+        "Lassi": "Lassi_Recipe",
+        "Nimbu Pani": "Nimbu_Pani_Recipe",
+        "Sugarcane Juice": "Sugarcane_Juice_Recipe",
+        "Badam Milk": "Badam_Milk_Recipe",
+        "Kulfi Falooda": "Kulfi_Falooda_Recipe",
+        "Mango Shake": "Mango_Shake_Recipe",
+        "Coffee": "Coffee_Recipe",
+        "Buttermilk": "Buttermilk_Recipe",
+        "Coconut Water": "Coconut_Water_Recipe",
+        "Jaljeera": "Jaljeera_Recipe",
+        "Green Tea": "Green_Tea_Recipe",
+        "Black Coffee": "Black_Coffee_Recipe",
+        "Hot Lemon Tea": "Hot_Lemon_Tea_Recipe",
+        "Rose Milk": "Rose_Milk_Recipe",
+        "Mint Lassi": "Mint_Lassi_Recipe"
+      }
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "name": "North Indian Thali",
+  "id": 1,
+  "mealtimes": ["lunch", "dinner"],
+  "origin": "India",
+  "menu": {
+    "bread": {
+      "default": {"name": "Roti", "id": "Roti_Recipe"},
+      "variations": {
+        "Naan": "Naan_Recipe",
+        "Garlic Naan": "Garlic_Naan_Recipe",
+        "Butter Naan": "Butter_Naan_Recipe",
+        "Stuffed Naan": "Stuffed_Naan_Recipe",
+        "Lachha Paratha": "Laccha_Paratha_Recipe",
+        "Missi Roti": "Missi_Roti_Recipe",
+        "Pudina Paratha": "Pudina_Paratha_Recipe",
+        "Kulcha": "Kulcha_Recipe",
+        "Tandoori Roti": "Tandoori_Roti_Recipe",
+        "Bhature": "Bhatura_Recipe",
+        "Methi Thepla": "Methi_Thepla_Recipe",
+        "Aloo Paratha": "Aloo_Paratha_Recipe",
+        "Gobi Paratha": "Gobi_Paratha_Recipe",
+        "Paneer Paratha": "Paneer_Paratha_Recipe",
+        "Onion Kulcha": "Onion_Kulcha_Recipe"
+      }
+    },
+    "curry": {
+      "default": {"name": "Palak Paneer", "id": "Palak_Paneer_Recipe"},
+      "variations": {
+        "Paneer Butter Masala": "Paneer_Butter_Masala_Recipe",
+        "Dal Makhani": "Dal_Makhani_Recipe",
+        "Chana Masala": "Chana_Masala_Recipe",
+        "Matar Paneer": "Matar_Paneer_Recipe",
+        "Rajma Masala": "Rajma_Masala_Recipe",
+        "Vegetable Korma": "Vegetable_Korma_Recipe",
+        "Kadhi Pakora": "Kadhi_Pakora_Recipe",
+        "Aloo Gobi": "Aloo_Gobi_Recipe",
+        "Baingan Bharta": "Baingan_Bharta_Recipe",
+        "Mushroom Masala": "Mushroom_Masala_Recipe",
+        "Shahi Paneer": "Shahi_Paneer_Recipe",
+        "Butter Chicken": "Butter_Chicken_Recipe",
+        "Chicken Curry": "Chicken_Curry_Recipe",
+        "Lamb Rogan Josh": "Lamb_Rogan_Josh_Recipe",
+        "Fish Curry": "Fish_Curry_Recipe"
+      }
+    },
+    "side": {
+      "default": {"name": "Mixed Pickle", "id": "Mixed_Pickle_Recipe"},
+      "variations": {
+        "Mango Pickle": "Mango_Pickle_Recipe",
+        "Green Chilli Pickle": "Green_Chilli_Pickle_Recipe",
+        "Lime Pickle": "Lime_Pickle_Recipe",
+        "Kachumber Salad": "Kachumber_Salad_Recipe",
+        "Raita": "Raita_Recipe",
+        "Papad": "Papad_Recipe",
+        "Green Chutney": "Green_Chutney_Recipe",
+        "Dahi Bhalla": "Dahi_Bhalla_Recipe",
+        "Gobi Manchurian": "Gobi_Manchurian_Recipe",
+        "Jeera Aloo": "Jeera_Aloo_Recipe",
+        "Aloo Tikki": "Aloo_Tikki_Recipe",
+        "Paneer Pakora": "Paneer_Pakora_Recipe",
+        "Onion Bhaji": "Onion_Bhaji_Recipe",
+        "Samosa": "Samosa_Recipe",
+        "Chole": "Chole_Recipe"
+      }
+    },
+    "rice": {
+      "default": {"name": "Jeera Rice", "id": "Jeera_Rice_Recipe"},
+      "variations": {
+        "Basmati Rice": "Basmati_Rice_Recipe",
+        "Pulao": "Vegetable_Pulao_Recipe",
+        "Lemon Rice": "Lemon_Rice_Recipe",
+        "Biryani": "Vegetable_Biryani_Recipe",
+        "Kashmiri Pulao": "Kashmiri_Pulao_Recipe",
+        "Vegetable Fried Rice": "Vegetable_Fried_Rice_Recipe",
+        "Matar Pulao": "Matar_Pulao_Recipe",
+        "Saffron Rice": "Saffron_Rice_Recipe",
+        "Coconut Rice": "Coconut_Rice_Recipe",
+        "Tamarind Rice": "Tamarind_Rice_Recipe",
+        "Mushroom Rice": "Mushroom_Rice_Recipe",
+        "Peas Pulao": "Peas_Pulao_Recipe",
+        "Carrot Rice": "Carrot_Rice_Recipe",
+        "Spinach Rice": "Spinach_Rice_Recipe",
+        "Paneer Pulao": "Paneer_Pulao_Recipe"
+      }
+    },
+    "dessert": {
+      "default": {"name": "Gulab Jamun", "id": "Gulab_Jamun_Recipe"},
+      "variations": {
+        "Rasgulla": "Rasgulla_Recipe",
+        "Jalebi": "Jalebi_Recipe",
+        "Kheer": "Kheer_Recipe",
+        "Rasmalai": "Rasmalai_Recipe",
+        "Ladoo": "Ladoo_Recipe",
+        "Barfi": "Barfi_Recipe",
+        "Shrikhand": "Shrikhand_Recipe",
+        "Peda": "Peda_Recipe",
+        "Carrot Halwa": "Carrot_Halwa_Recipe",
+        "Kulfi": "Kulfi_Recipe",
+        "Moong Dal Halwa": "Moong_Dal_Halwa_Recipe",
+        "Besan Ladoo": "Besan_Ladoo_Recipe",
+        "Coconut Barfi": "Coconut_Barfi_Recipe",
+        "Rabdi": "Rabdi_Recipe",
+        "Mango Ice Cream": "Mango_Ice_Cream_Recipe"
+      }
+    }
+  }
+}

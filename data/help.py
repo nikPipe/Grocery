@@ -1,10 +1,11 @@
 import dishe
 import os, json
+import tempfile
 
 class Help():
 
     def __init__(self):
-        pass
+        self.tempFileName = 'mealPlanner'
 
     def find_folders_in_directory(self, directory_path):
         # List to store the names of folders
@@ -126,3 +127,122 @@ class Help():
             widget = layout.itemAt(i).widget()
             if widget is not None:
                 widget.deleteLater()  # Remove and delete the widget
+
+
+    def getFileNameFromImportedModule(self, module):
+        return os.path.dirname(module.__file__)
+
+    def readjsonFile(self, file):
+        with open(file) as f:
+            data = json.load(f)
+        return data
+
+
+    def getTempFile(self, name):
+        '''
+
+        :return:
+        '''
+        tempFile = tempfile.gettempdir()
+        file = os.path.join(tempFile, name + '.json')
+        if os.path.exists(file):
+            return file
+        else:
+            return False
+
+
+    def createTempFile(self, name):
+        '''
+
+        :param name:
+        :return:
+        '''
+        tempFile = tempfile.gettempdir()
+        file = os.path.join(tempFile, name + '.json')
+        if os.path.exists(file):
+            return file
+        else:
+            with open(file, 'w') as f:
+                json.dump({}, f)
+            return file
+
+    def get_allergies(self):
+        '''
+
+        :return:
+        '''
+        list = ['Dairy', 'Egg', 'Gluten', 'Grain', 'Peanut', 'Seafood', 'Sesame', 'Shellfish', 'Soy', 'Sulfite', 'Tree Nut',
+         'Wheat']
+
+        return list
+
+    def getDiet(self):
+        '''
+
+        :return:
+        '''
+        list = ['Gluten Free', 'Ketogenic', 'Vegetarian', 'Lacto-Vegetarian', 'Ovo-Vegetarian', 'Vegan', 'Pescetarian', 'Paleo', 'Primal', 'Whole30']
+
+        return list
+
+    def getingredientNotInclude(self):
+        '''
+
+        :return:
+        '''
+        list = ['Alcohol', 'Alcohol-Free', 'Celery', 'Crustacean', 'Dairy', 'Eggs', 'Fish', 'Gluten',
+                          'Kidney friendly', 'Kosher', 'Low potassium', 'Lupine', 'Mustard', 'No oil added', 'No sugar',
+                          'Paleo', 'Peanuts', 'Pescatarian', 'Pork', 'Red meat', 'Sesame', 'Shellfish', 'Soy',
+                          'Sugar-Conscious', 'Tree Nuts', 'Vegan', 'Vegetarian', 'Wheat']
+
+        return list
+
+
+    def getcookingSkill(self):
+        '''
+
+        :return:
+        '''
+        list = ['Beginner', 'Intermediate', 'Advance']
+
+        return list
+
+
+    def get_set_TempFileName(self, data):
+        '''
+
+        :return:
+        '''
+        tempFile_ = self.getTempFile(self.tempFileName)
+
+        if tempFile_:
+            tempFileData = tempFile_
+        else:
+            tempFileData = self.createTempFile(self.tempFileName)
+
+        with open(tempFileData, 'w') as f:
+            json.dump(data, f, indent=4)
+
+
+    def get_TempFileData(self):
+        '''
+
+        :return:
+        '''
+        tempFile_ = self.getTempFile(self.tempFileName)
+        if tempFile_:
+            with open(tempFile_, 'r') as f:
+                data = json.load(f)
+            return data
+        else:
+            return False
+
+
+
+
+
+
+
+
+
+

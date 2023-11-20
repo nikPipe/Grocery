@@ -12,32 +12,25 @@ class mealWidget(QWidget):
         self.meal_dishe = get_meal_dishe
         self.meal_cleanup = mealCleanup
 
-        verticalLayout = QVBoxLayout(self)
 
+        verticalLayout = QVBoxLayout(self)
         widget = self.initUI()
         verticalLayout.addWidget(widget)
-
         self.update_()
 
     def initUI(self):
         widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget)
 
-
         #FILTER MEAL
         filter_meal_lineEdit = self.sample_widget.line_edit(set_PlaceholderText='Filter your meal')
         verticalLayout.addWidget(filter_meal_lineEdit)
-
 
         self.meal_treeWidget = self.sample_widget.treeWidget(parent_self=widget)
         self.meal_treeWidget.setHeaderLabels(['Name', 'Origin'])
         verticalLayout.addWidget(self.meal_treeWidget)
 
-
-
         return widget
-
-
 
     def update_(self):
         '''

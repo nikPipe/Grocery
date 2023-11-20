@@ -51,11 +51,19 @@ class mainWidget(QMainWindow):
         tabWidget.addTab(self.recepie_widget, "Dish")
         tabWidget.addTab(self.shopping_widget, "Shopping")
         tabWidget.addTab(self.profile_widget, "Profile")
-
         tabWidget.setCurrentIndex(3)
-
-
-
-
-
         return widget
+
+
+
+
+
+
+
+
+
+
+
+
+
+

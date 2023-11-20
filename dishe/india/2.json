@@ -1,0 +1,68 @@
+{
+  "name": "South Indian Breakfast",
+  "id": 2,
+  "mealtimes": ["breakfast"],
+  "origin": "India",
+  "menu": {
+    "main": {
+      "default": {"name": "Masala Dosa", "id": "Masala_Dosa_Recipe"},
+      "variations": {
+        "Idli": "Idli_Recipe",
+        "Vada": "Vada_Recipe",
+        "Uttapam": "Uttapam_Recipe",
+        "Rava Idli": "Rava_Idli_Recipe",
+        "Pongal": "Pongal_Recipe",
+        "Appam": "Appam_Recipe",
+        "Puttu": "Puttu_Recipe",
+        "Rava Dosa": "Rava_Dosa_Recipe",
+        "Neer Dosa": "Neer_Dosa_Recipe",
+        "Adai": "Adai_Recipe",
+        "Upma": "Upma_Recipe",
+        "Kuzhi Paniyaram": "Kuzhi_Paniyaram_Recipe",
+        "Set Dosa": "Set_Dosa_Recipe",
+        "Oothappam": "Oothappam_Recipe",
+        "Akki Roti": "Akki_Roti_Recipe"
+      }
+    },
+    "side": {
+      "default": {"name": "Coconut Chutney", "id": "Coconut_Chutney_Recipe"},
+      "variations": {
+        "Sambar": "Sambar_Recipe",
+        "Tomato Chutney": "Tomato_Chutney_Recipe",
+        "Mint Chutney": "Mint_Chutney_Recipe",
+        "Tamarind Chutney": "Tamarind_Chutney_Recipe",
+        "Onion Chutney": "Onion_Chutney_Recipe",
+        "Garlic Chutney": "Garlic_Chutney_Recipe",
+        "Red Chilli Chutney": "Red_Chilli_Chutney_Recipe",
+        "Coriander Chutney": "Coriander_Chutney_Recipe",
+        "Peanut Chutney": "Peanut_Chutney_Recipe",
+        "Kara Chutney": "Kara_Chutney_Recipe",
+        "Hotel Style Chutney": "Hotel_Style_Chutney_Recipe",
+        "Ginger Chutney": "Ginger_Chutney_Recipe",
+        "Capsicum Chutney": "Capsicum_Chutney_Recipe",
+        "Beetroot Chutney": "Beetroot_Chutney_Recipe",
+        "Yogurt Chutney": "Yogurt_Chutney_Recipe"
+      }
+    },
+    "beverages": {
+      "default": {"name": "Filter Coffee", "id": "Filter_Coffee_Recipe"},
+      "variations": {
+        "Tea": "Tea_Recipe",
+        "Masala Chai": "Masala_Chai_Recipe",
+        "Sulaimani Tea": "Sulaimani_Tea_Recipe",
+        "Milk": "Milk_Recipe",
+        "Buttermilk": "Buttermilk_Recipe",
+        "Badam Milk": "Badam_Milk_Recipe",
+        "Rose Milk": "Rose_Milk_Recipe",
+        "Lemon Tea": "Lemon_Tea_Recipe",
+        "Ginger Tea": "Ginger_Tea_Recipe",
+        "Cardamom Tea": "Cardamom_Tea_Recipe",
+        "Jaggery Coffee": "Jaggery_Coffee_Recipe",
+        "Turmeric Milk": "Turmeric_Milk_Recipe",
+        "Ragi Malt": "Ragi_Malt_Recipe",
+        "Green Tea": "Green_Tea_Recipe",
+        "Black Coffee": "Black_Coffee_Recipe"
+      }
+    }
+  }
+}

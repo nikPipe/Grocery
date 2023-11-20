@@ -1,0 +1,68 @@
+{
+  "name": "Indian Breakfast",
+  "id": 8,
+  "mealtimes": ["breakfast"],
+  "origin": "India",
+  "menu": {
+    "main": {
+      "default": {"name": "Aloo Paratha", "id": "Aloo_Paratha_Recipe"},
+      "variations": {
+        "Masala Dosa": "Masala_Dosa_Recipe",
+        "Idli": "Idli_Recipe",
+        "Poha": "Poha_Recipe",
+        "Upma": "Upma_Recipe",
+        "Vada": "Vada_Recipe",
+        "Poori Bhaji": "Poori_Bhaji_Recipe",
+        "Rava Idli": "Rava_Idli_Recipe",
+        "Paratha": "Paratha_Recipe",
+        "Dhokla": "Dhokla_Recipe",
+        "Uttapam": "Uttapam_Recipe",
+        "Pav Bhaji": "Pav_Bhaji_Recipe",
+        "Chole Bhature": "Chole_Bhature_Recipe",
+        "Missi Roti": "Missi_Roti_Recipe",
+        "Methi Thepla": "Methi_Thepla_Recipe",
+        "Kachori with Aloo Sabzi": "Kachori_Aloo_Sabzi_Recipe"
+      }
+    },
+    "sides": {
+      "default": {"name": "Coconut Chutney", "id": "Coconut_Chutney_Recipe"},
+      "variations": {
+        "Sambar": "Sambar_Recipe",
+        "Mint Chutney": "Mint_Chutney_Recipe",
+        "Yogurt": "Yogurt_Recipe",
+        "Pickle": "Pickle_Recipe",
+        "Tomato Chutney": "Tomato_Chutney_Recipe",
+        "Green Chutney": "Green_Chutney_Recipe",
+        "Tamarind Chutney": "Tamarind_Chutney_Recipe",
+        "Garlic Chutney": "Garlic_Chutney_Recipe",
+        "Onion Chutney": "Onion_Chutney_Recipe",
+        "Red Chilli Chutney": "Red_Chilli_Chutney_Recipe",
+        "Coriander Chutney": "Coriander_Chutney_Recipe",
+        "Peanut Chutney": "Peanut_Chutney_Recipe",
+        "Capsicum Chutney": "Capsicum_Chutney_Recipe",
+        "Eggplant Chutney": "Eggplant_Chutney_Recipe",
+        "Radish Chutney": "Radish_Chutney_Recipe"
+      }
+    },
+    "beverages": {
+      "default": {"name": "Masala Chai", "id": "Masala_Chai_Recipe"},
+      "variations": {
+        "Filter Coffee": "Filter_Coffee_Recipe",
+        "Milk": "Milk_Recipe",
+        "Lemon Tea": "Lemon_Tea_Recipe",
+        "Ginger Tea": "Ginger_Tea_Recipe",
+        "Green Tea": "Green_Tea_Recipe",
+        "Black Coffee": "Black_Coffee_Recipe",
+        "Buttermilk": "Buttermilk_Recipe",
+        "Lassi": "Lassi_Recipe",
+        "Nimbu Pani": "Nimbu_Pani_Recipe",
+        "Badam Milk": "Badam_Milk_Recipe",
+        "Rose Milk": "Rose_Milk_Recipe",
+        "Sugarcane Juice": "Sugarcane_Juice_Recipe",
+        "Saffron Milk": "Saffron_Milk_Recipe",
+        "Mango Lassi": "Mango_Lassi_Recipe",
+        "Banana Smoothie": "Banana_Smoothie_Recipe"
+      }
+    }
+  }
+}

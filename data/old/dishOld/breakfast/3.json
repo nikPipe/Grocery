@@ -1,0 +1,63 @@
+{
+  "name": "Indian Fusion Breakfast Menu",
+  "id": 3,
+  "mealtimes": ["breakfast"],
+  "menu": {
+    "main": {
+      "default": {"name": "Paneer Bhurji", "id": "Paneer_Bhurji_Recipe"},
+      "variations": {
+        "Veg Frankie": "Veg_Frankie_Recipe",
+        "Mushroom Toast": "Mushroom_Toast_Recipe",
+        "Spinach Corn Sandwich": "Spinach_Corn_Sandwich_Recipe",
+        "Masala Omelette": "Masala_Omelette_Recipe",
+        "Grilled Cheese Sandwich": "Grilled_Cheese_Sandwich_Recipe",
+        "Veggie Burger": "Veggie_Burger_Recipe",
+        "Paneer Wrap": "Paneer_Wrap_Recipe",
+        "Veg Puff": "Veg_Puff_Recipe",
+        "Egg Bhurji": "Egg_Bhurji_Recipe"
+      }
+    },
+    "side": {
+      "default": {"name": "Fruit Salad", "id": "Fruit_Salad_Recipe"},
+      "variations": {
+        "Sprouts Salad": "Sprouts_Salad_Recipe",
+        "Cucumber Raita": "Cucumber_Raita_Recipe",
+        "Hummus": "Hummus_Recipe",
+        "Baked Beans": "Baked_Beans_Recipe",
+        "Corn Chaat": "Corn_Chaat_Recipe",
+        "Greek Salad": "Greek_Salad_Recipe",
+        "Tomato Salsa": "Tomato_Salsa_Recipe",
+        "Guacamole": "Guacamole_Recipe",
+        "Paneer Tikka": "Paneer_Tikka_Recipe"
+      }
+    },
+    "beverage": {
+      "default": {"name": "Protein Smoothie", "id": "Protein_Smoothie_Recipe"},
+      "variations": {
+        "Green Tea": "Green_Tea_Recipe",
+        "Detox Water": "Detox_Water_Recipe",
+        "Iced Coffee": "Iced_Coffee_Recipe",
+        "Matcha Latte": "Matcha_Latte_Recipe",
+        "Fruit Juice": "Fruit_Juice_Recipe",
+        "Turmeric Milk": "Turmeric_Milk_Recipe",
+        "Herbal Tea": "Herbal_Tea_Recipe",
+        "Blueberry Smoothie": "Blueberry_Smoothie_Recipe",
+        "Hot Chocolate": "Hot_Chocolate_Recipe"
+      }
+    },
+    "dessert": {
+      "default": {"name": "Chocolate Pancakes", "id": "Chocolate_Pancakes_Recipe"},
+      "variations": {
+        "Banana Bread": "Banana_Bread_Recipe",
+        "Apple Pie": "Apple_Pie_Recipe",
+        "Fruit Muffins": "Fruit_Muffins_Recipe",
+        "Carrot Cake": "Carrot_Cake_Recipe",
+        "Strawberry Waffles": "Strawberry_Waffles_Recipe",
+        "Blueberry Scones": "Blueberry_Scones_Recipe",
+        "Nutella Crepes": "Nutella_Crepes_Recipe",
+        "French Toast": "French_Toast_Recipe",
+        "Fruit Custard": "Fruit_Custard_Recipe"
+      }
+    }
+  }
+}

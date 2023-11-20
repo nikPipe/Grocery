@@ -1,0 +1,63 @@
+{
+  "name": "Indian Traditional Breakfast Menu",
+  "id": 2,
+  "mealtimes": ["breakfast"],
+  "menu": {
+    "main": {
+      "default": {"name": "Bread Pakora", "id": "Bread_Pakora_Recipe"},
+      "variations": {
+        "Medu Vada": "Maddur_Vada_Recipe",
+        "Batata Vada": "Batata_Vada_Recipe",
+        "Khaman Dhokla": "Dhokla_Recipe",
+        "Besan Chilla": "Besan_Chilla_Recipe",
+        "Aloo Poori": "Aloo_Poori_Recipe",
+        "Paneer Paratha": "Paneer_Paratha_Recipe",
+        "Moong Dal Cheela": "Moong_Dal_Cheela_Recipe",
+        "Uttapam": "Uttapam_Recipe",
+        "Bhatura": "Bhatura_Recipe"
+      }
+    },
+    "side": {
+      "default": {"name": "Boondi Raita", "id": "Boondi_Raita_Recipe"},
+      "variations": {
+        "Peanut Chutney": "Peanut_Chutney_Recipe",
+        "Coriander Chutney": "Coriander_Chutney_Recipe",
+        "Garlic Chutney": "Garlic_Chutney_Recipe",
+        "Red Chili Chutney": "Red_Chilli_Chutney_Recipe",
+        "Curd": "Curd_Recipe",
+        "Pickle": "Pickle_Recipe",
+        "Masala Aloo": "Masala_Aloo_Recipe",
+        "Chole": "Chole_Recipe",
+        "Vada Pav Chutney": "Vada_Pav_Chutney_Recipe"
+      }
+    },
+    "beverage": {
+      "default": {"name": "Sweet Lassi", "id": "Sweet_Lassi_Recipe"},
+      "variations": {
+        "Rose Milk": "Rose_Milk_Recipe",
+        "Hot Milk": "Hot_Milk_Recipe",
+        "Badam Milk": "Badam_Milk_Recipe",
+        "Cardamom Tea": "Cardamom_Tea_Recipe",
+        "Cold Coffee": "Cold_Coffee_Recipe",
+        "Mango Lassi": "Mango_Lassi_Recipe",
+        "Lemon Tea": "Lemon_Tea_Recipe",
+        "Sugarcane Juice": "Sugarcane_Juice_Recipe",
+        "Pomegranate Juice": "Pomegranate_Juice_Recipe"
+      }
+    },
+    "dessert": {
+      "default": {"name": "Kaju Katli", "id": "Kaju_Katli_Recipe"},
+      "variations": {
+        "Motichoor Ladoo": "Motichoor_Ladoo_Recipe",
+        "Soan Papdi": "Soan_Papdi_Recipe",
+        "Gajar Ka Halwa": "Gajar_Ka_Halwa_Recipe",
+        "Besan Ladoo": "Besan_Ladoo_Recipe",
+        "Sandesh": "Sandesh_Recipe",
+        "Rabri": "Rabri_Recipe",
+        "Kulfi": "Kulfi_Recipe",
+        "Gulab Jamun": "Gulab_Jamun_Recipe",
+        "Pista Burfi": "Pista_Burfi_Recipe"
+      }
+    }
+  }
+}

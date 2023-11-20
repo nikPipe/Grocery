@@ -1,0 +1,63 @@
+{
+  "name": "South Indian Breakfast Menu",
+  "id": 5,
+  "mealtimes": ["breakfast"],
+  "menu": {
+    "main": {
+      "default": {"name": "Masala Dosa", "id": "Masala_Dosa_Recipe"},
+      "variations": {
+        "Idli Sambar": "Idli_Sambar_Recipe",
+        "Vada Sambar": "Vada_Sambar_Recipe",
+        "Uttapam": "Uttapam_Recipe",
+        "Rava Idli": "Rava_Idli_Recipe",
+        "Pongal": "Pongal_Recipe",
+        "Appam": "Appam_Recipe",
+        "Puttu": "Puttu_Recipe",
+        "Neer Dosa": "Neer_Dosa_Recipe",
+        "Adai": "Adai_Recipe"
+      }
+    },
+    "side": {
+      "default": {"name": "Coconut Chutney", "id": "Coconut_Chutney_Recipe"},
+      "variations": {
+        "Tomato Chutney": "Tomato_Chutney_Recipe",
+        "Mint Chutney": "Mint_Chutney_Recipe",
+        "Tamarind Chutney": "Tamarind_Chutney_Recipe",
+        "Sambar": "Sambar_Recipe",
+        "Red Chilli Chutney": "Red_Chilli_Chutney_Recipe",
+        "Peanut Chutney": "Peanut_Chutney_Recipe",
+        "Coriander Chutney": "Coriander_Chutney_Recipe",
+        "Ginger Chutney": "Ginger_Chutney_Recipe",
+        "Yogurt": "Yogurt_Recipe"
+      }
+    },
+    "beverage": {
+      "default": {"name": "Filter Coffee", "id": "Filter_Coffee_Recipe"},
+      "variations": {
+        "Masala Tea": "Masala_Tea_Recipe",
+        "Black Coffee": "Black_Coffee_Recipe",
+        "Ginger Tea": "Ginger_Tea_Recipe",
+        "Lemon Tea": "Lemon_Tea_Recipe",
+        "Milk": "Milk_Recipe",
+        "Herbal Tea": "Herbal_Tea_Recipe",
+        "Sugarcane Juice": "Sugarcane_Juice_Recipe",
+        "Buttermilk": "Buttermilk_Recipe",
+        "Rose Milk": "Rose_Milk_Recipe"
+      }
+    },
+    "sweet": {
+      "default": {"name": "Kesari Bath", "id": "Kesari_Bath_Recipe"},
+      "variations": {
+        "Payasam": "Payasam_Recipe",
+        "Mysore Pak": "Mysore_Pak_Recipe",
+        "Rava Laddu": "Rava_Laddu_Recipe",
+        "Sweet Pongal": "Sweet_Pongal_Recipe",
+        "Pal Payasam": "Pal_Payasam_Recipe",
+        "Obbattu": "Obbattu_Recipe",
+        "Sheera": "Sheera_Recipe",
+        "Badam Halwa": "Badam_Halwa_Recipe",
+        "Banana Bonda": "Banana_Bonda_Recipe"
+      }
+    }
+  }
+}

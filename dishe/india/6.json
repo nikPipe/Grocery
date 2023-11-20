@@ -1,0 +1,108 @@
+{
+  "name": "Indian Snack",
+  "id": 6,
+  "mealtimes": ["snack"],
+  "origin": "India",
+  "menu": {
+    "savory_snacks": {
+      "default": {"name": "Samosa", "id": "Samosa_Recipe"},
+      "variations": {
+        "Pakora": "Pakora_Recipe",
+        "Kachori": "Kachori_Recipe",
+        "Dhokla": "Dhokla_Recipe",
+        "Paneer Tikka": "Paneer_Tikka_Recipe",
+        "Bhel Puri": "Bhel_Puri_Recipe",
+        "Pani Puri": "Pani_Puri_Recipe",
+        "Vada Pav": "Vada_Pav_Recipe",
+        "Momos": "Momos_Recipe",
+        "Chaat": "Chaat_Recipe",
+        "Mirchi Bajji": "Mirchi_Bajji_Recipe",
+        "Aloo Tikki": "Aloo_Tikki_Recipe",
+        "Sandwich": "Sandwich_Recipe",
+        "Masala Vada": "Masala_Vada_Recipe",
+        "Chole Bhature": "Chole_Bhature_Recipe",
+        "Gobi Manchurian": "Gobi_Manchurian_Recipe"
+      }
+    },
+    "sweet_snacks": {
+      "default": {"name": "Jalebi", "id": "Jalebi_Recipe"},
+      "variations": {
+        "Gulab Jamun": "Gulab_Jamun_Recipe",
+        "Rasgulla": "Rasgulla_Recipe",
+        "Rasmalai": "Rasmalai_Recipe",
+        "Barfi": "Barfi_Recipe",
+        "Ladoo": "Ladoo_Recipe",
+        "Halwa": "Halwa_Recipe",
+        "Kheer": "Kheer_Recipe",
+        "Shrikhand": "Shrikhand_Recipe",
+        "Peda": "Peda_Recipe",
+        "Kaju Katli": "Kaju_Katli_Recipe",
+        "Coconut Ladoo": "Coconut_Ladoo_Recipe",
+        "Rabri": "Rabri_Recipe",
+        "Mysore Pak": "Mysore_Pak_Recipe",
+        "Besan Ladoo": "Besan_Ladoo_Recipe",
+        "Mohanthal": "Mohanthal_Recipe"
+      }
+    },
+    "beverages": {
+      "default": {"name": "Masala Chai", "id": "Masala_Chai_Recipe"},
+      "variations": {
+        "Lassi": "Lassi_Recipe",
+        "Nimbu Pani": "Nimbu_Pani_Recipe",
+        "Sugarcane Juice": "Sugarcane_Juice_Recipe",
+        "Badam Milk": "Badam_Milk_Recipe",
+        "Kulfi Falooda": "Kulfi_Falooda_Recipe",
+        "Mango Shake": "Mango_Shake_Recipe",
+        "Coffee": "Coffee_Recipe",
+        "Buttermilk": "Buttermilk_Recipe",
+        "Coconut Water": "Coconut_Water_Recipe",
+        "Jaljeera": "Jaljeera_Recipe",
+        "Green Tea": "Green_Tea_Recipe",
+        "Black Coffee": "Black_Coffee_Recipe",
+        "Hot Chocolate": "Hot_Chocolate_Recipe",
+        "Rose Milk": "Rose_Milk_Recipe",
+        "Mint Lassi": "Mint_Lassi_Recipe"
+      }
+    },
+    "smoothies": {
+      "default": {"name": "Mango Smoothie", "id": "Mango_Smoothie_Recipe"},
+      "variations": {
+        "Banana Smoothie": "Banana_Smoothie_Recipe",
+        "Strawberry Lassi": "Strawberry_Lassi_Recipe",
+        "Papaya Smoothie": "Papaya_Smoothie_Recipe",
+        "Mixed Berry Smoothie": "Mixed_Berry_Smoothie_Recipe",
+        "Avocado Smoothie": "Avocado_Smoothie_Recipe",
+        "Kiwi Smoothie": "Kiwi_Smoothie_Recipe",
+        "Pomegranate Smoothie": "Pomegranate_Smoothie_Recipe",
+        "Blueberry Smoothie": "Blueberry_Smoothie_Recipe",
+        "Chocolate Banana Smoothie": "Chocolate_Banana_Smoothie_Recipe",
+        "Pineapple Smoothie": "Pineapple_Smoothie_Recipe",
+        "Almond and Date Smoothie": "Almond_Date_Smoothie_Recipe",
+        "Green Smoothie": "Green_Smoothie_Recipe",
+        "Orange Smoothie": "Orange_Smoothie_Recipe",
+        "Peach Smoothie": "Peach_Smoothie_Recipe",
+        "Carrot Smoothie": "Carrot_Smoothie_Recipe"
+      }
+    },
+    "fruits": {
+      "default": {"name": "Mixed Fruit Bowl", "id": "Mixed_Fruit_Bowl_Recipe"},
+      "variations": {
+        "Apple Slices": "Apple_Slices_Recipe",
+        "Banana": "Banana_Recipe",
+        "Mango": "Mango_Recipe",
+        "Papaya": "Papaya_Recipe",
+        "Pineapple": "Pineapple_Recipe",
+        "Pomegranate": "Pomegranate_Recipe",
+        "Grapes": "Grapes_Recipe",
+        "Orange Segments": "Orange_Segments_Recipe",
+        "Kiwi Slices": "Kiwi_Slices_Recipe",
+        "Watermelon": "Watermelon_Recipe",
+        "Strawberries": "Strawberries_Recipe",
+        "Blueberries": "Blueberries_Recipe",
+        "Cherries": "Cherries_Recipe",
+        "Peach": "Peach_Recipe",
+        "Pear": "Pear_Recipe"
+      }
+    }
+  }
+}

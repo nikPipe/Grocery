@@ -1,0 +1,108 @@
+{
+  "name": "North Indian Dinner",
+  "id": 4,
+  "mealtimes": ["dinner"],
+  "origin": "India",
+  "menu": {
+    "main_course": {
+      "default": {"name": "Butter Chicken", "id": "Butter_Chicken_Recipe"},
+      "variations": {
+        "Paneer Butter Masala": "Paneer_Butter_Masala_Recipe",
+        "Dal Makhani": "Dal_Makhani_Recipe",
+        "Rajma Masala": "Rajma_Masala_Recipe",
+        "Chicken Tikka Masala": "Chicken_Tikka_Masala_Recipe",
+        "Mutton Rogan Josh": "Mutton_Rogan_Josh_Recipe",
+        "Palak Paneer": "Palak_Paneer_Recipe",
+        "Chole Bhature": "Chole_Bhature_Recipe",
+        "Kadai Paneer": "Kadai_Paneer_Recipe",
+        "Malai Kofta": "Malai_Kofta_Recipe",
+        "Navratan Korma": "Navratan_Korma_Recipe",
+        "Aloo Gobi": "Aloo_Gobi_Recipe",
+        "Chicken Korma": "Chicken_Korma_Recipe",
+        "Lamb Vindaloo": "Lamb_Vindaloo_Recipe",
+        "Mushroom Masala": "Mushroom_Masala_Recipe",
+        "Bhindi Masala": "Bhindi_Masala_Recipe"
+      }
+    },
+    "bread": {
+      "default": {"name": "Naan", "id": "Naan_Recipe"},
+      "variations": {
+        "Roti": "Roti_Recipe",
+        "Paratha": "Paratha_Recipe",
+        "Garlic Naan": "Garlic_Naan_Recipe",
+        "Lachha Paratha": "Laccha_Paratha_Recipe",
+        "Tandoori Roti": "Tandoori_Roti_Recipe",
+        "Missi Roti": "Missi_Roti_Recipe",
+        "Kulcha": "Kulcha_Recipe",
+        "Pudina Paratha": "Pudina_Paratha_Recipe",
+        "Onion Kulcha": "Onion_Kulcha_Recipe",
+        "Paneer Paratha": "Paneer_Paratha_Recipe",
+        "Keema Naan": "Keema_Naan_Recipe",
+        "Aloo Paratha": "Aloo_Paratha_Recipe",
+        "Gobi Paratha": "Gobi_Paratha_Recipe",
+        "Besan Ki Roti": "Besan_Ki_Roti_Recipe",
+        "Bhatura": "Bhatura_Recipe"
+      }
+    },
+    "rice": {
+      "default": {"name": "Biryani", "id": "Biryani_Recipe"},
+      "variations": {
+        "Jeera Rice": "Jeera_Rice_Recipe",
+        "Pulao": "Pulao_Recipe",
+        "Lemon Rice": "Lemon_Rice_Recipe",
+        "Kashmiri Pulao": "Kashmiri_Pulao_Recipe",
+        "Peas Pulao": "Peas_Pulao_Recipe",
+        "Vegetable Biryani": "Vegetable_Biryani_Recipe",
+        "Chicken Biryani": "Chicken_Biryani_Recipe",
+        "Mutton Biryani": "Mutton_Biryani_Recipe",
+        "Saffron Rice": "Saffron_Rice_Recipe",
+        "Mushroom Biryani": "Mushroom_Biryani_Recipe",
+        "Egg Biryani": "Egg_Biryani_Recipe",
+        "Fish Biryani": "Fish_Biryani_Recipe",
+        "Coconut Rice": "Coconut_Rice_Recipe",
+        "Paneer Biryani": "Paneer_Biryani_Recipe",
+        "Tamarind Rice": "Tamarind_Rice_Recipe"
+      }
+    },
+    "dessert": {
+      "default": {"name": "Gulab Jamun", "id": "Gulab_Jamun_Recipe"},
+      "variations": {
+        "Jalebi": "Jalebi_Recipe",
+        "Rasgulla": "Rasgulla_Recipe",
+        "Rasmalai": "Rasmalai_Recipe",
+        "Kheer": "Kheer_Recipe",
+        "Ladoo": "Ladoo_Recipe",
+        "Barfi": "Barfi_Recipe",
+        "Halwa": "Halwa_Recipe",
+        "Peda": "Peda_Recipe",
+        "Shrikhand": "Shrikhand_Recipe",
+        "Kaju Katli": "Kaju_Katli_Recipe",
+        "Besan Ladoo": "Besan_Ladoo_Recipe",
+        "Motichoor Ladoo": "Motichoor_Ladoo_Recipe",
+        "Sandesh": "Sandesh_Recipe",
+        "Kulfi": "Kulfi_Recipe",
+        "Carrot Halwa": "Carrot_Halwa_Recipe"
+      }
+    },
+    "beverages": {
+      "default": {"name": "Masala Chai", "id": "Masala_Chai_Recipe"},
+      "variations": {
+        "Lassi": "Lassi_Recipe",
+        "Buttermilk": "Buttermilk_Recipe",
+        "Nimbu Pani": "Nimbu_Pani_Recipe",
+        "Sugarcane Juice": "Sugarcane_Juice_Recipe",
+        "Mango Lassi": "Mango_Lassi_Recipe",
+        "Jal Jeera": "Jal_Jeera_Recipe",
+        "Badam Milk": "Badam_Milk_Recipe",
+        "Coffee": "Coffee_Recipe",
+        "Rose Milk": "Rose_Milk_Recipe",
+        "Mango Shake": "Mango_Shake_Recipe",
+        "Kesar Badam Milk": "Kesar_Badam_Milk_Recipe",
+        "Mint Lassi": "Mint_Lassi_Recipe",
+        "Kulfi Falooda": "Kulfi_Falooda_Recipe",
+        "Coconut Water": "Coconut_Water_Recipe",
+        "Hot Lemon Tea": "Hot_Lemon_Tea_Recipe"
+      }
+    }
+  }
+}
