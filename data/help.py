@@ -126,7 +126,7 @@ class Help():
         for i in reversed(range(layout.count())):
             widget = layout.itemAt(i).widget()
             if widget is not None:
-                widget.deleteLater()  # Remove and delete the widget
+                widget.deleteLater()  # Remove and delete the widget_old
 
 
     def getFileNameFromImportedModule(self, module):
@@ -237,8 +237,16 @@ class Help():
         else:
             return False
 
+    def removeAllChildWidgets(self, widget):
 
+        layout = widget.layout()
 
+        if layout:
+            while layout.count():
+                item = layout.takeAt(0)
+                widget = item.widget()
+                if widget:
+                    widget.deleteLater()
 
 
 

@@ -83,10 +83,6 @@ class midWidget_MealWidget(QWidget):
 
         self.mealGridLayout = self.sample_widget.grid_layout(parent_self=scrollAreaWidgetContents)
 
-
-
-
-
         return widget
 
 

@@ -1,0 +1,208 @@
+{
+    "id": "Kala_Chana_Curry_Recipe",
+    "name": "Kala Chana Curry",
+    "origin": "India",
+    "history": "Kala Chana Curry, also known as Black Chickpea Curry, is a staple in North Indian cuisine. It has been enjoyed for generations, particularly in vegetarian diets for its high protein content.",
+    "description": "Kala Chana Curry is made with black chickpeas, simmered in a spicy and flavorful gravy made from onions, tomatoes, and various Indian spices. It's a nutritious and hearty dish, often served with rice or flatbreads.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian", "Vegan"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20 (plus soaking time)"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "40"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "60"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "pressure cooker or pot",
+            "description": "For cooking the chickpeas."
+        },
+        {
+            "name": "pan",
+            "description": "For preparing the curry."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "black chickpeas",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "onions",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "tomatoes",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ginger-garlic paste",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chilies",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cumin seeds",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "turmeric powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "garam masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "red chili powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "salt",
+            "quantity": "to taste",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "water",
+            "quantity": "as required",
+            "weight": {
+                "value": "Variable",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "oil",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "for garnish",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Soak and Cook the Chickpeas",
+            "description": "Soak the kala chana overnight. Drain and cook in a pressure cooker or pot with salt and enough water until they are soft yet retain their shape."
+        },
+        {
+            "step": "2",
+            "title": "Prepare the Curry",
+            "description": "Heat oil in a pan. Add cumin seeds, followed by onions, ginger-garlic paste, and green chilies. Sauté until onions turn golden. Add pureed tomatoes, turmeric powder, coriander powder, red chili powder, and salt. Cook until oil separates from the masala."
+        },
+        {
+            "step": "3",
+            "title": "Combine and Simmer",
+            "description": "Add the cooked chickpeas to the masala along with some water for gravy. Simmer for 10-15 minutes. Stir in garam masala."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped coriander leaves. Serve hot with rice or Indian bread like roti or naan."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "40g",
+        "protein": "12g",
+        "fat": "10g",
+        "fiber": "10g",
+        "sugar": "6g"
+    },
+    "tips": [
+        "Pressure cooking the chickpeas with salt helps them absorb flavor.",
+        "The consistency of the curry can be adjusted as per preference, ranging from thick to moderately thin."
+    ],
+    "variations": [
+        "Chana Masala: Substitute kala chana with regular chickpeas (garbanzo beans) for a different variation.",
+        "Kala Chana Dry: Reduce the amount of water for a dry version, suitable as a side dish."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 3 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat on the stove or in a microwave until hot. Add a little water if the curry has thickened too much during storage."
+    ],
+    "presentationTips": [
+        "Serve in a traditional Indian serving bowl, accompanied by a side of sliced onions and lemon wedges.",
+        "Sprinkle a pinch of garam masala on top before serving for added aroma."
+    ],
+    "keywords": [
+        "Kala Chana Curry",
+        "Black Chickpea Curry",
+        "Indian Vegetarian Dish"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

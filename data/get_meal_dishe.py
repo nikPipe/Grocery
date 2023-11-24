@@ -16,15 +16,7 @@ help_ = help.Help()
 #MELA DATA
 
 
-
-
-
-
 #RECEPIE DATA
-
-
-
-
 
 
 
@@ -58,8 +50,6 @@ def getAllMeal():
         if each.endswith('.json'):
             data = help_.readjsonFile(file+'/'+each)
             data['images']['main'] = '/'.join([file, data['id'] + '.jpg']).replace('\\', '/')
-
-
             mealList.append(data)
     return mealList
 

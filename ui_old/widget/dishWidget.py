@@ -27,23 +27,23 @@ class dishWidget(QWidget):
         widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget)
 
-        #country widget
+        #country widget_old
         verticalLayout.addWidget(self.countryWidget())
 
-        #recpie widget
+        #recpie widget_old
         verticalLayout.addWidget(self.dishWidget_())
 
-        #list of the recpie widget
+        #list of the recpie widget_old
         verticalLayout.addWidget(self.dishTreeWidget_())
 
-        #number of member widget
+        #number of member widget_old
         verticalLayout.addWidget(self.number_of_memberWidget())
 
-        #menu widget
+        #menu widget_old
         self.menuWidget_ = self.menuWidget()
         verticalLayout.addWidget(self.menuWidget_)
 
-        #menu detail widget
+        #menu detail widget_old
         self.dishMainMenuWidget_ = self.dishMainMenuWidget()
         verticalLayout.addWidget(self.dishMainMenuWidget_)
 

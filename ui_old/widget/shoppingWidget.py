@@ -23,7 +23,7 @@ class shoppingWidget(QWidget):
         shopping_list_label = self.sample_widget.label(set_text='Shopping List', set_alighment=self.sample_widget.center_alignment)
         verticalLayout.addWidget(shopping_list_label)
 
-        #SHOPPING filter widget
+        #SHOPPING filter widget_old
         verticalLayout.addWidget(self.shoppingFilter_def())
 
         #SHOPPING TREEWIDGET

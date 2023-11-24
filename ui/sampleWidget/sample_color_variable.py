@@ -32,8 +32,8 @@ class COLOR_VARIABLE_CHILD():
 
 class COLOR_VARIABLE():
     '''
-    this is the color variable which will be include all the related to color in the widget
-    can be get and set new value to change the widget color
+    this is the color variable which will be include all the related to color in the widget_old
+    can be get and set new value to change the widget_old color
     '''
     def __init__(self):
 
@@ -188,7 +188,17 @@ class COLOR_VARIABLE():
 
 
 
+    def setColorVal(self, r=0, g=0, b=0):
+        '''
 
+        :param r:
+        :param g:
+        :param b:
+        :return:
+        '''
+
+        color = COLOR_VARIABLE_CHILD(value=[r, g, b])
+        return color
 
 
 

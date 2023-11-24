@@ -64,7 +64,7 @@ class mealClass():
         return string_val
 
     def getingredients(self):
-        string_val = 'THIS IS INGREDIENTS: \n'
+        string_val = ''
         for each in self.json['ingredients']:
             for key, value in each.items():
                 string_val += f"{key}: {value}\n"

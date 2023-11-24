@@ -2,7 +2,7 @@ from ui_OldOne.widget import mainWIndow
 from ui_old.import_module import *
 
 
-#widget = mainWidget.MainWidget()
+#widget_old = mainWidget.MainWidget()
 import sys
 
 

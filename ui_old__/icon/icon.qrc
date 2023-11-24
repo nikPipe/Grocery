@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>hamburger.jpg</file>
+    <file>home_open.jpg</file>
+    <file>meal.jpg</file>
+    <file>notification.jpg</file>
+    <file>recepie_close.jpg</file>
+    <file>search.jpg</file>
+    <file>user.jpg</file>
+    <file>home_open.png</file>
+    <file>meal.png</file>
+    <file>recepie_open.png</file>
+  </qresource>
+</RCC>
