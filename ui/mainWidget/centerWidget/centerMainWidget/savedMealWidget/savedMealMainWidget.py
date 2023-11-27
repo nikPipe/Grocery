@@ -46,6 +46,11 @@ class savedMainWidget(QWidget):
 
 
         splitter.addWidget(self.saveRecepieLeftWidget)
+        splitter.addWidget(self.saveRecepieRightWidget)
+
+        splitter.setStretchFactor(0, 1)  # Text Edit takes 2/4 of available space
+        splitter.setStretchFactor(1, 4)
+
 
 
 

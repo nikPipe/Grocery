@@ -38,19 +38,36 @@ class calenderCenterWeek_widget(QWidget):
         styleSheet = self.sample_widget.styleSheet_def(obj_name=widget_object, background_color=self.color.get_value(),
                                                        border_color=self.color_class.black_color.get_value())
         widget = self.sample_widget.widget_def(set_object_name=widget_object, set_styleSheet=styleSheet)
-        horizontalLayout = self.sample_widget.horizontal_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0), set_spacing=15)
+        horizontalLayout = self.sample_widget.horizontal_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0), set_spacing=5)
 
 
         for each in range(7):
-            treeWidget_object = 'treeWidget_object'
-            styleSheet = self.sample_widget.styleSheet_def(obj_name=treeWidget_object, background_color=self.backgroundColor.get_value(),
-                                                           border_radius=0)
-            treeWidget = self.sample_widget.treeWidget(setHeaderHidden=True)
-            treeWidget.setStyleSheet(styleSheet)
-            treeWidget.setObjectName(treeWidget_object)
-            horizontalLayout.addWidget(treeWidget)
+            horizontalLayout.addWidget(self.weekWidget())
 
 
         return widget
 
 
+    def weekWidget(self):
+        '''
+
+        :return:
+        '''
+        widget = self.sample_widget.widget_def()
+        verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0), set_spacing=5)
+
+        label_object = 'label_object'
+        styleSheet_ = self.sample_widget.styleSheet_def(obj_name=label_object, color=self.color_class.white_color.get_value(),
+                                                        border_radius=0)
+
+        label = self.sample_widget.label(set_text='Data', set_alighment=self.sample_widget.center_alignment, set_object_name=label_object,
+                                         set_styleSheet=styleSheet_)
+        font = self.font
+        font.setPointSize(15)
+        label.setFont(font)
+        verticalLayout.addWidget(label)
+
+        treeWidget = self.sample_widget.treeWidget(setHeaderHidden=True)
+        verticalLayout.addWidget(treeWidget)
+
+        return widget

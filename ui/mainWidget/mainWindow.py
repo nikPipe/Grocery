@@ -9,9 +9,10 @@ from ui.sampleWidget import styleSheet, sample_color_variable
 from data import help
 from ui.mainWidget.topWidget import topWidgetMain
 from ui.mainWidget.centerWidget import mainCenterWidget
+from ui.mainWidget.centerWidget.centerMainWidget import popup_detailMeal
+from ui.mainWidget.centerWidget.centerMainWidget import popup_calender
 
-
-
+from data import get_meal_dishe
 
 class mainWidget(QMainWindow):
     def __init__(self):
@@ -19,8 +20,15 @@ class mainWidget(QMainWindow):
         self.sample_widget = sample_widget_template.SAMPLE_WIDGET_TEMPLATE()
         self.color_variable = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
+        self.getAllMeal = get_meal_dishe.getAllMeal()
         self.topWidgetMain = topWidgetMain.topMainWidget(self)
         self.mainCenterWidget = mainCenterWidget.centerMainWidget(self)
+        self.get_meal_dishe = get_meal_dishe
+        self.popup_detailMeal = popup_detailMeal
+        self.popup_calender = popup_calender
+
+
+
 
         self.initUI()
 

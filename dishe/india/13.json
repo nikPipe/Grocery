@@ -1,0 +1,88 @@
+{
+  "name": "Coastal Indian Dinner",
+  "id": 13,
+  "mealtimes": ["dinner"],
+  "origin": "India",
+  "menu": {
+    "main_course": {
+      "default": {"name": "Goan Fish Curry", "id": "Goan_Fish_Curry_Recipe"},
+      "variations": {
+        "Malabar Prawn Curry": "Malabar_Prawn_Curry_Recipe",
+        "Mangalorean Chicken Sukka": "Mangalorean_Chicken_Sukka_Recipe",
+        "Kerala Style Fish Molee": "Fish_Molee_Recipe",
+        "Crab Xacuti": "Crab_Xacuti_Recipe",
+        "Masala Fried Fish": "Masala_Fried_Fish_Recipe",
+        "Chettinad Fish Fry": "Chettinad_Fish_Fry_Recipe",
+        "Kori Gassi": "Kori_Gassi_Recipe",
+        "Prawn Balchao": "Prawn_Balchao_Recipe",
+        "Squid Roast": "Squid_Roast_Recipe",
+        "Pomfret Pollichathu": "Pomfret_Pollichathu_Recipe",
+        "Mussels Sukka": "Mussels_Sukka_Recipe",
+        "Kerala Sardine Curry": "Kerala_Sardine_Curry_Recipe",
+        "Clam Masala": "Clam_Masala_Recipe",
+        "Anchovy Fry": "Anchovy_Fry_Recipe",
+        "Shrimp Gassi": "Shrimp_Gassi_Recipe"
+      }
+    },
+    "side_dishes": {
+      "default": {"name": "Appam", "id": "Appam_Recipe"},
+      "variations": {
+        "Neer Dosa": "Neer_Dosa_Recipe",
+        "Kerala Parotta": "Kerala_Parotta_Recipe",
+        "Kappa Vevichathu": "Kappa_Vevichathu_Recipe",
+        "Coconut Rice": "Coconut_Rice_Recipe",
+        "Sannas": "Sannas_Recipe",
+        "Porotta": "Porotta_Recipe",
+        "Fish Fry": "Fish_Fry_Recipe",
+        "Masala Rice": "Masala_Rice_Recipe",
+        "Steamed Rice": "Steamed_Rice_Recipe",
+        "Puliogare": "Puliogare_Recipe",
+        "Ghee Rice": "Ghee_Rice_Recipe",
+        "Lemon Rice": "Lemon_Rice_Recipe",
+        "Tamarind Rice": "Tamarind_Rice_Recipe",
+        "Mangalorean Buns": "Mangalorean_Buns_Recipe",
+        "Idiyappam": "Idiyappam_Recipe"
+      }
+    },
+    "desserts": {
+      "default": {"name": "Mango Kulfi", "id": "Mango_Kulfi_Recipe"},
+      "variations": {
+        "Bebinca": "Bebinca_Recipe",
+        "Dodol": "Dodol_Recipe",
+        "Coconut Barfi": "Coconut_Barfi_Recipe",
+        "Serradura": "Serradura_Recipe",
+        "Tender Coconut Pudding": "Tender_Coconut_Pudding_Recipe",
+        "Ada Pradhaman": "Ada_Pradhaman_Recipe",
+        "Rava Kesari": "Rava_Kesari_Recipe",
+        "Payasam": "Payasam_Recipe",
+        "Elaneer Payasam": "Elaneer_Payasam_Recipe",
+        "Pineapple Sheera": "Pineapple_Sheera_Recipe",
+        "Sweet Appam": "Sweet_Appam_Recipe",
+        "Kulfi": "Kulfi_Recipe",
+        "Fruit Salad with Ice cream": "Fruit_Salad_Ice_Cream_Recipe",
+        "Gajar Ka Halwa": "Gajar_Ka_Halwa_Recipe",
+        "Coconut Ladoo": "Coconut_Ladoo_Recipe"
+      }
+    },
+    "beverages": {
+      "default": {"name": "Sol Kadhi", "id": "Sol_Kadhi_Recipe"},
+      "variations": {
+        "Buttermilk": "Buttermilk_Recipe",
+        "Tender Coconut Water": "Tender_Coconut_Water_Recipe",
+        "Mango Lassi": "Mango_Lassi_Recipe",
+        "Masala Chai": "Masala_Chai_Recipe",
+        "Filter Coffee": "Filter_Coffee_Recipe",
+        "Nimbu Pani": "Nimbu_Pani_Recipe",
+        "Sugarcane Juice": "Sugarcane_Juice_Recipe",
+        "Lassi": "Lassi_Recipe",
+        "Jaljeera": "Jaljeera_Recipe",
+        "Panakam": "Panakam_Recipe",
+        "Rose Milk": "Rose_Milk_Recipe",
+        "Kokum Sharbat": "Kokum_Sharbat_Recipe",
+        "Falooda": "Falooda_Recipe",
+        "Spiced Buttermilk": "Spiced_Buttermilk_Recipe",
+        "Badam Milk": "Badam_Milk_Recipe"
+      }
+    }
+  }
+}

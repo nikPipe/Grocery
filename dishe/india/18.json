@@ -1,0 +1,48 @@
+{
+  "name": "Indian Monsoon Evening Snacks",
+  "id": 18,
+  "mealtimes": ["evening snack"],
+  "origin": "India",
+  "menu": {
+    "hot_snacks": {
+      "default": {"name": "Pakora", "id": "Pakora_Recipe"},
+      "variations": {
+        "Samosa": "Samosa_Recipe",
+        "Vada Pav": "Vada_Pav_Recipe",
+        "Aloo Tikki": "Aloo_Tikki_Recipe",
+        "Mirchi Bada": "Mirchi_Bada_Recipe",
+        "Bread Pakora": "Bread_Pakora_Recipe",
+        "Paneer Pakora": "Paneer_Pakora_Recipe",
+        "Onion Bhaji": "Onion_Bhaji_Recipe",
+        "Kachori": "Kachori_Recipe",
+        "Batata Vada": "Batata_Vada_Recipe",
+        "Momos": "Momos_Recipe",
+        "Gobi Manchurian": "Gobi_Manchurian_Recipe",
+        "Pav Bhaji": "Pav_Bhaji_Recipe",
+        "Bhatura": "Bhatura_Recipe",
+        "Chole Bhature": "Chole_Bhature_Recipe",
+        "Mysore Bonda": "Mysore_Bonda_Recipe"
+      }
+    },
+    "beverages": {
+      "default": {"name": "Masala Chai", "id": "Masala_Chai_Recipe"},
+      "variations": {
+        "Ginger Tea": "Ginger_Tea_Recipe",
+        "Sulaimani Tea": "Sulaimani_Tea_Recipe",
+        "Filter Coffee": "Filter_Coffee_Recipe",
+        "Hot Lemon Tea": "Hot_Lemon_Tea_Recipe",
+        "Kashmiri Chai": "Kashmiri_Chai_Recipe",
+        "Black Tea": "Black_Tea_Recipe",
+        "Green Tea": "Green_Tea_Recipe",
+        "Badam Milk": "Badam_Milk_Recipe",
+        "Nimbu Pani": "Nimbu_Pani_Recipe",
+        "Jigarthanda": "Jigarthanda_Recipe",
+        "Coconut Water": "Coconut_Water_Recipe",
+        "Rose Milk": "Rose_Milk_Recipe",
+        "Sugarcane Juice": "Sugarcane_Juice_Recipe",
+        "Kesar Badam Milk": "Kesar_Badam_Milk_Recipe",
+        "Jal Jeera": "Jal_Jeera_Recipe"
+      }
+    }
+  }
+}

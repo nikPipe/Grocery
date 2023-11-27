@@ -181,7 +181,7 @@ class Help():
 
         :return:
         '''
-        list = ['Gluten Free', 'Ketogenic', 'Vegetarian', 'Lacto-Vegetarian', 'Ovo-Vegetarian', 'Vegan', 'Pescetarian', 'Paleo', 'Primal', 'Whole30']
+        list = ['Vegetarian', 'Vegan', 'Gluten-Free', 'Non-Vegetarian', 'Paleo', 'Keto', 'Pescatarian']
 
         return list
 
@@ -208,7 +208,7 @@ class Help():
         return list
 
 
-    def get_set_TempFileName(self, data):
+    def get_set_TempFileName(self, data=''):
         '''
 
         :return:

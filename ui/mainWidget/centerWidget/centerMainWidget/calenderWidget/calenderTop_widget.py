@@ -89,16 +89,27 @@ class calenderTop_widget(QWidget):
 
         #CALENDER SWITCH COMBOBOX
         calenderSwitchComboBox_object = 'calenderSwitchComboBox_object'
+        comboBoxItem = ['Day', 'Week', 'Month']
         styleSheet_ = self.sample_widget.styleSheet_def(obj_name=calenderSwitchComboBox_object, background_color=self.backgroundColor.get_value(),
                                                         border_radius=0)
-        calenderSwitchComboBox = self.sample_widget.comboBox(set_object_name=calenderSwitchComboBox_object, set_styleSheet=styleSheet_)
+        calenderSwitchComboBox = self.sample_widget.comboBox(set_object_name=calenderSwitchComboBox_object, set_styleSheet=styleSheet_,
+                                                             addItems=comboBoxItem,
+                                                             currentIndexChanged=self.clenaderSwitchComboBox_def)
         calenderSwitchComboBox.setFont(font)
         horizontalLayout.addWidget(calenderSwitchComboBox)
-
-
-
 
 
         return widget
 
 
+    def clenaderSwitchComboBox_def(self, index):
+        '''
+
+        :return:
+        '''
+        stakeWidget = self.parent.mainCenterWidget.centerMainWidget.calenderMainWidget.calenderCenter_widget.calenderCenter_stakeWidget
+
+
+
+        stakeWidget.setCurrentIndex(index)
+        #self.parent.calenderCenter_stakeWidget.setCurrentIndex(index)

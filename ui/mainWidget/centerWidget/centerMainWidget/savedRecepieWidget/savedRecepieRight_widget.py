@@ -5,6 +5,13 @@ from data import help
 import ui, os
 file =  os.path.dirname(os.path.realpath(ui.__file__))
 
+from ui.import_module import *
+from ui.sampleWidget import sample_widget_template
+from ui.sampleWidget import styleSheet, sample_color_variable
+from data import help
+import ui, os
+file =  os.path.dirname(os.path.realpath(ui.__file__))
+
 
 
 class savedRecepieRight_widget(QWidget):
@@ -40,9 +47,11 @@ class savedRecepieRight_widget(QWidget):
         '''
         height = 1000
         width = 200
-        widget = self.sample_widget.widget_def(min_size=(width, height), max_size=(width, height))
+        widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0))
 
+        treeWidget = self.sample_widget.treeWidget(setHeaderHidden=True)
+        verticalLayout.addWidget(treeWidget)
 
         return widget
 

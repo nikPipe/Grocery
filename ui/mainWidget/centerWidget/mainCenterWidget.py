@@ -7,7 +7,6 @@ import ui, os
 from ui.mainWidget.centerWidget.leftWidget import leftmainWidget
 from ui.mainWidget.centerWidget.centerMainWidget import centerMainWidget_
 
-
 file =  os.path.dirname(os.path.realpath(ui.__file__))
 
 
@@ -32,7 +31,6 @@ class centerMainWidget(QWidget):
 
     def initUI(self):
         '''
-
 
         :return:
         '''

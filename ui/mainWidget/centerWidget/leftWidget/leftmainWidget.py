@@ -145,6 +145,7 @@ class leftMainWidget(QWidget):
         aboutButton = self.button_def(name='About', background_color=backgroundColor.get_value(),
                                         color=color.get_value(), border_radius=20, min_size=(150, 40),
                                         max_size=(150, 40))
+        aboutButton.clicked.connect(self.aboutWidget)
 
         verticalLayout.addWidget(aboutButton)
 
@@ -190,3 +191,10 @@ class leftMainWidget(QWidget):
         else:
             print('this is about')
 
+    def aboutWidget(self):
+        '''
+
+        :return:
+        '''
+        display = self.sample_widget.displayMessage(text='This is about widget', setWindowTitle='About')
+        display.exec_()

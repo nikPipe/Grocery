@@ -7,9 +7,10 @@ from ui.sampleWidget import styleSheet, sample_color_variable
 from data import help
 import ui, os
 file =  os.path.dirname(os.path.realpath(ui.__file__))
+from data import mealClass
 
 
-class mealMain_Widget(QWidget):
+class mealDetail_Widget(QWidget):
     def __init__(self, parent):
         super().__init__()
         self.sample_widget = sample_widget_template.SAMPLE_WIDGET_TEMPLATE()
@@ -40,8 +41,6 @@ class mealMain_Widget(QWidget):
         self.labelStyleSheet = self.sample_widget.styleSheet_def(obj_name=self.sampleObjectNmae,
                                                                  color=self.color_class.white_color.get_value())
 
-
-
         widget_object = 'centerMainWidget'
         styleSheet = self.sample_widget.styleSheet_def(obj_name=widget_object, background_color=self.color.get_value(),
                                                        border_color=self.color_class.black_color.get_value())
@@ -52,8 +51,6 @@ class mealMain_Widget(QWidget):
         verticalLayout.addWidget(self.mealDeatailWidget())
 
         verticalLayout.addItem(QSpacerItem(0, 10, QSizePolicy.Minimum, QSizePolicy.Expanding))
-
-
 
         return widget
 
@@ -101,9 +98,15 @@ class mealMain_Widget(QWidget):
         widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget)
 
-        verticalLayout.addWidget(self.descriptionWidget())
-        verticalLayout.addWidget(self.nutritionWidget())
-        verticalLayout.addWidget(self.mealTabWidget())
+        scrollArea = self.sample_widget.scrollArea(parent_self=widget)
+        verticalLayout.addWidget(scrollArea)
+        scrollAreaWidgetContents = self.sample_widget.widget_def()
+        scrollArea.setWidget(scrollAreaWidgetContents)
+        verticalLayout_ = self.sample_widget.vertical_layout(parent_self=scrollAreaWidgetContents, set_spacing=15)
+
+        verticalLayout_.addWidget(self.descriptionWidget())
+        verticalLayout_.addWidget(self.nutritionWidget())
+        verticalLayout_.addWidget(self.mealTabWidget())
 
         return widget
 
@@ -119,12 +122,12 @@ class mealMain_Widget(QWidget):
 
         name_object = 'nameLabelObject'
         styleSheet = self.labelStyleSheet.replace(self.sampleObjectNmae, name_object)
-        nameLabel =  self.sample_widget.label(set_text='Name', set_alighment=self.sample_widget.center_alignment,
+        self.mealNameLabel =  self.sample_widget.label(set_text='Name', set_alighment=self.sample_widget.center_alignment,
                                               set_object_name=name_object, set_styleSheet=styleSheet)
         font = self.font
         font.setPointSize(15)
-        nameLabel.setFont(font)
-        verticalLayout.addWidget(nameLabel)
+        self.mealNameLabel.setFont(font)
+        verticalLayout.addWidget(self.mealNameLabel)
 
         return widget
 
@@ -145,6 +148,20 @@ class mealMain_Widget(QWidget):
         historyLabel.setFont(font)
         verticalLayout.addWidget(historyLabel)
 
+        textEdit_object = 'textEditObject'
+        styleSheet = self.sample_widget.styleSheet_def(obj_name=textEdit_object,
+                                                         background_color=self.backgroundColor.get_value(),
+                                                         border_radius=5)
+        self.historyTextEdit = QTextEdit()
+        self.historyTextEdit.setReadOnly(True)
+        self.historyTextEdit.setText('History')
+        self.historyTextEdit.setObjectName(textEdit_object)
+        self.historyTextEdit.setStyleSheet(styleSheet)
+        self.historyTextEdit.setFont(font)
+        verticalLayout.addWidget(self.historyTextEdit)
+
+
+
         return widget
 
     def ingredientsWidget(self):
@@ -158,29 +175,29 @@ class mealMain_Widget(QWidget):
         #INGREDIETN LABEL
         ingredient_object = 'ingredientLabelObject'
         styleSheet = self.labelStyleSheet.replace(self.sampleObjectNmae, ingredient_object)
-        ingredientLabel = self.sample_widget.label(set_text='Ingredients', set_alighment=self.sample_widget.center_alignment,
+        self.ingredientLabel = self.sample_widget.label(set_text='Ingredients', set_alighment=self.sample_widget.center_alignment,
                                                    set_object_name=ingredient_object, set_styleSheet=styleSheet)
         font = self.font
         font.setPointSize(15)
-        ingredientLabel.setFont(font)
-        horizontalLayout.addWidget(ingredientLabel)
+        self.ingredientLabel.setFont(font)
+        horizontalLayout.addWidget(self.ingredientLabel)
 
         #MINIUTE LABEL
         miniute_object = 'miniuteLabelObject'
         styleSheet = self.labelStyleSheet.replace(self.sampleObjectNmae, miniute_object)
-        miniuteLabel = self.sample_widget.label(set_text='Miniute', set_alighment=self.sample_widget.center_alignment,
+        self.miniuteLabel = self.sample_widget.label(set_text='Miniute', set_alighment=self.sample_widget.center_alignment,
                                                 set_object_name=miniute_object, set_styleSheet=styleSheet)
-        miniuteLabel.setFont(font)
-        horizontalLayout.addWidget(miniuteLabel)
+        self.miniuteLabel.setFont(font)
+        horizontalLayout.addWidget(self.miniuteLabel)
 
 
         #CALORIES LABEL
         calories_object = 'caloriesLabelObject'
         styleSheet = self.labelStyleSheet.replace(self.sampleObjectNmae, calories_object)
-        caloriesLabel = self.sample_widget.label(set_text='Calories', set_alighment=self.sample_widget.center_alignment,
+        self.caloriesLabel = self.sample_widget.label(set_text='Calories', set_alighment=self.sample_widget.center_alignment,
                                                  set_object_name=calories_object, set_styleSheet=styleSheet)
-        caloriesLabel.setFont(font)
-        horizontalLayout.addWidget(caloriesLabel)
+        self.caloriesLabel.setFont(font)
+        horizontalLayout.addWidget(self.caloriesLabel)
 
 
 
@@ -244,10 +261,10 @@ class mealMain_Widget(QWidget):
         styleSheet = self.sample_widget.styleSheet_def(obj_name=recepoieImage_object,
                                                          background_color=self.backgroundColor.get_value(),
                                                          border_radius=20)
-        recepieImageButton = self.sample_widget.pushButton(set_text='Recepie Image', set_object_name=recepoieImage_object,
+        self.recepieImageButton = self.sample_widget.pushButton(set_text='Recepie Image', set_object_name=recepoieImage_object,
                                                            min_size=(size, size), max_size=(size, size),
                                                            set_styleSheet=styleSheet)
-        verticalLayout.addWidget(recepieImageButton)
+        verticalLayout.addWidget(self.recepieImageButton)
 
         return widget
 
@@ -271,16 +288,15 @@ class mealMain_Widget(QWidget):
         styleSheet = self.sample_widget.styleSheet_def(obj_name=description_object,
                                                             background_color=self.backgroundColor.get_value(),
                                                             border_radius=5)
-        descriptionTextEdit = QTextEdit()
-        descriptionTextEdit.setReadOnly(True)
-        descriptionTextEdit.setMinimumSize(QSize(0, heightSize))
-        descriptionTextEdit.setMaximumSize(QSize(16777215, heightSize))
-        descriptionTextEdit.setText('Description')
-        descriptionTextEdit.setObjectName(description_object)
-        descriptionTextEdit.setStyleSheet(styleSheet)
-
-
-        verticalLayout.addWidget(descriptionTextEdit)
+        self.descriptionTextEdit = QTextEdit()
+        self.descriptionTextEdit.setReadOnly(True)
+        self.descriptionTextEdit.setMinimumSize(QSize(0, heightSize))
+        self.descriptionTextEdit.setMaximumSize(QSize(16777215, heightSize))
+        self.descriptionTextEdit.setText('Description')
+        self.descriptionTextEdit.setObjectName(description_object)
+        self.descriptionTextEdit.setStyleSheet(styleSheet)
+        self.descriptionTextEdit.setFont(font)
+        verticalLayout.addWidget(self.descriptionTextEdit)
 
 
         return widget
@@ -309,7 +325,7 @@ class mealMain_Widget(QWidget):
 
     def nutritionListWidget(self):
 
-        widget = self.sample_widget.widget_def()
+        widget = self.sample_widget.widget_def(min_size=(0, 100), max_size=(16777215, 100))
         horizontalLayout = self.sample_widget.horizontal_layout(parent_self=widget, set_spacing=15)
         scrollArea = self.sample_widget.scrollArea(parent_self=widget)
         horizontalLayout.addWidget(scrollArea)
@@ -322,7 +338,7 @@ class mealMain_Widget(QWidget):
         scrollAreaWidgetContents = self.sample_widget.widget_def(set_object_name=widget_object, set_styleSheet=styleSheet)
 
         scrollArea.setWidget(scrollAreaWidgetContents)
-        horizontalLayout_ = self.sample_widget.horizontal_layout(parent_self=scrollAreaWidgetContents, set_spacing=15)
+        self.nutrition_horizontalLayout_ = self.sample_widget.horizontal_layout(parent_self=scrollAreaWidgetContents, set_spacing=15)
 
         for each in range(0, 4):
             buttonObject = 'nutritionButton'
@@ -332,7 +348,7 @@ class mealMain_Widget(QWidget):
             button = self.sample_widget.pushButton(set_text='Nutrition', set_object_name=buttonObject,
                                                        set_styleSheet=styleSheet,
                                                        min_size=(100, 100), max_size=(100, 100))
-            horizontalLayout_.addWidget(button)
+            self.nutrition_horizontalLayout_.addWidget(button)
 
         return widget
 
@@ -341,11 +357,14 @@ class mealMain_Widget(QWidget):
 
         :return:
         '''
-        widget = self.sample_widget.widget_def()
+        height = 500
+        widget = self.sample_widget.widget_def(min_size=(0, height), max_size=(16777215, height))
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
 
-        tabWidget = QTabWidget()
-        verticalLayout.addWidget(tabWidget)
+        self.meal_tabWidget = QTabWidget()
+        verticalLayout.addWidget(self.meal_tabWidget)
+
+
 
         return widget
 
@@ -373,5 +392,211 @@ class mealMain_Widget(QWidget):
         return widget
 
 
+    def nutrition_update(self, dic):
+        '''
+
+        :return:
+        '''
+        self.help_class.clearLayout(self.nutrition_horizontalLayout_)
+        nutrition = dic['nutrition']
+        for each in nutrition:
+            buttonObject = each + '_nutritionButton'
+            text = each + ' \n' + str(nutrition[each])
+            styleSheet = self.sample_widget.styleSheet_def(obj_name=buttonObject,
+                                                           background_color=self.backgroundColor.get_value(),
+                                                           border_radius=50)
+            button = self.sample_widget.pushButton(set_text=text, set_object_name=buttonObject,
+                                                   set_styleSheet=styleSheet,
+                                                   min_size=(100, 100), max_size=(100, 100))
+            self.nutrition_horizontalLayout_.addWidget(button)
+
+
+
+
+    def ingredientItemWidget(self, ingredient):
+        '''
+
+        :return:
+        '''
+        widget = self.sample_widget.widget_def()
+        verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
+
+        treeWidget = self.sample_widget.treeWidget(parent_self=widget)
+        treeWidget.setColumnCount(3)
+        treeWidget.setHeaderLabels(['Item', 'Quantity', 'Weight'])
+        verticalLayout.addWidget(treeWidget)
+
+
+        for each in ingredient:
+            item = QTreeWidgetItem(treeWidget)
+            item.setText(0, each['item'])
+            item.setText(1, each['quantity'])
+            weight = each['weight']['value'] + ' ' + each['weight']['unit']
+            item.setText(2, weight)
+            treeWidget.addTopLevelItem(item)
+
+        return widget
+
+    def equipment_def(self, equipment):
+        widget = self.sample_widget.widget_def()
+        verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
+
+        treeWidget = self.sample_widget.treeWidget(parent_self=widget)
+        treeWidget.setColumnCount(2)
+        treeWidget.setHeaderLabels(['name', 'description'])
+        verticalLayout.addWidget(treeWidget)
+
+        for each in equipment:
+            item = QTreeWidgetItem(treeWidget)
+            item.setText(0, each['name'])
+            item.setText(1, each['description'])
+            treeWidget.addTopLevelItem(item)
+
+        return widget
+
+
+    def tips_def(self, tips):
+        widget = self.sample_widget.widget_def()
+        verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
+
+        treeWidget = self.sample_widget.treeWidget(parent_self=widget, setHeaderHidden=True)
+        treeWidget.setColumnCount(1)
+        verticalLayout.addWidget(treeWidget)
+
+        for each in tips:
+            item = QTreeWidgetItem(treeWidget)
+            item.setText(0, each)
+            treeWidget.addTopLevelItem(item)
+
+        return widget
+
+    def variations_def(self, variation):
+        '''
+
+        :param variation:
+        :return:
+        '''
+        widget = self.sample_widget.widget_def()
+        verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
+
+        treeWidget = self.sample_widget.treeWidget(parent_self=widget)
+        treeWidget.setColumnCount(1)
+        treeWidget.setHeaderLabels(['Variation'])
+        verticalLayout.addWidget(treeWidget)
+
+        for each in variation:
+            item = QTreeWidgetItem(treeWidget)
+            item.setText(0, each)
+            treeWidget.addTopLevelItem(item)
+
+        return widget
+
+    def storage_def(self, storage):
+        '''
+
+        :param storage:
+        :return:
+        '''
+        widget = self.sample_widget.widget_def()
+        verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
+
+        treeWidget = self.sample_widget.treeWidget(parent_self=widget)
+        treeWidget.setColumnCount(2)
+        treeWidget.setHeaderLabels(['Storage', 'Duration'])
+        verticalLayout.addWidget(treeWidget)
+
+        for key, value in storage.items():
+            item = QTreeWidgetItem(treeWidget)
+            item.setText(0, key)
+            item.setText(1, value)
+            treeWidget.addTopLevelItem(item)
+
+        return widget
+
+    def presentation_def(self, presentation):
+        '''
+
+        :param presentation:
+        :return:
+        '''
+        widget = self.sample_widget.widget_def()
+        verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
+
+        treeWidget = self.sample_widget.treeWidget(parent_self=widget)
+        treeWidget.setColumnCount(1)
+        treeWidget.setHeaderLabels(['Presentation'])
+        verticalLayout.addWidget(treeWidget)
+
+        for each in presentation:
+            item = QTreeWidgetItem(treeWidget)
+            item.setText(0, each)
+            treeWidget.addTopLevelItem(item)
+
+        return widget
+
+    def allergy_def(self, allergy):
+        '''
+
+        :param allergy:
+        :return:
+        '''
+        widget = self.sample_widget.widget_def()
+        verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
+
+        treeWidget = self.sample_widget.treeWidget(parent_self=widget)
+        treeWidget.setColumnCount(1)
+        treeWidget.setHeaderLabels(['Allergy'])
+        verticalLayout.addWidget(treeWidget)
+
+        for each in allergy:
+            item = QTreeWidgetItem(treeWidget)
+            item.setText(0, each)
+            treeWidget.addTopLevelItem(item)
+
+        return widget
+
+    def update_tabWidget(self, dic_val):
+        '''
+
+        :return:
+        '''
+        self.meal_tabWidget.clear()
+        meal_class = mealClass.mealClass(json=dic_val)
+
+        self.ingredientItemWidget(ingredient=dic_val['ingredients'])
+
+        #INGREDIENT TAB
+        self.meal_tabWidget.addTab(self.ingredientItemWidget(ingredient=dic_val['ingredients']), 'Ingredients')
+
+        #EQUIPMENT TAB
+        self.meal_tabWidget.addTab(self.equipment_def(equipment=dic_val['equipment']), 'Equipment')
+
+        #TIPS TAB
+        self.meal_tabWidget.addTab(self.tips_def(tips=dic_val['tips']), 'Tips')
+
+        #VARIATION TAB
+        self.meal_tabWidget.addTab(self.variations_def(variation=dic_val['variations']), 'Variations')
+
+        #STORAGE TAB
+        self.meal_tabWidget.addTab(self.storage_def(storage=dic_val['storage']), 'Storage')
+
+        #PRESENTATION TAB
+        self.meal_tabWidget.addTab(self.presentation_def(presentation=dic_val['presentationTips']), 'Presentation')
+
+        #ALLERGY TAB
+        self.meal_tabWidget.addTab(self.allergy_def(allergy=dic_val['allergens']), 'Allergy')
+
+    def update_(self, dic_val):
+        '''
+
+        :return:
+        '''
+        print('thi sis the update')
+
+        #NUTRITION UPDATE
+        self.nutrition_update(dic=dic_val)
+
+        #TAB WIDGET UPDATE
+        self.update_tabWidget(dic_val=dic_val)
 
    

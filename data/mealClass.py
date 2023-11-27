@@ -98,10 +98,8 @@ class mealClass():
         return string_val
 
     def getimages(self):
-        string_val = 'THIS IS IMAGES: \n'
-        for key, value in self.json['images'].items():
-            string_val += f"{key}: {value}\n"
-        return string_val
+
+        return self.json['images']['main']
 
     def getstorage(self):
         string_val = 'THIS IS STORAGE: \n'
@@ -187,3 +185,21 @@ class mealClass():
         print(f"{self.keywords}")
         print('-' * 50)
         print(f"{self.allergens}")
+
+    def noOfIngredient(self):
+        return len(self.json['ingredients'])
+
+    def gettotalTime(self):
+        return str(self.json['time']['totalTime']['value']) + ' ' + str(self.json['time']['totalTime']['unit'])
+
+    def getCalaory(self):
+        return self.json['nutrition']['calories']
+
+    def getIngredientItem(self):
+        ingredients = []
+        for each in self.json['ingredients']:
+            for key, value in each.items():
+                if key == 'item':
+                    ingredients.append(value)
+
+        return ingredients

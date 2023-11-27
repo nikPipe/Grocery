@@ -4,7 +4,7 @@ from ui.sampleWidget import styleSheet, sample_color_variable
 from data import help
 import ui, os
 file =  os.path.dirname(os.path.realpath(ui.__file__))
-
+from data import get_meal_dishe
 
 from ui.mainWidget.centerWidget.centerMainWidget.recepieWidget import recepieTop_widget
 from ui.mainWidget.centerWidget.centerMainWidget.recepieWidget import recepieCenter_widget
@@ -19,7 +19,6 @@ class recepieMainWidget(QWidget):
         self.parent = parent
         self.getCookingSkillList = []
 
-
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
         self.backgroundColor = self.color_class.setColorVal(r=179, g=179, b=179)
 
@@ -31,12 +30,8 @@ class recepieMainWidget(QWidget):
         widget = self.initUI()
         verticalLayout.addWidget(widget)
 
-
-
     def initUI(self):
         '''
-
-
         :return:
         '''
 
@@ -44,10 +39,6 @@ class recepieMainWidget(QWidget):
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0))
 
         verticalLayout.addWidget(self.recepieTop_widget)
-
         verticalLayout.addWidget(self.recepieCenter_widget)
-
-
-
 
         return widget

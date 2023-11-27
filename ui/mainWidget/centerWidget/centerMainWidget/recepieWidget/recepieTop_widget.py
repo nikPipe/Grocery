@@ -1,3 +1,5 @@
+import json
+
 from ui.import_module import *
 from ui.sampleWidget import sample_widget_template
 from ui.sampleWidget import styleSheet, sample_color_variable
@@ -17,6 +19,12 @@ class recepieTop_widget(QWidget):
         self.help_class = help.Help()
         self.parent = parent
         self.getCookingSkillList = []
+
+        tempfile_path = self.help_class.getTempFile(self.help_class.tempFileName)
+        print(tempfile_path)
+        json_read = open(tempfile_path, 'r')
+        self.data = json.load(json_read)
+
 
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
@@ -54,6 +62,7 @@ class recepieTop_widget(QWidget):
 
         country_combo = self.sample_widget.comboBox(parent_self=widget, set_object_name=country_combo_objName, addItems=countryList,
                                                     set_styleSheet=combo_styleSheet, setEditable=True)
+        country_combo.setCurrentText(self.data['country'])
         country_combo.setMinimumSize(QSize(0, 30))
         country_combo.setMaximumSize(QSize(16777215, 30))
         country_combo.setFont(self.font)
@@ -81,6 +90,7 @@ class recepieTop_widget(QWidget):
         peopleSpinBox.setStyleSheet(styleSheet_)
         peopleSpinBox.setMinimum(1)
         peopleSpinBox.setMaximum(10000)
+        peopleSpinBox.setValue(self.data['noOfPeople'])
         horizontalLayout.addWidget(peopleSpinBox)
 
 

@@ -1,3 +1,6 @@
+import json
+from functools import partial
+
 from ui.import_module import *
 from ui.sampleWidget import sample_widget_template
 from ui.sampleWidget import styleSheet, sample_color_variable
@@ -48,11 +51,7 @@ class recepieDetailMenu_widget(QWidget):
 
 
         #verticalLayout.addWidget(self.menuCheckboxWidget())
-
         verticalLayout.addWidget(self.recepieDetailMenuTreeWidget())
-
-
-
 
         return widget
 
@@ -68,25 +67,29 @@ class recepieDetailMenu_widget(QWidget):
         styleSheet_ = self.sample_widget.styleSheet_def(obj_name=treeWidget_objName, color=self.color_class.white_color.get_value(),
                                                         background=self.color_class.black_color.get_value(),
                                                         border_radius=5)
-        treeWidget = self.sample_widget.treeWidget(parent_self=widget, setHeaderHidden=True)
-        treeWidget.setObjectName(treeWidget_objName)
-        treeWidget.setStyleSheet(styleSheet_)
-        verticalLayout.addWidget(treeWidget)
+        self.recepieDetailMenu_treeWidget = self.sample_widget.treeWidget(parent_self=widget, setHeaderHidden=True)
+        self.recepieDetailMenu_treeWidget.setObjectName(treeWidget_objName)
+        self.recepieDetailMenu_treeWidget.selectionModel().selectionChanged.connect(partial(self.treeWidget_def, self.recepieDetailMenu_treeWidget))
+        #self.recepieDetailMenu_treeWidget
+        self.recepieDetailMenu_treeWidget.setStyleSheet(styleSheet_)
 
-        treeItem = QTreeWidgetItem(treeWidget)
-        treeItem.setText(0, 'Test')
-        treeItem.setCheckState(0, Qt.Checked)
-
-
+        verticalLayout.addWidget(self.recepieDetailMenu_treeWidget)
 
         return widget
 
+    def treeWidget_def(self, treeWidget):
+        '''
 
-
-
-
-
-
+        :param treeWidget:
+        :return:
+        '''
+        selectedItems = treeWidget.selectedItems()
+        for selectedItem in selectedItems:
+            data = selectedItem.data(0, Qt.UserRole)
+            print(data)
+            if data:
+                name = data['name']
+                print(name)
 
 
     def menuCheckboxWidget(self):

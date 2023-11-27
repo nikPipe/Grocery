@@ -6,7 +6,7 @@ import ui, os
 file =  os.path.dirname(os.path.realpath(ui.__file__))
 
 from ui.mainWidget.centerWidget.centerMainWidget.savedGroceryWidget import savedGroceryLeft_widget
-from ui.mainWidget.centerWidget.centerMainWidget.savedGroceryWidget import savedGroceryRight_widget
+from ui.mainWidget.centerWidget.centerMainWidget.savedRecepieWidget import savedRecepieRight_widget
 
 class savedGroceryMainWidget(QWidget):
     def __init__(self, parent):
@@ -22,8 +22,8 @@ class savedGroceryMainWidget(QWidget):
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
         self.backgroundColor = self.color_class.setColorVal(r=179, g=179, b=179)
 
-        self.saveGroceryLeftWidget = savedGroceryLeft_widget.savedGroceryLeft_widget(self.parent)
-        self.saveGroceryRightWidget = savedGroceryRight_widget.savedGroceryRight_widget(self.parent)
+        self.saveRecepieLeftWidget = savedGroceryLeft_widget.savedGroceryLeft_widget(self.parent)
+        self.saveRecepieRightWidget = savedRecepieRight_widget.savedRecepieRight_widget(self.parent)
 
 
         verticalLayout = QVBoxLayout(self)
@@ -45,8 +45,12 @@ class savedGroceryMainWidget(QWidget):
         verticalLayout.addWidget(splitter)
 
 
-        splitter.addWidget(self.saveGroceryLeftWidget)
-        splitter.addWidget(self.saveGroceryRightWidget)
+        splitter.addWidget(self.saveRecepieLeftWidget)
+        splitter.addWidget(self.saveRecepieRightWidget)
+
+        splitter.setStretchFactor(0, 1)  # Text Edit takes 2/4 of available space
+        splitter.setStretchFactor(1, 4)
+
 
 
 

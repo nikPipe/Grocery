@@ -1,0 +1,88 @@
+{
+  "name": "Indian Winter Dinner",
+  "id": 21,
+  "mealtimes": ["dinner"],
+  "origin": "India",
+  "menu": {
+    "warm_main_course": {
+      "default": {"name": "Sarson Ka Saag with Makki Ki Roti", "id": "Sarson_Ka_Saag_Makki_Ki_Roti_Recipe"},
+      "variations": {
+        "Paneer Butter Masala": "Paneer_Butter_Masala_Recipe",
+        "Rogan Josh": "Rogan_Josh_Recipe",
+        "Dal Makhani": "Dal_Makhani_Recipe",
+        "Chicken Curry": "Chicken_Curry_Recipe",
+        "Aloo Paratha": "Aloo_Paratha_Recipe",
+        "Mutton Biryani": "Mutton_Biryani_Recipe",
+        "Gajar Ka Halwa": "Gajar_Ka_Halwa_Recipe",
+        "Rajma": "Rajma_Recipe",
+        "Chole": "Chole_Recipe",
+        "Baingan Bharta": "Baingan_Bharta_Recipe",
+        "Vegetable Pulao": "Vegetable_Pulao_Recipe",
+        "Butter Chicken": "Butter_Chicken_Recipe",
+        "Kadhi Pakora": "Kadhi_Pakora_Recipe",
+        "Palak Paneer": "Palak_Paneer_Recipe",
+        "Dum Aloo": "Dum_Aloo_Recipe"
+      }
+    },
+    "sides": {
+      "default": {"name": "Naan", "id": "Naan_Recipe"},
+      "variations": {
+        "Roti": "Roti_Recipe",
+        "Lachha Paratha": "Laccha_Paratha_Recipe",
+        "Garlic Naan": "Garlic_Naan_Recipe",
+        "Tandoori Roti": "Tandoori_Roti_Recipe",
+        "Missi Roti": "Missi_Roti_Recipe",
+        "Kulcha": "Kulcha_Recipe",
+        "Bhatura": "Bhatura_Recipe",
+        "Pudina Paratha": "Pudina_Paratha_Recipe",
+        "Paneer Paratha": "Paneer_Paratha_Recipe",
+        "Gobi Paratha": "Gobi_Paratha_Recipe",
+        "Keema Naan": "Keema_Naan_Recipe",
+        "Roomali Roti": "Roomali_Roti_Recipe",
+        "Onion Kulcha": "Onion_Kulcha_Recipe",
+        "Besan Ki Roti": "Besan_Ki_Roti_Recipe",
+        "Methi Thepla": "Methi_Thepla_Recipe"
+      }
+    },
+    "warm_beverages": {
+      "default": {"name": "Masala Chai", "id": "Masala_Chai_Recipe"},
+      "variations": {
+        "Kashmiri Kahwa": "Kashmiri_Kahwa_Recipe",
+        "Ginger Tea": "Ginger_Tea_Recipe",
+        "Turmeric Milk": "Turmeric_Milk_Recipe",
+        "Hot Lemon Tea": "Hot_Lemon_Tea_Recipe",
+        "Badam Milk": "Badam_Milk_Recipe",
+        "Saffron Milk": "Saffron_Milk_Recipe",
+        "Coffee": "Coffee_Recipe",
+        "Green Tea": "Green_Tea_Recipe",
+        "Herbal Tea": "Herbal_Tea_Recipe",
+        "Black Tea": "Black_Tea_Recipe",
+        "Cardamom Tea": "Cardamom_Tea_Recipe",
+        "Cinnamon Tea": "Cinnamon_Tea_Recipe",
+        "Honey Lemon Tea": "Honey_Lemon_Tea_Recipe",
+        "Apple Cinnamon Tea": "Apple_Cinnamon_Tea_Recipe",
+        "Mint Tea": "Mint_Tea_Recipe"
+      }
+    },
+    "desserts": {
+      "default": {"name": "Moong Dal Halwa", "id": "Moong_Dal_Halwa_Recipe"},
+      "variations": {
+        "Gulab Jamun": "Gulab_Jamun_Recipe",
+        "Kheer": "Kheer_Recipe",
+        "Rasmalai": "Rasmalai_Recipe",
+        "Jalebi": "Jalebi_Recipe",
+        "Ladoo": "Ladoo_Recipe",
+        "Barfi": "Barfi_Recipe",
+        "Shrikhand": "Shrikhand_Recipe",
+        "Peda": "Peda_Recipe",
+        "Besan Ladoo": "Besan_Ladoo_Recipe",
+        "Kaju Katli": "Kaju_Katli_Recipe",
+        "Rabri": "Rabri_Recipe",
+        "Coconut Ladoo": "Coconut_Ladoo_Recipe",
+        "Mysore Pak": "Mysore_Pak_Recipe",
+        "Kulfi": "Kulfi_Recipe",
+        "Carrot Halwa": "Carrot_Halwa_Recipe"
+      }
+    }
+  }
+}

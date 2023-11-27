@@ -629,7 +629,7 @@ border-bottom-right-radius: 10px;
            <item>
             <widget class="QStackedWidget" name="stackedWidget">
              <property name="currentIndex">
-              <number>8</number>
+              <number>9</number>
              </property>
              <widget class="QWidget" name="homePage">
               <layout class="QVBoxLayout" name="verticalLayout_8">
@@ -1026,7 +1026,7 @@ border-bottom-right-radius: 20px;
                           <rect>
                            <x>0</x>
                            <y>0</y>
-                           <width>918</width>
+                           <width>264</width>
                            <height>828</height>
                           </rect>
                          </property>
@@ -1107,8 +1107,8 @@ border-bottom-right-radius: 20px;
                                    <rect>
                                     <x>0</x>
                                     <y>0</y>
-                                    <width>880</width>
-                                    <height>217</height>
+                                    <width>711</width>
+                                    <height>198</height>
                                    </rect>
                                   </property>
                                   <layout class="QGridLayout" name="gridLayout_25">
@@ -1283,7 +1283,7 @@ border-bottom-right-radius: 20px;
                                     <x>0</x>
                                     <y>0</y>
                                     <width>1410</width>
-                                    <height>200</height>
+                                    <height>198</height>
                                    </rect>
                                   </property>
                                   <layout class="QGridLayout" name="gridLayout_7">
@@ -1517,7 +1517,7 @@ border-bottom-right-radius: 20px;
                                     <x>0</x>
                                     <y>0</y>
                                     <width>944</width>
-                                    <height>200</height>
+                                    <height>198</height>
                                    </rect>
                                   </property>
                                   <layout class="QGridLayout" name="gridLayout_17">
@@ -1644,7 +1644,7 @@ border-bottom-right-radius: 30px;
                           <rect>
                            <x>0</x>
                            <y>0</y>
-                           <width>918</width>
+                           <width>587</width>
                            <height>1613</height>
                           </rect>
                          </property>
@@ -2524,8 +2524,8 @@ border-bottom-right-radius: 35px;
                                 <rect>
                                  <x>0</x>
                                  <y>0</y>
-                                 <width>335</width>
-                                 <height>44</height>
+                                 <width>240</width>
+                                 <height>35</height>
                                 </rect>
                                </property>
                                <layout class="QGridLayout" name="gridLayout_28">

@@ -1,0 +1,68 @@
+{
+  "name": "Indian Summer Lunch",
+  "id": 11,
+  "mealtimes": ["lunch"],
+  "origin": "India",
+  "menu": {
+    "main_course": {
+      "default": {"name": "Curd Rice", "id": "Curd_Rice_Recipe"},
+      "variations": {
+        "Lemon Rice": "Lemon_Rice_Recipe",
+        "Mango Rice": "Mango_Rice_Recipe",
+        "Kosambari": "Kosambari_Recipe",
+        "Vegetable Pulao": "Vegetable_Pulao_Recipe",
+        "Dahi Puri": "Dahi_Puri_Recipe",
+        "Bhel Puri": "Bhel_Puri_Recipe",
+        "Pani Puri": "Pani_Puri_Recipe",
+        "Raita": "Raita_Recipe",
+        "Tandoori Chicken": "Tandoori_Chicken_Recipe",
+        "Grilled Paneer": "Grilled_Paneer_Recipe",
+        "Chicken Salad": "Chicken_Salad_Recipe",
+        "Mixed Vegetable Salad": "Mixed_Vegetable_Salad_Recipe",
+        "Paneer Tikka": "Paneer_Tikka_Recipe",
+        "Sprout Salad": "Sprout_Salad_Recipe",
+        "Kachumber": "Kachumber_Recipe"
+      }
+    },
+    "side_dishes": {
+      "default": {"name": "Cucumber Raita", "id": "Cucumber_Raita_Recipe"},
+      "variations": {
+        "Mint Chutney": "Mint_Chutney_Recipe",
+        "Boondi Raita": "Boondi_Raita_Recipe",
+        "Papad": "Papad_Recipe",
+        "Pickle": "Pickle_Recipe",
+        "Green Salad": "Green_Salad_Recipe",
+        "Masala Chaas": "Masala_Chaas_Recipe",
+        "Fruit Chaat": "Fruit_Chaat_Recipe",
+        "Corn Salad": "Corn_Salad_Recipe",
+        "Kairi Panha": "Kairi_Panha_Recipe",
+        "Lemonade": "Lemonade_Recipe",
+        "Sambaram": "Sambaram_Recipe",
+        "Coconut Water": "Coconut_Water_Recipe",
+        "Nimbu Pani": "Nimbu_Pani_Recipe",
+        "Watermelon Juice": "Watermelon_Juice_Recipe",
+        "Barley Water": "Barley_Water_Recipe"
+      }
+    },
+    "desserts": {
+      "default": {"name": "Mango Kulfi", "id": "Mango_Kulfi_Recipe"},
+      "variations": {
+        "Fruit Custard": "Fruit_Custard_Recipe",
+        "Ras Malai": "Ras_Malai_Recipe",
+        "Falooda": "Falooda_Recipe",
+        "Shrikhand": "Shrikhand_Recipe",
+        "Aamras": "Aamras_Recipe",
+        "Lassi": "Lassi_Recipe",
+        "Ice Cream": "Ice_Cream_Recipe",
+        "Jigarthanda": "Jigarthanda_Recipe",
+        "Gajar Ka Halwa": "Gajar_Ka_Halwa_Recipe",
+        "Badam Kulfi": "Badam_Kulfi_Recipe",
+        "Rose Milk": "Rose_Milk_Recipe",
+        "Kesar Pista Ice Cream": "Kesar_Pista_Ice_Cream_Recipe",
+        "Paan Ice Cream": "Paan_Ice_Cream_Recipe",
+        "Kulfi": "Kulfi_Recipe",
+        "Rabri": "Rabri_Recipe"
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Indian High Tea",
+  "id": 15,
+  "mealtimes": ["tea"],
+  "origin": "India",
+  "menu": {
+    "snacks": {
+      "default": {"name": "Samosa", "id": "Samosa_Recipe"},
+      "variations": {
+        "Batata Vada": "Batata_Vada_Recipe",
+        "Bhakri": "Bhakri_Recipe",
+        "Bhatura": "Bhatura_Recipe",
+        "Bisi Bele Bath": "Bisi_Bele_Bath_Recipe",
+        "Bread Pakora": "Bread_Pakora_Recipe",
+        "Dhokla": "Dhokla_Recipe",
+        "Kachori": "Kachori_Recipe",
+        "Kanda Poha": "Kanda_Poha_Recipe",
+        "Maddur Vada": "Maddur_Vada_Recipe",
+        "Masala Papad": "Masala_Papad_Recipe",
+        "Mysore Pak": "Mysore_Pak_Recipe",
+        "Papad Ki Sabzi": "Papad_Ki_Sabzi_Recipe",
+        "Papad": "Papad_Recipe",
+        "Pav Bhaji": "Pav_Bhaji_Recipe",
+        "Peanut Chutney": "Peanut_Chutney_Recipe"
+      }
+    },
+    "beverages": {
+      "default": {"name": "Masala Chai", "id": "Masala_Chai_Recipe"},
+      "variations": {
+        "Filter Coffee": "Filter_Coffee_Recipe",
+        "Ginger Tea": "Ginger_Tea_Recipe",
+        "Green Tea": "Green_Tea_Recipe",
+        "Lemon Tea": "Lemon_Tea_Recipe",
+        "Masala Chai": "Masala_Chai_Recipe",
+        "Nimbu Pani": "Nimbu_Pani_Recipe",
+        "Rose Sherbet": "Rose_Sherbet_Recipe",
+        "Sugarcane Juice": "Sugarcane_Juice_Recipe",
+        "Sweet Lassi": "Sweet_Lassi_Recipe",
+        "Badam Milk": "Badam_Milk_Recipe",
+        "Buttermilk": "Buttermilk_Recipe",
+        "Coconut Water": "Coconut_Water_Recipe",
+        "Hot Lemon Tea": "Hot_Lemon_Tea_Recipe",
+        "Jal Jeera": "Jal_Jeera_Recipe",
+        "Rose Milk": "Rose_Milk_Recipe"
+      }
+    }
+  }
+}

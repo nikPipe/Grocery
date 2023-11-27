@@ -40,7 +40,6 @@ class calenderCenter_widget(QWidget):
     def initUI(self):
         '''
 
-
         :return:
         '''
         widget_object = 'centerMainWidget'
@@ -50,18 +49,22 @@ class calenderCenter_widget(QWidget):
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0), set_spacing=15)
 
         stakeWidget_object = 'stakeWidget_object'
-        stakeWidget = QStackedWidget()
-        stakeWidget.setStyleSheet(styleSheet)
-        stakeWidget.setObjectName(stakeWidget_object)
-        verticalLayout.addWidget(stakeWidget)
+        self.calenderCenter_stakeWidget = QStackedWidget()
+        self.calenderCenter_stakeWidget.setStyleSheet(styleSheet)
+        self.calenderCenter_stakeWidget.setObjectName(stakeWidget_object)
+        verticalLayout.addWidget(self.calenderCenter_stakeWidget)
 
 
-        stakeWidget.addWidget(self.calenderCenterDay_widget)
-        stakeWidget.addWidget(self.calenderCenterWeek_widget)
-        stakeWidget.addWidget(self.calenderCenterMonth_widget)
 
-        stakeWidget.setCurrentIndex(2)
+        self.calenderCenter_stakeWidget.addWidget(self.calenderCenterDay_widget)
+        self.calenderCenter_stakeWidget.addWidget(self.calenderCenterWeek_widget)
+        self.calenderCenter_stakeWidget.addWidget(self.calenderCenterMonth_widget)
+
+
+
+        #self.calenderCenter_stakeWidget.setCurrentIndex(0)
 
         return widget
+
 
 

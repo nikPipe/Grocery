@@ -17,8 +17,6 @@ from ui.mainWidget.centerWidget.centerMainWidget.pantryWidget import pantryMainW
 from ui.mainWidget.centerWidget.centerMainWidget.alertWidget import alertMainWidget
 from ui.mainWidget.centerWidget.centerMainWidget.userWidget import userMainWidget
 
-
-
 class centerMainWidget(QWidget):
     def __init__(self, parent):
         super().__init__()
@@ -33,7 +31,7 @@ class centerMainWidget(QWidget):
         self.recepieMainWidget = recepieMainWidget.recepieMainWidget(self.parent)
         self.groceryMainWidget = groceryMainWidget.groceryMainWidget(self.parent)
         self.calenderMainWidget = calenderMainWidget.calenderMainWidget(self.parent)
-        self.savedRecepieMainWidget = savedRecepieMainWidget.savedRecepieMainWidget(self.parent)
+        self.savedRecepieMainWidget = savedRecepieMainWidget.savedRecepieWidget(self.parent)
         self.savedMealMainWidget = savedMealMainWidget.savedMainWidget(self.parent)
         self.savedGroceryMainWidget = savedGroceryMain_widget.savedGroceryMainWidget(self.parent)
         self.pantryMainWidget = pantryMainWidget.pantryMainWidget(self.parent)

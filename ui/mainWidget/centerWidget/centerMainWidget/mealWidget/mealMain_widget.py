@@ -1,5 +1,4 @@
-
-
+from functools import partial
 
 from ui.import_module import *
 from ui.sampleWidget import sample_widget_template
@@ -7,7 +6,9 @@ from ui.sampleWidget import styleSheet, sample_color_variable
 from data import help
 import ui, os
 file =  os.path.dirname(os.path.realpath(ui.__file__))
-
+from data import get_meal_dishe
+from data import mealClass
+from ui import commonButtonWidget
 
 class mealMain_Widget(QWidget):
     def __init__(self, parent):
@@ -22,10 +23,13 @@ class mealMain_Widget(QWidget):
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
         self.backgroundColor = self.color_class.setColorVal(r=179, g=179, b=179)
 
+
         verticalLayout = QVBoxLayout(self)
 
         widget = self.initUI()
         verticalLayout.addWidget(widget)
+
+        self.update_()
     def initUI(self):
         '''
 
@@ -36,12 +40,19 @@ class mealMain_Widget(QWidget):
         styleSheet = self.sample_widget.styleSheet_def(obj_name=widget_object, background_color=self.color.get_value(),
                                                        border_color=self.color_class.black_color.get_value())
         widget = self.sample_widget.widget_def(set_object_name=widget_object, set_styleSheet=styleSheet)
-        verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0), set_spacing=15)
+        self.verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0), set_spacing=15)
+
+        scrollArea = self.sample_widget.scrollArea(parent_self=widget)
+        self.verticalLayout.addWidget(scrollArea)
+        scrollAreaWidgetContents = self.sample_widget.widget_def(set_object_name=widget_object, set_styleSheet=styleSheet)
+        scrollArea.setWidget(scrollAreaWidgetContents)
+
+        self.verticalLayout = self.sample_widget.vertical_layout(parent_self=scrollAreaWidgetContents, set_contents_margins=(0, 0, 0, 0), set_spacing=15)
 
         #verticalLayout.addWidget(self.searchWidget())
-        verticalLayout.addWidget(self.mealViewWidget())
+        #self.verticalLayout.addWidget(self.mealViewWidget())
 
-        verticalLayout.addItem(QSpacerItem(0, 10, QSizePolicy.Minimum, QSizePolicy.Expanding))
+        self.verticalLayout.addItem(QSpacerItem(0, 10, QSizePolicy.Minimum, QSizePolicy.Expanding))
 
         return widget
 
@@ -71,18 +82,30 @@ class mealMain_Widget(QWidget):
         return widget
 
 
-    def mealViewWidget(self):
+    def mealViewWidget(self, buttonDic, value):
         '''
 
         :return:
         '''
-        height = 180
+        height = 250
         widget_object = 'mealViewWidget'
         styleSheet = self.sample_widget.styleSheet_def(obj_name=widget_object, background_color=self.color.get_value(),
                                                          border_color=self.color_class.black_color.get_value())
         widget = self.sample_widget.widget_def(min_size=(0, height), max_size=(self.sample_widget.max_size, height),
                                                set_object_name=widget_object, set_styleSheet=styleSheet)
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
+
+
+        label_object = 'label_object'
+        styleSheet = self.sample_widget.styleSheet_def(obj_name=label_object,
+                                                         color=self.color_class.white_color.get_value(),
+                                                            border_radius=20)
+        label = self.sample_widget.label(set_text=value, set_object_name=label_object, set_styleSheet=styleSheet)
+        font = QFont()
+        font.setBold(True)
+        font.setPointSize(15)
+        label.setFont(font)
+        verticalLayout.addWidget(label)
 
         scrollArea = self.sample_widget.scrollArea(parent_self=widget)
         verticalLayout.addWidget(scrollArea)
@@ -95,21 +118,153 @@ class mealMain_Widget(QWidget):
         font = QFont()
         font.setBold(True)
         font.setPointSize(10)
-        for each in range(0, 4):
-            pushButton_object = 'pushButton_object'
-            styleSheet = self.sample_widget.styleSheet_def(obj_name=pushButton_object,
+        for eachButton in buttonDic:
+
+            widget_ = commonButtonWidget.commonWidget(dict=eachButton)
+            widget_.findChild(QPushButton).clicked.connect(partial(self.mealbutton_def, eachButton))
+
+            pushButtonList = widget_.findChildren(QPushButton)
+            for each_pushButton in pushButtonList:
+                if 'addToCalender'.lower() in each_pushButton.objectName().lower():
+                    each_pushButton.clicked.connect(
+                        partial(self.newButton_def, eachButton))
+                    '''
+                    each_pushButton.clicked.connect(
+                        partial(self.parent.mainCenterWidget.centerMainWidget.homeWidgetMain.addToCalender, eachButton))
+                    '''
+            '''
+            object_name = eachButton['id'] + '_object'
+            image = eachButton['images']['main']
+            styleSheet = self.sample_widget.styleSheet_def(obj_name=object_name,
                                                            background_color=self.backgroundColor.get_value(),
                                                            border_radius=20)
-
-            pushButton = self.sample_widget.pushButton(set_text='mealtime', min_size=(width, height),
-                                                       max_size=(width, height),
-                                                       set_styleSheet=styleSheet, set_object_name=pushButton_object)
+            pushButton = self.sample_widget.pushButton(set_text='', min_size=(width, height),
+                                                         max_size=(width, height),
+                                                         set_styleSheet=styleSheet, set_object_name=object_name,
+                                                         set_icon=image, set_icon_size=(width, height),
+                                                       connect=partial(self.mealbutton_def, eachButton))
             pushButton.setFont(font)
-
-            horizontalLayout_.addWidget(pushButton)
-
-
-
-
-
+            '''
+            horizontalLayout_.addWidget(widget_)
         return widget
+
+    def getMealList(self):
+        '''
+
+        :return:
+        '''
+        getAllDiet = get_meal_dishe.getDic()
+        for each in getAllDiet:
+            print(each)
+
+
+    def update_(self):
+        '''
+
+        :return:
+        '''
+
+        self.mealDic = get_meal_dishe.getDic()
+        for eachDic in self.mealDic:
+            self.verticalLayout.addWidget(self.mealViewWidget(buttonDic=self.mealDic[eachDic], value=eachDic))
+
+    def newButton_def(self, buttonDic):
+        '''
+
+        :param buttonDic:
+        :return:
+        '''
+        popup = self.parent.popup_calender.AddToCalender(parent=self.parent, data=buttonDic)
+        result = popup.exec_()
+        if result == QDialog.Accepted:
+            print('Accepted')
+        else:
+            print('Rejected')
+
+        print(self.parent.mainCenterWidget.centerMainWidget.homeWidgetMain)
+        #self.parent.mainCenterWidget.centerMainWidget.homeWidgetMain.addToCalender(data=buttonDic)
+
+    def mealbutton_def(self, buttonDic):
+        '''
+
+        :param buttonDic:
+        :return:
+        '''
+        pop = self.parent.popup_detailMeal.mealDeatail(parent=self.parent, data=buttonDic)
+        result = pop.exec_()
+        if result == QDialog.Accepted:
+            print('Accepted')
+        else:
+            print('Rejected')
+
+        '''
+        
+        
+        self.parent.mainCenterWidget.centerMainWidget.mealMainWidget.stakeWidget.setCurrentIndex(1)
+        mealDetailWidget = self.parent.mainCenterWidget.centerMainWidget.mealMainWidget.mealDetailWidet
+
+        mealClass_ = mealClass.mealClass(json=buttonDic)
+
+        #CHANGE THE NAME
+        mealDetailWidget.mealNameLabel.setText(mealClass_.name)
+
+        #CHANGE HISTORY
+        mealDetailWidget.historyTextEdit.setText(mealClass_.history)
+
+        #ingrediant
+        text = 'Ingredients'
+        text += '\n' +  str(mealClass_.noOfIngredient())
+        mealDetailWidget.ingredientLabel.setText(text)
+
+        #miniuteLabel
+        text = 'Miniute'
+        text += '\n' + str(mealClass_.gettotalTime())
+        mealDetailWidget.miniuteLabel.setText(text)
+
+        #Calories
+        text = 'Calories'
+        text += '\n' + str(mealClass_.getCalaory())
+        mealDetailWidget.caloriesLabel.setText(text)
+
+        #Description
+        mealDetailWidget.descriptionTextEdit.setText(mealClass_.description)
+
+        #NUTRITION
+        print(mealDetailWidget)
+        mealDetailWidget.update_(dic_val=buttonDic)
+
+        #mealDetailWidget.ingredientLabel.setText(mealClass_.getIngredient())
+
+        #IMAGE BUTTON
+        imageButton = mealDetailWidget.recepieImageButton
+        image = mealClass_.getimages()
+        icon = QIcon()
+        icon.addPixmap(QPixmap(image), QIcon.Normal, QIcon.Off)
+        imageButton.setIcon(icon)
+        imageButton.setIconSize(QSize(300, 300))
+
+        '''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

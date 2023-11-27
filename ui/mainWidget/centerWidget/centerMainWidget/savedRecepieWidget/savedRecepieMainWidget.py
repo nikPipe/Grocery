@@ -8,7 +8,7 @@ file =  os.path.dirname(os.path.realpath(ui.__file__))
 from ui.mainWidget.centerWidget.centerMainWidget.savedRecepieWidget import savedRecepieLeft_widget
 from ui.mainWidget.centerWidget.centerMainWidget.savedRecepieWidget import savedRecepieRight_widget
 
-class savedRecepieMainWidget(QWidget):
+class savedRecepieWidget(QWidget):
     def __init__(self, parent):
         super().__init__()
         self.sample_widget = sample_widget_template.SAMPLE_WIDGET_TEMPLATE()
@@ -18,13 +18,11 @@ class savedRecepieMainWidget(QWidget):
         self.parent = parent
         self.getCookingSkillList = []
 
-
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
         self.backgroundColor = self.color_class.setColorVal(r=179, g=179, b=179)
 
         self.saveRecepieLeftWidget = savedRecepieLeft_widget.savedRecepieLeft_widget(self.parent)
         self.saveRecepieRightWidget = savedRecepieRight_widget.savedRecepieRight_widget(self.parent)
-
 
         verticalLayout = QVBoxLayout(self)
 
@@ -33,7 +31,6 @@ class savedRecepieMainWidget(QWidget):
 
     def initUI(self):
         '''
-
 
         :return:
         '''
@@ -44,8 +41,12 @@ class savedRecepieMainWidget(QWidget):
         splitter = self.sample_widget.splitter_def(parent_self=widget, set_orientation=self.sample_widget.horizonatal)
         verticalLayout.addWidget(splitter)
 
-
         splitter.addWidget(self.saveRecepieLeftWidget)
+        splitter.addWidget(self.saveRecepieRightWidget)
+
+        splitter.setStretchFactor(0, 1)  # Text Edit takes 2/4 of available space
+        splitter.setStretchFactor(1, 4)
+
 
 
 

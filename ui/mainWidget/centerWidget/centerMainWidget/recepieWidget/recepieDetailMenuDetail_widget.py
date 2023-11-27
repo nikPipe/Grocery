@@ -69,6 +69,8 @@ class recepieDetailMenuDetail_widget(QWidget):
         tabWidget.addTab(self.menuDetailWidget(), 'Menu Detail')
         tabWidget.addTab(self.recepieDetail(), 'Recepie Detail')
 
+        tabWidget.setCurrentIndex(1)
+
         return widget
 
 
@@ -99,7 +101,18 @@ class recepieDetailMenuDetail_widget(QWidget):
         widget = self.sample_widget.widget_def(set_object_name=widget_objName, set_styleSheet=widget_styleSheet)
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0))
 
+        treeWidget_objName = 'treeWidget'
+        styleSheet_ = self.sample_widget.styleSheet_def(obj_name=treeWidget_objName, color=self.color_class.white_color.get_value(),
+                                                        background=self.color_class.black_color.get_value(),
+                                                        border_radius=5)
+        self.recepieDetail_treeWidget = self.sample_widget.treeWidget(parent_self=widget, setHeaderHidden=True)
+        self.recepieDetail_treeWidget.setObjectName(treeWidget_objName)
+        verticalLayout.addWidget(self.recepieDetail_treeWidget)
+
+
         return widget
+
+
 
 
 

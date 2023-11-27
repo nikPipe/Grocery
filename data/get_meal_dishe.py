@@ -45,12 +45,25 @@ def getAllMeal():
 
     file = help_.getFileNameFromImportedModule(india)
 
+    file = help_.getFileNameFromImportedModule(meal)
+    mealList = []
+    for root, dirs, files in os.walk(file):
+        for each in files:
+            if each.endswith('.json'):
+                data = help_.readjsonFile(root+'/'+each)
+                data['images']['main'] = '/'.join([root, data['id'] + '.jpg']).replace('\\', '/')
+                mealList.append(data)
+
+
+
+    '''
     mealList = []
     for each in os.listdir(file):
         if each.endswith('.json'):
             data = help_.readjsonFile(file+'/'+each)
             data['images']['main'] = '/'.join([file, data['id'] + '.jpg']).replace('\\', '/')
             mealList.append(data)
+    '''
     return mealList
 
 

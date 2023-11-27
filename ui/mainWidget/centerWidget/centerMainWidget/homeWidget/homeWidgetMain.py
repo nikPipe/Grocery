@@ -1,12 +1,19 @@
 from functools import partial
+import random
 
 from ui.import_module import *
 from ui.sampleWidget import sample_widget_template
 from ui.sampleWidget import styleSheet, sample_color_variable
 from data import help
+import traceback
 import ui, os
 file =  os.path.dirname(os.path.realpath(ui.__file__))
 from ui.mainWidget.centerWidget.centerMainWidget.homeWidget import commonAllSearch_widget
+from ui.mainWidget.centerWidget.centerMainWidget import popup_detailMeal
+
+from data import get_meal_dishe
+
+from ui import commonButtonWidget
 
 class homwMainWidget(QWidget):
     def __init__(self, parent):
@@ -17,8 +24,11 @@ class homwMainWidget(QWidget):
         self.help_class = help.Help()
         self.parent = parent
         self.getCookingSkillList = []
+        self.get_all_meal = get_meal_dishe.getAllMeal()
+        self.mealDic = get_meal_dishe.getDic()
+        self.tempFile_ = self.help_class.getTempFile(self.help_class.tempFileName)
 
-        self.commonAllSearch_widget = commonAllSearch_widget.commonAllSearch_Widget(self)
+        self.commonAllSearch_widget = commonAllSearch_widget.commonAllSearch_Widget(self.parent)
 
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
@@ -54,12 +64,14 @@ class homwMainWidget(QWidget):
         widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
 
-
         verticalLayout.addItem(QSpacerItem(0, 10, QSizePolicy.Minimum, QSizePolicy.Expanding))
 
         verticalLayout.addWidget(self.homeMealSuggestions())
+        try:
+            verticalLayout.addWidget(self.searchWidget())
+        except Exception as e:
+            traceback.print_exc()
 
-        verticalLayout.addWidget(self.searchWidget())
 
         verticalLayout.addItem(QSpacerItem(0, 10, QSizePolicy.Minimum, QSizePolicy.Expanding))
 
@@ -91,20 +103,43 @@ class homwMainWidget(QWidget):
         font = QFont()
         font.setBold(True)
         font.setPointSize(10)
-        for each in  range(0, 4):
+        json_data = self.help_class.readjsonFile(self.tempFile_)
+        diet = json_data['diet']
+
+        dic_val =[]
+        for eachDiet in diet:
+            if eachDiet in self.mealDic:
+                random_ = random.sample(self.mealDic[eachDiet], 10)
+                dic_val.extend(random_)
+
+        for each in dic_val:
+
+            widget_ = commonButtonWidget.commonWidget(each)
+            pushButton = widget_.findChild(QPushButton)
+            pushButton.clicked.connect(partial(self.pushClick, each))
+
+            pushButtonList = widget_.findChildren(QPushButton)
+            for each_pushButton in pushButtonList:
+                if 'addToCalender'.lower() in each_pushButton.objectName().lower():
+                    each_pushButton.clicked.connect(partial(self.addToCalender, each))
+
+
+            '''
             pushButton_object = 'pushButton_object'
             styleSheet = self.sample_widget.styleSheet_def(obj_name=pushButton_object, background_color=self.backgroundColor.get_value(),
                                                            border_radius=20)
 
-            pushButton = self.sample_widget.pushButton(set_text='Meal', min_size=(width, height), max_size=(width, height),
-                                                       set_styleSheet=styleSheet, set_object_name=pushButton_object )
+            name = each['name']
+            image = each['images']['main']
+            pushButton = self.sample_widget.pushButton(set_text=name, min_size=(width, height), max_size=(width, height),
+                                                       set_styleSheet=styleSheet, set_object_name=pushButton_object,
+                                                       set_icon=image, set_icon_size=(width, height),
+                                                       connect=partial(self.pushClick, each))
             pushButton.setFont(font)
-
-            horizontalLayout_.addWidget(pushButton)
+            '''
+            horizontalLayout_.addWidget(widget_)
 
         return widget
-
-
 
     def searchWidget(self):
         '''
@@ -165,3 +200,26 @@ class homwMainWidget(QWidget):
         verticalLayout.addWidget(pushButton)
 
         return widget
+
+    def pushClick(self, data):
+        print('pushClick')
+        #self.parent.mainCenterWidget.centerMainWidget.stackedWidget.setCurrentIndex(1)
+        #self.parent.mainCenterWidget.centerMainWidget.mealMainWidget.stakeWidget.setCurrentIndex(1)
+        #self.parent.mainCenterWidget.centerMainWidget.mealMainWidget.mealMain_widget.mealbutton_def(data)
+
+        popup = popup_detailMeal.mealDeatail(self.parent, data)
+        result = popup.exec_()  # This makes the dialog modal
+        if result == QDialog.Accepted:
+            print('Accepted')
+        else:
+            print('Rejected')
+
+    def addToCalender(self, data):
+        popup = self.parent.popup_calender.AddToCalender(self.parent, data)
+        result = popup.exec_()
+        if result == QDialog.Accepted:
+            print('Accepted')
+        else:
+            print('Rejected')
+
+        #self.parent.mainCenterWidget.centerMainWidget.calenderMainWidget.calenderTop_widget_def(data=data)

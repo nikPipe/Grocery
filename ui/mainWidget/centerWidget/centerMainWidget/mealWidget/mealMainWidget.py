@@ -12,6 +12,8 @@ from ui.mainWidget.centerWidget.centerMainWidget.mealWidget import mealMain_widg
 from ui.mainWidget.centerWidget.centerMainWidget.mealWidget import mealDetail_widget
 from ui.mainWidget.centerWidget.centerMainWidget.mealWidget import mealSearch_widget
 
+from data import get_meal_dishe
+
 class mealMainWidget(QWidget):
     def __init__(self, parent):
         super().__init__()
@@ -22,7 +24,7 @@ class mealMainWidget(QWidget):
         self.parent = parent
         self.getCookingSkillList = []
         self.mealMain_widget = mealMain_widget.mealMain_Widget(self.parent)
-        self.mealDetailWidet = mealDetail_widget.mealMain_Widget(self.parent)
+        self.mealDetailWidet = mealDetail_widget.mealDetail_Widget(self.parent)
         self.mealSearchWidget = mealSearch_widget.mealSearch_Widget(self.parent)
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
@@ -54,7 +56,6 @@ class mealMainWidget(QWidget):
         self.stakeWidget.addWidget(self.mealDetailWidet)
         self.stakeWidget.addWidget(self.mealSearchWidget)
 
-
         return widget
 
 
@@ -79,7 +80,6 @@ class mealMainWidget(QWidget):
         lineEdit.textChanged.connect(partial(self.lineEditTextChanged, lineEdit))
         verticalLayout.addWidget(lineEdit)
 
-
         return widget
 
     def lineEditTextChanged(self, lineedit):
@@ -89,3 +89,24 @@ class mealMainWidget(QWidget):
         :return:
         '''
         self.parent.mainCenterWidget.centerMainWidget.mealMainWidget.stakeWidget.setCurrentIndex(2)
+
+        lineedit_text = lineedit.text()
+        getAllMeal = get_meal_dishe.getAllMeal()
+        mealList = []
+        for each in getAllMeal:
+            if lineedit_text.lower() in each['name'].lower():
+                mealList.append(each)
+
+        verticalLayout = self.mealSearchWidget.mealSearch_widget_verticalLayout
+        self.help_class.clearLayout(verticalLayout)
+
+        for eachMeal in mealList:
+            try:
+                pass
+                widget = self.mealSearchWidget.update_Widget(eachMeal)
+                verticalLayout.addWidget(widget)
+            except Exception as e:
+                import traceback
+                traceback.print_exc()
+
+

@@ -1,0 +1,88 @@
+{
+  "name": "Healthy Indian Dinner",
+  "id": 20,
+  "mealtimes": ["dinner"],
+  "origin": "India",
+  "menu": {
+    "light_main_course": {
+      "default": {"name": "Grilled Tandoori Chicken", "id": "Tandoori_Chicken_Recipe"},
+      "variations": {
+        "Palak Paneer": "Palak_Paneer_Recipe",
+        "Chana Masala": "Chana_Masala_Recipe",
+        "Dal Tadka": "Dal_Tadka_Recipe",
+        "Vegetable Stir Fry": "Vegetable_Stir_Fry_Recipe",
+        "Grilled Fish": "Fish_Curry_Recipe",
+        "Mushroom Matar": "Mushroom_Matar_Recipe",
+        "Quinoa Pulao": "Vegetable_Pulao_Recipe",
+        "Chickpea Salad": "Chana_Salad_Recipe",
+        "Sprouted Moong Dal": "Mixed_Dal_Recipe",
+        "Barley Khichdi": "Khichdi_Recipe",
+        "Bajra Roti": "Bajra_Roti_Recipe",
+        "Ragi Dosa": "Ragi_Dosa_Recipe",
+        "Vegetable Kebab": "Vegetable_Kebab_Recipe",
+        "Paneer Tikka": "Paneer_Tikka_Recipe",
+        "Lentil Soup": "Dal_Recipe"
+      }
+    },
+    "healthy_sides": {
+      "default": {"name": "Cucumber Raita", "id": "Cucumber_Raita_Recipe"},
+      "variations": {
+        "Boiled Vegetables": "Boiled_Vegetables_Recipe",
+        "Kachumber Salad": "Kachumber_Salad_Recipe",
+        "Steamed Rice": "Basic_Cooked_Rice_Recipe",
+        "Whole Wheat Chapati": "Chapati_Recipe",
+        "Mint Chutney": "Mint_Chutney_Recipe",
+        "Mixed Vegetable Raita": "Mixed_Vegetable_Raita_Recipe",
+        "Green Salad": "Green_Salad_Recipe",
+        "Roasted Papad": "Papad_Recipe",
+        "Tandoori Broccoli": "Tandoori_Broccoli_Recipe",
+        "Beetroot Salad": "Beetroot_Salad_Recipe",
+        "Moong Dal Chilla": "Moong_Dal_Chilla_Recipe",
+        "Carrot and Cucumber Sticks": "Carrot_Cucumber_Salad_Recipe",
+        "Hummus": "Hummus_Recipe",
+        "Spinach Soup": "Spinach_Soup_Recipe",
+        "Tomato Salsa": "Tomato_Salsa_Recipe"
+      }
+    },
+    "desserts": {
+      "default": {"name": "Fruit Salad", "id": "Fruit_Salad_Recipe"},
+      "variations": {
+        "Carrot Halwa": "Carrot_Halwa_Recipe",
+        "Low-fat Yogurt": "Curd_Recipe",
+        "Jaggery Ladoo": "Ladoo_Recipe",
+        "Kheer": "Kheer_Recipe",
+        "Roasted Gram Flour Ladoo": "Besan_Ladoo_Recipe",
+        "Baked Apple": "Baked_Apple_Recipe",
+        "Mango Mousse": "Mango_Mousse_Recipe",
+        "Date and Nut Barfi": "Barfi_Recipe",
+        "Almond and Pistachio Kulfi": "Kulfi_Recipe",
+        "Mixed Berry Smoothie": "Mixed_Berry_Smoothie_Recipe",
+        "Chia Seed Pudding": "Chia_Seed_Pudding_Recipe",
+        "Coconut Ladoo": "Coconut_Ladoo_Recipe",
+        "Papaya Smoothie": "Papaya_Smoothie_Recipe",
+        "Baked Yogurt": "Baked_Yogurt_Recipe",
+        "Pomegranate Parfait": "Pomegranate_Parfait_Recipe"
+      }
+    },
+    "beverages": {
+      "default": {"name": "Green Tea", "id": "Green_Tea_Recipe"},
+      "variations": {
+        "Herbal Tea": "Herbal_Tea_Recipe",
+        "Lemon Water": "Lemon_Water_Recipe",
+        "Coconut Water": "Coconut_Water_Recipe",
+        "Buttermilk": "Buttermilk_Recipe",
+        "Turmeric Milk": "Turmeric_Milk_Recipe",
+        "Kombucha": "Kombucha_Recipe",
+        "Fruit Infused Water": "Fruit_Infused_Water_Recipe",
+        "Detox Water": "Detox_Water_Recipe",
+        "Vegetable Juice": "Vegetable_Juice_Recipe",
+        "Black Coffee": "Black_Coffee_Recipe",
+        "Cucumber Lemonade": "Cucumber_Lemonade_Recipe",
+        "Mint Infused Water": "Mint_Water_Recipe",
+        "Ginger Lemonade": "Ginger_Lemonade_Recipe",
+        "Honey Lemon Tea": "Honey_Lemon_Tea_Recipe",
+        "Almond Milk": "Almond_Milk_Recipe"
+      }
+    }
+  }
+}

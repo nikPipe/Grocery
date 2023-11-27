@@ -1,3 +1,5 @@
+from functools import partial
+
 from ui.import_module import *
 from ui.sampleWidget import sample_widget_template
 from ui.sampleWidget import styleSheet, sample_color_variable
@@ -19,7 +21,6 @@ class mealSearch_Widget(QWidget):
         self.parent = parent
         self.getCookingSkillList = []
         self.mealMain_widget = mealMain_widget.mealMain_Widget(self.parent)
-        self.mealDetailWidet = mealDetail_widget.mealMain_Widget(self.parent)
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
         self.backgroundColor = self.color_class.setColorVal(r=179, g=179, b=179)
@@ -38,18 +39,30 @@ class mealSearch_Widget(QWidget):
         :return:
         '''
         widget = self.sample_widget.widget_def()
-        verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
+        mealSearch_widget_verticalLayout_ = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
+
+        scrollArea = self.sample_widget.scrollArea(parent_self=widget)
+        mealSearch_widget_verticalLayout_.addWidget(scrollArea)
+        object = 'scrollArea'
+        styleSheet = self.sample_widget.styleSheet_def(obj_name=object, background_color=self.color.get_value(),
+                                                       border_radius=20)
+        scrollAreaWidgetContents = self.sample_widget.widget_def(set_object_name=object, set_styleSheet=styleSheet)
+        scrollArea.setWidget(scrollAreaWidgetContents)
+
+        self.mealSearch_widget_verticalLayout = self.sample_widget.vertical_layout(parent_self=scrollAreaWidgetContents, set_spacing=10)
+
+        #verticalLayout.addWidget(self.filterWidget())
+
+        pushButton = self.sample_widget.pushButton(set_text='Search', set_object_name='searchButton')
+        self.mealSearch_widget_verticalLayout.addWidget(pushButton)
 
 
+        #self.mealSearch_widget_verticalLayout.addWidget(self.widgetList())
 
-        verticalLayout.addWidget(self.filterWidget())
 
-        verticalLayout.addWidget(self.widgetList())
         #verticalLayout.addWidget(self.widgetList())
 
-
-
-        verticalLayout.addItem(QSpacerItem(0, 10, QSizePolicy.Minimum, QSizePolicy.Expanding))
+        #self.mealSearch_widget_verticalLayout.addItem(QSpacerItem(0, 10, QSizePolicy.Minimum, QSizePolicy.Expanding))
 
 
         return widget
@@ -78,7 +91,7 @@ class mealSearch_Widget(QWidget):
         return widget
 
 
-    def widgetList(self):
+    def widgetList(self, data):
         '''
 
         :return:
@@ -86,18 +99,18 @@ class mealSearch_Widget(QWidget):
         widget = self.sample_widget.widget_def()
         horizontalLayout = self.sample_widget.horizontal_layout(parent_self=widget, set_spacing=15)
 
-        horizontalLayout.addWidget(self.mealButtonWidget())
+        horizontalLayout.addWidget(self.mealButtonWidget(data=data))
 
-        horizontalLayout.addWidget(self.name_history_descriptionWidget())
+        horizontalLayout.addWidget(self.name_history_descriptionWidget(data=data))
 
-        horizontalLayout.addWidget(self.minute_calaryWidget())
+        horizontalLayout.addWidget(self.minute_calaryWidget(data=data))
 
-        horizontalLayout.addWidget(self.addToCalender_showDetailWidget())
+        horizontalLayout.addWidget(self.addToCalender_showDetailWidget(data=data))
 
         return widget
 
 
-    def mealButtonWidget(self):
+    def mealButtonWidget(self, data):
         '''
 
         :return:
@@ -105,16 +118,39 @@ class mealSearch_Widget(QWidget):
         widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
 
-
         size = 200
-        pusButton = self.sample_widget.pushButton(set_text='Meal', set_object_name='mealButton',
-                                                  min_size=(size, size), max_size=(size, size))
+        name = data['name']
+        if data:
+            image = data['images']['main']
+        else:
+            image = ''
+        pushButtonObject = data['id'] + '_pushButton'
+        styleSheet_ = self.sample_widget.styleSheet_def(obj_name=pushButtonObject,
+                                                        background_color=self.backgroundColor.get_value(),
+                                                        border_radius=20)
+
+        pusButton = self.sample_widget.pushButton(set_text='', set_object_name=pushButtonObject,
+                                                  min_size=(size, size), max_size=(size, size),
+                                                  set_styleSheet=styleSheet_, set_icon=image,
+                                                  set_icon_size=(size, size),connect=partial(self.mealSearchWidget_def, data))
+
         verticalLayout.addWidget(pusButton)
 
         return widget
 
+    def mealSearchWidget_def(self, data):
+        '''
 
-    def name_history_descriptionWidget(self):
+        :return:
+        '''
+        popup = self.parent.popup_detailMeal.mealDeatail(parent=self.parent, data=data)
+        result = popup.exec_()  # This makes the dialog modal
+        if result == QDialog.Accepted:
+            print('Accepted')
+        else:
+            print('Rejected')
+
+    def name_history_descriptionWidget(self, data):
         '''
 
         :return:
@@ -123,14 +159,14 @@ class mealSearch_Widget(QWidget):
 
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
 
-        verticalLayout.addWidget(self.nameWidget())
+        verticalLayout.addWidget(self.nameWidget(data=data))
 
-        verticalLayout.addWidget(self.history_descriptionWidget())
+        verticalLayout.addWidget(self.history_descriptionWidget(data=data))
 
         return widget
 
 
-    def nameWidget(self):
+    def nameWidget(self, data):
         '''
 
         :return:
@@ -138,11 +174,16 @@ class mealSearch_Widget(QWidget):
         widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
 
-        label_object = 'label_object'
+        label_object = data['id'] + '_label'
+        name = data['name']
+        if data:
+            image = data['images']['main']
+        else:
+            image = ''
         styleSheet = self.sample_widget.styleSheet_def(obj_name=label_object,
-                                                         color=self.backgroundColor.get_value(),
+                                                         color=self.color_class.white_color.get_value(),
                                                          border_radius=20)
-        label = self.sample_widget.label(set_text='Name', set_object_name=label_object, set_styleSheet=styleSheet,
+        label = self.sample_widget.label(set_text=name, set_object_name=label_object, set_styleSheet=styleSheet,
                                          set_alighment=self.sample_widget.center_alignment)
         font = self.font
         font.setPointSize(15)
@@ -153,24 +194,81 @@ class mealSearch_Widget(QWidget):
         return widget
 
 
-    def history_descriptionWidget(self):
+    def history_descriptionWidget(self, data):
         '''
 
         :return:
         '''
         widget = self.sample_widget.widget_def()
-        horizontalLayout = self.sample_widget.horizontal_layout(parent_self=widget, set_spacing=15)
+        verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=5)
 
-        historyButton = self.sample_widget.pushButton(set_text='History', set_object_name='historyButton')
-        horizontalLayout.addWidget(historyButton)
+        #historyButton = self.sample_widget.pushButton(set_text='History', set_object_name='historyButton')
+        #horizontalLayout.addWidget(historyButton)
 
-        descriptionButton = self.sample_widget.pushButton(set_text='Description', set_object_name='descriptionButton')
-        horizontalLayout.addWidget(descriptionButton)
+        width = 500
+
+        objectNmae = data['id'] + '_history_label'
+        styleSheet = self.sample_widget.styleSheet_def(obj_name=objectNmae,
+                                                            color=self.backgroundColor.get_value())
+
+        history_label = self.sample_widget.label(set_text='History', set_object_name=objectNmae,
+                                                     set_alighment=self.sample_widget.center_alignment,
+                                                     set_styleSheet=styleSheet)
+        font = self.font
+        font.setPointSize(15)
+        history_label.setFont(font)
+        verticalLayout.addWidget(history_label)
+
+
+        historyText = self.sample_widget.plainTextEdit()
+        objectNmae = data['id'] + '_historyText'
+        styleSheet = self.sample_widget.styleSheet_def(obj_name=objectNmae,
+                                                            background_color=self.backgroundColor.get_value(),
+                                                            border_radius=20)
+        historyText.setStyleSheet(styleSheet)
+        historyText.setObjectName(objectNmae)
+        historyText.setMinimumSize(QSize(width, 0))
+        historyText.setMaximumSize(QSize(width, 16777215))
+        historyText.setPlainText(data['history'])
+        historyText.setReadOnly(True)
+        font = self.font
+        font.setPointSize(10)
+        historyText.setFont(font)
+        verticalLayout.addWidget(historyText)
+
+
+
+        objectNmae = data['id'] + '_description_label'
+        styleSheet = self.sample_widget.styleSheet_def(obj_name=objectNmae,
+                                                            color=self.backgroundColor.get_value())
+        description_label = self.sample_widget.label(set_text='Description', set_object_name=objectNmae,
+                                                     set_alighment=self.sample_widget.center_alignment, set_styleSheet=styleSheet)
+        font = self.font
+        font.setPointSize(15)
+        description_label.setFont(font)
+        verticalLayout.addWidget(description_label)
+
+
+        descriptionText = self.sample_widget.plainTextEdit()
+        objectNmae = data['id'] + '_descriptionText'
+        styleSheet = self.sample_widget.styleSheet_def(obj_name=objectNmae,
+                                                            background_color=self.backgroundColor.get_value(),
+                                                            border_radius=20)
+        descriptionText.setStyleSheet(styleSheet)
+        descriptionText.setObjectName(objectNmae)
+        descriptionText.setMinimumSize(QSize(width, 0))
+        descriptionText.setMaximumSize(QSize(width, 16777215))
+        descriptionText.setPlainText(data['description'])
+        descriptionText.setReadOnly(True)
+        font = self.font
+        font.setPointSize(10)
+        descriptionText.setFont(font)
+        verticalLayout.addWidget(descriptionText)
 
 
         return widget
 
-    def minute_calaryWidget(self):
+    def minute_calaryWidget(self, data):
         '''
 
         :return:
@@ -178,15 +276,35 @@ class mealSearch_Widget(QWidget):
         widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
 
-        button = self.sample_widget.pushButton(set_text='Minute', set_object_name='minuteButton')
-        verticalLayout.addWidget(button)
 
-        button = self.sample_widget.pushButton(set_text='Calary', set_object_name='calaryButton')
-        verticalLayout.addWidget(button)
+        totoalMinute = str(data['time']['totalTime']['value']) + ' ' + str(data['time']['totalTime']['unit'])
+        label_obj = data['id'] + '_minuteLabel'
+        styleSheet = self.sample_widget.styleSheet_def(obj_name=label_obj,
+                                                            color=self.color_class.white_color.get_value(),
+                                                            border_radius=20)
+        label = self.sample_widget.label(set_text=totoalMinute, set_object_name=label_obj,
+                                          set_styleSheet=styleSheet, set_alighment=self.sample_widget.center_alignment)
+        font = self.font
+        font.setPointSize(15)
+        label.setFont(font)
+        verticalLayout.addWidget(label)
+
+
+        label_obj = data['id'] + '_calaryLabel'
+        cal = str(data['nutrition']['calories'])
+        styleSheet = self.sample_widget.styleSheet_def(obj_name=label_obj,
+                                                            color=self.color_class.white_color.get_value(),
+                                                            border_radius=20)
+        label = self.sample_widget.label(set_text=cal, set_object_name=label_obj,
+                                          set_styleSheet=styleSheet, set_alighment=self.sample_widget.center_alignment)
+        font = self.font
+        font.setPointSize(15)
+        label.setFont(font)
+        verticalLayout.addWidget(label)
 
         return widget
 
-    def addToCalender_showDetailWidget(self):
+    def addToCalender_showDetailWidget(self, data):
         '''
 
         :return:
@@ -194,12 +312,56 @@ class mealSearch_Widget(QWidget):
         widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
 
-        button = self.sample_widget.pushButton(set_text='Add to Calender', set_object_name='addToCalenderButton')
+        add_toCalener_object = data['id'] + '_addToCalenderButton'
+        styleSheet = self.sample_widget.styleSheet_def(obj_name=add_toCalener_object,
+                                                            background_color=self.backgroundColor.get_value(),
+                                                            border_radius=15)
+        button = self.sample_widget.pushButton(set_text='Add to Calender', set_object_name=add_toCalener_object,
+                                                  set_styleSheet=styleSheet,
+                                               min_size=(100, 40), max_size=(100, 40),
+                                               connect=partial(self.addToCalender_def, data))
         verticalLayout.addWidget(button)
 
-        button = self.sample_widget.pushButton(set_text='Show Detail', set_object_name='showDetailButton')
+
+        showDetail_object = data['id'] + '_showDetailButton'
+        if 'Non-Vegetarian' in data['dietTypes'] or 'Non-Vegetarian' in data['dietTypes'] or 'Pescatarian' in data[
+            'dietTypes'] or 'Pescatarian' in data['dietTypes']:
+            color = self.color_class.red_color.get_value()
+        else:
+            color = self.color_class.green_color.get_value()
+
+
+        styleSheet = self.sample_widget.styleSheet_def(obj_name=showDetail_object,
+                                                            background_color=color,
+                                                            border_radius=15)
+
+        button = self.sample_widget.pushButton(set_text='', set_object_name=showDetail_object,
+                                                  set_styleSheet=styleSheet,
+                                               min_size=(100, 40), max_size=(100, 40))
         verticalLayout.addWidget(button)
 
 
 
+        return widget
+
+
+    def addToCalender_def(self, data):
+        '''
+
+        :param data:
+        :return:
+        '''
+        calender_ = self.parent.popup_calender.AddToCalender(parent=self.parent, data=data)
+        result = calender_.exec_()
+        if result == QDialog.Accepted:
+            print('Accepted')
+        else:
+            print('Rejected')
+
+    def update_Widget(self, data):
+        '''
+
+        :return:
+        '''
+        widget = self.widgetList(data=data)
         return widget

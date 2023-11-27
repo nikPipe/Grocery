@@ -40,6 +40,11 @@ class calenderCenterMonth_widget(QWidget):
         widget = self.sample_widget.widget_def(set_object_name=widget_object, set_styleSheet=styleSheet)
         gridLayout = self.sample_widget.grid_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0), set_spacing=15)
 
+
+        calenderWidget = QCalendarWidget(widget)
+        gridLayout.addWidget(calenderWidget, 0, 0, 1, 2)
+
+        '''
         size = 120
         for row in range(5):  # Example: 3 rows
             for col in range(7):  # 7 columns
@@ -49,7 +54,7 @@ class calenderCenterMonth_widget(QWidget):
                 gridLayout.addWidget(button, row, col)
 
 
-
+        '''
 
 
         return widget

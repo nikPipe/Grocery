@@ -1,0 +1,68 @@
+{
+  "name": "Indian Summer Brunch",
+  "id": 22,
+  "mealtimes": ["brunch"],
+  "origin": "India",
+  "menu": {
+    "light_main_course": {
+      "default": {"name": "Rava Upma", "id": "Upma_Recipe"},
+      "variations": {
+        "Masala Dosa": "Masala_Dosa_Recipe",
+        "Idli with Coconut Chutney": "Idli_Coconut_Chutney_Recipe",
+        "Poha": "Poha_Recipe",
+        "Vegetable Uttapam": "Uttapam_Recipe",
+        "Dhokla": "Dhokla_Recipe",
+        "Sabudana Khichdi": "Sabudana_Khichdi_Recipe",
+        "Chole Bhature": "Chole_Bhature_Recipe",
+        "Kanda Poha": "Kanda_Poha_Recipe",
+        "Paneer Bhurji": "Paneer_Bhurji_Recipe",
+        "Veg Sandwich": "Sandwich_Recipe",
+        "Fruit Salad": "Fruit_Salad_Recipe",
+        "Aloo Paratha": "Aloo_Paratha_Recipe",
+        "Curd Rice": "Curd_Rice_Recipe",
+        "Sprout Salad": "Sprout_Salad_Recipe",
+        "Methi Thepla": "Methi_Thepla_Recipe"
+      }
+    },
+    "refreshing_beverages": {
+      "default": {"name": "Mango Lassi", "id": "Mango_Lassi_Recipe"},
+      "variations": {
+        "Nimbu Pani": "Nimbu_Pani_Recipe",
+        "Buttermilk": "Buttermilk_Recipe",
+        "Sugarcane Juice": "Sugarcane_Juice_Recipe",
+        "Coconut Water": "Coconut_Water_Recipe",
+        "Jal Jeera": "Jal_Jeera_Recipe",
+        "Rose Sherbet": "Rose_Sherbet_Recipe",
+        "Green Tea": "Green_Tea_Recipe",
+        "Masala Chai": "Masala_Chai_Recipe",
+        "Cold Coffee": "Coffee_Recipe",
+        "Mint Lemonade": "Mint_Lemonade_Recipe",
+        "Watermelon Juice": "Watermelon_Juice_Recipe",
+        "Cucumber Lemonade": "Cucumber_Lemonade_Recipe",
+        "Kesar Badam Milk": "Kesar_Badam_Milk_Recipe",
+        "Detox Water": "Detox_Water_Recipe",
+        "Fruit Punch": "Fruit_Punch_Recipe"
+      }
+    },
+    "light_sides": {
+      "default": {"name": "Kachumber Salad", "id": "Kachumber_Salad_Recipe"},
+      "variations": {
+        "Boondi Raita": "Boondi_Raita_Recipe",
+        "Papad": "Papad_Recipe",
+        "Green Chutney": "Green_Chutney_Recipe",
+        "Tamarind Chutney": "Tamarind_Chutney_Recipe",
+        "Mango Pickle": "Mango_Pickle_Recipe",
+        "Cucumber Raita": "Cucumber_Raita_Recipe",
+        "Onion Salad": "Onion_Salad_Recipe",
+        "Mint Chutney": "Mint_Chutney_Recipe",
+        "Tomato Chutney": "Tomato_Chutney_Recipe",
+        "Garlic Chutney": "Garlic_Chutney_Recipe",
+        "Peanut Chutney": "Peanut_Chutney_Recipe",
+        "Mixed Vegetable Raita": "Mixed_Vegetable_Raita_Recipe",
+        "Coriander Chutney": "Coriander_Chutney_Recipe",
+        "Yogurt": "Curd_Recipe",
+        "Pickle": "Pickle_Recipe"
+      }
+    }
+  }
+}

@@ -40,10 +40,13 @@ class savedMealRight_widget(QWidget):
         '''
         height = 1000
         width = 200
-        widget = self.sample_widget.widget_def(min_size=(width, height), max_size=(width, height))
+        widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0))
 
+        treeWidget = self.sample_widget.treeWidget(setHeaderHidden=True)
+        verticalLayout.addWidget(treeWidget)
 
         return widget
+
 
 

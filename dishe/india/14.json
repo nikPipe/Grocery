@@ -1,0 +1,88 @@
+{
+  "name": "Indian Vegetarian Dinner",
+  "id": 14,
+  "mealtimes": ["dinner"],
+  "origin": "India",
+  "menu": {
+    "main_course": {
+      "default": {"name": "Paneer Butter Masala", "id": "Paneer_Butter_Masala_Recipe"},
+      "variations": {
+        "Dal Makhani": "Dal_Makhani_Recipe",
+        "Chole": "Chole_Recipe",
+        "Palak Paneer": "Palak_Paneer_Recipe",
+        "Aloo Gobi": "Aloo_Gobi_Recipe",
+        "Rajma": "Rajma_Recipe",
+        "Vegetable Biryani": "Vegetable_Biryani_Recipe",
+        "Baingan Bharta": "Baingan_Bharta_Recipe",
+        "Dum Aloo": "Dum_Aloo_Recipe",
+        "Navratan Korma": "Navratan_Korma_Recipe",
+        "Matar Paneer": "Matar_Paneer_Recipe",
+        "Kadai Paneer": "Kadai_Paneer_Recipe",
+        "Kofta": "Kofta_Recipe",
+        "Veg Pulao": "Veg_Pulao_Recipe",
+        "Bhindi Masala": "Bhindi_Masala_Recipe",
+        "Mushroom Masala": "Mushroom_Masala_Recipe"
+      }
+    },
+    "breads": {
+      "default": {"name": "Naan", "id": "Naan_Recipe"},
+      "variations": {
+        "Roti": "Roti_Recipe",
+        "Paratha": "Paratha_Recipe",
+        "Kulcha": "Kulcha_Recipe",
+        "Tandoori Roti": "Tandoori_Roti_Recipe",
+        "Garlic Naan": "Garlic_Naan_Recipe",
+        "Missi Roti": "Missi_Roti_Recipe",
+        "Lachha Paratha": "Laccha_Paratha_Recipe",
+        "Pudina Paratha": "Pudina_Paratha_Recipe",
+        "Aloo Paratha": "Aloo_Paratha_Recipe",
+        "Gobi Paratha": "Gobi_Paratha_Recipe",
+        "Paneer Paratha": "Paneer_Paratha_Recipe",
+        "Bhatura": "Bhatura_Recipe",
+        "Methi Thepla": "Methi_Thepla_Recipe",
+        "Ajwain Paratha": "Ajwain_Paratha_Recipe",
+        "Roomali Roti": "Roomali_Roti_Recipe"
+      }
+    },
+    "side_dishes": {
+      "default": {"name": "Mixed Vegetable Raita", "id": "Mixed_Vegetable_Raita_Recipe"},
+      "variations": {
+        "Papad": "Papad_Recipe",
+        "Green Chutney": "Green_Chutney_Recipe",
+        "Tamarind Chutney": "Tamarind_Chutney_Recipe",
+        "Pickle": "Pickle_Recipe",
+        "Kachumber Salad": "Kachumber_Salad_Recipe",
+        "Dal Tadka": "Dal_Tadka_Recipe",
+        "Paneer Bhurji": "Paneer_Bhurji_Recipe",
+        "Aloo Tikki": "Aloo_Tikki_Recipe",
+        "Vegetable Kurma": "Vegetable_Kurma_Recipe",
+        "Chana Masala": "Chana_Masala_Recipe",
+        "Eggplant Curry": "Eggplant_Curry_Recipe",
+        "Cabbage Poriyal": "Cabbage_Poriyal_Recipe",
+        "Mushroom Manchurian": "Mushroom_Manchurian_Recipe",
+        "Veg Manchurian": "Veg_Manchurian_Recipe",
+        "Gobi Manchurian": "Gobi_Manchurian_Recipe"
+      }
+    },
+    "desserts": {
+      "default": {"name": "Gulab Jamun", "id": "Gulab_Jamun_Recipe"},
+      "variations": {
+        "Rasgulla": "Rasgulla_Recipe",
+        "Jalebi": "Jalebi_Recipe",
+        "Rasmalai": "Rasmalai_Recipe",
+        "Kheer": "Kheer_Recipe",
+        "Ladoo": "Ladoo_Recipe",
+        "Barfi": "Barfi_Recipe",
+        "Halwa": "Halwa_Recipe",
+        "Peda": "Peda_Recipe",
+        "Shrikhand": "Shrikhand_Recipe",
+        "Kulfi": "Kulfi_Recipe",
+        "Mysore Pak": "Mysore_Pak_Recipe",
+        "Besan Ladoo": "Besan_Ladoo_Recipe",
+        "Kaju Katli": "Kaju_Katli_Recipe",
+        "Mohanthal": "Mohanthal_Recipe",
+        "Carrot Halwa": "Carrot_Halwa_Recipe"
+      }
+    }
+  }
+}

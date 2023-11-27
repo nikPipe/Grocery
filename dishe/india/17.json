@@ -1,0 +1,68 @@
+{
+  "name": "Indian Fusion Cuisine Dinner",
+  "id": 17,
+  "mealtimes": ["dinner"],
+  "origin": "India",
+  "menu": {
+    "fusion_main_course": {
+      "default": {"name": "Paneer Tikka Pizza", "id": "Paneer_Tikka_Pizza_Recipe"},
+      "variations": {
+        "Tandoori Chicken Pasta": "Tandoori_Chicken_Pasta_Recipe",
+        "Masala Mac and Cheese": "Masala_Mac_and_Cheese_Recipe",
+        "Curry Infused Quinoa": "Curry_Infused_Quinoa_Recipe",
+        "Butter Chicken Burger": "Butter_Chicken_Burger_Recipe",
+        "Chilli Paneer Wrap": "Chilli_Paneer_Wrap_Recipe",
+        "Samosa Tacos": "Samosa_Tacos_Recipe",
+        "Biryani Risotto": "Biryani_Risotto_Recipe",
+        "Naanwich": "Naanwich_Recipe",
+        "Spiced Chickpea Stew": "Spiced_Chickpea_Stew_Recipe",
+        "Indian Spiced Falafel": "Indian_Spiced_Falafel_Recipe",
+        "Chicken Tikka Quesadilla": "Chicken_Tikka_Quesadilla_Recipe",
+        "Paneer Tikka Tacos": "Paneer_Tikka_Tacos_Recipe",
+        "Curried Veggie Burger": "Curried_Veggie_Burger_Recipe",
+        "Spiced Potato Flatbread": "Spiced_Potato_Flatbread_Recipe",
+        "Coconut Curry Pasta": "Coconut_Curry_Pasta_Recipe"
+      }
+    },
+    "fusion_sides": {
+      "default": {"name": "Spicy Garlic Naan", "id": "Spicy_Garlic_Naan_Recipe"},
+      "variations": {
+        "Curried Hummus": "Curried_Hummus_Recipe",
+        "Masala Roasted Potatoes": "Masala_Roasted_Potatoes_Recipe",
+        "Tandoori Cauliflower Bites": "Tandoori_Cauliflower_Bites_Recipe",
+        "Indian Style Coleslaw": "Indian_Style_Coleslaw_Recipe",
+        "Spiced Corn Salad": "Spiced_Corn_Salad_Recipe",
+        "Mango Salsa": "Mango_Salsa_Recipe",
+        "Chaat Masala Fries": "Chaat_Masala_Fries_Recipe",
+        "Cucumber Raita": "Cucumber_Raita_Recipe",
+        "Gobi Manchurian": "Gobi_Manchurian_Recipe",
+        "Paneer Stuffed Peppers": "Paneer_Stuffed_Peppers_Recipe",
+        "Spiced Beetroot Dip": "Spiced_Beetroot_Dip_Recipe",
+        "Tandoori Chicken Wings": "Tandoori_Chicken_Wings_Recipe",
+        "Indian Spice Roasted Carrots": "Indian_Spice_Roasted_Carrots_Recipe",
+        "Kachumber Salad": "Kachumber_Salad_Recipe",
+        "Paneer Bruschetta": "Paneer_Bruschetta_Recipe"
+      }
+    },
+    "fusion_desserts": {
+      "default": {"name": "Gulab Jamun Cheesecake", "id": "Gulab_Jamun_Cheesecake_Recipe"},
+      "variations": {
+        "Saffron Pistachio Ice Cream": "Saffron_Pistachio_Ice_Cream_Recipe",
+        "Chai Spiced Tiramisu": "Chai_Spiced_Tiramisu_Recipe",
+        "Mango Lassi Popsicle": "Mango_Lassi_Popsicle_Recipe",
+        "Cardamom Panna Cotta": "Cardamom_Panna_Cotta_Recipe",
+        "Ras Malai Cake": "Ras_Malai_Cake_Recipe",
+        "Chocolate Samosa": "Chocolate_Samosa_Recipe",
+        "Masala Chai Creme Brulee": "Masala_Chai_Creme_Brulee_Recipe",
+        "Kulfi Falooda Trifle": "Kulfi_Falooda_Trifle_Recipe",
+        "Jalebi Parfait": "Jalebi_Parfait_Recipe",
+        "Coconut Cardamom Truffles": "Coconut_Cardamom_Truffles_Recipe",
+        "Rose Water Macarons": "Rose_Water_Macarons_Recipe",
+        "Saffron Infused Lemon Tart": "Saffron_Infused_Lemon_Tart_Recipe",
+        "Gajar Halwa Spring Rolls": "Gajar_Halwa_Spring_Rolls_Recipe",
+        "Basundi Panna Cotta": "Basundi_Panna_Cotta_Recipe",
+        "Mango Cardamom Mousse": "Mango_Cardamom_Mousse_Recipe"
+      }
+    }
+  }
+}
