@@ -27,6 +27,7 @@ class centerMainWidget(QWidget):
         self.parent = parent
 
 
+
         self.homeWidgetMain = homeWidgetMain.homwMainWidget(self.parent)
         self.mealMainWidget = mealMainWidget.mealMainWidget(self.parent)
         self.recepieMainWidget = recepieMainWidget.recepieMainWidget(self.parent)

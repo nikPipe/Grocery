@@ -22,6 +22,7 @@ class topMainWidget(QWidget):
         widget = self.initUI()
         verticalLayout.addWidget(widget)
 
+
     def initUI(self):
         '''
 

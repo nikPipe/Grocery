@@ -24,6 +24,8 @@ class mainWidget(QMainWindow):
         self.mainCenterWidget = mainCenterWidget.centerMainWidget(self)
         self.topWidgetMain = topWidgetMain.topMainWidget(self)
 
+
+
         self.get_meal_dishe = get_meal_dishe
         self.popup_detailMeal = popup_detailMeal
         self.popup_calender = popup_calender

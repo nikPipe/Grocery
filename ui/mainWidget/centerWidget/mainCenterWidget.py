@@ -21,6 +21,8 @@ class centerMainWidget(QWidget):
         self.leftmainWidget = leftmainWidget.leftMainWidget(self.parent)
         self.centerMainWidget = centerMainWidget_.centerMainWidget(self.parent)
 
+
+
         self.getCookingSkillList = []
         verticalLayout = QVBoxLayout(self)
 
