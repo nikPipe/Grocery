@@ -30,8 +30,6 @@ class recepieDetailMenu_widget(QWidget):
         self.sampleObjectNmae = 'labelStyleSheet'
         self.labelStyleSheet = self.sample_widget.styleSheet_def(obj_name=self.sampleObjectNmae,
                                                                  color=self.color_class.white_color.get_value())
-
-
         verticalLayout = QVBoxLayout(self)
 
         widget = self.initUI()
@@ -92,21 +90,7 @@ class recepieDetailMenu_widget(QWidget):
                 print(name)
 
 
-    def menuCheckboxWidget(self):
-        '''
 
-        :return:
-        '''
-        widget = self.sample_widget.widget_def(min_size=(0, 50), max_size=(16777215, 50))
-        horizontalLayout = self.sample_widget.horizontal_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0))
-
-        for each in range(5):
-            checkbox_objName = 'checkbox'
-            styleSheet_ = self.sample_widget.styleSheet_def(obj_name=checkbox_objName, color=self.color_class.white_color.get_value())
-            checkBox = self.sample_widget.checkbox(set_text='Test', set_object_name=checkbox_objName, set_styleSheet=styleSheet_)
-            horizontalLayout.addWidget(checkBox)
-
-        return widget
 
 
 

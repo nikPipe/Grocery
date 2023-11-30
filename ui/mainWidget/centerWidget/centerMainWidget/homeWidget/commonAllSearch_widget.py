@@ -8,7 +8,7 @@ import ui, os
 from data import get_meal_dishe
 file =  os.path.dirname(os.path.realpath(ui.__file__))
 from ui import commonButtonWidget
-
+from ui.mainWidget.centerWidget.centerMainWidget import mealWidget_sample
 
 class commonAllSearch_Widget(QWidget):
     def __init__(self, parent):
@@ -140,43 +140,14 @@ class commonAllSearch_Widget(QWidget):
 
             for each in mealList:
 
-                widget = commonButtonWidget.commonWidget(each)
-                widget_ = self.parent.mainCenterWidget.centerMainWidget.mealMainWidget.mealSearchWidget.update_Widget(each)
-
-
-                #widget.findChild(QPushButton).clicked.connect(partial(self.parent.mainCenterWidget.centerMainWidget, each))
-                pushButton = widget.findChild(QPushButton)
-                pushButton.clicked.connect(partial(self.parent.mainCenterWidget.centerMainWidget.homeWidgetMain.pushClick, each))
-
-                pushButtonList = widget.findChildren(QPushButton)
-                for each_pushButton in pushButtonList:
-                    if 'addToCalender'.lower() in each_pushButton.objectName().lower():
-                        each_pushButton.clicked.connect(partial(self.parent.mainCenterWidget.centerMainWidget.homeWidgetMain.addToCalender, each))
-
-
-                '''
-                pushButton_object = 'pushButton_object'
-                name = each['name']
-                image = each['images']['main']
-    
-                styleSheet = self.sample_widget.styleSheet_def(obj_name=pushButton_object,
-                                                               background_color=self.backgroundColor.get_value(),
-                                                               border_radius=20)
-                pushButton = self.sample_widget.pushButton(set_text=name, min_size=(width, height),
-                                                           max_size=(width, height),
-                                                           set_styleSheet=styleSheet, set_object_name=pushButton_object,
-                                                           set_icon=image, set_icon_size=(width, height),
-                                                           connect=partial(self.pushClick, each))
-                pushButton.setFont(font)
-                '''
-
-                self.search_meal_gridLayout.addWidget(widget_, a, 0)
+                widget__ = mealWidget_sample.mealWidgetSample(parent=self.parent, data=each)
+                self.search_meal_gridLayout.addWidget(widget__, a, 0)
                 a+=1
         except:
             import traceback
             traceback.print_exc()
     def pushClick(self, data):
-        print('pushClick')
+
         self.parent.mainCenterWidget.centerMainWidget.stackedWidget.setCurrentIndex(1)
         self.parent.mainCenterWidget.centerMainWidget.mealMainWidget.stakeWidget.setCurrentIndex(1)
 

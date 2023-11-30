@@ -9,7 +9,6 @@ from ui.mainWidget.centerWidget.centerMainWidget import centerMainWidget_
 
 file =  os.path.dirname(os.path.realpath(ui.__file__))
 
-
 class centerMainWidget(QWidget):
     def __init__(self, parent):
         super().__init__()
@@ -45,5 +44,6 @@ class centerMainWidget(QWidget):
         split_def.addWidget(self.leftmainWidget)
         split_def.addWidget(self.centerMainWidget)
         split_def.setSizes([1, 600])
+
 
         return widget

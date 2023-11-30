@@ -145,10 +145,7 @@ class mealSearch_Widget(QWidget):
         '''
         popup = self.parent.popup_detailMeal.mealDeatail(parent=self.parent, data=data)
         result = popup.exec_()  # This makes the dialog modal
-        if result == QDialog.Accepted:
-            print('Accepted')
-        else:
-            print('Rejected')
+
 
     def name_history_descriptionWidget(self, data):
         '''
@@ -353,10 +350,7 @@ class mealSearch_Widget(QWidget):
         '''
         calender_ = self.parent.popup_calender.AddToCalender(parent=self.parent, data=data)
         result = calender_.exec_()
-        if result == QDialog.Accepted:
-            print('Accepted')
-        else:
-            print('Rejected')
+
 
     def update_Widget(self, data):
         '''

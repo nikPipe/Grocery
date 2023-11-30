@@ -27,18 +27,13 @@ class recepieDetailMenuDetail_widget(QWidget):
         self.sampleObjectNmae = 'labelStyleSheet'
         self.labelStyleSheet = self.sample_widget.styleSheet_def(obj_name=self.sampleObjectNmae,
                                                                  color=self.color_class.white_color.get_value())
-
-
         verticalLayout = QVBoxLayout(self)
 
         widget = self.initUI()
         verticalLayout.addWidget(widget)
 
-
-
     def initUI(self):
         '''
-
 
         :return:
         '''
@@ -49,7 +44,6 @@ class recepieDetailMenuDetail_widget(QWidget):
         verticalLayout.addWidget(self.menuTabWidget())
 
         return widget
-
 
     def menuTabWidget(self):
         '''

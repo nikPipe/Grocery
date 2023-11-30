@@ -11,6 +11,7 @@ file =  os.path.dirname(os.path.realpath(ui.__file__))
 from ui.mainWidget.centerWidget.centerMainWidget.mealWidget import mealMain_widget
 from ui.mainWidget.centerWidget.centerMainWidget.mealWidget import mealDetail_widget
 from ui.mainWidget.centerWidget.centerMainWidget.mealWidget import mealSearch_widget
+from ui.mainWidget.centerWidget.centerMainWidget import mealWidget_sample
 
 from data import get_meal_dishe
 
@@ -102,9 +103,10 @@ class mealMainWidget(QWidget):
 
         for eachMeal in mealList:
             try:
-                pass
-                widget = self.mealSearchWidget.update_Widget(eachMeal)
-                verticalLayout.addWidget(widget)
+
+                widget__ = mealWidget_sample.mealWidgetSample(parent=self.parent, data=eachMeal)
+                #widget = self.mealSearchWidget.update_Widget(eachMeal)
+                verticalLayout.addWidget(widget__)
             except Exception as e:
                 import traceback
                 traceback.print_exc()

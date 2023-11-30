@@ -23,6 +23,34 @@ class mealClass():
         self.keywords = self.keywords()
         self.allergens = self.getallergens()
 
+
+    def getIngredientsItem(self):
+        ingredients = []
+        for each in self.json['ingredients']:
+            for key, value in each.items():
+                if key == 'item':
+                    ingredients.append(value)
+
+        return ingredients
+
+    def getIngredientsItemQuatity(self):
+        ingredients = []
+        for each in self.json['ingredients']:
+            for key, value in each.items():
+                if key == 'quantity':
+                    ingredients.append(value)
+
+        return ingredients
+
+    def getIngredientsItemUnit(self):
+        ingredients = []
+        for each in self.json['ingredients']:
+            for key, value in each.items():
+                if key == 'weight':
+                    ingredients.append(value)
+
+        return ingredients
+
     def getId(self):
         return self.json['id']
 

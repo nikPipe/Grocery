@@ -14,14 +14,13 @@ color_class = sample_color_variable.COLOR_VARIABLE()
 
 color__ = color_class.setColorVal(r=36, g=36, b=36)
 backgroundColor = color_class.setColorVal(r=179, g=179, b=179)
-width = 250
+width = 200
 height = 150
-width_ = 250
+width_ = width
 height_ = 100
 font = QFont()
 font.setBold(True)
 font.setPointSize(10)
-
 
 def commonWidget(dict):
     """
@@ -35,6 +34,7 @@ def commonWidget(dict):
     id = dict['id']
     name = dict['name']
     image = dict['images']['main']
+
 
 
     pushButton_object = id + '_object'
@@ -97,7 +97,7 @@ def label_button_def(dict):
     size = 30
     pushButton_object = id + '_addToCalender_pushButton_object'
     addToCalender = sample_widget_template_class.pushButton(set_text='', min_size=(size, size),
-                                                            max_size=(size, size), set_object_name=pushButton_object,)
+                                                            max_size=(size, size), set_object_name=pushButton_object)
     addToCalender.setFont(font)
     gridLayout.addWidget(addToCalender, 0, 2, 1, 1)
 

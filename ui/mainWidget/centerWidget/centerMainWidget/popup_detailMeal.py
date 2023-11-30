@@ -1,3 +1,4 @@
+import traceback
 from functools import partial
 
 from ui.import_module import *
@@ -6,8 +7,10 @@ from ui.sampleWidget import styleSheet, sample_color_variable
 from data import help
 import ui, os
 file =  os.path.dirname(os.path.realpath(ui.__file__))
+from ui.mainWidget.centerWidget.centerMainWidget import mealWidget_sample
 from ui.mainWidget.centerWidget.centerMainWidget.calenderWidget import calenderMainWidget
 
+from ui.mainWidget.centerWidget.centerMainWidget import addtoCalender_widget
 class mealDeatail(QDialog):
     def __init__(self, parent=None, data=None):
         super().__init__(parent)
@@ -29,7 +32,6 @@ class mealDeatail(QDialog):
 
     def initUI(self):
         '''
-
 
         :return:
         '''
@@ -213,8 +215,28 @@ class mealDeatail(QDialog):
         widget = self.sample_widget.widget_def()
         horizontalLayout = self.sample_widget.horizontal_layout(parent_self=widget, set_spacing=15)
 
+
+
+        #SAVE
+        save_object = data['id'] + '_saveLabelObject'
+        styleSheet = self.sample_widget.styleSheet_def(obj_name=save_object,
+                                                       background_color=self.backgroundColor.get_value(),
+                                                       border_radius=30)
+        saveButton = self.sample_widget.pushButton(set_text='Save', set_object_name=save_object,
+                                                  set_styleSheet=styleSheet,
+                                                  min_size=(100, 100), max_size=(100, 100))
+        saveButton.clicked.connect(partial(self.saveMeal, data=data))
+
+        font = self.font
+        font.setPointSize(15)
+        saveButton.setFont(font)
+
+        horizontalLayout.addWidget(saveButton)
+
+        #
         horizontalLayout.addItem(QSpacerItem(0, 0, QSizePolicy.Expanding, QSizePolicy.Maximum))
 
+        # ADD TO CALENDER
         addToClaender_object = data['id'] + '_addToCalenderLabelObject'
         styleSheet = self.labelStyleSheet.replace(self.sampleObjectNmae, addToClaender_object)
         addToCalenderLabel = self.sample_widget.label(set_text='Add to Calender',
@@ -239,15 +261,29 @@ class mealDeatail(QDialog):
 
         return widget
 
+    def saveMeal(self, data):
+        '''
+
+        :return:
+        '''
+        widget = mealWidget_sample.savedMeal(self.parent, data=data)
+        widget.exec_()
+
+
     def addToCalender(self, data):
+        try:
+            widget = addtoCalender_widget.AddToCalender(self.parent, data)
+            widget.exec_()
+        except Exception as e:
+            traceback.print_exc()
+
+        print('this is it')
+        '''
 
         popup = self.parent.popup_calender.AddToCalender(self.parent, data)
         #popup = AddToCalender(self.parent, data)
         result = popup.exec_()  # This makes the dialog modal
-        if result == QDialog.Accepted:
-            print("Popup was accepted")
-        else:
-            print("Popup was rejected")
+        '''
         print('add to calender')
 
     def mealViewWidget(self):
@@ -378,17 +414,6 @@ class mealDeatail(QDialog):
             button.setFont(font)
             self.nutrition_horizontalLayout_.addWidget(button)
 
-        '''
-        for each in range(0, 4):
-            buttonObject = 'nutritionButton'
-            styleSheet = self.sample_widget.styleSheet_def(obj_name=buttonObject,
-                                                           background_color=self.backgroundColor.get_value(),
-                                                           border_radius=50)
-            button = self.sample_widget.pushButton(set_text='Nutrition', set_object_name=buttonObject,
-                                                   set_styleSheet=styleSheet,
-                                                   min_size=(100, 100), max_size=(100, 100))
-            self.nutrition_horizontalLayout_.addWidget(button)
-        '''
         return widget
 
     def mealTabWidget(self, data):
@@ -587,6 +612,41 @@ class mealDeatail(QDialog):
 
         return widget
 
+    def instruction_def(self, dic_val):
+        '''
+
+        :param instruction:
+        :return:
+        '''
+        instructions = dic_val['instructions']
+        widget = self.sample_widget.widget_def()
+        verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
+
+        for each in instructions:
+            texEdit = QTextEdit()
+            texEdit.setReadOnly(True)
+            text = each['step'] + ' : ' + each['title'].upper() + '\n' + each['description']
+
+            texEdit.setText(text)
+            verticalLayout.addWidget(texEdit)
+
+
+        '''
+        treeWidget = self.sample_widget.treeWidget(parent_self=widget)
+        treeWidget.setColumnCount(3)
+
+        treeWidget.setHeaderLabels(['Step', 'title', 'description'])
+        verticalLayout.addWidget(treeWidget)
+
+        for each in instructions:
+            item = QTreeWidgetItem(treeWidget)
+            item.setText(0, each['step'])
+            item.setText(1, each['title'])
+            item.setText(2, each['description'])
+            treeWidget.addTopLevelItem(item)
+        '''
+        return widget
+
     def update_tabWidget(self, dic_val):
         '''
 
@@ -598,6 +658,9 @@ class mealDeatail(QDialog):
 
         # INGREDIENT TAB
         self.meal_tabWidget.addTab(self.ingredientItemWidget(ingredient=dic_val['ingredients']), 'Ingredients')
+
+        # INSTRUCTION TAB
+        self.meal_tabWidget.addTab(self.instruction_def(dic_val=dic_val), 'Instruction')
 
         # EQUIPMENT TAB
         self.meal_tabWidget.addTab(self.equipment_def(equipment=dic_val['equipment']), 'Equipment')

@@ -4,10 +4,9 @@ from ui.sampleWidget import styleSheet, sample_color_variable
 from data import help
 import ui, os
 file =  os.path.dirname(os.path.realpath(ui.__file__))
-from data import get_meal_dishe
 
-from ui.mainWidget.centerWidget.centerMainWidget.recepieWidget import recepieTop_widget
-from ui.mainWidget.centerWidget.centerMainWidget.recepieWidget import recepieCenter_widget
+from ui.mainWidget.centerWidget.centerMainWidget.recepieWidget import recepieTop_widget, recepieCenter_widget
+
 
 class recepieMainWidget(QWidget):
     def __init__(self, parent):
@@ -38,7 +37,12 @@ class recepieMainWidget(QWidget):
         widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0))
 
-        verticalLayout.addWidget(self.recepieTop_widget)
-        verticalLayout.addWidget(self.recepieCenter_widget)
+        splitter = self.sample_widget.splitter_def(parent_self=widget, set_orientation=self.sample_widget.vertical)
+        verticalLayout.addWidget(splitter)
+
+        splitter.addWidget(self.recepieTop_widget)
+        splitter.addWidget(self.recepieCenter_widget)
+
+        splitter.setSizes([10, 500])
 
         return widget

@@ -19,10 +19,11 @@ class calenderCenter_widget(QWidget):
         self.help_class = help.Help()
         self.parent = parent
         self.getCookingSkillList = []
+        self.currentDay = self.parent.currentDay
 
-        self.calenderCenterDay_widget = calenderCenterDay_widget.calenderCenterDay_widget(self.parent)
-        self.calenderCenterWeek_widget = calenderCenterWeek_widget.calenderCenterWeek_widget(self.parent)
-        self.calenderCenterMonth_widget = calenderCenterMonth_widget.calenderCenterMonth_widget(self.parent)
+        self.calenderCenterDay_widget = calenderCenterDay_widget.calenderCenterDay_widget(self)
+        self.calenderCenterWeek_widget = calenderCenterWeek_widget.calenderCenterWeek_widget(self)
+        self.calenderCenterMonth_widget = calenderCenterMonth_widget.calenderCenterMonth_widget(self)
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
         self.backgroundColor = self.color_class.setColorVal(r=179, g=179, b=179)
@@ -37,11 +38,13 @@ class calenderCenter_widget(QWidget):
 
         widget = self.initUI()
         verticalLayout.addWidget(widget)
+
     def initUI(self):
         '''
 
         :return:
         '''
+
         widget_object = 'centerMainWidget'
         styleSheet = self.sample_widget.styleSheet_def(obj_name=widget_object, background_color=self.color.get_value(),
                                                        border_color=self.color_class.black_color.get_value())
@@ -54,17 +57,19 @@ class calenderCenter_widget(QWidget):
         self.calenderCenter_stakeWidget.setObjectName(stakeWidget_object)
         verticalLayout.addWidget(self.calenderCenter_stakeWidget)
 
-
-
         self.calenderCenter_stakeWidget.addWidget(self.calenderCenterDay_widget)
         self.calenderCenter_stakeWidget.addWidget(self.calenderCenterWeek_widget)
         self.calenderCenter_stakeWidget.addWidget(self.calenderCenterMonth_widget)
 
-
-
-        #self.calenderCenter_stakeWidget.setCurrentIndex(0)
-
         return widget
+    def update_(self):
+        '''
+
+        :return:
+        '''
+        self.calenderCenterDay_widget.update_(self.currentDay)
+        self.calenderCenterWeek_widget.update_(self.currentDay)
+        self.calenderCenterMonth_widget.update_(self.currentDay)
 
 
 

@@ -36,11 +36,13 @@ class recepieTop_widget(QWidget):
         self.labelStyleSheet = self.sample_widget.styleSheet_def(obj_name=self.sampleObjectNmae,
                                                                  color=self.color_class.white_color.get_value())
 
-
         verticalLayout = QVBoxLayout(self)
 
         widget = self.initUI()
         verticalLayout.addWidget(widget)
+
+
+
 
 
 
@@ -51,7 +53,7 @@ class recepieTop_widget(QWidget):
         :return:
         '''
 
-        widget = self.sample_widget.widget_def(min_size=(0, 50), max_size=(16777215, 50))
+        widget = self.sample_widget.widget_def()
         horizontalLayout = self.sample_widget.horizontal_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0))
 
         countryList = self.help_class.totalCountry()
@@ -95,3 +97,6 @@ class recepieTop_widget(QWidget):
 
 
         return widget
+
+
+

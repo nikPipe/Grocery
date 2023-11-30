@@ -207,6 +207,11 @@ class getGroceryBudgetWidget(QWidget):
         val = self.spinBox.value()
         self.parent.userData['groceryBudget'] = self.spinBox.value()
         self.parent.set_stakeWidget_def(8)
+        self.parent.userData['calender'] = {}
+        self.parent.userData['savedMeal'] = {}
+        self.parent.userData['savedRecepie'] = {}
+        self.parent.userData['forYouMeal'] = {}
+        self.parent.userData['shoppingList'] = {}
 
         try:
             # Code that may raise an exception

@@ -176,10 +176,7 @@ class mealMain_Widget(QWidget):
         '''
         popup = self.parent.popup_calender.AddToCalender(parent=self.parent, data=buttonDic)
         result = popup.exec_()
-        if result == QDialog.Accepted:
-            print('Accepted')
-        else:
-            print('Rejected')
+
 
         print(self.parent.mainCenterWidget.centerMainWidget.homeWidgetMain)
         #self.parent.mainCenterWidget.centerMainWidget.homeWidgetMain.addToCalender(data=buttonDic)
@@ -192,10 +189,7 @@ class mealMain_Widget(QWidget):
         '''
         pop = self.parent.popup_detailMeal.mealDeatail(parent=self.parent, data=buttonDic)
         result = pop.exec_()
-        if result == QDialog.Accepted:
-            print('Accepted')
-        else:
-            print('Rejected')
+
 
         '''
         

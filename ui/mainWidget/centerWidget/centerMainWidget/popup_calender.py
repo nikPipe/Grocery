@@ -19,7 +19,8 @@ class AddToCalender(QDialog):
         self.parent = parent
         self.data = data
 
-        self.setWindowTitle("Add to Calender")
+        name = 'Add to Calender: ' + str(self.data['name'])
+        self.setWindowTitle(name)
         self.setModal(True)  # Set the dialog as modal
 
         layout = QVBoxLayout(self)
@@ -32,7 +33,6 @@ class AddToCalender(QDialog):
 
         :return:
         '''
-        print('this is the data: ', self.data)
         width = 800
         height = 600
         widget  = self.sample_widget.widget_def(min_size=(width, height), max_size=(width, height))
@@ -87,6 +87,10 @@ class AddToCalender(QDialog):
             jsonFile['calender'][calender_Widget.selectedDate().toString('yyyyMMdd')] = {}
         if timeWidget.time().toString('hhmmss') not in jsonFile['calender'][calender_Widget.selectedDate().toString('yyyyMMdd')]:
             jsonFile['calender'][calender_Widget.selectedDate().toString('yyyyMMdd')][timeWidget.time().toString('hhmmss')] = []
+
+
+
+
         jsonFile['calender'][calender_Widget.selectedDate().toString('yyyyMMdd')][timeWidget.time().toString('hhmmss')].append(data['id'])
 
         date = calender_Widget.selectedDate().fromString(calender_Widget.selectedDate().toString('yyyyMMdd'), 'yyyyMMdd')
@@ -109,22 +113,18 @@ class AddToCalender(QDialog):
         widget = self.sample_widget.widget_def()
         horizontalLayout = self.sample_widget.horizontal_layout(parent_self=widget)
 
-        print('1')
         breakfast = self.sample_widget.pushButton(set_text='Breakfast', set_object_name='breakfast',
                                                   connect=partial(self.breakfast_lunch_snack_dinner_button_def, 'breakfast', timeWidget))
         horizontalLayout.addWidget(breakfast)
 
-        print('2')
         lunch = self.sample_widget.pushButton(set_text='Lunch', set_object_name='lunch',
                                               connect=partial(self.breakfast_lunch_snack_dinner_button_def, 'lunch', timeWidget))
         horizontalLayout.addWidget(lunch)
 
-        print('3')
         snack = self.sample_widget.pushButton(set_text='Snack', set_object_name='snack',
                                               connect=partial(self.breakfast_lunch_snack_dinner_button_def, 'snack', timeWidget))
         horizontalLayout.addWidget(snack)
 
-        print('4')
         dinner = self.sample_widget.pushButton(set_text='Dinner', set_object_name='dinner',
                                                connect=partial(self.breakfast_lunch_snack_dinner_button_def, 'dinner', timeWidget))
         horizontalLayout.addWidget(dinner)

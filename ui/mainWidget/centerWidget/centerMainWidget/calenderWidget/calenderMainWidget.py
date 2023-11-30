@@ -22,9 +22,10 @@ class calenderMainWidget(QWidget):
         self.help_class = help.Help()
         self.parent = parent
         self.getCookingSkillList = []
+        self.currentDay = QDate.currentDate().toString('dd.MM.yyyy')
 
-        self.calenderTop_widget = calenderTop_widget.calenderTop_widget(self.parent)
-        self.calenderCenter_widget = calenderCenter_widget.calenderCenter_widget(self.parent)
+        self.calenderTop_widget = calenderTop_widget.calenderTop_widget(self)
+        self.calenderCenter_widget = calenderCenter_widget.calenderCenter_widget(self)
 
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
@@ -81,11 +82,17 @@ class calenderMainWidget(QWidget):
         '''
         popup = AddToCalender(self.parent, data)
         result = popup.exec_()  # This makes the dialog modal
-        if result == QDialog.Accepted:
-            print("Popup was accepted")
-        else:
-            print("Popup was rejected")
 
+
+    def getCurrentDay(self):
+        return self.currentDay
+
+    def update_(self):
+        '''
+
+        :return:
+        '''
+        self.calenderCenter_widget.update_()
 
 class AddToCalender(QDialog):
     def __init__(self, parent=None, data=None):
@@ -109,7 +116,6 @@ class AddToCalender(QDialog):
 
         :return:
         '''
-        print('this is the data: ', self.data)
         widget  = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget)
 

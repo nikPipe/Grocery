@@ -167,6 +167,19 @@ class leftMainWidget(QWidget):
         :return:
         '''
         self.parent.mainCenterWidget.centerMainWidget.stackedWidget.setCurrentIndex(value)
+        if value == 4:
+            try:
+                self.parent.mainCenterWidget.centerMainWidget.calenderMainWidget.update_()
+            except:
+                import traceback
+                traceback.print_exc()
+
+        if value == 5:
+            self.parent.mainCenterWidget.centerMainWidget.savedMealMainWidget.update_()
+
+
+
+        '''
 
         if value == 0:
             self.parent.mainCenterWidget.centerMainWidget.homeWidgetMain.stakeWidget.setCurrentIndex(0)
@@ -190,7 +203,7 @@ class leftMainWidget(QWidget):
             print('this is save panty')
         else:
             print('this is about')
-
+        '''
     def aboutWidget(self):
         '''
 

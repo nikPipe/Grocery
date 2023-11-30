@@ -5,7 +5,7 @@ from data import help
 import ui, os
 file =  os.path.dirname(os.path.realpath(ui.__file__))
 
-from ui.mainWidget.centerWidget.centerMainWidget.recepieWidget import recepieDetail_widget
+from ui.mainWidget.centerWidget.centerMainWidget.recepieWidget.old import recepieDetail_widget
 
 
 class pantryTop_widget(QWidget):

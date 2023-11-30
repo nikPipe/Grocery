@@ -1,7 +1,7 @@
 import dishe
 import os, json
 import tempfile
-
+from datetime import datetime, timedelta
 class Help():
 
     def __init__(self):
@@ -223,6 +223,13 @@ class Help():
         with open(tempFileData, 'w') as f:
             json.dump(data, f, indent=4)
 
+    def getTempJsonFile(self):
+        tempFile_ = self.getTempFile(self.tempFileName)
+        if tempFile_:
+            with open(tempFile_, 'r') as f:
+                data = json.load(f)
+            return data
+
 
     def get_TempFileData(self):
         '''
@@ -249,6 +256,63 @@ class Help():
                     widget.deleteLater()
 
 
+    def converDateToString(self, date):
+        '''
+
+        :param date:
+        :return:
+        '''
+        date_object = datetime.strptime(date, "%d.%m.%Y")
+        formatted_date = date_object.strftime("%d %B %Y")
+
+        return formatted_date
+
+    def getDay(self, date):
+        '''
+
+        :param date:
+        :return:
+        '''
+        date_object = datetime.strptime(date, "%d.%m.%Y")
+        day_of_week = date_object.strftime("%A")
+
+        return day_of_week
+
+    def getWeek(self, date):
+        '''
+
+        :param date:
+        :return:
+        '''
+        date_object = datetime.strptime(date, "%d.%m.%Y")
+        closest_previous_sunday = date_object - timedelta(days=date_object.weekday())
+        end_of_week = closest_previous_sunday + timedelta(days=6)
+
+        closest_previous_sunday = closest_previous_sunday.strftime("%d.%m.%Y")
+        end_of_week = end_of_week.strftime("%d.%m.%Y")
+
+        return closest_previous_sunday, end_of_week
+
+    def getMonth(self, date):
+        '''
+
+        :param date:
+        :return:
+        '''
+        date_object = datetime.strptime(date, "%d.%m.%Y")
+        month = date_object.month
+
+        return month
+
+    def getYear(self, date):
+        '''
+
+        :param date:
+        :return:
+        '''
+        date_object = datetime.strptime(date, "%d.%m.%Y")
+        year = date_object.year
+        return year
 
 
 

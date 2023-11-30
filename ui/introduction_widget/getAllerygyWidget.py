@@ -55,59 +55,6 @@ class AllerygyWidget(QWidget):
         gridLayout.addWidget(letsGetStartedPushButton, 3, 0, 1, 1)
 
 
-        '''
-        
-        appName_object = 'appName'
-        appName_styleSheet = self.sample_widget.styleSheet_def(obj_name=appName_object,
-                                                               color=self.color_class.white_color.get_value(),
-                                                               font_size=20)
-
-        appName = self.sample_widget.label(set_object_name=appName_object,
-                                                    set_styleSheet=appName_styleSheet,
-                                                    set_text='Do you have Any Allergy?', set_alighment=self.sample_widget.center_alignment)
-        appName.setFont(font)
-        gridLayout.addWidget(appName, 2, 0, 1, 1)
-
-
-        gridLayout.addWidget(self.allergyWidget(), 3, 0, 1, 1)
-
-
-
-        appName_object = 'appName'
-        appName_styleSheet = self.sample_widget.styleSheet_def(obj_name=appName_object,
-                                                               color=self.color_class.white_color.get_value(),
-                                                               )
-
-        appName = self.sample_widget.label(set_object_name=appName_object,
-                                           set_styleSheet=appName_styleSheet,
-                                           set_text='Get Started with one Meal Planning simple and personalize for you', set_alighment=self.sample_widget.center_alignment)
-        font.setPointSize(15)
-        appName.setFont(font)
-        gridLayout.addWidget(appName, 4, 0, 1, 1)
-
-
-
-        letGetStarted_object = 'next'
-        color = self.color_class.setColorVal(r=141, g=141, b=141)
-        letGetStarted_styleSheet = self.sample_widget.styleSheet_def(obj_name=letGetStarted_object,
-                                                                     background_color=color.get_value(),
-                                                                     color=self.color_class.white_color.get_value(),
-                                                                     font_size=40,
-                                                                     border_radius=10,
-                                                                     )
-        letsGetStartedPushButton = self.sample_widget.pushButton(set_object_name=letGetStarted_object,
-                                                                 set_styleSheet=letGetStarted_styleSheet,
-                                                                 set_text='Next',
-                                                                 min_size=[350, 54],
-                                                                 connect=self.setValue)
-        font = QFont()
-        font.setBold(True)
-        font.setPointSize(15)
-        letsGetStartedPushButton.setFont(font)
-        gridLayout.addWidget(letsGetStartedPushButton, 5, 0, 1, 1)
-
-
-        '''
 
         gridLayout.addItem(QSpacerItem(20, 40, QSizePolicy.Minimum, QSizePolicy.Expanding), 6, 0, 1, 1)
 

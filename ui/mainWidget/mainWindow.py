@@ -21,20 +21,18 @@ class mainWidget(QMainWindow):
         self.color_variable = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
         self.getAllMeal = get_meal_dishe.getAllMeal()
-        self.topWidgetMain = topWidgetMain.topMainWidget(self)
         self.mainCenterWidget = mainCenterWidget.centerMainWidget(self)
+        self.topWidgetMain = topWidgetMain.topMainWidget(self)
+
         self.get_meal_dishe = get_meal_dishe
         self.popup_detailMeal = popup_detailMeal
         self.popup_calender = popup_calender
-
-
-
 
         self.initUI()
 
     def initUI(self):
         # Set window size.
-        self.resize(1200, 800)
+        self.resize(1500, 800)
 
         # Set window title
         self.setWindowTitle('Meal Planner Window')
@@ -64,10 +62,42 @@ class mainWidget(QMainWindow):
         #CENTER WIDGET
         verticalLayout.addWidget(self.mainCenterWidget)
 
-
-
-
-
-
-
         return widget
+
+    def addToCalender(self, data):
+        try:
+
+            popup = self.popup_calender.AddToCalender(self, data)
+            result = popup.exec_()
+            if result == QDialog.Accepted:
+                print('Accepted')
+            else:
+                print('Rejected')
+        except Exception as e:
+            import traceback
+            traceback.print_exc()
+
+    def addTOdetailMeal(self, data):
+        '''
+
+        :param data:
+        :return:
+        '''
+        popup = popup_detailMeal.mealDeatail(self, data)
+        result = popup.exec_()  # This makes the dialog modal
+        if result == QDialog.Accepted:
+            print('Accepted')
+        else:
+            print('Rejected')
+
+    def daddToDeatailMeal(self, button):
+        '''
+
+        :param data:
+        :return:
+        '''
+        data = button.userData(0)
+        print(data)
+
+    def getCenterWidget(self):
+        return self.mainCenterWidget

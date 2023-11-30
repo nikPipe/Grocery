@@ -124,19 +124,6 @@ class homwMainWidget(QWidget):
                     each_pushButton.clicked.connect(partial(self.addToCalender, each))
 
 
-            '''
-            pushButton_object = 'pushButton_object'
-            styleSheet = self.sample_widget.styleSheet_def(obj_name=pushButton_object, background_color=self.backgroundColor.get_value(),
-                                                           border_radius=20)
-
-            name = each['name']
-            image = each['images']['main']
-            pushButton = self.sample_widget.pushButton(set_text=name, min_size=(width, height), max_size=(width, height),
-                                                       set_styleSheet=styleSheet, set_object_name=pushButton_object,
-                                                       set_icon=image, set_icon_size=(width, height),
-                                                       connect=partial(self.pushClick, each))
-            pushButton.setFont(font)
-            '''
             horizontalLayout_.addWidget(widget_)
 
         return widget
@@ -202,24 +189,18 @@ class homwMainWidget(QWidget):
         return widget
 
     def pushClick(self, data):
-        print('pushClick')
+
         #self.parent.mainCenterWidget.centerMainWidget.stackedWidget.setCurrentIndex(1)
         #self.parent.mainCenterWidget.centerMainWidget.mealMainWidget.stakeWidget.setCurrentIndex(1)
         #self.parent.mainCenterWidget.centerMainWidget.mealMainWidget.mealMain_widget.mealbutton_def(data)
 
         popup = popup_detailMeal.mealDeatail(self.parent, data)
         result = popup.exec_()  # This makes the dialog modal
-        if result == QDialog.Accepted:
-            print('Accepted')
-        else:
-            print('Rejected')
+
 
     def addToCalender(self, data):
         popup = self.parent.popup_calender.AddToCalender(self.parent, data)
         result = popup.exec_()
-        if result == QDialog.Accepted:
-            print('Accepted')
-        else:
-            print('Rejected')
+
 
         #self.parent.mainCenterWidget.centerMainWidget.calenderMainWidget.calenderTop_widget_def(data=data)

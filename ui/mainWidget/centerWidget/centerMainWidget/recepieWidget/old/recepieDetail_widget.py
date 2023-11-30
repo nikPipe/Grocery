@@ -8,8 +8,8 @@ import ui, os
 file =  os.path.dirname(os.path.realpath(ui.__file__))
 from data import get_meal_dishe
 
-from ui.mainWidget.centerWidget.centerMainWidget.recepieWidget import recepieDetailMenu_widget
-from ui.mainWidget.centerWidget.centerMainWidget.recepieWidget import recepieDetailMenuDetail_widget
+from ui.mainWidget.centerWidget.centerMainWidget.recepieWidget.old import recepieDetailMenu_widget, \
+    recepieDetailMenuDetail_widget
 
 from ui import commonButtonWidget
 class recepieDetail_widget(QWidget):
@@ -46,7 +46,7 @@ class recepieDetail_widget(QWidget):
 
         :return:
         '''
-        height = 1000
+        height = 1100
         widget = self.sample_widget.widget_def(min_size=(0, height), max_size=(16777215, height))
         horizontalLayout = self.sample_widget.horizontal_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0))
 
@@ -64,6 +64,7 @@ class recepieDetail_widget(QWidget):
         Recepie Tree Widget
         :return:
         '''
+
         widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget)
 
@@ -71,9 +72,40 @@ class recepieDetail_widget(QWidget):
         scrollArea.setWidgetResizable(True)
         verticalLayout.addWidget(scrollArea)
 
-        self.recepie_mainWidget_horizontalLayout = self.sample_widget.horizontal_layout(parent_self=scrollArea,
+        object = 'widget__object'
+        styleSheet = self.sample_widget.styleSheet_def(obj_name=object, background_color=self.color.get_value(),
+
+                                                         border_radius=20)
+
+        widget_ = self.sample_widget.widget_def(set_object_name=object, set_styleSheet=styleSheet)
+        scrollArea.setWidget(widget_)
+
+        self.recepie_mainWidget_horizontalLayout = self.sample_widget.horizontal_layout(parent_self=widget_,
                                                                                         set_spacing=10)
+
+
+        #SAVE BUTTON
+        save_button_objectName = 'save_button'
+        save_button_styleSheet = self.sample_widget.styleSheet_def(obj_name=save_button_objectName,
+                                                                     background_color=self.backgroundColor.get_value(),
+                                                                     border_radius=10)
+        saveButton = self.sample_widget.pushButton(set_text='Save', set_object_name=save_button_objectName,
+                                                   set_styleSheet=save_button_styleSheet,
+                                                   min_size=(0, 50), max_size=(16777215, 50),
+                                                   connect=self.saveRecepie)
+        font = QFont()
+        font.setBold(True)
+        font.setPointSize(10)
+        saveButton.setFont(font)
+        verticalLayout.addWidget(saveButton)
         return widget
+
+    def saveRecepie(self):
+        '''
+
+        :return:
+        '''
+        pass
 
 
     def recepie_mainWidget_widget(self, data, eachMenu):
@@ -84,44 +116,32 @@ class recepieDetail_widget(QWidget):
         widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget)
 
-        checkbox = self.sample_widget.checkbox(set_text=eachMenu, set_checked=True)
+        checkbox_objName = eachMenu + '_checkbox'
+        style_sheet_ = self.sample_widget.styleSheet_def(obj_name=checkbox_objName, color=self.color_class.white_color.get_value())
+        checkbox = self.sample_widget.checkbox(set_text=eachMenu, set_checked=True,
+                                               set_object_name=checkbox_objName, set_styleSheet=style_sheet_)
         verticalLayout.addWidget(checkbox)
-
 
         dic_data = {}
         for each in self.allMeal:
             if data['default']['id'] == each['id']:
                 dic_data = each
-
-
         try:
             if dic_data:
                 widget_ = commonButtonWidget.commonWidget(dic_data)
                 widget_.findChild(QPushButton).clicked.connect(partial(self.pushClick, dic_data))
+
+
+                buttonList = widget_.findChildren(QPushButton)
+                for eachButton in buttonList:
+                    if '_addToCalender'.lower() in eachButton.objectName().lower():
+
+                        eachButton.clicked.connect(partial(self.parent.addToCalender, dic_data))
                 verticalLayout.addWidget(widget_)
         except:
             import traceback
             traceback.print_exc()
 
-        '''
-        
-        val = 200
-        image = ''
-        for each in self.allMeal:
-            if data['default']['id'] == each['id']:
-                image = each['images']['main']
-
-        object_name = eachMenu + '_object'
-        width = 250
-        height = 150
-        styleSheet = self.sample_widget.styleSheet_def(obj_name=object_name,
-                                                       background_color=self.backgroundColor.get_value(),
-                                                       border_radius=20)
-        pushButton = self.sample_widget.pushButton(set_text='', min_size=(width, height),
-                                                   max_size=(width, height), set_object_name=object_name,
-                                                   set_styleSheet=styleSheet, set_icon=image, set_icon_size=(width, height))
-        verticalLayout.addWidget(pushButton)
-        '''
         return widget
 
     def recepieDetailWidget(self):
@@ -182,10 +202,12 @@ class recepieDetail_widget(QWidget):
 
 
     def pushClick(self, data):
-        print('pushClick')
+
+        '''
         self.parent.mainCenterWidget.centerMainWidget.stackedWidget.setCurrentIndex(1)
         self.parent.mainCenterWidget.centerMainWidget.mealMainWidget.stakeWidget.setCurrentIndex(1)
-
+        '''
         self.parent.mainCenterWidget.centerMainWidget.mealMainWidget.mealMain_widget.mealbutton_def(data)
+
 
 

@@ -4,6 +4,7 @@ from ui.sampleWidget import styleSheet, sample_color_variable
 from data import help
 import ui, os
 file =  os.path.dirname(os.path.realpath(ui.__file__))
+from ui.mainWidget.centerWidget.centerMainWidget import mealWidget_sample
 
 
 
@@ -17,7 +18,6 @@ class savedMealRight_widget(QWidget):
         self.parent = parent
         self.getCookingSkillList = []
 
-
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
         self.backgroundColor = self.color_class.setColorVal(r=179, g=179, b=179)
         self.font = QFont()
@@ -28,23 +28,29 @@ class savedMealRight_widget(QWidget):
                                                                  color=self.color_class.white_color.get_value())
 
         verticalLayout = QVBoxLayout(self)
-
         widget = self.initUI()
         verticalLayout.addWidget(widget)
 
     def initUI(self):
         '''
 
-
         :return:
         '''
         height = 1000
-        width = 200
+        width = 850
         widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0))
 
-        treeWidget = self.sample_widget.treeWidget(setHeaderHidden=True)
-        verticalLayout.addWidget(treeWidget)
+        scrollArea = self.sample_widget.scrollArea(parent_self=widget)
+        verticalLayout.addWidget(scrollArea)
+
+        widget_obj = 'scrollAreaWidgetContents'
+        styleSheet = self.sample_widget.styleSheet_def(obj_name=widget_obj, background_color=self.color.get_value(),
+                                                       border_color=self.color_class.black_color.get_value())
+        scrollAreaWidgetContents = self.sample_widget.widget_def(set_object_name=widget_obj, set_styleSheet=styleSheet)
+        scrollArea.setWidget(scrollAreaWidgetContents)
+
+        self.verticalLayout = self.sample_widget.vertical_layout(parent_self=scrollAreaWidgetContents, set_contents_margins=(0, 0, 0, 0))
 
         return widget
 
