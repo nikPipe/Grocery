@@ -29,7 +29,7 @@
     ],
     "ingredients": [
         {
-            "item": "Basmati rice",
+            "item": "basmati rice",
             "quantity": "1 cup",
             "weight": {
                 "value": "200",

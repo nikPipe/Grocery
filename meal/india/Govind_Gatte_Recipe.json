@@ -49,7 +49,7 @@
             }
         },
         {
-            "item": "cashews, chopped",
+            "item": "cashews",
             "quantity": "1 tablespoon",
             "weight": {
                 "value": "10",
@@ -57,7 +57,7 @@
             }
         },
         {
-            "item": "almonds, chopped",
+            "item": "almonds",
             "quantity": "1 tablespoon",
             "weight": {
                 "value": "10",
@@ -65,7 +65,7 @@
             }
         },
         {
-            "item": "pistachios, chopped",
+            "item": "pistachios",
             "quantity": "1 tablespoon",
             "weight": {
                 "value": "10",
@@ -129,7 +129,7 @@
             }
         },
         {
-            "item": "asafoetida",
+            "item": "hing",
             "quantity": "a pinch",
             "weight": {
                 "value": "0.5",

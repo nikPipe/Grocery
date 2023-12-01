@@ -11,7 +11,7 @@ from ui.mainWidget.centerWidget.centerMainWidget.createShoppingListWidget import
 
 
 class calenderCenterMonth_widget(QWidget):
-    def __init__(self, parent, addButton=False, data=''):
+    def __init__(self, parent, shoppingListHide=False):
         super().__init__()
         self.sample_widget = sample_widget_template.SAMPLE_WIDGET_TEMPLATE()
         self.styleSheet_class = styleSheet.STYLESHEET()
@@ -22,8 +22,7 @@ class calenderCenterMonth_widget(QWidget):
         self.currentDay = self.parent.currentDay
         self.currentMonth = self.help_class.getMonth(self.currentDay)
         self.currentYear = self.help_class.getYear(self.currentDay)
-        self.addButton = addButton
-        self.data = data
+        self.shoppingListHide = shoppingListHide
 
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
@@ -66,7 +65,7 @@ class calenderCenterMonth_widget(QWidget):
                                                                             color=self.color_class.black_color.get_value(),
                                                                             border_radius=0)
 
-        if self.addButton:
+        if self.shoppingListHide == False :
             createShoppintButton = self.sample_widget.pushButton(set_text='Create Shopping List', set_object_name=createShoppintButton_object,
                                                                     set_styleSheet=createShoppintButton_styleSheet,
                                                                  connect=self.createShoppingList_)
@@ -186,13 +185,6 @@ class calenderCenterMonth_widget(QWidget):
                                     item.setText(0, eachTime)
                                     item.setFont(0, font)
 
-                    if self.addButton:
-                        addToButton_object = 'addToButton_object'
-
-                        pushButton = self.sample_widget.pushButton(set_text='Add', set_object_name=addToButton_object,
-                                                                   connect=partial(self.addTOCalender, date=[current_date, self.data]))
-                        verticalLayout.addWidget(pushButton)
-
 
                 self.gridLayout.addWidget(widget_, row, col, 1, 1)
                 # Move to the next day
@@ -201,11 +193,7 @@ class calenderCenterMonth_widget(QWidget):
 
         return widget
 
-    def addTOCalender(self, date):
-        date_ = date[0]
-        data = date[1]
-        print(date_)
-        print(data)
+
 
 
 

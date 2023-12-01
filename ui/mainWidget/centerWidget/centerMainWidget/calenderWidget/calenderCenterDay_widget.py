@@ -93,7 +93,7 @@ class calenderCenterDay_widget(QWidget):
         font = self.font
         font.setPointSize(10)
 
-        if self.shoppingListHide:
+        if self.shoppingListHide == False:
             self.shoppingList_button = self.sample_widget.pushButton(set_text='Add to Shopping List', set_object_name=shoppingList_object,
                                                                         set_styleSheet=styleSheet_,
                                                                      connect=self.shoppingListWidget_button)

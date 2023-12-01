@@ -57,7 +57,7 @@ class calenderCenterWeek_widget(QWidget):
         createShoppintButton_styleSheet = self.sample_widget.styleSheet_def(obj_name=createShoppintButton_object,
                                                                             color=self.color_class.black_color.get_value(),
                                                                             border_radius=0)
-        if self.shoppingListHide:
+        if self.shoppingListHide == False:
             createShoppintButton = self.sample_widget.pushButton(set_text='Create Shopping List', set_object_name=createShoppintButton_object,
                                                                     set_styleSheet=createShoppintButton_styleSheet,
                                                                  connect=self.createShoppingList_)
