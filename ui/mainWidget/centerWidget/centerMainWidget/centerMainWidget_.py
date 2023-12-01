@@ -28,17 +28,17 @@ class centerMainWidget(QWidget):
 
 
 
-        self.homeWidgetMain = homeWidgetMain.homwMainWidget(self.parent)
-        self.mealMainWidget = mealMainWidget.mealMainWidget(self.parent)
-        self.recepieMainWidget = recepieMainWidget.recepieMainWidget(self.parent)
-        self.groceryMainWidget = groceryMainWidget.groceryMainWidget(self.parent)
-        self.calenderMainWidget = calenderMainWidget.calenderMainWidget(self.parent)
-        self.savedRecepieMainWidget = savedRecepieMainWidget.savedRecepieWidget(self.parent)
-        self.savedMealMainWidget = savedMealMainWidget.savedMainWidget(self.parent)
-        self.savedGroceryMainWidget = savedGroceryMain_widget.savedGroceryMainWidget(self.parent)
-        self.pantryMainWidget = pantryMainWidget.pantryMainWidget(self.parent)
-        self.alertMainWidget = alertMainWidget.alertMainWidget(self.parent)
-        self.userMainWidget = userMainWidget.userMainWidget(self.parent)
+        self.homeWidgetMain = homeWidgetMain.homwMainWidget(self)
+        self.mealMainWidget = mealMainWidget.mealMainWidget(self)
+        self.recepieMainWidget = recepieMainWidget.recepieMainWidget(self)
+        self.groceryMainWidget = groceryMainWidget.groceryMainWidget(self)
+        self.calenderMainWidget = calenderMainWidget.calenderMainWidget(self)
+        self.savedRecepieMainWidget = savedRecepieMainWidget.savedRecepieWidget(self)
+        self.savedMealMainWidget = savedMealMainWidget.savedMainWidget(self)
+        self.savedGroceryMainWidget = savedGroceryMain_widget.savedGroceryMainWidget(self)
+        self.pantryMainWidget = pantryMainWidget.pantryMainWidget(self)
+        self.alertMainWidget = alertMainWidget.alertMainWidget(self)
+        self.userMainWidget = userMainWidget.userMainWidget(self)
 
 
         verticalLayout = QVBoxLayout(self)

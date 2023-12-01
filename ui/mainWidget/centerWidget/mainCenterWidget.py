@@ -18,8 +18,8 @@ class centerMainWidget(QWidget):
         self.help_class = help.Help()
         self.parent = parent
 
-        self.leftmainWidget = leftmainWidget.leftMainWidget(self.parent)
-        self.centerMainWidget = centerMainWidget_.centerMainWidget(self.parent)
+        self.leftmainWidget = leftmainWidget.leftMainWidget(self)
+        self.centerMainWidget = centerMainWidget_.centerMainWidget(self)
 
 
 

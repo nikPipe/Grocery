@@ -19,6 +19,7 @@ class mealDeatail(QDialog):
         self.color_class = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
         self.parent = parent
+        self.mainWidget = self.parent.parent.parent
         self.data = data
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
         self.backgroundColor = self.color_class.setColorVal(r=179, g=179, b=179)
@@ -27,7 +28,6 @@ class mealDeatail(QDialog):
         self.setModal(True)  # Set the dialog as modal
 
         layout = QVBoxLayout(self)
-        label = QLabel("This is a modal popup dialog.", self)
         layout.addWidget(self.initUI())
 
     def initUI(self):
@@ -271,6 +271,7 @@ class mealDeatail(QDialog):
 
 
     def addToCalender(self, data):
+        '''
         try:
             widget = addtoCalender_widget.AddToCalender(self.parent, data)
             widget.exec_()
@@ -279,11 +280,11 @@ class mealDeatail(QDialog):
 
         print('this is it')
         '''
-
-        popup = self.parent.popup_calender.AddToCalender(self.parent, data)
-        #popup = AddToCalender(self.parent, data)
-        result = popup.exec_()  # This makes the dialog modal
-        '''
+        try:
+            popup = self.mainWidget.popup_calender.AddToCalender(self.parent, data)
+            result = popup.exec_()  # This makes the dialog modal
+        except Exception as e:
+            traceback.print_exc()
         print('add to calender')
 
     def mealViewWidget(self):

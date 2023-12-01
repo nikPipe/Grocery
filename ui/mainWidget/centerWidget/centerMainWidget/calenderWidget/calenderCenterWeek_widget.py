@@ -9,7 +9,7 @@ from ui.mainWidget.centerWidget.centerMainWidget.createShoppingListWidget import
 
 
 class calenderCenterWeek_widget(QWidget):
-    def __init__(self, parent):
+    def __init__(self, parent, shoppingListHide=False):
         super().__init__()
         self.sample_widget = sample_widget_template.SAMPLE_WIDGET_TEMPLATE()
         self.styleSheet_class = styleSheet.STYLESHEET()
@@ -19,6 +19,7 @@ class calenderCenterWeek_widget(QWidget):
         self.getCookingSkillList = []
         self.currentDay = self.parent.currentDay
         self.week_start, self.week_end = self.help_class.getWeek(self.currentDay)
+        self.shoppingListHide = shoppingListHide
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
         self.backgroundColor = self.color_class.setColorVal(r=179, g=179, b=179)
@@ -56,14 +57,15 @@ class calenderCenterWeek_widget(QWidget):
         createShoppintButton_styleSheet = self.sample_widget.styleSheet_def(obj_name=createShoppintButton_object,
                                                                             color=self.color_class.black_color.get_value(),
                                                                             border_radius=0)
-        createShoppintButton = self.sample_widget.pushButton(set_text='Create Shopping List', set_object_name=createShoppintButton_object,
-                                                                set_styleSheet=createShoppintButton_styleSheet,
-                                                             connect=self.createShoppingList_)
-        font = self.font
-        font.setPointSize(15)
-        createShoppintButton.setFont(font)
+        if self.shoppingListHide:
+            createShoppintButton = self.sample_widget.pushButton(set_text='Create Shopping List', set_object_name=createShoppintButton_object,
+                                                                    set_styleSheet=createShoppintButton_styleSheet,
+                                                                 connect=self.createShoppingList_)
+            font = self.font
+            font.setPointSize(15)
+            createShoppintButton.setFont(font)
 
-        verticalLayout.addWidget(createShoppintButton)
+            verticalLayout.addWidget(createShoppintButton)
 
 
 

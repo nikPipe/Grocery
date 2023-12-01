@@ -166,16 +166,18 @@ class leftMainWidget(QWidget):
         :param widget:
         :return:
         '''
-        self.parent.mainCenterWidget.centerMainWidget.stackedWidget.setCurrentIndex(value)
+
+
+        self.parent.centerMainWidget.stackedWidget.setCurrentIndex(value)
         if value == 4:
             try:
-                self.parent.mainCenterWidget.centerMainWidget.calenderMainWidget.update_()
+                self.parent.centerMainWidget.calenderMainWidget.update_()
             except:
                 import traceback
                 traceback.print_exc()
 
         if value == 5:
-            self.parent.mainCenterWidget.centerMainWidget.savedMealMainWidget.update_()
+            self.parent.centerMainWidget.savedMealMainWidget.update_()
 
 
 

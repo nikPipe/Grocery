@@ -83,9 +83,13 @@ class mealWidgetSample(QWidget):
 
         :return:
         '''
-        popup = self.parent.popup_detailMeal.mealDeatail(parent=self.parent, data=data)
-        result = popup.exec_()  # This makes the dialog modal
+        try:
 
+            popup = self.parent.popup_detailMeal.mealDeatail(parent=self.parent, data=data)
+            result = popup.exec_()  # This makes the dialog modal
+        except Exception as e:
+            import traceback
+            traceback.print_exc()
 
     def name_history_descriptionWidget(self, data):
         '''

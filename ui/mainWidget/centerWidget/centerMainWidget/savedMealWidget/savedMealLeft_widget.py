@@ -20,6 +20,8 @@ class savedMealLeft_widget(QWidget):
         self.help_class = help.Help()
 
         self.parent = parent
+        self.mainWidget = self.parent.parent.parent.parent
+        print('>>>>', self.mainWidget)
         self.getCookingSkillList = []
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
@@ -107,21 +109,25 @@ class savedMealLeft_widget(QWidget):
         :param treeWidget:
         :return:
         '''
-        item = treeWidget.selectedItems()[0]
-        verticalLayout = self.parent.saveRecepieRightWidget.verticalLayout
-        self.help_class.clearLayout(verticalLayout)
-        parentWindow = self.parent.parent
-        getAllMeal = parentWindow.getAllMeal
-        readJsonFile = self.help_class.getTempJsonFile()
-        mealnameList = readJsonFile['savedMeal']
-        for eachMeal in mealnameList:
-            if eachMeal == item.text(0):
-                for eachMeal_ in mealnameList[eachMeal]:
-                    for eachMealData in getAllMeal:
-                        if eachMeal_ == eachMealData['id']:
-                            widget__ = mealWidget_sample.mealWidgetSample(parent=self.parent.parent, data=eachMealData)
-                            verticalLayout.addWidget(widget__)
+        try:
 
+            item = treeWidget.selectedItems()[0]
+
+            verticalLayout = self.parent.saveRecepieRightWidget.verticalLayout
+            self.help_class.clearLayout(verticalLayout)
+            getAllMeal = self.mainWidget.getAllMeal
+            readJsonFile = self.help_class.getTempJsonFile()
+            mealnameList = readJsonFile['savedMeal']
+            for eachMeal in mealnameList:
+                if eachMeal == item.text(0):
+                    for eachMeal_ in mealnameList[eachMeal]:
+                        for eachMealData in getAllMeal:
+                            if eachMeal_ == eachMealData['id']:
+                                widget__ = mealWidget_sample.mealWidgetSample(parent=self.mainWidget, data=eachMealData)
+                                verticalLayout.addWidget(widget__)
+        except:
+            import traceback
+            traceback.print_exc()
 
     def leftTreeUpdate(self):
         '''

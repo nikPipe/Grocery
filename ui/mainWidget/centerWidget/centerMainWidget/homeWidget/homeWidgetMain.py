@@ -23,12 +23,13 @@ class homwMainWidget(QWidget):
         self.color_class = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
         self.parent = parent
+        self.mainWindow = self.parent.parent.parent
         self.getCookingSkillList = []
         self.get_all_meal = get_meal_dishe.getAllMeal()
         self.mealDic = get_meal_dishe.getDic()
         self.tempFile_ = self.help_class.getTempFile(self.help_class.tempFileName)
 
-        self.commonAllSearch_widget = commonAllSearch_widget.commonAllSearch_Widget(self.parent)
+        self.commonAllSearch_widget = commonAllSearch_widget.commonAllSearch_Widget(self)
 
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
@@ -199,8 +200,15 @@ class homwMainWidget(QWidget):
 
 
     def addToCalender(self, data):
-        popup = self.parent.popup_calender.AddToCalender(self.parent, data)
-        result = popup.exec_()
 
+        try:
+
+            popup = self.mainWindow.popup_calender.AddToCalender(self.parent, data)
+
+            #popup = self.parent.popup_calender.AddToCalender(self.parent, data)
+            result = popup.exec_()
+        except Exception as e:
+            import traceback
+            traceback.print_exc()
 
         #self.parent.mainCenterWidget.centerMainWidget.calenderMainWidget.calenderTop_widget_def(data=data)

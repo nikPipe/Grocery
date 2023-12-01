@@ -11,7 +11,7 @@ from ui.mainWidget.centerWidget.centerMainWidget.createShoppingListWidget import
 
 from datetime import datetime
 class calenderCenterDay_widget(QWidget):
-    def __init__(self, parent):
+    def __init__(self, parent, shoppingListHide=False):
         super().__init__()
         self.sample_widget = sample_widget_template.SAMPLE_WIDGET_TEMPLATE()
         self.styleSheet_class = styleSheet.STYLESHEET()
@@ -22,6 +22,7 @@ class calenderCenterDay_widget(QWidget):
         self.currentDay = self.parent.currentDay
 
         self.calenderMainWidget = self.parent.parent
+        self.shoppingListHide = shoppingListHide
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
         self.backgroundColor = self.color_class.setColorVal(r=179, g=179, b=179)
@@ -92,11 +93,12 @@ class calenderCenterDay_widget(QWidget):
         font = self.font
         font.setPointSize(10)
 
-        self.shoppingList_button = self.sample_widget.pushButton(set_text='Add to Shopping List', set_object_name=shoppingList_object,
-                                                                    set_styleSheet=styleSheet_,
-                                                                 connect=self.shoppingListWidget_button)
-        self.shoppingList_button.setFont(font)
-        verticalLayout.addWidget(self.shoppingList_button)
+        if self.shoppingListHide:
+            self.shoppingList_button = self.sample_widget.pushButton(set_text='Add to Shopping List', set_object_name=shoppingList_object,
+                                                                        set_styleSheet=styleSheet_,
+                                                                     connect=self.shoppingListWidget_button)
+            self.shoppingList_button.setFont(font)
+            verticalLayout.addWidget(self.shoppingList_button)
 
         return widget
 

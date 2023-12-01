@@ -23,10 +23,11 @@ class mealMainWidget(QWidget):
         self.color_class = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
         self.parent = parent
+        self.mainWidget = self.parent.parent.parent
         self.getCookingSkillList = []
-        self.mealMain_widget = mealMain_widget.mealMain_Widget(self.parent)
-        self.mealDetailWidet = mealDetail_widget.mealDetail_Widget(self.parent)
-        self.mealSearchWidget = mealSearch_widget.mealSearch_Widget(self.parent)
+        self.mealMain_widget = mealMain_widget.mealMain_Widget(self.mainWidget)
+        self.mealDetailWidet = mealDetail_widget.mealDetail_Widget(self.mainWidget)
+        self.mealSearchWidget = mealSearch_widget.mealSearch_Widget(self.mainWidget)
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
         self.backgroundColor = self.color_class.setColorVal(r=179, g=179, b=179)
@@ -89,26 +90,26 @@ class mealMainWidget(QWidget):
         :param text:
         :return:
         '''
-        self.parent.mainCenterWidget.centerMainWidget.mealMainWidget.stakeWidget.setCurrentIndex(2)
+        try:
 
-        lineedit_text = lineedit.text()
-        getAllMeal = get_meal_dishe.getAllMeal()
-        mealList = []
-        for each in getAllMeal:
-            if lineedit_text.lower() in each['name'].lower():
-                mealList.append(each)
+            self.mainWidget.mainCenterWidget.centerMainWidget.mealMainWidget.stakeWidget.setCurrentIndex(2)
 
-        verticalLayout = self.mealSearchWidget.mealSearch_widget_verticalLayout
-        self.help_class.clearLayout(verticalLayout)
+            lineedit_text = lineedit.text()
+            getAllMeal = get_meal_dishe.getAllMeal()
+            mealList = []
+            for each in getAllMeal:
+                if lineedit_text.lower() in each['name'].lower():
+                    mealList.append(each)
 
-        for eachMeal in mealList:
-            try:
+            verticalLayout = self.mealSearchWidget.mealSearch_widget_verticalLayout
+            self.help_class.clearLayout(verticalLayout)
 
-                widget__ = mealWidget_sample.mealWidgetSample(parent=self.parent, data=eachMeal)
+            for eachMeal in mealList:
+                widget__ = mealWidget_sample.mealWidgetSample(parent=self.mainWidget, data=eachMeal)
                 #widget = self.mealSearchWidget.update_Widget(eachMeal)
                 verticalLayout.addWidget(widget__)
-            except Exception as e:
-                import traceback
-                traceback.print_exc()
 
 
+        except Exception as e:
+            import traceback
+            traceback.print_exc()

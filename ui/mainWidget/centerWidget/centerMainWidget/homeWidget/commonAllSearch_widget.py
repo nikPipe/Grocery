@@ -18,6 +18,7 @@ class commonAllSearch_Widget(QWidget):
         self.color_class = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
         self.parent = parent
+        self.mainWidget = self.parent.parent.parent.parent
         self.getCookingSkillList = []
 
         self.allMealList = get_meal_dishe.getAllMeal()
@@ -96,19 +97,6 @@ class commonAllSearch_Widget(QWidget):
         font.setBold(True)
         font.setPointSize(10)
 
-        '''
-        a = 0
-        for each in range(0, 4):
-            pushButton_object = 'pushButton_object'
-            styleSheet = self.sample_widget.styleSheet_def(obj_name=pushButton_object,
-                                                           background_color=self.backgroundColor.get_value(),
-                                                           border_radius=20)
-            pushButton = self.sample_widget.pushButton(set_text='mealtime', min_size=(width, height),
-                                                       max_size=(width, height),
-                                                       set_styleSheet=styleSheet, set_object_name=pushButton_object)
-            pushButton.setFont(font)
-            self.search_meal_gridLayout.addWidget(pushButton, a, each)
-        '''
         return widget
 
     def mealViewWidget_update(self, lineedit):
@@ -140,7 +128,7 @@ class commonAllSearch_Widget(QWidget):
 
             for each in mealList:
 
-                widget__ = mealWidget_sample.mealWidgetSample(parent=self.parent, data=each)
+                widget__ = mealWidget_sample.mealWidgetSample(parent=self.mainWidget, data=each)
                 self.search_meal_gridLayout.addWidget(widget__, a, 0)
                 a+=1
         except:

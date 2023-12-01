@@ -1,4 +1,5 @@
 from datetime import datetime
+from functools import partial
 
 from ui.import_module import *
 from ui.sampleWidget import sample_widget_template
@@ -10,7 +11,7 @@ from ui.mainWidget.centerWidget.centerMainWidget.createShoppingListWidget import
 
 
 class calenderCenterMonth_widget(QWidget):
-    def __init__(self, parent):
+    def __init__(self, parent, addButton=False, data=''):
         super().__init__()
         self.sample_widget = sample_widget_template.SAMPLE_WIDGET_TEMPLATE()
         self.styleSheet_class = styleSheet.STYLESHEET()
@@ -21,6 +22,9 @@ class calenderCenterMonth_widget(QWidget):
         self.currentDay = self.parent.currentDay
         self.currentMonth = self.help_class.getMonth(self.currentDay)
         self.currentYear = self.help_class.getYear(self.currentDay)
+        self.addButton = addButton
+        self.data = data
+
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
         self.backgroundColor = self.color_class.setColorVal(r=179, g=179, b=179)
@@ -61,16 +65,13 @@ class calenderCenterMonth_widget(QWidget):
         createShoppintButton_styleSheet = self.sample_widget.styleSheet_def(obj_name=createShoppintButton_object,
                                                                             color=self.color_class.black_color.get_value(),
                                                                             border_radius=0)
-        createShoppintButton = self.sample_widget.pushButton(set_text='Create Shopping List', set_object_name=createShoppintButton_object,
-                                                                set_styleSheet=createShoppintButton_styleSheet,
-                                                             connect=self.createShoppingList_)
-        verticalLayout.addWidget(createShoppintButton)
 
+        if self.addButton:
+            createShoppintButton = self.sample_widget.pushButton(set_text='Create Shopping List', set_object_name=createShoppintButton_object,
+                                                                    set_styleSheet=createShoppintButton_styleSheet,
+                                                                 connect=self.createShoppingList_)
+            verticalLayout.addWidget(createShoppintButton)
 
-
-
-        #calenderWidget = QCalendarWidget(widget)
-        #gridLayout.addWidget(calenderWidget, 0, 0, 1, 2)
 
         return widget
 
@@ -185,12 +186,27 @@ class calenderCenterMonth_widget(QWidget):
                                     item.setText(0, eachTime)
                                     item.setFont(0, font)
 
+                    if self.addButton:
+                        addToButton_object = 'addToButton_object'
+
+                        pushButton = self.sample_widget.pushButton(set_text='Add', set_object_name=addToButton_object,
+                                                                   connect=partial(self.addTOCalender, date=[current_date, self.data]))
+                        verticalLayout.addWidget(pushButton)
+
+
                 self.gridLayout.addWidget(widget_, row, col, 1, 1)
                 # Move to the next day
                 current_date = current_date.addDays(1)
 
 
         return widget
+
+    def addTOCalender(self, date):
+        date_ = date[0]
+        data = date[1]
+        print(date_)
+        print(data)
+
 
 
     def update_(self, date):

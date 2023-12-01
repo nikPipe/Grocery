@@ -24,7 +24,7 @@ class AddToCalender(QDialog):
         self.setModal(True)  # Set the dialog as modal
 
         layout = QVBoxLayout(self)
-        label = QLabel("This is a modal popup dialog.", self)
+
 
         layout.addWidget(self.initUI())
 

@@ -21,8 +21,8 @@ class savedRecepieWidget(QWidget):
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
         self.backgroundColor = self.color_class.setColorVal(r=179, g=179, b=179)
 
-        self.saveRecepieLeftWidget = savedRecepieLeft_widget.savedRecepieLeft_widget(self.parent)
-        self.saveRecepieRightWidget = savedRecepieRight_widget.savedRecepieRight_widget(self.parent)
+        self.saveRecepieLeftWidget = savedRecepieLeft_widget.savedRecepieLeft_widget(self)
+        self.saveRecepieRightWidget = savedRecepieRight_widget.savedRecepieRight_widget(self)
 
         verticalLayout = QVBoxLayout(self)
 

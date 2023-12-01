@@ -21,8 +21,8 @@ class groceryMainWidget(QWidget):
         self.parent = parent
         self.getCookingSkillList = []
 
-        self.grocerySearch_widget = grocerySearch_widget.grocerySearch_widget(self.parent)
-        self.groceryCart_widget = groceryCart_widget.groceryCart_widget(self.parent)
+        self.grocerySearch_widget = grocerySearch_widget.grocerySearch_widget(self)
+        self.groceryCart_widget = groceryCart_widget.groceryCart_widget(self)
 
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)

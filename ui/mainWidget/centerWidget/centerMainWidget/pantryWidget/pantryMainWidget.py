@@ -18,8 +18,8 @@ class pantryMainWidget(QWidget):
         self.parent = parent
         self.getCookingSkillList = []
 
-        self.pantryTop_widget = pantryTop_widget.pantryTop_widget(self.parent)
-        self.pantryCenter_widget = pantryCenter_widget.pantryCenter_widget(self.parent)
+        self.pantryTop_widget = pantryTop_widget.pantryTop_widget(self)
+        self.pantryCenter_widget = pantryCenter_widget.pantryCenter_widget(self)
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
         self.backgroundColor = self.color_class.setColorVal(r=179, g=179, b=179)

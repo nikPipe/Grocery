@@ -16,13 +16,14 @@ class recepieMainWidget(QWidget):
         self.color_class = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
         self.parent = parent
+        self.mainWidget = self.parent.parent.parent
         self.getCookingSkillList = []
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
         self.backgroundColor = self.color_class.setColorVal(r=179, g=179, b=179)
 
-        self.recepieTop_widget = recepieTop_widget.recepieTop_widget(self.parent)
-        self.recepieCenter_widget = recepieCenter_widget.recepieCenter_widget(self.parent)
+        self.recepieTop_widget = recepieTop_widget.recepieTop_widget(self.mainWidget)
+        self.recepieCenter_widget = recepieCenter_widget.recepieCenter_widget(self.mainWidget)
 
         verticalLayout = QVBoxLayout(self)
 
