@@ -44,7 +44,7 @@
             }
         },
         {
-            "item": "coriander",
+            "item": "coriander leaves",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "15",
@@ -76,7 +76,7 @@
             }
         },
         {
-            "item": "garlic cloves",
+            "item": "garlic",
             "quantity": "2",
             "weight": {
                 "value": "6",

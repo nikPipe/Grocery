@@ -53,7 +53,7 @@
             }
         },
         {
-            "item": "yogurt",
+            "item": "curd",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "120",
@@ -157,7 +157,7 @@
             }
         },
         {
-            "item": "green cardamom pods",
+            "item": "green cardamom",
             "quantity": "4",
             "weight": {
                 "value": "2",

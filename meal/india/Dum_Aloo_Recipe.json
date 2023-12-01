@@ -40,7 +40,7 @@
     ],
     "ingredients": [
         {
-            "item": "potatoe",
+            "item": "potato",
             "quantity": "500 grams",
             "weight": {
                 "value": "500",
@@ -72,7 +72,7 @@
             }
         },
         {
-            "item": "yogurt",
+            "item": "curd",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "120",
@@ -80,7 +80,7 @@
             }
         },
         {
-            "item": "cashew nut paste",
+            "item": "cashew paste",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "30",

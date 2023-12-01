@@ -58,7 +58,7 @@
             }
         },
         {
-            "item": "yogurt",
+            "item": "curd",
             "quantity": "1 cup",
             "weight": {
                 "value": "240",
@@ -122,7 +122,7 @@
             }
         },
         {
-            "item": "cashew nuts",
+            "item": "cashew",
             "quantity": "10",
             "weight": {
                 "value": "30",

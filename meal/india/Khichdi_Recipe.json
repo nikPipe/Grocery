@@ -37,7 +37,7 @@
             }
         },
         {
-            "item": "moong dal (split green gram)",
+            "item": "moong",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "100",
@@ -69,7 +69,7 @@
             }
         },
         {
-            "item": "ghee or oil",
+            "item": "ghee",
             "quantity": "1 tablespoon",
             "weight": {
                 "value": "15",

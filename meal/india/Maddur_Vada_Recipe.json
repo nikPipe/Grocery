@@ -79,7 +79,7 @@
             }
         },
         {
-            "item": "curry leaves, chopped",
+            "item": "curry leaves",
             "quantity": "few",
             "weight": {
                 "value": "2",
@@ -103,7 +103,7 @@
             }
         },
         {
-            "item": "hot water",
+            "item": "water",
             "quantity": "as needed",
             "weight": {
                 "value": "Variable",

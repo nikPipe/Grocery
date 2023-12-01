@@ -39,7 +39,7 @@
     ],
     "ingredients": [
         {
-            "item": "limes",
+            "item": "lime",
             "quantity": "10",
             "weight": {
                 "value": "500",

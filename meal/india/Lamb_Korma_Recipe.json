@@ -43,7 +43,7 @@
             }
         },
         {
-            "item": "yogurt",
+            "item": "curd",
             "quantity": "1 cup",
             "weight": {
                 "value": "240",
@@ -67,7 +67,7 @@
             }
         },
         {
-            "item": "ground almonds",
+            "item": "almonds",
             "quantity": "1/4 cup",
             "weight": {
                 "value": "30",
@@ -75,7 +75,7 @@
             }
         },
         {
-            "item": "ground coriander",
+            "item": "coriander powder",
             "quantity": "1 teaspoon",
             "weight": {
                 "value": "5",
@@ -83,7 +83,7 @@
             }
         },
         {
-            "item": "ground cumin",
+            "item": "cumin powder",
             "quantity": "1 teaspoon",
             "weight": {
                 "value": "5",
@@ -155,7 +155,7 @@
             }
         },
         {
-            "item": "slivered almonds",
+            "item": "almonds",
             "quantity": "for garnish",
             "weight": {
                 "value": "Variable",

@@ -43,7 +43,7 @@
             }
         },
         {
-            "item": "yogurt",
+            "item": "curd",
             "quantity": "1 cup",
             "weight": {
                 "value": "240",
@@ -51,7 +51,7 @@
             }
         },
         {
-            "item": "onions",
+            "item": "onion",
             "quantity": "2 medium",
             "weight": {
                 "value": "200",
@@ -83,7 +83,7 @@
             }
         },
         {
-            "item": "green cardamom pods",
+            "item": "green cardamom",
             "quantity": "4",
             "weight": {
                 "value": "1",

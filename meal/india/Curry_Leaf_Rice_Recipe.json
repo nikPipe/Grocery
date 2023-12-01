@@ -74,7 +74,7 @@
             }
         },
         {
-            "item": "dry red chilies",
+            "item": "dried red chilies",
             "quantity": "3",
             "weight": {
                 "value": "5",
@@ -130,7 +130,7 @@
             }
         },
         {
-            "item": "cashews",
+            "item": "cashew",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "20",

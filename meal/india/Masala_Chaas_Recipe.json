@@ -29,7 +29,7 @@
     ],
     "ingredients": [
         {
-            "item": "plain yogurt",
+            "item": "curd",
             "quantity": "1 cup",
             "weight": {
                 "value": "250",
@@ -53,7 +53,7 @@
             }
         },
         {
-            "item": "black salt (kala namak)",
+            "item": "black salt",
             "quantity": "1/4 teaspoon",
             "weight": {
                 "value": "1.25",

@@ -58,7 +58,7 @@
             }
         },
         {
-            "item": "onions",
+            "item": "onion",
             "quantity": "2 medium",
             "weight": {
                 "value": "200",
@@ -66,7 +66,7 @@
             }
         },
         {
-            "item": "tomatoes",
+            "item": "tomatoe",
             "quantity": "3 medium",
             "weight": {
                 "value": "300",
@@ -98,7 +98,7 @@
             }
         },
         {
-            "item": "dry red chilies",
+            "item": "dried red chilies",
             "quantity": "2",
             "weight": {
                 "value": "2",

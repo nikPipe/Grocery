@@ -57,7 +57,7 @@
             }
         },
         {
-            "item": "green chilies",
+            "item": "green chili",
             "quantity": "2",
             "weight": {
                 "value": "10",
@@ -65,7 +65,7 @@
             }
         },
         {
-            "item": "garlic cloves",
+            "item": "garlic",
             "quantity": "2",
             "weight": {
                 "value": "6",

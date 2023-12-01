@@ -101,7 +101,7 @@
             }
         },
         {
-            "item": "carrots",
+            "item": "carrot",
             "quantity": "1/2 cup, diced",
             "weight": {
                 "value": "50",
@@ -109,7 +109,7 @@
             }
         },
         {
-            "item": "peas",
+            "item": "green peas",
             "quantity": "1/4 cup",
             "weight": {
                 "value": "30",
@@ -117,7 +117,7 @@
             }
         },
         {
-            "item": "green beans",
+            "item": "green bean",
             "quantity": "1/4 cup, chopped",
             "weight": {
                 "value": "30",

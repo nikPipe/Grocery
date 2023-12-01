@@ -84,7 +84,7 @@
             }
         },
         {
-            "item": "yogurt",
+            "item": "curd",
             "quantity": "1/4 cup",
             "weight": {
                 "value": "60",
@@ -164,7 +164,7 @@
             }
         },
         {
-            "item": "green chilies",
+            "item": "green chili",
             "quantity": "1 tablespoon",
             "weight": {
                 "value": "5",

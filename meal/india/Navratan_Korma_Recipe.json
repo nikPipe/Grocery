@@ -43,7 +43,7 @@
             }
         },
         {
-            "item": "carrots",
+            "item": "carrot",
             "quantity": "1 medium",
             "weight": {
                 "value": "100",
@@ -51,7 +51,7 @@
             }
         },
         {
-            "item": "peas",
+            "item": "green_peas",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "75",
@@ -59,7 +59,7 @@
             }
         },
         {
-            "item": "green beans",
+            "item": "green bean",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "75",
@@ -75,7 +75,7 @@
             }
         },
         {
-            "item": "potatoe",
+            "item": "potato",
             "quantity": "1 medium",
             "weight": {
                 "value": "100",

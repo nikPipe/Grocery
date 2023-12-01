@@ -48,7 +48,7 @@
             }
         },
         {
-            "item": "yogurt",
+            "item": "curd",
             "quantity": "1 cup",
             "weight": {
                 "value": "240",
@@ -136,7 +136,7 @@
             }
         },
         {
-            "item": "pomegranate seeds",
+            "item": "pomegranate",
             "quantity": "for garnish",
             "weight": {
                 "value": "30",

@@ -48,7 +48,7 @@
             }
         },
         {
-            "item": "yogurt",
+            "item": "curd",
             "quantity": "1 cup",
             "weight": {
                 "value": "240",
@@ -128,7 +128,7 @@
             }
         },
         {
-            "item": "saffron",
+            "item": "saffron strands",
             "quantity": "a few",
             "weight": {
                 "value": "1",

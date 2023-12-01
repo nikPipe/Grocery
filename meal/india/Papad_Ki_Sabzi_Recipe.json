@@ -29,7 +29,7 @@
     ],
     "ingredients": [
         {
-            "item": "papadums",
+            "item": "papad",
             "quantity": "2-3",
             "weight": {
                 "value": "Variable",
@@ -37,7 +37,7 @@
             }
         },
         {
-            "item": "yogurt",
+            "item": "curd",
             "quantity": "1 cup",
             "weight": {
                 "value": "250",
@@ -45,7 +45,7 @@
             }
         },
         {
-            "item": "gram flour)",
+            "item": "gram flour",
             "quantity": "1 tablespoon",
             "weight": {
                 "value": "15",

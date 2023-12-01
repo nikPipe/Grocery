@@ -40,7 +40,7 @@
     ],
     "ingredients": [
         {
-            "item": "eggs",
+            "item": "egg",
             "quantity": "4",
             "weight": {
                 "value": "240",

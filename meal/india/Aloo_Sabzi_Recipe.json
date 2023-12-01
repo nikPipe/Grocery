@@ -33,7 +33,7 @@
     ],
     "ingredients": [
         {
-            "item": "potatoes",
+            "item": "potato",
             "quantity": "2 medium",
             "weight": {
                 "value": "300",
@@ -113,7 +113,7 @@
             }
         },
         {
-            "item": "fresh cilantro, chopped",
+            "item": "cilantro",
             "quantity": "for garnish",
             "weight": {
                 "value": "Variable",

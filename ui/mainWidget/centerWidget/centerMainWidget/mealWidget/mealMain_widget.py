@@ -181,15 +181,19 @@ class mealMain_Widget(QWidget):
         print(self.parent.mainCenterWidget.centerMainWidget.homeWidgetMain)
         #self.parent.mainCenterWidget.centerMainWidget.homeWidgetMain.addToCalender(data=buttonDic)
 
-    def mealbutton_def(self, buttonDic):
+    def mealbutton_def(self, buttonDic, treacback=None):
         '''
 
         :param buttonDic:
         :return:
         '''
-        pop = self.parent.popup_detailMeal.mealDeatail(parent=self.parent, data=buttonDic)
-        result = pop.exec_()
+        print('thi sis working')
+        try:
 
+            pop = self.parent.popup_detailMeal.mealDeatail(parent=self.parent, data=buttonDic)
+            result = pop.exec_()
+        except Exception as e:
+            treacback.print_exc()
 
         '''
         

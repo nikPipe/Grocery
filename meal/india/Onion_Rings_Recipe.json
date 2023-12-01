@@ -40,7 +40,7 @@
     ],
     "ingredients": [
         {
-            "item": "onions",
+            "item": "onion",
             "quantity": "2",
             "weight": {
                 "value": "300",

@@ -78,7 +78,7 @@
             }
         },
         {
-            "item": "saffron",
+            "item": "saffron strands",
             "quantity": "a pinch",
             "weight": {
                 "value": "0.2",
@@ -94,7 +94,7 @@
             }
         },
         {
-            "item": "cashews",
+            "item": "cashew",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "20",

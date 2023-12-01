@@ -39,7 +39,7 @@
     ],
     "ingredients": [
         {
-            "item": "yogurt",
+            "item": "curd",
             "quantity": "2 cups",
             "weight": {
                 "value": "480",
@@ -55,7 +55,7 @@
             }
         },
         {
-            "item": "green chilies",
+            "item": "green chili",
             "quantity": "2",
             "weight": {
                 "value": "10",

@@ -48,7 +48,7 @@
             }
         },
         {
-            "item": "yogurt",
+            "item": "curd",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "120",
@@ -96,7 +96,7 @@
             }
         },
         {
-            "item": "heavy cream",
+            "item": "cream",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "120",

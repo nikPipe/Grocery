@@ -35,7 +35,7 @@
     ],
     "ingredients": [
         {
-            "item": "minced meat (lamb or beef)",
+            "item": "minced meat",
             "quantity": "500 grams",
             "weight": {
                 "value": "500",
@@ -147,7 +147,7 @@
             }
         },
         {
-            "item": "frozen peas",
+            "item": "green peas",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "75",

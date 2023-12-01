@@ -35,7 +35,7 @@
     ],
     "ingredients": [
         {
-            "item": "tomatoes",
+            "item": "tomatoe",
             "quantity": "2 cups",
             "weight": {
                 "value": "400",
@@ -43,7 +43,7 @@
             }
         },
         {
-            "item": "green chilies",
+            "item": "green chili",
             "quantity": "2",
             "weight": {
                 "value": "10",

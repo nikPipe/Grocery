@@ -46,7 +46,7 @@
             }
         },
         {
-            "item": "carrots",
+            "item": "carrot",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "50",
@@ -62,7 +62,7 @@
             }
         },
         {
-            "item": "green beans",
+            "item": "green bean",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "50",
@@ -70,7 +70,7 @@
             }
         },
         {
-            "item": "potatoes",
+            "item": "potato",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "50",
@@ -86,7 +86,7 @@
             }
         },
         {
-            "item": "onions",
+            "item": "onion",
             "quantity": "1 cup",
             "weight": {
                 "value": "100",
@@ -94,7 +94,7 @@
             }
         },
         {
-            "item": "tomatoes",
+            "item": "tomatoe",
             "quantity": "1 cup",
             "weight": {
                 "value": "100",

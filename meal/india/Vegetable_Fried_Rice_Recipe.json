@@ -43,7 +43,7 @@
             }
         },
         {
-            "item": "carrots",
+            "item": "carrot",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "50",
@@ -107,7 +107,7 @@
             }
         },
         {
-            "item": "pepper",
+            "item": "bell pepper",
             "quantity": "to taste",
             "weight": {
                 "value": "2",

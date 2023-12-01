@@ -39,7 +39,7 @@
     ],
     "ingredients": [
         {
-            "item": "moong dal",
+            "item": "moong",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "100",
@@ -79,7 +79,7 @@
             }
         },
         {
-            "item": "green chilies",
+            "item": "green chili",
             "quantity": "2",
             "weight": {
                 "value": "10",

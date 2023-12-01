@@ -85,7 +85,7 @@
             }
         },
         {
-            "item": "yogurt",
+            "item": "curd",
             "quantity": "1/4 cup",
             "weight": {
                 "value": "60",
@@ -125,7 +125,7 @@
             }
         },
         {
-            "item": "coriander",
+            "item": "coriander leaves",
             "quantity": "for garnish",
             "weight": {
                 "value": "Variable",

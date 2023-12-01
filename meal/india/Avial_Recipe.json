@@ -43,7 +43,7 @@
             }
         },
         {
-            "item": "green beans",
+            "item": "green bean",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "60",
@@ -83,7 +83,7 @@
             }
         },
         {
-            "item": "green chilies",
+            "item": "green chili",
             "quantity": "2",
             "weight": {
                 "value": "10",

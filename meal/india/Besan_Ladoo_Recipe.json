@@ -1,0 +1,143 @@
+{
+    "id": "Besan_Ladoo_Recipe",
+    "name": "Besan Ladoo",
+    "origin": "India",
+    "history": "Besan Ladoo is a traditional Indian sweet made with gram flour. It's a popular treat across India, especially during festivals and celebrations.",
+    "description": "Besan Ladoo is made from gram flour (besan) roasted in ghee, sweetened with sugar, and shaped into small round balls. These sweets are known for their rich, nutty flavor and melt-in-the-mouth texture.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": ["Snack", "Dessert"],
+    "equipment": [
+        {
+            "name": "heavy bottomed pan",
+            "description": "For roasting the gram flour."
+        },
+        {
+            "name": "mixing bowl",
+            "description": "For mixing the ingredients."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "gram flour (besan)",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "250",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee (clarified butter)",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "powdered sugar",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cardamom powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chopped nuts (almonds, pistachios, etc.)",
+            "quantity": "for garnishing",
+            "weight": {
+                "value": "Variable",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Roast the Gram Flour",
+            "description": "In a heavy-bottomed pan, roast the gram flour in ghee on a low flame until it turns golden brown and emits a nutty fragrance. Allow it to cool."
+        },
+        {
+            "step": "2",
+            "title": "Add Sugar and Spices",
+            "description": "Once the roasted flour has cooled, add powdered sugar and cardamom powder. Mix well."
+        },
+        {
+            "step": "3",
+            "title": "Shape the Ladoos",
+            "description": "Take a small portion of the mixture and shape it into round balls. If the mixture is too dry, add a little more ghee."
+        },
+        {
+            "step": "4",
+            "title": "Garnish",
+            "description": "Garnish each ladoo with chopped nuts."
+        },
+        {
+            "step": "5",
+            "title": "Serve or Store",
+            "description": "Serve the Besan Ladoos immediately or store them in an airtight container."
+        }
+    ],
+    "nutrition": {
+        "calories": "150 per ladoo",
+        "carbohydrates": "20g",
+        "protein": "3g",
+        "fat": "7g",
+        "fiber": "1g",
+        "sugar": "12g"
+    },
+    "tips": [
+        "Roasting the gram flour properly is key to getting the right flavor.",
+        "Adjust the amount of ghee to get the desired consistency."
+    ],
+    "variations": [
+        "Add dry fruits like raisins or chopped dates to the mixture for added texture.",
+        "Try using jaggery instead of sugar for a different taste."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be stored for up to 2 weeks.",
+        "instructions": "Keep in an airtight container at room temperature."
+    },
+    "reheatingInstructions": [
+        "Besan Ladoos do not require reheating. Enjoy them at room temperature."
+    ],
+    "presentationTips": [
+        "Arrange ladoos on a decorative plate or tray.",
+        "Garnish with silver leaf (varak) for a festive look."
+    ],
+    "keywords": [
+        "Besan Ladoo",
+        "Indian Sweet",
+        "Gram Flour Dessert"
+    ],
+    "allergens": [
+        "Gluten",
+        "Dairy",
+        "Nuts"
+    ]
+}

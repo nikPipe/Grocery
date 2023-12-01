@@ -33,7 +33,7 @@
     ],
     "ingredients": [
         {
-            "item": "potatoes",
+            "item": "potato",
             "quantity": "2 large",
             "weight": {
                 "value": "400",
@@ -49,7 +49,7 @@
             }
         },
         {
-            "item": "green chilies",
+            "item": "green chili",
             "quantity": "2",
             "weight": {
                 "value": "10",

@@ -41,7 +41,7 @@
             }
         },
         {
-            "item": "onions",
+            "item": "onion",
             "quantity": "1 cup",
             "weight": {
                 "value": "200",
@@ -49,7 +49,7 @@
             }
         },
         {
-            "item": "potatoes",
+            "item": "potato",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "100",
@@ -57,7 +57,7 @@
             }
         },
         {
-            "item": "green chilies",
+            "item": "green chili",
             "quantity": "1-2",
             "weight": {
                 "value": "Variable",

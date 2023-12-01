@@ -5,9 +5,7 @@
     "history": "Peshawari Naan is a sweet, stuffed naan originating from the Peshawar region of Pakistan. It's a popular variation of naan bread in Indian and Pakistani cuisines, known for its rich filling of dried fruits and nuts.",
     "description": "Peshawari Naan is a delicately sweet and nutty bread, stuffed with a mixture of dried fruits and nuts. It's typically baked in a tandoor or oven, resulting in a soft, fluffy bread with a crispy exterior and a rich, flavorful filling.",
     "servings": "1",
-    "dietTypes": [
-        "Vegetarian"
-    ],
+    "dietTypes": ["Vegetarian"],
     "time": {
         "preparationTime": {
             "unit": "Minute",
@@ -22,10 +20,7 @@
             "value": "45"
         }
     },
-    "mealtime": [
-        "Lunch",
-        "Dinner"
-    ],
+    "mealtime": ["Lunch", "Dinner"],
     "equipment": [
         {
             "name": "mixing bowl",
@@ -90,7 +85,7 @@
             }
         },
         {
-            "item": "yogurt",
+            "item": "curd",
             "quantity": "1/4 cup",
             "weight": {
                 "value": "60",
@@ -98,7 +93,7 @@
             }
         },
         {
-            "item": "ghee or butter, melted",
+            "item": "ghee",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "30",
@@ -106,18 +101,34 @@
             }
         },
         {
-            "item": "filling: mixed dried fruits (raisins, apricots, etc.)",
-            "quantity": "1/4 cup",
+            "item": "raisins",
+            "quantity": "2 tablespoons",
             "weight": {
-                "value": "40",
+                "value": "20",
                 "unit": "g"
             }
         },
         {
-            "item": "filling: nuts (almonds, cashews, etc.), chopped",
-            "quantity": "1/4 cup",
+            "item": "dried apricots",
+            "quantity": "2 tablespoons",
             "weight": {
-                "value": "40",
+                "value": "20",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "almonds",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "20",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cashew",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "20",
                 "unit": "g"
             }
         },
@@ -139,7 +150,7 @@
         {
             "step": "2",
             "title": "Prepare Filling",
-            "description": "Mix the chopped dried fruits and nuts to create the filling."
+            "description": "Mix the chopped dried fruits (raisins and apricots) and nuts (almonds and cashews) to create the filling."
         },
         {
             "step": "3",

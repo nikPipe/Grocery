@@ -103,7 +103,7 @@
             }
         },
         {
-            "item": "yogurt",
+            "item": "curd",
             "quantity": "optional, for kneading",
             "weight": {
                 "value": "Variable",

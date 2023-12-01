@@ -40,7 +40,7 @@
     ],
     "ingredients": [
         {
-            "item": "moong dal",
+            "item": "moong",
             "quantity": "1 cup",
             "weight": {
                 "value": "200",
@@ -104,7 +104,7 @@
             }
         },
         {
-            "item": "fresh coriander leaves, chopped",
+            "item": "coriander leaves",
             "quantity": "for garnish",
             "weight": {
                 "value": "10",

@@ -47,7 +47,7 @@
             }
         },
         {
-            "item": "carrots",
+            "item": "carrot",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "60",
@@ -55,7 +55,7 @@
             }
         },
         {
-            "item": "potatoes",
+            "item": "potato",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "100",
@@ -71,7 +71,7 @@
             }
         },
         {
-            "item": "drumsticks",
+            "item": "drumstick",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "50",

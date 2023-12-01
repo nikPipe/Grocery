@@ -195,9 +195,13 @@ class homwMainWidget(QWidget):
         #self.parent.mainCenterWidget.centerMainWidget.mealMainWidget.stakeWidget.setCurrentIndex(1)
         #self.parent.mainCenterWidget.centerMainWidget.mealMainWidget.mealMain_widget.mealbutton_def(data)
 
-        popup = popup_detailMeal.mealDeatail(self.parent, data)
-        result = popup.exec_()  # This makes the dialog modal
+        try:
 
+            popup = popup_detailMeal.mealDeatail(self.parent, data)
+            result = popup.exec_()  # This makes the dialog modal
+        except Exception as e:
+            import traceback
+            traceback.print_exc()
 
     def addToCalender(self, data):
 

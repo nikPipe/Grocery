@@ -48,7 +48,7 @@
             }
         },
         {
-            "item": "carrots",
+            "item": "carrot",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "75",
@@ -56,7 +56,7 @@
             }
         },
         {
-            "item": "peas",
+            "item": "green peas",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "75",
@@ -64,7 +64,7 @@
             }
         },
         {
-            "item": "green beans",
+            "item": "green bean",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "75",
@@ -128,7 +128,7 @@
             }
         },
         {
-            "item": "yogurt",
+            "item": "curd",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "120",
@@ -184,7 +184,7 @@
             }
         },
         {
-            "item": "saffron",
+            "item": "saffron strands",
             "quantity": "a pinch",
             "weight": {
                 "value": "0.2",

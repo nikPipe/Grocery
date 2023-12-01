@@ -45,7 +45,7 @@
             }
         },
         {
-            "item": "yogurt",
+            "item": "curd",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "120",
@@ -125,7 +125,7 @@
             }
         },
         {
-            "item": "cilantro ",
+            "item": "cilantro",
             "quantity": "for garnishing",
             "weight": {
                 "value": "Variable",

@@ -58,7 +58,7 @@
             }
         },
         {
-            "item": "green beans",
+            "item": "green bean",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "50",
@@ -66,7 +66,7 @@
             }
         },
         {
-            "item": "potatoe",
+            "item": "potato",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "50",
@@ -74,7 +74,7 @@
             }
         },
         {
-            "item": "bell peppers",
+            "item": "bell pepper",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "50",
@@ -90,7 +90,7 @@
             }
         },
         {
-            "item": "tomatoes",
+            "item": "tomatoe",
             "quantity": "1 cup",
             "weight": {
                 "value": "100",

@@ -35,7 +35,7 @@
     ],
     "ingredients": [
         {
-            "item": "potatoes",
+            "item": "potato",
             "quantity": "2 medium",
             "weight": {
                 "value": "200",
@@ -51,7 +51,7 @@
             }
         },
         {
-            "item": "peas",
+            "item": "green peas",
             "quantity": "1/2 cup",
             "weight": {
                 "value": "75",

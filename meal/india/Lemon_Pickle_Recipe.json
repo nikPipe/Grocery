@@ -36,7 +36,7 @@
     ],
     "ingredients": [
         {
-            "item": "lemons",
+            "item": "lemon",
             "quantity": "10",
             "weight": {
                 "value": "500",

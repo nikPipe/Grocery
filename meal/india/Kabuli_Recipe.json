@@ -49,7 +49,7 @@
             }
         },
         {
-            "item": "onions",
+            "item": "onion",
             "quantity": "1 medium",
             "weight": {
                 "value": "100",
@@ -89,7 +89,7 @@
             }
         },
         {
-            "item": "green cardamom pods",
+            "item": "green cardamom",
             "quantity": "4-5",
             "weight": {
                 "value": "Variable",

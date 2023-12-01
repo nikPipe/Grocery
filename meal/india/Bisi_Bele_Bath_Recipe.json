@@ -62,7 +62,7 @@
             }
         },
         {
-            "item": "carrots, chopped",
+            "item": "carrot",
             "quantity": "1/4 cup",
             "weight": {
                 "value": "30",
@@ -70,7 +70,7 @@
             }
         },
         {
-            "item": "green beans, chopped",
+            "item": "green bean",
             "quantity": "1/4 cup",
             "weight": {
                 "value": "30",
@@ -86,7 +86,7 @@
             }
         },
         {
-            "item": "bell pepper, chopped",
+            "item": "bell pepper",
             "quantity": "1/4 cup",
             "weight": {
                 "value": "30",
@@ -102,7 +102,7 @@
             }
         },
         {
-            "item": "jaggery or brown sugar",
+            "item": "jaggery",
             "quantity": "1 teaspoon",
             "weight": {
                 "value": "5",
@@ -142,7 +142,7 @@
             }
         },
         {
-            "item": "ghee or oil",
+            "item": "ghee",
             "quantity": "2 tablespoons",
             "weight": {
                 "value": "30",

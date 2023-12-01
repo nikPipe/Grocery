@@ -67,7 +67,7 @@
             }
         },
         {
-            "item": "cashew nuts",
+            "item": "cashew",
             "quantity": "1/4 cup",
             "weight": {
                 "value": "30",
@@ -75,7 +75,7 @@
             }
         },
         {
-            "item": "green cardamom pods",
+            "item": "green cardamom",
             "quantity": "4",
             "weight": {
                 "value": "1",
@@ -171,7 +171,7 @@
             }
         },
         {
-            "item": "saffron",
+            "item": "saffron strands",
             "quantity": "a pinch",
             "weight": {
                 "value": "0.1",

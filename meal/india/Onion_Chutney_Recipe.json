@@ -65,7 +65,7 @@
             }
         },
         {
-            "item": "red chilies, dry",
+            "item": "red chilies",
             "quantity": "3",
             "weight": {
                 "value": "3",
@@ -73,7 +73,7 @@
             }
         },
         {
-            "item": "garlic cloves",
+            "item": "garlic",
             "quantity": "2",
             "weight": {
                 "value": "6",

@@ -51,7 +51,7 @@
             }
         },
         {
-            "item": "peas",
+            "item": "green peas",
             "quantity": "1/4 cup",
             "weight": {
                 "value": "50",
@@ -59,7 +59,7 @@
             }
         },
         {
-            "item": "green beans",
+            "item": "green bean",
             "quantity": "1/4 cup",
             "weight": {
                 "value": "50",

@@ -43,7 +43,7 @@
             }
         },
         {
-            "item": "yogurt",
+            "item": "curd",
             "quantity": "1 cup",
             "weight": {
                 "value": "240",
@@ -67,7 +67,7 @@
             }
         },
         {
-            "item": "ground almonds",
+            "item": "almonds",
             "quantity": "1/4 cup",
             "weight": {
                 "value": "30",

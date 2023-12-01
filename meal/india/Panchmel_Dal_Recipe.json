@@ -41,7 +41,7 @@
             }
         },
         {
-            "item": "moong dal",
+            "item": "moong",
             "quantity": "1 tablespoon",
             "weight": {
                 "value": "15",
@@ -113,7 +113,7 @@
             }
         },
         {
-            "item": "dry red chilies",
+            "item": "dried red chilies",
             "quantity": "1-2",
             "weight": {
                 "value": "Variable",
@@ -121,7 +121,7 @@
             }
         },
         {
-            "item": "garlic cloves",
+            "item": "garlic",
             "quantity": "1-2",
             "weight": {
                 "value": "Variable",

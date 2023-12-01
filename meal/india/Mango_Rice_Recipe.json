@@ -71,7 +71,7 @@
             }
         },
         {
-            "item": "dry red chilies",
+            "item": "dried red chilies",
             "quantity": "2",
             "weight": {
                 "value": "2",
@@ -79,7 +79,7 @@
             }
         },
         {
-            "item": "green chilies",
+            "item": "green chili",
             "quantity": "2",
             "weight": {
                 "value": "10",

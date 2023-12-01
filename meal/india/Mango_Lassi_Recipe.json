@@ -34,7 +34,7 @@
     ],
     "ingredients": [
         {
-            "item": "mangoes",
+            "item": "mango",
             "quantity": "1 cup",
             "weight": {
                 "value": "150",
@@ -42,7 +42,7 @@
             }
         },
         {
-            "item": "yogurt",
+            "item": "curd",
             "quantity": "1 cup",
             "weight": {
                 "value": "240",

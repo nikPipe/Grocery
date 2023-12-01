@@ -41,7 +41,7 @@
     ],
     "ingredients": [
         {
-            "item": "dry red chilies",
+            "item": "dried red chilies",
             "quantity": "10",
             "weight": {
                 "value": "20",
@@ -49,7 +49,7 @@
             }
         },
         {
-            "item": "garlic cloves",
+            "item": "garlic",
             "quantity": "4",
             "weight": {
                 "value": "12",
