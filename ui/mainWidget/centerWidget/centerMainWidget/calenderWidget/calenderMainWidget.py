@@ -20,7 +20,10 @@ class calenderMainWidget(QWidget):
         self.styleSheet_class = styleSheet.STYLESHEET()
         self.color_class = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
+
+        file = self.help_class.getTempFile(self.help_class.tempFileName)
         self.parent = parent
+        self.mainWidget = self.parent.parent.parent
         self.getCookingSkillList = []
         self.currentDay = QDate.currentDate().toString('dd.MM.yyyy')
 

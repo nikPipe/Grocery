@@ -22,7 +22,6 @@ class Help():
 
         return folders
 
-
     def getDishList(self, Country):
         '''
 
@@ -78,7 +77,6 @@ class Help():
 
         return dishList
 
-
     def totalCountry(self):
         '''
 
@@ -128,7 +126,6 @@ class Help():
             if widget is not None:
                 widget.deleteLater()  # Remove and delete the widget_old
 
-
     def getFileNameFromImportedModule(self, module):
         return os.path.dirname(module.__file__)
 
@@ -136,7 +133,6 @@ class Help():
         with open(file) as f:
             data = json.load(f)
         return data
-
 
     def getTempFile(self, name):
         '''
@@ -149,7 +145,6 @@ class Help():
             return file
         else:
             return False
-
 
     def createTempFile(self, name):
         '''
@@ -197,7 +192,6 @@ class Help():
 
         return list
 
-
     def getcookingSkill(self):
         '''
 
@@ -206,7 +200,6 @@ class Help():
         list = ['Beginner', 'Intermediate', 'Advance']
 
         return list
-
 
     def get_set_TempFileName(self, data=''):
         '''
@@ -229,7 +222,6 @@ class Help():
             with open(tempFile_, 'r') as f:
                 data = json.load(f)
             return data
-
 
     def get_TempFileData(self):
         '''
@@ -254,7 +246,6 @@ class Help():
                 widget = item.widget()
                 if widget:
                     widget.deleteLater()
-
 
     def converDateToString(self, date):
         '''

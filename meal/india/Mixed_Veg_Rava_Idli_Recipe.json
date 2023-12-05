@@ -1,0 +1,199 @@
+{
+    "id": "Mixed_Veg_Rava_Idli_Recipe",
+    "name": "Mixed Vegetable Rava Idli",
+    "origin": "India",
+    "history": "Rava Idli, a variation of the traditional South Indian idli, is made from semolina (rava). The addition of individually specified mixed vegetables enhances its nutritional value and taste.",
+    "description": "A soft and fluffy steamed cake made from semolina and yogurt, mixed with a variety of individually specified vegetables and spices. It's a quick and healthy meal option.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "35"
+        }
+    },
+    "mealtime": ["Breakfast", "Snack"],
+    "equipment": [
+        {
+            "name": "Idli Steamer or Pressure Cooker",
+            "description": "For steaming the idlis."
+        },
+        {
+            "name": "Mixing Bowl",
+            "description": "For preparing the batter."
+        },
+        {
+            "name": "Idli Moulds",
+            "description": "For shaping the idlis."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "Semolina",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "90",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "yogurt",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "carrot",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Green peas",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "bell pepper",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Water",
+            "quantity": "As needed",
+            "weight": {
+                "value": "50",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "Mustard seeds",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "green chilies",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Curry leaves",
+            "quantity": "5-6",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Baking soda",
+            "quantity": "A pinch",
+            "weight": {
+                "value": "0.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Salt",
+            "quantity": "To taste",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Oil",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Rava Mixture",
+            "description": "Roast the rava in a dry pan until it becomes aromatic. Allow it to cool."
+        },
+        {
+            "step": "2",
+            "title": "Make the Batter",
+            "description": "In a mixing bowl, combine the roasted rava, yogurt, chopped carrot, green peas, bell pepper, and water to form a batter. Let it rest for 15 minutes."
+        },
+        {
+            "step": "3",
+            "title": "Temper the Spices",
+            "description": "Heat oil in a small pan, add mustard seeds, green chilies, and curry leaves. Once they splutter, add this to the batter. Mix in salt and baking soda."
+        },
+        {
+            "step": "4",
+            "title": "Steam the Idlis",
+            "description": "Grease the idli moulds. Pour the batter into each mould. Steam in an idli steamer or a pressure cooker without the whistle for 10-12 minutes."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Allow the idlis to cool slightly before demoulding. Serve hot with coconut chutney or sambar."
+        }
+    ],
+    "nutrition": {
+        "calories": "Approximately 300",
+        "carbohydrates": "45g",
+        "protein": "10g",
+        "fat": "7g"
+    },
+    "tips": [
+        "Ensure the batter is not too thick or too thin.",
+        "Adding a pinch of fruit salt (like Eno) can make the idlis fluffier."
+    ],
+    "variations": [
+        "Include grated ginger for additional flavor.",
+        "Add chopped coriander leaves for a fresh taste."
+    ],
+    "images": {
+        "main": "[Insert Image URL or Path]"
+    },
+    "storage": {
+        "shelfLife": "Batter can be stored for up to 1 day in the refrigerator",
+        "instructions": "Store the batter in an airtight container. Cooked idlis are best enjoyed fresh but can be refrigerated for 1-2 days."
+    },
+    "reheatingInstructions": "Reheat in a steamer or microwave until warm.",
+    "presentationTips": [
+        "Serve on a banana leaf for an authentic South Indian experience.",
+        "Garnish with grated coconut on top for a decorative touch."
+    ],
+    "keywords": [
+        "Rava Idli", 
+        "Mixed Vegetable", 
+        "South Indian Cuisine", 
+        "Healthy Snack"
+    ],
+    "allergens": [
+        "Gluten", 
+        "Dairy"
+    ]
+}

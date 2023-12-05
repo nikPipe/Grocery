@@ -21,6 +21,7 @@ class mainWidget(QMainWindow):
         self.color_variable = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
         self.getAllMeal = get_meal_dishe.getAllMeal()
+        self.mealDic = get_meal_dishe.allMealType()
         self.mainCenterWidget = mainCenterWidget.centerMainWidget(self)
         self.topWidgetMain = topWidgetMain.topMainWidget(self)
 
@@ -31,6 +32,31 @@ class mainWidget(QMainWindow):
         self.popup_calender = popup_calender
 
         self.initUI()
+
+        # Create a QTimer to trigger an action every 2 minutes (120,000 milliseconds)
+
+        try:
+
+            self.timer = QTimer(self)
+            self.timer.timeout.connect(self.print_message)
+
+            # Get the current time and calculate the time until the next 2-minute interval
+            current_time = QTime.currentTime()
+            minutes_until_next_interval = (2 - current_time.minute() % 2) * 60 - current_time.second()
+
+            # Start the timer with the calculated delay
+            self.timer.start(minutes_until_next_interval * 1000)  # Convert minutes to milliseconds
+        except Exception as e:
+            import traceback
+            traceback.print_exc()
+
+
+    def print_message(self):
+        # Get the current time
+        current_time = QTime.currentTime().toString()
+
+        # Print a message in the QTextEdit widget
+        self.mainCenterWidget.centerMainWidget.homeWidgetMain.update_horizontalLayout_()
 
     def initUI(self):
         # Set window size.

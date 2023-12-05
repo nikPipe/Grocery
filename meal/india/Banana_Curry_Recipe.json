@@ -1,0 +1,169 @@
+{
+    "id": "Banana_Curry_Recipe",
+    "name": "Banana Curry",
+    "origin": "India",
+    "history": "Banana Curry is a unique and flavorful dish found in various regions of India, particularly in the southern states. It's known for its sweet and spicy taste.",
+    "description": "A delightful curry that combines ripe bananas with aromatic spices, creating a perfect blend of sweet and savory flavors.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "Saucepan",
+            "description": "For cooking the curry."
+        },
+        {
+            "name": "Cutting Board and Knife",
+            "description": "For preparing the ingredients."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "banana",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Oil",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "Mustard seeds",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Curry leaves",
+            "quantity": "5-6 leaves",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Turmeric powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Chili powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Salt",
+            "quantity": "To taste",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Grated coconut",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Water",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare the Banana",
+            "description": "Peel and slice the banana into small pieces."
+        },
+        {
+            "step": "2",
+            "title": "Temper the Spices",
+            "description": "Heat oil in a saucepan. Add mustard seeds and curry leaves, and let them splutter."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Banana",
+            "description": "Add the banana pieces, turmeric, chili powder, and salt. Stir well and cook for a few minutes."
+        },
+        {
+            "step": "4",
+            "title": "Add Coconut and Water",
+            "description": "Add grated coconut and water. Bring to a boil, then simmer until the curry thickens."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the banana curry hot with rice or Indian breads like chapati."
+        }
+    ],
+    "nutrition": {
+        "calories": "Approximately 200",
+        "carbohydrates": "30g",
+        "protein": "2g",
+        "fat": "10g"
+    },
+    "tips": [
+        "Use ripe but firm bananas for the best texture.",
+        "Adjust the amount of chili powder according to your spice preference."
+    ],
+    "variations": [
+        "Add a pinch of garam masala for a more complex flavor.",
+        "Incorporate other fruits like pineapple or apple for a fruity twist."
+    ],
+    "images": {
+        "main": "[Insert Image URL or Path]"
+    },
+    "storage": {
+        "shelfLife": "Up to 1 day",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on the stove with a little water to prevent drying out.",
+    "presentationTips": [
+        "Garnish with fresh coriander leaves.",
+        "Serve in a traditional Indian serving dish for an authentic experience."
+    ],
+    "keywords": [
+        "Banana",
+        "Curry",
+        "Indian Cuisine"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

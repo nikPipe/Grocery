@@ -21,7 +21,6 @@ class savedMealLeft_widget(QWidget):
 
         self.parent = parent
         self.mainWidget = self.parent.parent.parent.parent
-        print('>>>>', self.mainWidget)
         self.getCookingSkillList = []
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
@@ -122,6 +121,7 @@ class savedMealLeft_widget(QWidget):
                 if eachMeal == item.text(0):
                     for eachMeal_ in mealnameList[eachMeal]:
                         for eachMealData in getAllMeal:
+                            eachMealData = getAllMeal[eachMealData]
                             if eachMeal_ == eachMealData['id']:
                                 widget__ = mealWidget_sample.mealWidgetSample(parent=self.mainWidget, data=eachMealData)
                                 verticalLayout.addWidget(widget__)

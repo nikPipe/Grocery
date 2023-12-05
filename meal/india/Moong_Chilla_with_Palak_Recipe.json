@@ -1,0 +1,157 @@
+{
+    "id": "Moong_Chilla_with_Palak_Recipe",
+    "name": "Moong Chilla with Palak",
+    "origin": "India",
+    "history": "Chilla, also known as cheela, is a popular North Indian breakfast item. The addition of palak (spinach) adds a healthful twist to the traditional moong dal chilla.",
+    "description": "A savory pancake made from ground moong dal and spinach, spiced with Indian flavors. It's a healthy and delicious option for any meal.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian", "Gluten-free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "25"
+        }
+    },
+    "mealtime": ["Breakfast", "Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "Blender",
+            "description": "For making the batter."
+        },
+        {
+            "name": "Non-stick Pan",
+            "description": "For cooking the chilla."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "Moong dal",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "spinach",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Green chili",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Ginger",
+            "quantity": "1/2 inch piece",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Cumin seeds",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Salt",
+            "quantity": "To taste",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Water",
+            "quantity": "As needed",
+            "weight": {
+                "value": "50",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "Oil",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Soak and Grind Moong Dal",
+            "description": "Soak moong dal in water for 1 hour. Drain and transfer to a blender."
+        },
+        {
+            "step": "2",
+            "title": "Prepare the Batter",
+            "description": "To the blender, add spinach, green chili, ginger, cumin seeds, and salt. Add a little water and blend to a smooth batter."
+        },
+        {
+            "step": "3",
+            "title": "Cook the Chilla",
+            "description": "Heat a non-stick pan and grease it lightly with oil. Pour a ladleful of batter and spread it into a thin pancake. Cook until the bottom side is golden, then flip and cook the other side."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the moong chilla hot with chutney or yogurt."
+        }
+    ],
+    "nutrition": {
+        "calories": "Approximately 200",
+        "carbohydrates": "30g",
+        "protein": "12g",
+        "fat": "4g"
+    },
+    "tips": [
+        "Ensure the batter is not too thick; it should be pourable.",
+        "Adding finely chopped onions and tomatoes to the batter can enhance the flavor."
+    ],
+    "variations": [
+        "Mix in grated carrots or beets for added nutrition and color.",
+        "For a vegan version, omit yogurt in the serving suggestion."
+    ],
+    "images": {
+        "main": "[Insert Image URL or Path]"
+    },
+    "storage": {
+        "shelfLife": "Batter can be stored for up to 1 day in the refrigerator",
+        "instructions": "Store the batter in an airtight container. Cooked chillas are best enjoyed fresh."
+    },
+    "reheatingInstructions": "Reheat in a pan over medium heat for best results.",
+    "presentationTips": [
+        "Garnish with freshly chopped coriander.",
+        "Serve on a colorful plate with a side of bright green mint chutney."
+    ],
+    "keywords": [
+        "Moong Chilla",
+        "Palak",
+        "Indian Pancake",
+        "Healthy Breakfast"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

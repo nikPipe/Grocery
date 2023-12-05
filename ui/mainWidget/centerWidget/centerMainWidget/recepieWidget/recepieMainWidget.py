@@ -22,8 +22,8 @@ class recepieMainWidget(QWidget):
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
         self.backgroundColor = self.color_class.setColorVal(r=179, g=179, b=179)
 
-        self.recepieTop_widget = recepieTop_widget.recepieTop_widget(self.mainWidget)
-        self.recepieCenter_widget = recepieCenter_widget.recepieCenter_widget(self.mainWidget)
+        self.recepieTop_widget = recepieTop_widget.recepieTop_widget(self)
+        self.recepieCenter_widget = recepieCenter_widget.recepieCenter_widget(self)
 
         verticalLayout = QVBoxLayout(self)
 

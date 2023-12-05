@@ -1,3 +1,4 @@
+from functools import partial
 
 from ui.import_module import *
 from ui.sampleWidget import sample_widget_template
@@ -35,33 +36,54 @@ class grocerySearch_widget(QWidget):
     def initUI(self):
         '''
 
-
         :return:
         '''
-        widget_object = 'centerMainWidget'
-        styleSheet = self.sample_widget.styleSheet_def(obj_name=widget_object, background_color=self.color.get_value(),
-                                                       border_color=self.color_class.black_color.get_value())
-        widget = self.sample_widget.widget_def(set_object_name=widget_object, set_styleSheet=styleSheet)
-        verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0), set_spacing=15)
 
+        widget = self.sample_widget.widget_def()
+        verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0))
 
         lineEdit_object = 'lineEdit_object'
         styleSheet = self.sample_widget.styleSheet_def(obj_name=lineEdit_object,
                                                        background_color=self.backgroundColor.get_value(),
                                                        border_radius=20)
-        lineEdit = self.sample_widget.line_edit(set_object_name=lineEdit_object, set_styleSheet=styleSheet, set_PlaceholderText='Search The Product Name')
-        lineEdit.setMinimumSize(QSize(0, 40))
-        lineEdit.setMaximumSize(QSize(16777215, 40))
-        lineEdit.setAlignment(Qt.AlignCenter)
+        self.grocerySearch_lineEdit = self.sample_widget.line_edit(set_object_name=lineEdit_object, set_styleSheet=styleSheet,
+                                                set_PlaceholderText='Search The Product Name')
+        self.grocerySearch_lineEdit.setMinimumSize(QSize(0, 40))
+        self.grocerySearch_lineEdit.setMaximumSize(QSize(16777215, 40))
+        self.grocerySearch_lineEdit.setAlignment(Qt.AlignCenter)
+        self.grocerySearch_lineEdit.textChanged.connect(partial(self.grocerySearch, self.grocerySearch_lineEdit))
+
         font = QFont()
         font.setPointSize(10)
         font.setBold(True)
-        lineEdit.setFont(font)
+        self.grocerySearch_lineEdit.setFont(font)
 
-        verticalLayout.addWidget(lineEdit)
-
-
+        verticalLayout.addWidget(self.grocerySearch_lineEdit)
 
         return widget
+
+
+    def grocerySearch(self, lineedit):
+        '''
+
+        :return:
+        '''
+        text = lineedit.text()
+
+        self.parent.stakeWidget.setCurrentIndex(1)
+        self.parent.grocerySearchSecound_widget.setLineeditText(text)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

@@ -19,6 +19,8 @@ class recepieTree_widget(QWidget):
         self.color_class = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
         self.parent = parent
+        self.mainWidget = self.parent.mainWidget
+
         self.getCookingSkillList = []
 
         self.recepieDict = {}
@@ -98,30 +100,33 @@ class recepieTree_widget(QWidget):
         :param treeWidget:
         :return:
         '''
-        selectedItem = treeWidget.selectedItems()
-        if selectedItem:
-            item__ = selectedItem[0]
-            data = item__.data(0, Qt.UserRole)
-            if data:
+        try:
 
-                recepieRightMenu_widget = self.parent.mainCenterWidget.centerMainWidget.recepieMainWidget.recepieCenter_widget.recepieRightMenu_widget
-                recepieRightMenu_horizontalLayour = recepieRightMenu_widget.recepieRightMenu_horizontalLayour
+            selectedItem = treeWidget.selectedItems()
+            if selectedItem:
+                item__ = selectedItem[0]
+                data = item__.data(0, Qt.UserRole)
+                if data:
+                    recepieRightMenu_widget = self.parent.recepieCenter_widget.recepieRightMenu_widget
+                    recepieRightMenu_horizontalLayour = recepieRightMenu_widget.recepieRightMenu_horizontalLayour
 
-                recepieRightMenu_DetailWidget = self.parent.mainCenterWidget.centerMainWidget.recepieMainWidget.recepieCenter_widget.recepieRightMenuDetail_widget
+                    recepieRightMenu_DetailWidget = self.parent.recepieCenter_widget.recepieRightMenuDetail_widget
 
-                self.help_class.clearLayout(recepieRightMenu_horizontalLayour)
-                for eachMenu in data['menu']:
-                    id = data['menu'][eachMenu]['default']['id']
-                    try:
-                        for eachMeal in self.parent.getAllMeal:
-                            if id.lower() == eachMeal['id'].lower():
-                                meal_data = eachMeal
+                    self.help_class.clearLayout(recepieRightMenu_horizontalLayour)
+                    for eachMenu in data['menu']:
+                        id = data['menu'][eachMenu]['default']['id']
+                        try:
+                            getAllMeal = self.mainWidget.getAllMeal
+
+                            if id.lower() in getAllMeal:
+                                meal_data = getAllMeal[id]
                                 widget = recepieRightMenu_widget.update_widget(menuName=eachMenu, data=meal_data)
                                 recepieRightMenu_horizontalLayour.addWidget(widget)
-                    except:
-                        import traceback
-                        traceback.print_exc()
+                        except:
+                            import traceback
+                            traceback.print_exc()
 
-                    recepieRightMenu_DetailWidget.tabWidget_update(data=data)
-
-                #recepieRightMenu_widget.update_widget(menuName=eachMenu, data=data)
+                        recepieRightMenu_DetailWidget.tabWidget_update(data=data)
+        except:
+            import traceback
+            traceback.print_exc()

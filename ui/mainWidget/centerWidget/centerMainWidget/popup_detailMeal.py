@@ -11,6 +11,16 @@ from ui.mainWidget.centerWidget.centerMainWidget import mealWidget_sample
 from ui.mainWidget.centerWidget.centerMainWidget.calenderWidget import calenderMainWidget
 
 from ui.mainWidget.centerWidget.centerMainWidget import addtoCalender_widget
+from groceryData import groceryImage
+groceryImage_file = os.path.dirname(groceryImage.__file__)
+
+list_dir = os.listdir(groceryImage_file)
+
+print(list_dir)
+
+
+
+
 class mealDeatail(QDialog):
     def __init__(self, parent=None, data=None):
         super().__init__(parent)
@@ -19,7 +29,7 @@ class mealDeatail(QDialog):
         self.color_class = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
         self.parent = parent
-        self.mainWidget = self.parent.parent.parent
+        self.mainWidget = self.parent
         self.data = data
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
         self.backgroundColor = self.color_class.setColorVal(r=179, g=179, b=179)
@@ -54,7 +64,6 @@ class mealDeatail(QDialog):
         # verticalLayout.addWidget(self.searchWidget())
         verticalLayout.addWidget(self.mealDeatailWidget())
 
-        verticalLayout.addItem(QSpacerItem(0, 10, QSizePolicy.Minimum, QSizePolicy.Expanding))
 
         return widget
 
@@ -66,8 +75,29 @@ class mealDeatail(QDialog):
         widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget)
 
-        verticalLayout.addWidget(self.topWidget())
-        verticalLayout.addWidget(self.bottomWidget())
+        scrollArea = self.sample_widget.scrollArea(parent_self=widget)
+        verticalLayout.addWidget(scrollArea)
+        widget_object = 'scrollAreaWidgetContents'
+        styleSheet = self.sample_widget.styleSheet_def(obj_name=widget_object,
+                                                         background_color=self.backgroundColor.get_value(),
+                                                         border_radius=0)
+        scrollAreaWidgetContents = self.sample_widget.widget_def(set_object_name=widget_object,
+                                                                 set_styleSheet=styleSheet)
+        scrollArea.setWidget(scrollAreaWidgetContents)
+        verticalLayout_ = self.sample_widget.vertical_layout(parent_self=scrollAreaWidgetContents, set_spacing=15)
+
+
+        tabWidget = QTabWidget()
+        tabWidget_object = 'tabWidgetObject'
+        styleSheet = self.sample_widget.styleSheet_def(obj_name=tabWidget_object,
+                                                         background_color=self.backgroundColor.get_value(),
+                                                            border_radius=0)
+        tabWidget.setStyleSheet(styleSheet)
+        tabWidget.setObjectName(tabWidget_object)
+        verticalLayout_.addWidget(tabWidget)
+
+        tabWidget.addTab(self.topWidget(), 'MainTab')
+        tabWidget.addTab(self.bottomWidget(), 'ExtraTab')
 
         return widget
 
@@ -76,7 +106,11 @@ class mealDeatail(QDialog):
 
         :return:
         '''
-        widget = self.sample_widget.widget_def()
+        object = 'topWidgetObject'
+        styleSheet = self.sample_widget.styleSheet_def(obj_name=object,
+                                                            background_color=self.color.get_value(),
+                                                            border_radius=0)
+        widget = self.sample_widget.widget_def(set_object_name=object, set_styleSheet=styleSheet)
         gridLayout = self.sample_widget.grid_layout(parent_self=widget, set_spacing=5)
 
         gridLayout.addWidget(self.nameWidget(data=self.data), 0, 0, 1, 1)
@@ -89,6 +123,10 @@ class mealDeatail(QDialog):
 
         gridLayout.addWidget(self.recepieImageButtonWidget(data=self.data), 0, 1, 4, 2)
 
+        gridLayout.addWidget(self.descriptionWidget(data=self.data), 4, 0, 1, 3)
+
+        gridLayout.addWidget(self.nutritionWidget(data=self.data), 5, 0, 1, 3)
+
         return widget
 
     def bottomWidget(self):
@@ -99,15 +137,15 @@ class mealDeatail(QDialog):
         widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget)
 
-        scrollArea = self.sample_widget.scrollArea(parent_self=widget)
-        verticalLayout.addWidget(scrollArea)
-        scrollAreaWidgetContents = self.sample_widget.widget_def()
-        scrollArea.setWidget(scrollAreaWidgetContents)
-        verticalLayout_ = self.sample_widget.vertical_layout(parent_self=scrollAreaWidgetContents, set_spacing=15)
+        #scrollArea = self.sample_widget.scrollArea(parent_self=widget)
+        #verticalLayout.addWidget(scrollArea)
+        #scrollAreaWidgetContents = self.sample_widget.widget_def()
+        #scrollArea.setWidget(scrollAreaWidgetContents)
+        #verticalLayout_ = self.sample_widget.vertical_layout(parent_self=scrollAreaWidgetContents, set_spacing=15)
 
-        verticalLayout_.addWidget(self.descriptionWidget(data=self.data))
-        verticalLayout_.addWidget(self.nutritionWidget(data=self.data))
-        verticalLayout_.addWidget(self.mealTabWidget(data=self.data))
+        #verticalLayout.addWidget(self.descriptionWidget(data=self.data))
+        #verticalLayout.addWidget(self.nutritionWidget(data=self.data))
+        verticalLayout.addWidget(self.mealTabWidget(data=self.data))
 
         return widget
 
@@ -423,11 +461,13 @@ class mealDeatail(QDialog):
         :return:
         '''
         height = 500
-        widget = self.sample_widget.widget_def(min_size=(0, height), max_size=(16777215, height))
+        widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
 
         self.meal_tabWidget = QTabWidget()
+
         verticalLayout.addWidget(self.meal_tabWidget)
+
 
         self.update_tabWidget(dic_val=data)
 
@@ -482,16 +522,32 @@ class mealDeatail(QDialog):
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
 
         treeWidget = self.sample_widget.treeWidget(parent_self=widget)
-        treeWidget.setColumnCount(3)
+        treeWidget.setColumnCount(4)
         treeWidget.setHeaderLabels(['Item', 'Quantity', 'Weight'])
+        treeWidget.setIconSize(QSize(200, 200))
+        treeWidget.setColumnWidth(0, 200)
+        treeWidget.setColumnWidth(1, 200)
         verticalLayout.addWidget(treeWidget)
 
         for each in ingredient:
             item = QTreeWidgetItem(treeWidget)
-            item.setText(0, each['item'])
-            item.setText(1, each['quantity'])
             weight = each['weight']['value'] + ' ' + each['weight']['unit']
+            item.setText(1, each['item'])
             item.setText(2, weight)
+            font1 = QFont()
+            font1.setPointSize(100)
+            item.setFont(0, font1)
+
+            iconPath = each['item'].replace(' ', '_')
+            if '-' in iconPath:
+                iconPath = iconPath.replace('-', '_')
+            fullPath = os.path.join(groceryImage_file, iconPath + '.jpg')
+            if os.path.exists(fullPath):
+                val = 500
+                icon = QIcon(fullPath)
+                pixmap2 = icon.pixmap(val, val)
+                item.setIcon(0, QIcon(pixmap2))
+
             treeWidget.addTopLevelItem(item)
 
         return widget

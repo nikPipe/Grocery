@@ -1,0 +1,153 @@
+{
+    "id": "Tomato_Sev_Recipe",
+    "name": "Tomato Sev",
+    "origin": "India",
+    "history": "Sev is a popular Indian snack known for its crispy texture. Tomato Sev is a variation that infuses the tangy flavor of tomatoes into the traditional sev recipe.",
+    "description": "A crispy, tangy, and spicy snack made from gram flour infused with tomato puree, spices, and fried until golden and crunchy.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian", "Vegan"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": ["Snack"],
+    "equipment": [
+        {
+            "name": "Sev Maker or a Large-Holed Sieve",
+            "description": "To shape the sev."
+        },
+        {
+            "name": "Deep Frying Pan",
+            "description": "For frying the sev."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "Gram flour (besan)",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Ripe tomato",
+            "quantity": "1 medium",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Red chili powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Turmeric powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Asafoetida (hing)",
+            "quantity": "A pinch",
+            "weight": {
+                "value": "0.2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Salt",
+            "quantity": "To taste",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Oil",
+            "quantity": "For deep frying",
+            "weight": {
+                "value": "500",
+                "unit": "ml"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Tomato Puree",
+            "description": "Blend the tomato to a smooth puree."
+        },
+        {
+            "step": "2",
+            "title": "Make Dough",
+            "description": "In a bowl, mix gram flour, tomato puree, chili powder, turmeric, asafoetida, and salt. Add water if necessary to form a soft dough."
+        },
+        {
+            "step": "3",
+            "title": "Heat Oil",
+            "description": "Heat oil in a deep frying pan."
+        },
+        {
+            "step": "4",
+            "title": "Form Sev",
+            "description": "Fill the sev maker with dough and press it into hot oil, forming small strands. Fry until crisp and golden."
+        },
+        {
+            "step": "5",
+            "title": "Drain and Cool",
+            "description": "Remove the sev from oil and drain on absorbent paper. Allow it to cool before serving."
+        }
+    ],
+    "nutrition": {
+        "calories": "Approximately 300",
+        "carbohydrates": "35g",
+        "protein": "7g",
+        "fat": "15g"
+    },
+    "tips": [
+        "Ensure the oil is hot enough before frying the sev for a crispy texture.",
+        "Do not overcrowd the pan while frying."
+    ],
+    "variations": [
+        "Add garlic paste for a different flavor.",
+        "Include a pinch of carom seeds (ajwain) for added taste and digestion benefits."
+    ],
+    "images": {
+        "main": "[Insert Image URL or Path]"
+    },
+    "storage": {
+        "shelfLife": "Up to 2 weeks",
+        "instructions": "Store in an airtight container at room temperature."
+    },
+    "reheatingInstructions": "N/A",
+    "presentationTips": [
+        "Serve in a colorful bowl with a side of mint chutney.",
+        "Garnish with chopped coriander for a fresh look."
+    ],
+    "keywords": [
+        "Tomato Sev", 
+        "Indian Snack", 
+        "Crispy Snack"
+    ],
+    "allergens": [
+        "None"
+    ]
+}

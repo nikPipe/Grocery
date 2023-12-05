@@ -166,9 +166,11 @@ class leftMainWidget(QWidget):
         :param widget:
         :return:
         '''
-
-
         self.parent.centerMainWidget.stackedWidget.setCurrentIndex(value)
+        if value == 1:
+            self.parent.centerMainWidget.mealMainWidget.mealMain_lineEdit.setText('')
+            self.parent.centerMainWidget.mealMainWidget.stakeWidget.setCurrentIndex(0)
+
         if value == 4:
             try:
                 self.parent.centerMainWidget.calenderMainWidget.update_()

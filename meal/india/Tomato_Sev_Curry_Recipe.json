@@ -1,0 +1,201 @@
+{
+    "id": "Tomato_Sev_Curry_Recipe",
+    "name": "Tomato Sev Curry",
+    "origin": "India",
+    "history": "Tomato Sev Curry is a creative twist on traditional Indian curries, combining the crunch of sev with the tanginess of tomatoes to create a unique dish.",
+    "description": "A tangy and spicy curry made with a tomato-based sauce, infused with Indian spices, and finished with crispy sev sprinkled on top.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "Saucepan",
+            "description": "For cooking the curry."
+        },
+        {
+            "name": "Frying Pan",
+            "description": "For frying the sev if not using pre-made sev."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "tomatoes",
+            "quantity": "2 medium",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Onion",
+            "quantity": "1 small",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Garlic cloves",
+            "quantity": "2",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Ginger",
+            "quantity": "1/2 inch piece",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Green chili",
+            "quantity": "1",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Cumin seeds",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Turmeric powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Red chili powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Coriander powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Oil",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "Water",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "240",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "Sev",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "coriander leaves",
+            "quantity": "For garnish",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Tomato Mixture",
+            "description": "Blend tomatoes, onion, garlic, ginger, and green chili into a smooth puree."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Curry Base",
+            "description": "Heat oil in a saucepan. Add cumin seeds and let them splutter. Add the tomato mixture, turmeric, red chili powder, and coriander powder. Cook until the oil separates."
+        },
+        {
+            "step": "3",
+            "title": "Simmer the Curry",
+            "description": "Add water to the saucepan and bring the curry to a boil. Simmer for 10 minutes."
+        },
+        {
+            "step": "4",
+            "title": "Finish with Sev",
+            "description": "Just before serving, sprinkle sev over the curry. Do not mix, as the sev should remain crispy."
+        },
+        {
+            "step": "5",
+            "title": "Garnish and Serve",
+            "description": "Garnish with fresh coriander leaves. Serve hot with rice or Indian breads like chapati."
+        }
+    ],
+    "nutrition": {
+        "calories": "Approximately 300",
+        "carbohydrates": "35g",
+        "protein": "7g",
+        "fat": "15g"
+    },
+    "tips": [
+        "Add the sev just before serving to maintain its crunch.",
+        "Adjust the chili as per your spice tolerance."
+    ],
+    "variations": [
+        "Add a splash of cream for a richer curry.",
+        "Incorporate boiled peas or paneer for added texture and protein."
+    ],
+    "images": {
+        "main": "[Insert Image URL or Path]"
+    },
+    "storage": {
+        "shelfLife": "Up to 2 days without sev, add sev when serving",
+        "instructions": "Store the curry in an airtight container in the refrigerator. Add fresh sev upon reheating."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on the stove. Add sev after reheating.",
+    "presentationTips": [
+        "Serve in a traditional Indian curry bowl.",
+        "Garnish with a sprinkle of sev and coriander leaves for an appealing look."
+    ],
+    "keywords": [
+        "Tomato Sev Curry",
+        "Indian Cuisine",
+        "Vegetarian Curry"
+    ],
+    "allergens": [
+        "Gluten"
+    ]
+}

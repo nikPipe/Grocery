@@ -58,6 +58,7 @@ class COLOR_VARIABLE():
         self.brown_color = COLOR_VARIABLE_CHILD(value=[193, 37, 40])
         self.white_color = COLOR_VARIABLE_CHILD(value=[255, 255, 255])
         self.black_color = COLOR_VARIABLE_CHILD(value=[80, 80, 80])
+        self.gray_color = COLOR_VARIABLE_CHILD(value=[149, 149, 149])
 
         basic_font_radius_size = 10
         basic_font_weight = 'bold'

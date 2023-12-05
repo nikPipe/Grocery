@@ -70,17 +70,17 @@ class mealMainWidget(QWidget):
         styleSheet = self.sample_widget.styleSheet_def(obj_name=lineEdit_object,
                                                        background_color=self.backgroundColor.get_value(),
                                                        border_radius=20)
-        lineEdit = self.sample_widget.line_edit(set_object_name=lineEdit_object, set_styleSheet=styleSheet)
-        lineEdit.setMinimumSize(QSize(0, 40))
-        lineEdit.setMaximumSize(QSize(16777215, 40))
-        lineEdit.setAlignment(Qt.AlignmentFlag.AlignCenter)
+        self.mealMain_lineEdit = self.sample_widget.line_edit(set_object_name=lineEdit_object, set_styleSheet=styleSheet)
+        self.mealMain_lineEdit.setMinimumSize(QSize(0, 40))
+        self.mealMain_lineEdit.setMaximumSize(QSize(16777215, 40))
+        self.mealMain_lineEdit.setAlignment(Qt.AlignmentFlag.AlignCenter)
         font = QFont()
         font.setBold(True)
         font.setPointSize(10)
-        lineEdit.setFont(font)
-        lineEdit.setPlaceholderText('Search the Meal')
-        lineEdit.textChanged.connect(partial(self.lineEditTextChanged, lineEdit))
-        verticalLayout.addWidget(lineEdit)
+        self.mealMain_lineEdit.setFont(font)
+        self.mealMain_lineEdit.setPlaceholderText('Search the Meal')
+        self.mealMain_lineEdit.textChanged.connect(partial(self.lineEditTextChanged, self.mealMain_lineEdit))
+        verticalLayout.addWidget(self.mealMain_lineEdit)
 
         return widget
 
@@ -93,13 +93,12 @@ class mealMainWidget(QWidget):
         try:
 
             self.mainWidget.mainCenterWidget.centerMainWidget.mealMainWidget.stakeWidget.setCurrentIndex(2)
-
             lineedit_text = lineedit.text()
-            getAllMeal = get_meal_dishe.getAllMeal()
+            getAllMeal = self.mainWidget.getAllMeal
             mealList = []
             for each in getAllMeal:
-                if lineedit_text.lower() in each['name'].lower():
-                    mealList.append(each)
+                if lineedit_text.lower() in getAllMeal[each]['name'].lower():
+                    mealList.append(getAllMeal[each])
 
             verticalLayout = self.mealSearchWidget.mealSearch_widget_verticalLayout
             self.help_class.clearLayout(verticalLayout)

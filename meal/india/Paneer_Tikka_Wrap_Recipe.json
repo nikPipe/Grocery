@@ -1,0 +1,202 @@
+{
+    "id": "Paneer_Tikka_Wrap_Recipe",
+    "name": "Paneer Tikka Wrap",
+    "origin": "India",
+    "history": "Paneer Tikka Wrap combines the popular North Indian dish Paneer Tikka with a wrap style, making it a fusion of traditional flavors in a convenient form.",
+    "description": "A flavorful wrap filled with spicy and charred paneer tikka pieces, accompanied by crunchy vegetables and tangy sauces, all wrapped in a soft flatbread.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "30"
+        }
+    },
+    "mealtime": ["Lunch", "Dinner"],
+    "equipment": [
+        {
+            "name": "Grill Pan or Skillet",
+            "description": "For grilling the paneer."
+        },
+        {
+            "name": "Mixing Bowl",
+            "description": "For marinating the paneer."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "Paneer",
+            "quantity": "100 g",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Yogurt",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Tandoori masala",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Red chili powder",
+            "quantity": "1/2 teaspoon",
+            "weight": {
+                "value": "2.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Turmeric powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1.25",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Lemon",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "Salt",
+            "quantity": "To taste",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Oil",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "Flatbread",
+            "quantity": "1",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Sliced onions",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Sliced bell peppers",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Mint chutney",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Mayonnaise or Yogurt-based sauce",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Marinate the Paneer",
+            "description": "Mix yogurt, tandoori masala, red chili powder, turmeric, lemon juice, and salt. Add paneer cubes and marinate for at least 15 minutes."
+        },
+        {
+            "step": "2",
+            "title": "Grill the Paneer",
+            "description": "Heat oil in a grill pan. Grill the marinated paneer until charred on all sides."
+        },
+        {
+            "step": "3",
+            "title": "Prepare the Wrap",
+            "description": "Warm the flatbread or tortilla. Spread mint chutney and mayonnaise/yogurt-based sauce over it."
+        },
+        {
+            "step": "4",
+            "title": "Assemble the Wrap",
+            "description": "Place grilled paneer, sliced onions, and bell peppers on the flatbread. Roll it tightly to make a wrap."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Cut the wrap in half and serve immediately."
+        }
+    ],
+    "nutrition": {
+        "calories": "Approximately 400",
+        "carbohydrates": "35g",
+        "protein": "15g",
+        "fat": "20g"
+    },
+    "tips": [
+        "Marinate the paneer for longer for more flavor.",
+        "Use a mix of colored bell peppers for a vibrant look."
+    ],
+    "variations": [
+        "Add roasted vegetables for extra nutrition.",
+        "Use a whole wheat flatbread for a healthier option."
+    ],
+    "images": {
+        "main": "[Insert Image URL or Path]"
+    },
+    "storage": {
+        "shelfLife": "Best consumed immediately",
+        "instructions": "N/A"
+    },
+    "reheatingInstructions": "N/A",
+    "presentationTips": [
+        "Serve with a side of green salad or raita.",
+        "Garnish with fresh coriander leaves and a squeeze of lemon juice."
+    ],
+    "keywords": [
+        "Paneer Tikka",
+        "Wrap",
+        "Indian Fusion"
+    ],
+    "allergens": [
+        "Dairy",
+        "Gluten"
+    ]
+}

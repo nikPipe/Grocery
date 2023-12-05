@@ -18,6 +18,7 @@ class calenderCenter_widget(QWidget):
         self.color_class = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
         self.parent = parent
+
         self.getCookingSkillList = []
         self.currentDay = self.parent.currentDay
 

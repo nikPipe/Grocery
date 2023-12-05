@@ -92,7 +92,7 @@
             "item": "oil",
             "quantity": "2 tablespoons + for deep-frying",
             "weight": {
-                "value": "30 + Variable",
+                "value": "30",
                 "unit": "ml"
             }
         },

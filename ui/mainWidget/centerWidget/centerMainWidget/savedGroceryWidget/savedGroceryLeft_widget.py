@@ -68,7 +68,7 @@ class savedGroceryLeft_widget(QWidget):
         label_objectName = 'label'
         styleSheet_ = self.sample_widget.styleSheet_def(obj_name=label_objectName, color=self.color_class.white_color.get_value())
 
-        label = self.sample_widget.label(set_text='Saved Meal', set_object_name=label_objectName, set_styleSheet=styleSheet_,
+        label = self.sample_widget.label(set_text='Saved Grocery', set_object_name=label_objectName, set_styleSheet=styleSheet_,
                                          set_alighment=self.sample_widget.center_alignment)
         label.setFont(self.font)
         horizontalLayout.addWidget(label)

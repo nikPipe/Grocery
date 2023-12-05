@@ -11,13 +11,12 @@ file =  os.path.dirname(os.path.realpath(ui.__file__))
 from ui.mainWidget.centerWidget.centerMainWidget.homeWidget import commonAllSearch_widget
 from ui.mainWidget.centerWidget.centerMainWidget import popup_detailMeal
 
-from data import get_meal_dishe
-
 from ui import commonButtonWidget
 
 class homwMainWidget(QWidget):
     def __init__(self, parent):
         super().__init__()
+
         self.sample_widget = sample_widget_template.SAMPLE_WIDGET_TEMPLATE()
         self.styleSheet_class = styleSheet.STYLESHEET()
         self.color_class = sample_color_variable.COLOR_VARIABLE()
@@ -25,8 +24,8 @@ class homwMainWidget(QWidget):
         self.parent = parent
         self.mainWindow = self.parent.parent.parent
         self.getCookingSkillList = []
-        self.get_all_meal = get_meal_dishe.getAllMeal()
-        self.mealDic = get_meal_dishe.getDic()
+        self.get_all_meal = self.mainWindow.getAllMeal
+        self.mealDic = self.mainWindow.mealDic
         self.tempFile_ = self.help_class.getTempFile(self.help_class.tempFileName)
 
         self.commonAllSearch_widget = commonAllSearch_widget.commonAllSearch_Widget(self)
@@ -87,7 +86,8 @@ class homwMainWidget(QWidget):
         widget_object = 'homeMealSuggestions'
         styleSheet = self.sample_widget.styleSheet_def(obj_name=widget_object, background_color=self.color.get_value(),
                                                        border_color=self.color_class.black_color.get_value())
-        widget = self.sample_widget.widget_def(min_size=(0, 200), max_size=(self.sample_widget.max_size, 200),
+        height = 250
+        widget = self.sample_widget.widget_def(min_size=(0, height), max_size=(self.sample_widget.max_size, height),
                                                set_object_name=widget_object, set_styleSheet=styleSheet)
         horizontalLayout = self.sample_widget.horizontal_layout(parent_self=widget)
 
@@ -97,37 +97,44 @@ class homwMainWidget(QWidget):
         scrollAreaWidgetContents = self.sample_widget.widget_def(set_object_name=widget_object, set_styleSheet=styleSheet)
         scrollArea.setWidget(scrollAreaWidgetContents)
 
-        horizontalLayout_ = self.sample_widget.horizontal_layout(parent_self=scrollAreaWidgetContents, set_spacing=10,)
+        self.horizontalLayout_ = self.sample_widget.horizontal_layout(parent_self=scrollAreaWidgetContents, set_spacing=10,)
 
-        width = 250
-        height = 150
-        font = QFont()
-        font.setBold(True)
-        font.setPointSize(10)
-        json_data = self.help_class.readjsonFile(self.tempFile_)
-        diet = json_data['diet']
-
-        dic_val =[]
-        for eachDiet in diet:
-            if eachDiet in self.mealDic:
-                random_ = random.sample(self.mealDic[eachDiet], 10)
-                dic_val.extend(random_)
-
-        for each in dic_val:
-
-            widget_ = commonButtonWidget.commonWidget(each)
-            pushButton = widget_.findChild(QPushButton)
-            pushButton.clicked.connect(partial(self.pushClick, each))
-
-            pushButtonList = widget_.findChildren(QPushButton)
-            for each_pushButton in pushButtonList:
-                if 'addToCalender'.lower() in each_pushButton.objectName().lower():
-                    each_pushButton.clicked.connect(partial(self.addToCalender, each))
-
-
-            horizontalLayout_.addWidget(widget_)
+        self.update_horizontalLayout_()
 
         return widget
+
+    def update_horizontalLayout_(self):
+
+        self.help_class.clearLayout(self.horizontalLayout_)
+
+        json_data = self.help_class.readjsonFile(self.tempFile_)
+        diet = json_data['diet']
+        dietlist = []
+        for each in diet:
+            if each in self.mealDic:
+                dietlist.extend(self.mealDic[each])
+
+        random_ = random.sample(dietlist, 30)
+        for each in random_:
+            widget_ = self.homeMealSuggestions_widget(self.get_all_meal[each])
+            self.horizontalLayout_.addWidget(widget_)
+
+    def homeMealSuggestions_widget(self, data):
+        '''
+
+        :return:
+        '''
+
+        widget_ = commonButtonWidget.commonWidget(data)
+        pushButton = widget_.findChild(QPushButton)
+        pushButton.clicked.connect(partial(self.pushClick, data))
+
+        pushButtonList = widget_.findChildren(QPushButton)
+        for each_pushButton in pushButtonList:
+            if 'addToCalender'.lower() in each_pushButton.objectName().lower():
+                each_pushButton.clicked.connect(partial(self.addToCalender, data))
+
+        return widget_
 
     def searchWidget(self):
         '''
@@ -141,17 +148,17 @@ class homwMainWidget(QWidget):
         lineEdit_object = 'lineEdit_object'
         styleSheet = self.sample_widget.styleSheet_def(obj_name=lineEdit_object, background_color=self.backgroundColor.get_value(),
                                                        border_radius=20)
-        lineEdit = self.sample_widget.line_edit(set_object_name=lineEdit_object, set_styleSheet=styleSheet)
-        lineEdit.setMinimumSize(QSize(0, 40))
-        lineEdit.setMaximumSize(QSize(16777215, 40))
-        lineEdit.setAlignment(Qt.AlignmentFlag.AlignCenter)
+        self.homeWidgetMain_lineEdit = self.sample_widget.line_edit(set_object_name=lineEdit_object, set_styleSheet=styleSheet)
+        self.homeWidgetMain_lineEdit.setMinimumSize(QSize(0, 40))
+        self.homeWidgetMain_lineEdit.setMaximumSize(QSize(16777215, 40))
+        self.homeWidgetMain_lineEdit.setAlignment(Qt.AlignmentFlag.AlignCenter)
         font = QFont()
         font.setBold(True)
         font.setPointSize(10)
-        lineEdit.setFont(font)
-        lineEdit.setPlaceholderText('Search the Product')
-        lineEdit.textChanged.connect(partial(self.lineEditTextChanged, lineEdit))
-        verticalLayout.addWidget(lineEdit)
+        self.homeWidgetMain_lineEdit.setFont(font)
+        self.homeWidgetMain_lineEdit.setPlaceholderText('Search the Product')
+        self.homeWidgetMain_lineEdit.textChanged.connect(partial(self.lineEditTextChanged, self.homeWidgetMain_lineEdit))
+        verticalLayout.addWidget(self.homeWidgetMain_lineEdit)
 
         return widget
 
@@ -168,18 +175,12 @@ class homwMainWidget(QWidget):
             self.commonAllSearch_widget.lineEdit.setText(text)
 
 
-        '''
-        if text != '':
-            self.stakeWidget.setCurrentIndex(1)
-        '''
 
     def searchWidget_2(self):
         '''
 
         :return:
         '''
-
-
 
         widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget)
@@ -191,13 +192,8 @@ class homwMainWidget(QWidget):
 
     def pushClick(self, data):
 
-        #self.parent.mainCenterWidget.centerMainWidget.stackedWidget.setCurrentIndex(1)
-        #self.parent.mainCenterWidget.centerMainWidget.mealMainWidget.stakeWidget.setCurrentIndex(1)
-        #self.parent.mainCenterWidget.centerMainWidget.mealMainWidget.mealMain_widget.mealbutton_def(data)
-
         try:
-
-            popup = popup_detailMeal.mealDeatail(self.parent, data)
+            popup = popup_detailMeal.mealDeatail(self.mainWindow, data)
             result = popup.exec_()  # This makes the dialog modal
         except Exception as e:
             import traceback
@@ -206,9 +202,7 @@ class homwMainWidget(QWidget):
     def addToCalender(self, data):
 
         try:
-
-            popup = self.mainWindow.popup_calender.AddToCalender(self.parent, data)
-
+            popup = self.mainWindow.popup_calender.AddToCalender(self.mainWindow, data)
             #popup = self.parent.popup_calender.AddToCalender(self.parent, data)
             result = popup.exec_()
         except Exception as e:

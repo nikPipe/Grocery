@@ -21,7 +21,6 @@ class recepieTop_widget(QWidget):
         self.getCookingSkillList = []
 
         tempfile_path = self.help_class.getTempFile(self.help_class.tempFileName)
-        print(tempfile_path)
         json_read = open(tempfile_path, 'r')
         self.data = json.load(json_read)
 

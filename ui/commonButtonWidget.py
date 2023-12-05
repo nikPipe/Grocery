@@ -15,7 +15,7 @@ color_class = sample_color_variable.COLOR_VARIABLE()
 color__ = color_class.setColorVal(r=36, g=36, b=36)
 backgroundColor = color_class.setColorVal(r=179, g=179, b=179)
 width = 200
-height = 150
+height = 200
 width_ = width
 height_ = 100
 font = QFont()
@@ -27,15 +27,31 @@ def commonWidget(dict):
     @param parent: QWidget
     @return: QWidget
     """
+    objectName = dict['id'] + '_object'
     widget = sample_widget_template_class.widget_def(min_size=(width, height), max_size=(width, height),
-                                                        set_object_name=dict['id'])
+                                                        set_object_name=objectName)
     verticallaout = sample_widget_template_class.vertical_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0),
                                                                     set_spacing=0)
+
+    #NAME OBJECT
     id = dict['id']
     name = dict['name']
+
+    label_object = id + '_name_object'
+    styleSheet = sample_widget_template_class.styleSheet_def(obj_name=label_object,
+                                                                color=color_class.white_color.get_value(),
+                                                                border_radius=20)
+    label = sample_widget_template_class.label(set_text=name, set_alighment=sample_widget_template_class.center_alignment,
+                                                    set_styleSheet=styleSheet, set_object_name=label_object)
+    font_ = font
+    font_.setPointSize(12)
+    label.setFont(font_)
+    verticallaout.addWidget(label)
+
+
+
     image = dict['images']['main']
-
-
+    time = 'MealTime: ' + dict['time']['totalTime']['value'] + ' ' + dict['time']['totalTime']['unit']
 
     pushButton_object = id + '_object'
     styleSheet = sample_widget_template_class.styleSheet_def(obj_name=pushButton_object,
@@ -49,11 +65,19 @@ def commonWidget(dict):
     pushButton.setFont(font)
     verticallaout.addWidget(pushButton)
 
+    #TIME LABEL
+    label_object = id + '_time_label_object'
+    styleSheet = sample_widget_template_class.styleSheet_def(obj_name=label_object,
+                                                             color=color_class.white_color.get_value(),
+                                                                border_radius=20)
+    label = sample_widget_template_class.label(set_text=time, set_alighment=sample_widget_template_class.center_alignment,
+                                                  set_styleSheet=styleSheet, set_object_name=label_object)
+    label.setFont(font)
+    verticallaout.addWidget(label)
+
     verticallaout.addWidget(label_button_def(dict))
 
-
     return widget
-
 
 def label_button_def(dict):
     '''

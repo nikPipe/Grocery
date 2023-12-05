@@ -6,7 +6,6 @@ from ui.sampleWidget import styleSheet, sample_color_variable
 from data import help
 import ui, os
 file =  os.path.dirname(os.path.realpath(ui.__file__))
-from data import get_meal_dishe
 
 from ui.mainWidget.centerWidget.centerMainWidget.recepieWidget.old import recepieDetailMenu_widget, \
     recepieDetailMenuDetail_widget
@@ -20,9 +19,9 @@ class recepieDetail_widget(QWidget):
         self.color_class = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
         self.parent = parent
+        self.mainWindow = self.parent.mainWidget
         self.getCookingSkillList = []
-
-        self.allMeal = get_meal_dishe.getAllMeal()
+        self.allMeal = self.mainWindow.getAllMeal
 
         self.recepieDetailMenu_widget = recepieDetailMenu_widget.recepieDetailMenu_widget(self.parent)
         self.recepieDetailMenuDetail_widget = recepieDetailMenuDetail_widget.recepieDetailMenuDetail_widget(self.parent)

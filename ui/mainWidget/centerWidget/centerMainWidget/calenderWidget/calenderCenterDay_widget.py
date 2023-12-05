@@ -18,10 +18,12 @@ class calenderCenterDay_widget(QWidget):
         self.color_class = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
         self.parent = parent
+
         self.getCookingSkillList = []
         self.currentDay = self.parent.currentDay
 
         self.calenderMainWidget = self.parent.parent
+        self.mainWidget = self.calenderMainWidget.parent.parent.parent
         self.shoppingListHide = shoppingListHide
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
@@ -107,21 +109,23 @@ class calenderCenterDay_widget(QWidget):
 
         :return:
         '''
-        self.calenderCenterDay_treeWidget.selectAll()
-        selectedItem = self.calenderCenterDay_treeWidget.selectedItems()
-        self.calenderCenterDay_treeWidget.clearSelection()
-        recepieList = []
-        if selectedItem:
-            for each in selectedItem:
-                text = each.text(1)
-                text = text.replace('\n', ',')
-                text = text.split(',')
-                for each in text:
-                    if each != '':
-                        recepieList.append(each)
-
         try:
-            shoppingListWindow = createShoppingList(parent=self.parent, data=recepieList)
+
+            self.calenderCenterDay_treeWidget.selectAll()
+            selectedItem = self.calenderCenterDay_treeWidget.selectedItems()
+            self.calenderCenterDay_treeWidget.clearSelection()
+            recepieList = []
+            if selectedItem:
+                for each in selectedItem:
+                    text = each.text(1)
+                    text = text.replace('\n', ',')
+                    text = text.split(',')
+                    for each in text:
+                        if each != '':
+                            recepieList.append(each)
+
+
+            shoppingListWindow = createShoppingList(parent=self.mainWidget, data=recepieList)
             shoppingListWindow.exec_()
         except Exception as e:
             import traceback
@@ -183,7 +187,6 @@ class calenderCenterDay_widget(QWidget):
         self.date_label.setText(self.help_class.converDateToString(date=self.currentDay))
         self.treeWidgetUpdate(date=self.currentDay)
 
-        print('this is date update')
 
     def currentDayButton_(self, currentDay):
         '''

@@ -20,7 +20,6 @@ class AddToCalender(QDialog):
         self.parent = parent
         self.data = data
         self.mainWidget = self.parent.parent.parent
-        print(self.mainWidget)
         self.calenderMainWidget = calenderMainWidget.calenderMainWidget(self.mainWidget)
         self.calenderMainWidget.calenderCenter_widget.calenderCenterDay_widget.shoppingListHide = True
         self.calenderMainWidget.calenderCenter_widget.calenderCenterWeek_widget.shoppingListHide = True

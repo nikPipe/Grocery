@@ -16,7 +16,7 @@ class savedRecepie(QDialog):
         self.styleSheet_class = styleSheet.STYLESHEET()
         self.color_class = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
-        self.data = data
+        self.data = listData
         self.parent = parent
         self.getCookingSkillList = []
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)

@@ -51,19 +51,8 @@ class mealSearch_Widget(QWidget):
 
         self.mealSearch_widget_verticalLayout = self.sample_widget.vertical_layout(parent_self=scrollAreaWidgetContents, set_spacing=10)
 
-        #verticalLayout.addWidget(self.filterWidget())
-
         pushButton = self.sample_widget.pushButton(set_text='Search', set_object_name='searchButton')
         self.mealSearch_widget_verticalLayout.addWidget(pushButton)
-
-
-        #self.mealSearch_widget_verticalLayout.addWidget(self.widgetList())
-
-
-        #verticalLayout.addWidget(self.widgetList())
-
-        #self.mealSearch_widget_verticalLayout.addItem(QSpacerItem(0, 10, QSizePolicy.Minimum, QSizePolicy.Expanding))
-
 
         return widget
 

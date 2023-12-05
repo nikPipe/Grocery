@@ -6,7 +6,7 @@ import ui, os
 file =  os.path.dirname(os.path.realpath(ui.__file__))
 
 from ui.mainWidget.centerWidget.centerMainWidget.savedGroceryWidget import savedGroceryLeft_widget
-from ui.mainWidget.centerWidget.centerMainWidget.savedRecepieWidget import savedRecepieRight_widget
+from ui.mainWidget.centerWidget.centerMainWidget.savedGroceryWidget import savedGroceryRight_widget
 
 class savedGroceryMainWidget(QWidget):
     def __init__(self, parent):
@@ -23,7 +23,7 @@ class savedGroceryMainWidget(QWidget):
         self.backgroundColor = self.color_class.setColorVal(r=179, g=179, b=179)
 
         self.saveRecepieLeftWidget = savedGroceryLeft_widget.savedGroceryLeft_widget(self)
-        self.saveRecepieRightWidget = savedRecepieRight_widget.savedRecepieRight_widget(self)
+        self.saveRecepieRightWidget = savedGroceryRight_widget.savedGroceryRight_widget(self)
 
 
         verticalLayout = QVBoxLayout(self)

@@ -23,6 +23,7 @@ class recepieRightMenuDetail_widget(QWidget):
         self.color_class = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
         self.parent = parent
+
         self.getCookingSkillList = []
         self.tabTreeWidgetList = []
         self.recepieDict = {}
@@ -104,18 +105,17 @@ class recepieRightMenuDetail_widget(QWidget):
 
 
         verticalLayout.addWidget(treeWidget)
+        getAllMeal = self.parent.mainWidget.getAllMeal
 
-        getAllMeal = self.parent.getAllMeal
 
         dafaultItem = QTreeWidgetItem(treeWidget)
         dafaultItem.setText(0, 'Default')
         id = data['default']['id']
         for eachMeal in getAllMeal:
-            if eachMeal['id'].lower() == id.lower():
+            if getAllMeal[eachMeal]['id'].lower() == id.lower():
                 dafaultItem.setData(0, Qt.UserRole, eachMeal)
                 break
         treeWidget.addTopLevelItem(dafaultItem)
-
         defaultChild = QTreeWidgetItem(dafaultItem)
         defaultChild.setText(0, data['default']['name'])
         defaultChild.setText(1, data['default']['id'])
@@ -125,11 +125,10 @@ class recepieRightMenuDetail_widget(QWidget):
         variationItem = QTreeWidgetItem(treeWidget)
         variationItem.setText(0, 'Variations')
         treeWidget.addTopLevelItem(variationItem)
-
         for each in data['variations']:
             item = QTreeWidgetItem(variationItem)
             for eachMeal in getAllMeal:
-                if eachMeal['id'].lower() == data['variations'][each].lower():
+                if getAllMeal[eachMeal]['id'].lower() == data['variations'][each].lower():
                     item.setText(1, data['variations'][each])
 
                     item.setData(0, Qt.UserRole, eachMeal)
@@ -159,13 +158,17 @@ class recepieRightMenuDetail_widget(QWidget):
         :return:
         '''
 
-        item = treeWidget.selectedItems()
-        if item:
-            data = item[0].data(0, Qt.UserRole)
-            recepieRightMenu_widget = self.parent.mainCenterWidget.centerMainWidget.recepieMainWidget.recepieCenter_widget.recepieRightMenu_widget
-            recepieRightMenu_horizontalLayour = recepieRightMenu_widget.recepieRightMenu_horizontalLayour
-            self.help_class.clearLayout(recepieRightMenu_horizontalLayour)
-            try:
+        try:
+
+
+            item = treeWidget.selectedItems()
+            getAllMeal = self.parent.mainWidget.getAllMeal
+            if item:
+                data = item[0].data(0, Qt.UserRole)
+                recepieRightMenu_widget = self.parent.recepieCenter_widget.recepieRightMenu_widget
+                recepieRightMenu_horizontalLayour = recepieRightMenu_widget.recepieRightMenu_horizontalLayour
+                self.help_class.clearLayout(recepieRightMenu_horizontalLayour)
+
                 for eachTab in self.tabTreeWidgetList:
                     findTreeWidget = self.tabTreeWidgetList[eachTab].findChildren(QTreeWidget)
                     if findTreeWidget:
@@ -175,24 +178,14 @@ class recepieRightMenuDetail_widget(QWidget):
                             item__ = selectedItem[0]
                             id = item__.text(1)
 
-                            for eachMeal in self.parent.getAllMeal:
-                                if id.lower() == eachMeal['id'].lower():
+                            for eachMeal in getAllMeal:
+                                if id.lower() == getAllMeal[eachMeal]['id'].lower():
                                     widget = recepieRightMenu_widget.update_widget(menuName=eachTab,
-                                                                                   data=eachMeal)
+                                                                                   data=getAllMeal[eachMeal])
                                     recepieRightMenu_horizontalLayour.addWidget(widget)
-            except:
-                import traceback
-                traceback.print_exc()
-
-
-
-
-
-
-
-
-
-
+        except:
+            import traceback
+            traceback.print_exc()
 
 
 

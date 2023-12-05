@@ -1,0 +1,116 @@
+{
+    "id": "Mango_Ice_Cream_Recipe",
+    "name": "Homemade Mango Ice Cream",
+    "origin": "India",
+    "history": "This ice cream is a delightful blend of India's rich mango heritage with the creamy textures of Western-style ice creams.",
+    "description": "A luscious, homemade mango ice cream with a rich mango flavor, perfect as a refreshing dessert.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian", "Gluten-free"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "10"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "0"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "130"
+        }
+    },
+    "mealtime": ["Dessert"],
+    "equipment": [
+        {
+            "name": "Blender",
+            "description": "For pureeing the mango."
+        },
+        {
+            "name": "Small freezer-safe container",
+            "description": "To freeze the ice cream."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "Ripe mango",
+            "quantity": "1/2 large",
+            "weight": {
+                "value": "125",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Condensed milk",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Heavy cream",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Prepare Mango Puree",
+            "description": "Peel and chop half a large mango. Blend into a smooth puree."
+        },
+        {
+            "step": "2",
+            "title": "Whip the Cream",
+            "description": "In a bowl, whip the heavy cream until it forms stiff peaks."
+        },
+        {
+            "step": "3",
+            "title": "Combine Ingredients",
+            "description": "Gently fold the mango puree and condensed milk into the whipped cream, ensuring not to deflate the cream."
+        },
+        {
+            "step": "4",
+            "title": "Freeze",
+            "description": "Transfer the mixture to a small freezer-safe container and freeze for at least 2 hours or until set."
+        }
+    ],
+    "nutrition": {
+        "calories": "Approximately 350",
+        "carbohydrates": "40g",
+        "protein": "5g",
+        "fat": "20g"
+    },
+    "tips": [
+        "Choose ripe, sweet mangoes for a richer flavor.",
+        "For a firmer texture, freeze longer."
+    ],
+    "variations": [
+        "Add a dash of cardamom for a traditional Indian flavor.",
+        "Incorporate chopped nuts for extra crunch."
+    ],
+    "images": {
+        "main": "[Insert Image URL or Path]"
+    },
+    "storage": {
+        "shelfLife": "Up to 1 week",
+        "instructions": "Keep in an airtight container in the freezer."
+    },
+    "reheatingInstructions": "N/A",
+    "presentationTips": [
+        "Garnish with mint leaves.",
+        "Drizzle with mango syrup for an enhanced flavor."
+    ],
+    "keywords": [
+        "Mango",
+        "Ice Cream",
+        "Dessert"
+    ],
+    "allergens": [
+        "Dairy"
+    ]
+}

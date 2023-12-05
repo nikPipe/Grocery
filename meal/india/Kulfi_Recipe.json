@@ -1,0 +1,147 @@
+{
+    "id": "Kulfi_Recipe",
+    "name": "Kulfi",
+    "origin": "India",
+    "history": "Kulfi is a popular frozen dairy dessert originating from the Indian subcontinent. It is traditionally prepared by evaporating sweetened and flavored milk via slow cooking, with a distinctive creamy texture.",
+    "description": "Kulfi is a creamy, dense frozen dessert made with milk, flavored with cardamom, and often contains chopped nuts. It's richer and creamier than typical ice cream and is set in molds to freeze.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "60"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "75"
+        }
+    },
+    "mealtime": ["Dessert"],
+    "equipment": [
+        {
+            "name": "heavy bottomed pan",
+            "description": "For reducing the milk."
+        },
+        {
+            "name": "kulfi molds or small cups",
+            "description": "For setting the kulfi."
+        },
+        {
+            "name": "freezer",
+            "description": "For freezing the kulfi."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "full-fat milk",
+            "quantity": "1 liter",
+            "weight": {
+                "value": "1000",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "100",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cardamom powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "chopped nuts (almonds, pistachios)",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "saffron strands",
+            "quantity": "a few",
+            "weight": {
+                "value": "0.1",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Reduce the Milk",
+            "description": "Pour the milk into a heavy-bottomed pan and bring it to a boil. Simmer over low heat, stirring regularly, until the milk reduces to one-third of its original volume."
+        },
+        {
+            "step": "2",
+            "title": "Add Flavorings",
+            "description": "Add sugar, cardamom powder, and saffron strands to the reduced milk. Stir well until the sugar is dissolved."
+        },
+        {
+            "step": "3",
+            "title": "Add Nuts",
+            "description": "Add the chopped nuts to the mixture and mix well."
+        },
+        {
+            "step": "4",
+            "title": "Set the Kulfi",
+            "description": "Pour the mixture into kulfi molds or small cups. Cover and freeze until set, usually 6-8 hours or overnight."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Once set, unmold the kulfi by running warm water over the molds. Serve immediately."
+        }
+    ],
+    "nutrition": {
+        "calories": "250 per serving",
+        "carbohydrates": "30g",
+        "protein": "8g",
+        "fat": "12g",
+        "fiber": "1g",
+        "sugar": "25g"
+    },
+    "tips": [
+        "Ensure continuous stirring while boiling milk to avoid burning.",
+        "Kulfi takes longer to melt than regular ice cream due to its density."
+    ],
+    "variations": [
+        "Mango Kulfi: Add mango puree for a fruity flavor.",
+        "Rose Kulfi: Incorporate rose water and pink food coloring for a floral variant."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be stored in the freezer for up to 1 month.",
+        "instructions": "Store in airtight kulfi molds or wrapped in cling film."
+    },
+    "reheatingInstructions": [
+        "Kulfi does not require reheating."
+    ],
+    "presentationTips": [
+        "Garnish with additional chopped nuts and saffron strands.",
+        "Serve on a plate with some fresh fruits."
+    ],
+    "keywords": [
+        "Kulfi",
+        "Indian Ice Cream",
+        "Frozen Dessert",
+        "Traditional Sweet"
+    ],
+    "allergens": [
+        "Dairy",
+        "Nuts"
+    ]
+}

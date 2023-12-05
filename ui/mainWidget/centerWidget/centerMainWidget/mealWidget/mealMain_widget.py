@@ -6,7 +6,6 @@ from ui.sampleWidget import styleSheet, sample_color_variable
 from data import help
 import ui, os
 file =  os.path.dirname(os.path.realpath(ui.__file__))
-from data import get_meal_dishe
 from data import mealClass
 from ui import commonButtonWidget
 
@@ -18,6 +17,7 @@ class mealMain_Widget(QWidget):
         self.color_class = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
         self.parent = parent
+
         self.getCookingSkillList = []
 
         self.color = self.color_class.setColorVal(r=36, g=36, b=36)
@@ -56,8 +56,6 @@ class mealMain_Widget(QWidget):
 
         return widget
 
-
-
     def searchWidget(self):
         widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_spacing=15)
@@ -78,16 +76,14 @@ class mealMain_Widget(QWidget):
         #lineEdit.textChanged.connect(self.lineEditTextChanged)
         verticalLayout.addWidget(lineEdit)
 
-
         return widget
-
 
     def mealViewWidget(self, buttonDic, value):
         '''
 
         :return:
         '''
-        height = 250
+        height = 300
         widget_object = 'mealViewWidget'
         styleSheet = self.sample_widget.styleSheet_def(obj_name=widget_object, background_color=self.color.get_value(),
                                                          border_color=self.color_class.black_color.get_value())
@@ -118,8 +114,8 @@ class mealMain_Widget(QWidget):
         font = QFont()
         font.setBold(True)
         font.setPointSize(10)
-        for eachButton in buttonDic:
 
+        for eachButton in buttonDic:
             widget_ = commonButtonWidget.commonWidget(dict=eachButton)
             widget_.findChild(QPushButton).clicked.connect(partial(self.mealbutton_def, eachButton))
 
@@ -128,34 +124,10 @@ class mealMain_Widget(QWidget):
                 if 'addToCalender'.lower() in each_pushButton.objectName().lower():
                     each_pushButton.clicked.connect(
                         partial(self.newButton_def, eachButton))
-                    '''
-                    each_pushButton.clicked.connect(
-                        partial(self.parent.mainCenterWidget.centerMainWidget.homeWidgetMain.addToCalender, eachButton))
-                    '''
-            '''
-            object_name = eachButton['id'] + '_object'
-            image = eachButton['images']['main']
-            styleSheet = self.sample_widget.styleSheet_def(obj_name=object_name,
-                                                           background_color=self.backgroundColor.get_value(),
-                                                           border_radius=20)
-            pushButton = self.sample_widget.pushButton(set_text='', min_size=(width, height),
-                                                         max_size=(width, height),
-                                                         set_styleSheet=styleSheet, set_object_name=object_name,
-                                                         set_icon=image, set_icon_size=(width, height),
-                                                       connect=partial(self.mealbutton_def, eachButton))
-            pushButton.setFont(font)
-            '''
             horizontalLayout_.addWidget(widget_)
+        
+
         return widget
-
-    def getMealList(self):
-        '''
-
-        :return:
-        '''
-        getAllDiet = get_meal_dishe.getDic()
-        for each in getAllDiet:
-            print(each)
 
 
     def update_(self):
@@ -164,9 +136,32 @@ class mealMain_Widget(QWidget):
         :return:
         '''
 
-        self.mealDic = get_meal_dishe.getDic()
-        for eachDic in self.mealDic:
-            self.verticalLayout.addWidget(self.mealViewWidget(buttonDic=self.mealDic[eachDic], value=eachDic))
+        mealDic = self.parent.getAllMeal
+        self.mealDic_ = {}
+        dietType_Dic = self.parent.mealDic
+        for eachDietType_Dic in dietType_Dic:
+            self.mealDic_[eachDietType_Dic] = []
+            for eachDiet in dietType_Dic[eachDietType_Dic]:
+                self.mealDic_[eachDietType_Dic].append(mealDic[eachDiet])
+
+
+
+        '''
+        
+
+        getAllMeal = self.parent.getAllMeal
+
+        for each in dietType_Dic:
+            list_val = dietType_Dic[each]
+            for eachList in list_val:
+                if eachList not in self.mealDic:
+                    dic_val = getAllMeal[eachList]
+                    self.mealDic[eachList] = dic_val
+        
+        '''
+        for eachDic in self.mealDic_:
+            self.verticalLayout.addWidget(self.mealViewWidget(buttonDic=self.mealDic_[eachDic], value=eachDic))
+
 
     def newButton_def(self, buttonDic):
         '''
@@ -189,7 +184,9 @@ class mealMain_Widget(QWidget):
         '''
         print('thi sis working')
         try:
-
+            print(self.parent)
+            popUpDetail = self.parent.popup_detailMeal
+            print(popUpDetail)
             pop = self.parent.popup_detailMeal.mealDeatail(parent=self.parent, data=buttonDic)
             result = pop.exec_()
         except Exception as e:

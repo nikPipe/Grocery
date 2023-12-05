@@ -7,7 +7,6 @@ from ui.sampleWidget import styleSheet, sample_color_variable
 from data import help
 import ui, os
 file =  os.path.dirname(os.path.realpath(ui.__file__))
-from data import get_meal_dishe
 from data import mealClass
 
 
@@ -69,24 +68,44 @@ class createShoppingList(QDialog):
 
         :return:
         '''
-        getAllMeal = get_meal_dishe.getAllMeal()
-        itemDic = {}
+        try:
+            getAllMeal = self.parent.parent.mainWidget.getAllMeal
+            itemDic = {}
+            ingredientList = {}
 
-        # Iterate through the items and check if they are checked
-        for row in range(treeWidget.topLevelItemCount()):
-            item = treeWidget.topLevelItem(row)
-            if item.checkState(0) == Qt.Checked:
-                for eachMeal in getAllMeal:
-                    if eachMeal['id'].lower() == item.text(0).lower():
-                        meal_class = mealClass.mealClass(json=eachMeal)
-                        getIngredients = meal_class.getIngredientsItem()
-                        getIngredients_unit = meal_class.getIngredientsItemUnit()
+            # Iterate through the items and check if they are checked
+            for row in range(treeWidget.topLevelItemCount()):
+                item = treeWidget.topLevelItem(row)
+                if item.checkState(0) == Qt.Checked:
+                    for eachMeal in getAllMeal:
+                        eachMeal = getAllMeal[eachMeal]
+                        if eachMeal['id'].lower() == item.text(0).lower():
+                            meal_class = mealClass.mealClass(json=eachMeal)
 
-                        itemDic[eachMeal['id']] = [getIngredients, getIngredients_unit]
-                        itemDic[item.text(0)] = eachMeal
-                        break
-        print(itemDic)
-        self.close()
+                            for eachItem in eachMeal['ingredients']:
+                                item = eachItem['item']
+                                if item not in ingredientList:
+                                    ingredientList[item] = eachItem
+                                    ingredientList[item]['recepie'] = [meal_class.name]
+                                else:
+                                    try:
+                                        if not ingredientList[item]['weight']['value'] == 'Variable':
+                                            ingredientList[item]['weight']['value'] =  str(float(ingredientList[item]['weight']['value']) + float(ingredientList[item]['weight']['value']))
+                                            ingredientList[item]['recepie'].append(meal_class.name)
+                                    except:
+                                        import traceback
+                                        traceback.print_exc()
+                            break
+
+            print('thi sis itemDic: ', ingredientList)
+            for each in ingredientList:
+                print(each)
+                #print(ingredientList[each]['recepie'])
+
+            self.close()
+        except Exception as e:
+            import traceback
+            traceback.print_exc()
 
 
 

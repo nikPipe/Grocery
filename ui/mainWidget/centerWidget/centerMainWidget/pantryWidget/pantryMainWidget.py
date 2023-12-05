@@ -16,6 +16,8 @@ class pantryMainWidget(QWidget):
         self.color_class = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
         self.parent = parent
+        self.mainWidget = self.parent.parent.parent
+
         self.getCookingSkillList = []
 
         self.pantryTop_widget = pantryTop_widget.pantryTop_widget(self)

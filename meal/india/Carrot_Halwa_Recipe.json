@@ -1,0 +1,162 @@
+{
+    "id": "Carrot_Halwa_Recipe",
+    "name": "Carrot Halwa (Gajar Ka Halwa)",
+    "origin": "India",
+    "history": "Carrot Halwa, also known as Gajar Ka Halwa, is a classic Indian dessert made with carrots. Originating from the northern regions of India, it has become a beloved treat in Indian cuisine.",
+    "description": "Carrot Halwa is a rich and sweet dessert made from grated carrots, milk, sugar, and ghee. It's often flavored with cardamom and garnished with nuts, making it a delightful treat especially in winter.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "45"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "60"
+        }
+    },
+    "mealtime": ["Dessert"],
+    "equipment": [
+        {
+            "name": "heavy bottomed pan",
+            "description": "For cooking the halwa."
+        },
+        {
+            "name": "grater",
+            "description": "For grating the carrots."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "carrots",
+            "quantity": "4 cups",
+            "weight": {
+                "value": "500",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "milk",
+            "quantity": "4 cups",
+            "weight": {
+                "value": "1 liter",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "ghee",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "60",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cardamom powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "almonds",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "20",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "cashews",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "20",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "raisins",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "20",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Cook Carrots in Milk",
+            "description": "In a heavy bottomed pan, combine grated carrots and milk. Cook over medium heat, stirring frequently, until the milk is completely absorbed."
+        },
+        {
+            "step": "2",
+            "title": "Add Sugar and Ghee",
+            "description": "Once the milk is absorbed, add sugar and ghee to the carrot mixture. Cook until the mixture thickens."
+        },
+        {
+            "step": "3",
+            "title": "Add Flavorings and Nuts",
+            "description": "Stir in cardamom powder. Add chopped almonds, cashews, and raisins. Mix well."
+        },
+        {
+            "step": "4",
+            "title": "Serve",
+            "description": "Serve the Carrot Halwa hot or at room temperature. It can also be served cold."
+        }
+    ],
+    "nutrition": {
+        "calories": "350 per serving",
+        "carbohydrates": "60g",
+        "protein": "8g",
+        "fat": "12g",
+        "fiber": "5g",
+        "sugar": "45g"
+    },
+    "tips": [
+        "Continuously stir the carrots while cooking to prevent sticking and ensure even cooking.",
+        "Adjust the amount of sugar according to your preference."
+    ],
+    "variations": [
+        "Vegan Carrot Halwa: Use plant-based milk and oil instead of dairy milk and ghee.",
+        "Carrot Halwa with Khoya: Add khoya (milk solid) for a richer texture."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be refrigerated for up to 5 days.",
+        "instructions": "Store in an airtight container in the refrigerator."
+    },
+    "reheatingInstructions": [
+        "Reheat in a microwave or on the stove with a little milk to prevent drying out."
+    ],
+    "presentationTips": [
+        "Garnish with more chopped nuts and a sprinkle of cardamom powder before serving.",
+        "Serve in a decorative bowl or as part of a thali (platter)."
+    ],
+    "keywords": [
+        "Carrot Halwa",
+        "Gajar Ka Halwa",
+        "Indian Sweet",
+        "Winter Dessert"
+    ],
+    "allergens": [
+        "Dairy",
+        "Nuts"
+    ]
+}

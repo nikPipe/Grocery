@@ -1,0 +1,167 @@
+{
+    "id": "Coconut_Barfi_Recipe",
+    "name": "Coconut Barfi",
+    "origin": "India",
+    "history": "Coconut Barfi is a traditional Indian sweet made from coconut. It's a popular dessert in various regions of India, often made during festivals and special occasions.",
+    "description": "Coconut Barfi is a simple yet delicious sweet made from grated coconut, sugar, and milk. It's often flavored with cardamom and garnished with nuts, offering a delightful blend of texture and taste.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "15"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "45"
+        }
+    },
+    "mealtime": ["Dessert"],
+    "equipment": [
+        {
+            "name": "heavy bottomed pan",
+            "description": "For cooking the barfi mixture."
+        },
+        {
+            "name": "flat tray",
+            "description": "For setting the barfi."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "grated coconut",
+            "quantity": "2 cups",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "sugar",
+            "quantity": "1 cup",
+            "weight": {
+                "value": "200",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "milk",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "ghee",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "15",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "cardamom powder",
+            "quantity": "1 teaspoon",
+            "weight": {
+                "value": "5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "almonds",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "pistachios",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "raisins",
+            "quantity": "1 tablespoon",
+            "weight": {
+                "value": "10",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Cook the Mixture",
+            "description": "In a heavy bottomed pan, mix the grated coconut, sugar, and milk. Cook over medium heat, stirring continuously, until the mixture thickens."
+        },
+        {
+            "step": "2",
+            "title": "Add Flavorings",
+            "description": "Add ghee and cardamom powder to the mixture. Stir well until the mixture starts leaving the sides of the pan."
+        },
+        {
+            "step": "3",
+            "title": "Set the Barfi",
+            "description": "Grease a flat tray with a little ghee. Pour the mixture onto the tray and spread it evenly. Allow it to cool."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Cut",
+            "description": "Garnish the top with chopped nuts. Once cooled, cut into desired shapes."
+        },
+        {
+            "step": "5",
+            "title": "Serve",
+            "description": "Serve the Coconut Barfi as a dessert. It can be stored in an airtight container for several days."
+        }
+    ],
+    "nutrition": {
+        "calories": "300 per serving",
+        "carbohydrates": "35g",
+        "protein": "3g",
+        "fat": "18g",
+        "fiber": "4g",
+        "sugar": "30g"
+    },
+    "tips": [
+        "Stir the mixture continuously to prevent it from sticking to the pan.",
+        "Adjust the amount of sugar according to your taste."
+    ],
+    "variations": [
+        "Chocolate Coconut Barfi: Add cocoa powder for a chocolatey twist.",
+        "Rose Coconut Barfi: Add rose water and pink food coloring for a floral flavor and appealing look."
+    ],
+    "images": {
+        "main": ""
+    },
+    "storage": {
+        "shelfLife": "Can be stored at room temperature for up to a week.",
+        "instructions": "Store in an airtight container in a cool, dry place."
+    },
+    "reheatingInstructions": [
+        "Coconut Barfi does not require reheating."
+    ],
+    "presentationTips": [
+        "Arrange the barfi pieces on a decorative plate.",
+        "Use a cookie cutter to cut the barfi into interesting shapes."
+    ],
+    "keywords": [
+        "Coconut Barfi",
+        "Indian Sweet",
+        "Dessert",
+        "Festive Sweet"
+    ],
+    "allergens": [
+        "Dairy",
+        "Nuts"
+    ]
+}

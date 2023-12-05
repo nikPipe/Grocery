@@ -6,7 +6,7 @@ import ui, os
 file =  os.path.dirname(os.path.realpath(ui.__file__))
 
 
-from ui.mainWidget.centerWidget.centerMainWidget.groceryWidget import grocerySearch_widget
+from ui.mainWidget.centerWidget.centerMainWidget.groceryWidget import grocerySearchMain_widget
 from ui.mainWidget.centerWidget.centerMainWidget.groceryWidget import groceryCart_widget
 
 
@@ -21,7 +21,7 @@ class groceryMainWidget(QWidget):
         self.parent = parent
         self.getCookingSkillList = []
 
-        self.grocerySearch_widget = grocerySearch_widget.grocerySearch_widget(self)
+        self.grocerySearch_widget = grocerySearchMain_widget.grocerySearchMain_widget(self)
         self.groceryCart_widget = groceryCart_widget.groceryCart_widget(self)
 
 

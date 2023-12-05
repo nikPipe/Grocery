@@ -12,7 +12,7 @@ from data import help
 import ui, os
 file =  os.path.dirname(os.path.realpath(ui.__file__))
 
-
+from ui.mainWidget.centerWidget.centerMainWidget.savedGroceryWidget import savedGrocery_widget
 
 class savedGroceryRight_widget(QWidget):
     def __init__(self, parent):
@@ -22,6 +22,7 @@ class savedGroceryRight_widget(QWidget):
         self.color_class = sample_color_variable.COLOR_VARIABLE()
         self.help_class = help.Help()
         self.parent = parent
+        self.savedGroceryWidget = savedGrocery_widget.savedGrocery_widget(parent=self.parent)
         self.getCookingSkillList = []
 
 
@@ -50,8 +51,20 @@ class savedGroceryRight_widget(QWidget):
         widget = self.sample_widget.widget_def()
         verticalLayout = self.sample_widget.vertical_layout(parent_self=widget, set_contents_margins=(0, 0, 0, 0))
 
-        treeWidget = self.sample_widget.treeWidget(setHeaderHidden=True)
-        verticalLayout.addWidget(treeWidget)
+        scrollArea = self.sample_widget.scrollArea(parent_self=widget, set_widget_resizable=True)
+        verticalLayout.addWidget(scrollArea)
+
+        object_name = 'scrollAreaWidgetContents'
+        styleSheet_ = self.sample_widget.styleSheet_def(obj_name=object_name, background_color=self.backgroundColor.get_value(),
+                                                        border_radius=0)
+        scrollAreaWidgetContents = self.sample_widget.widget_def(set_object_name=object_name, set_styleSheet=styleSheet_,)
+        scrollArea.setWidget(scrollAreaWidgetContents)
+
+        verticalLayout_ = self.sample_widget.vertical_layout(parent_self=scrollAreaWidgetContents, set_contents_margins=(0, 0, 0, 0))
+
+        verticalLayout_.addWidget(self.savedGroceryWidget)
+
+        verticalLayout_.addItem(QSpacerItem(0, 0, QSizePolicy.Minimum, QSizePolicy.Expanding))
 
         return widget
 

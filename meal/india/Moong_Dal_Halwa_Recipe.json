@@ -1,0 +1,149 @@
+{
+    "id": "Moong_Dal_Halwa_Recipe",
+    "name": "Moong Dal Halwa",
+    "origin": "India",
+    "history": "A beloved dessert in Indian cuisine, Moong Dal Halwa is especially popular in North India and is traditionally served at festivals and special occasions.",
+    "description": "A decadent dessert made from moong dal, enriched with ghee, sweetened with sugar, and flavored with cardamom. It's garnished with a mix of nuts for added texture and flavor.",
+    "servings": "1",
+    "dietTypes": ["Vegetarian"],
+    "time": {
+        "preparationTime": {
+            "unit": "Minute",
+            "value": "30"
+        },
+        "cookingTime": {
+            "unit": "Minute",
+            "value": "20"
+        },
+        "totalTime": {
+            "unit": "Minute",
+            "value": "50"
+        }
+    },
+    "mealtime": ["Dessert"],
+    "equipment": [
+        {
+            "name": "Blender or Grinder",
+            "description": "To grind the soaked moong dal."
+        },
+        {
+            "name": "Heavy Bottomed Pan",
+            "description": "For cooking the halwa."
+        }
+    ],
+    "ingredients": [
+        {
+            "item": "Moong dal",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Ghee",
+            "quantity": "2 tablespoons",
+            "weight": {
+                "value": "30",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Sugar",
+            "quantity": "1/4 cup",
+            "weight": {
+                "value": "50",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "Cardamom powder",
+            "quantity": "1/4 teaspoon",
+            "weight": {
+                "value": "1",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "milk",
+            "quantity": "1/2 cup",
+            "weight": {
+                "value": "120",
+                "unit": "ml"
+            }
+        },
+        {
+            "item": "almonds",
+            "quantity": "1/2 tablespoon",
+            "weight": {
+                "value": "7.5",
+                "unit": "g"
+            }
+        },
+        {
+            "item": "pistachios",
+            "quantity": "1/2 tablespoon",
+            "weight": {
+                "value": "7.5",
+                "unit": "g"
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "step": "1",
+            "title": "Soak and Grind Moong Dal",
+            "description": "Soak the moong dal in water for 3-4 hours. Drain and grind it to a coarse paste."
+        },
+        {
+            "step": "2",
+            "title": "Cook the Paste",
+            "description": "Heat ghee in a pan. Add the dal paste and cook on a low flame, stirring continuously, until it turns golden brown."
+        },
+        {
+            "step": "3",
+            "title": "Add Sugar and Spices",
+            "description": "Add sugar, cardamom powder, and water or milk. Cook until the mixture thickens and the ghee separates."
+        },
+        {
+            "step": "4",
+            "title": "Garnish and Serve",
+            "description": "Garnish with chopped almonds and pistachios. Serve warm."
+        }
+    ],
+    "nutrition": {
+        "calories": "Approximately 450",
+        "carbohydrates": "60g",
+        "protein": "10g",
+        "fat": "20g"
+    },
+    "tips": [
+        "Continuously stir the halwa to prevent it from sticking to the pan and to ensure even cooking.",
+        "You can adjust the sweetness by increasing or decreasing the amount of sugar."
+    ],
+    "variations": [
+        "For a vegan version, use plant-based ghee and almond milk.",
+        "Add a pinch of saffron soaked in warm milk for an aromatic and colorful twist."
+    ],
+    "images": {
+        "main": "[Insert Image URL or Path]"
+    },
+    "storage": {
+        "shelfLife": "Up to 2 days",
+        "instructions": "Store in an airtight container in the refrigerator and reheat before serving."
+    },
+    "reheatingInstructions": "Reheat in a microwave or on the stove with a little milk or water.",
+    "presentationTips": [
+        "Garnish with a few whole pistachios and almond slivers for a more appealing look.",
+        "Serve warm in a small earthenware bowl for an authentic presentation."
+    ],
+    "keywords": [
+        "Moong Dal",
+        "Halwa",
+        "Indian Dessert"
+    ],
+    "allergens": [
+        "Dairy",
+        "Nuts"
+    ]
+}
